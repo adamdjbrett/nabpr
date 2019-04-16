@@ -1,0 +1,48 @@
+---
+ID: 749
+post_title: >
+  Announcing Dr. Chaves and the 2018 NABPR
+  Dissertation Fellowship
+author: Adam DJ Brett
+post_excerpt: ""
+layout: page
+permalink: >
+  https://nabpr.org/announcing-dr-chaves-2018-nabpr-dissertation-fellowship/
+published: true
+post_date: 2017-10-09 16:18:53
+---
+[caption id="attachment_750" align="alignleft" width="300"]<img class="size-medium wp-image-750" src="https://nabpr.org/wp-content/uploads/2017/10/joao-chaves-300x200.jpg" alt="" width="300" height="200" /> Dr. João Chaves[/caption]
+
+On October 5th, João Chaves defended his dissertation, "<em>Disrespecting Borders for Jesus, Power, and Cash</em>” at Baylor University. João was a recipient of <a href="https://nabpr.org/disssertation/">NABPR’s dissertation scholarship</a> and of the HTI/Lilly Dissertation Grant. He is a Hispanic Theological Initiative fellow and a Baptist College and University scholar at Baylor. Currently, João serves as a Lecturer at the Baptist University of the Américas. Congratulation Dr. Chaves!
+
+<hr />
+
+<h3><a href="https://nabpr.org/disssertation/"><strong>Announcing the  National Association of Baptist Professors of Religion</strong></a></h3>
+
+<h3><strong>2018 Dissertation Scholarship</strong></h3>
+
+The NABPR is committed to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity. The particular purpose of the NABPR dissertation scholarship is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.
+
+One scholarship of $3,000 will be awarded each year. Recipients will be invited to attend the National NABPR meeting in the year the award is granted where they will be recognized by the association. Recipients may also be invited to attend subsequent workshops on Baptists and higher education.
+
+In order to be eligible the candidate must be
+
+<ul>
+    <li>at the dissertation stage of his/her program (ABD) in an accredited doctoral program,</li>
+    <li>affiliated or connected in an ongoing way with some Baptist congregation,</li>
+    <li>a student member of NABPR (which applicants may join at the time of application with no penalty),</li>
+    <li>nominated by a faculty member of NABPR who agrees by virtue of the nomination to serve as the student’s mentor.</li>
+</ul>
+
+To apply the candidate must submit the following:
+
+<ul>
+    <li>a letter of interest stating how funds will be spent, candidate’s church involvement, and long term academic goals,</li>
+    <li>a <em>curriculum vitae</em>,</li>
+    <li>the dissertation prospectus and/or sample chapter,</li>
+    <li>two letters of recommendation (one of which may be the nomination mentioned above).</li>
+</ul>
+
+All materials must be submitted electronically to Dr. Daniel Mynatt, National Executive Secretary of NABPR, at <a href="mailto:dmynatt@umhb.edu">dmynatt@umhb.edu</a>.
+
+Deadline for submitting materials is January 15, 2017.

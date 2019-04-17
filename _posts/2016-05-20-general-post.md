@@ -1,11 +1,14 @@
 ---
-ID: 132
-post_title: General post
+id: 132
+title: General post
+date: 2016-05-20T21:40:02+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: https://nabpr.org/general-post/
-published: true
-post_date: 2016-05-20 21:40:02
+guid: http://theological.me/?p=132
+permalink: /2016/05/20/general-post/
+image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
+categories:
+  - General
 ---
 coming soon

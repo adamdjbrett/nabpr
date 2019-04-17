@@ -1,18 +1,28 @@
 ---
-ID: 262
-post_title: 'CFP: World Without End'
+id: 262
+title: 'CFP: World Without End'
+date: 2016-08-26T20:48:02+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: https://nabpr.org/cfp-world-without-end/
-published: true
-post_date: 2016-08-26 20:48:02
+guid: http://nabpr.org/?p=262
+permalink: /2016/08/26/cfp-world-without-end/
+image: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
+categories:
+  - Calls for Papers (CFP)
+tags:
+  - baptist
+  - CBF
+  - Georgetown
+  - religion
+  - World Christianity
 ---
 &nbsp;
 
-<div></div>
+<div>
+</div><figure id="attachment_151" aria-describedby="caption-attachment-151" style="width: 300px" class="wp-caption alignnone">
 
-[caption id="attachment_151" align="alignnone" width="300"]<a href="http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage.jpg"><img class="size-medium wp-image-151" src="http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg" alt="Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College" width="300" height="159" /></a> Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College[/caption]
+[<img class="size-medium wp-image-151" src="http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg" alt="Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College" width="300" height="159" srcset="http://3.83.244.150/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg 300w, http://3.83.244.150/wp-content/uploads/2016/08/World-Without-End-Webpage-768x407.jpg 768w, http://3.83.244.150/wp-content/uploads/2016/08/World-Without-End-Webpage.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" />](http://3.83.244.150/wp-content/uploads/2016/08/World-Without-End-Webpage.jpg)<figcaption id="caption-attachment-151" class="wp-caption-text">Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College</figcaption></figure> 
 
 <!--more-->
 
@@ -36,27 +46,25 @@ Suggested topics for paper or panel proposals:
 
 &nbsp;
 
-<ul>
-    <li>How does the rise of Global South Christianity affect leadership in Protestant denominations and Catholics?</li>
-    <li>What challenges and opportunities for theological and pastoral education attend the "next Christendom"?</li>
-    <li>What historical precursors provide guidance or insight to this time of change in Christianity?</li>
-    <li>How might an emerging understanding of Christian missions, evangelism, and theology enrich Western and Northern Christianity, especially in terms of pluralism and multi-faith communities?</li>
-    <li>What political/religious conditions are most threatening or promising in this changing religious landscape?</li>
-    <li>How can Christians navigate the wealth divide between North and South, especially considering the impact of immigration and travel?</li>
-    <li>How can local churches best educate their members on the thriving areas of Christianity in order to support and encourage their global neighbors?</li>
-    <li>What can local congregations learn from Christians in the Global South?</li>
-    <li>What practices will build Christian unity in the global community?</li>
-    <li>What models of partnership between US-based people group congregations and neighboring or hosting congregations provide for mutual edification and fellowship</li>
-    <li>We invite proposals for presentations and panels, 750 words maximum with author(s) contact information and institutional affiliation, from all interested ministers, scholars, community organizers of all faiths and traditions.</li>
-</ul>
+  * How does the rise of Global South Christianity affect leadership in Protestant denominations and Catholics?
+  * What challenges and opportunities for theological and pastoral education attend the &#8220;next Christendom&#8221;?
+  * What historical precursors provide guidance or insight to this time of change in Christianity?
+  * How might an emerging understanding of Christian missions, evangelism, and theology enrich Western and Northern Christianity, especially in terms of pluralism and multi-faith communities?
+  * What political/religious conditions are most threatening or promising in this changing religious landscape?
+  * How can Christians navigate the wealth divide between North and South, especially considering the impact of immigration and travel?
+  * How can local churches best educate their members on the thriving areas of Christianity in order to support and encourage their global neighbors?
+  * What can local congregations learn from Christians in the Global South?
+  * What practices will build Christian unity in the global community?
+  * What models of partnership between US-based people group congregations and neighboring or hosting congregations provide for mutual edification and fellowship
+  * We invite proposals for presentations and panels, 750 words maximum with author(s) contact information and institutional affiliation, from all interested ministers, scholars, community organizers of all faiths and traditions.
 
 &nbsp;
 
-Proposals are due <b>September 15, 2016</b>.
+Proposals are due **September 15, 2016**.
 
 &nbsp;
 
-Decisions by <b>October 1, 2016</b>.
+Decisions by **October 1, 2016**.
 
 &nbsp;
 
@@ -64,11 +72,13 @@ CDALConference17[AT]georgetowncollege[DOT]edu
 
 http://www.georgetowncollege.edu/cdal/conferences/
 
-<div></div>
+<div>
+</div>
 
 &nbsp;
 
-<div></div>
+<div>
+</div>
 
 &nbsp;
 

@@ -1,45 +1,52 @@
 ---
-ID: 458
-post_title: >
-  2017 NABPR Registration and Draft
-  Program
+id: 458
+title: 2017 NABPR Registration and Draft Program
+date: 2017-03-21T19:06:40+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: >
-  https://nabpr.org/2017-nabpr-registration-draft-program/
-published: true
-post_date: 2017-03-21 19:06:40
+guid: http://nabpr.org/?p=458
+permalink: /2017/03/21/2017-nabpr-registration-draft-program/
+image: /wp-content/uploads/2017/03/Att_building_nashville.jpg
+categories:
+  - Announcements
+  - General
+tags:
+  - "2017"
+  - baptist
+  - Belmont
+  - Conference
+  - NABPR
 ---
-[caption id="attachment_459" align="aligncenter" width="200"]<a href="http://nabpr.org/wp-content/uploads/2017/03/Att_building_nashville.jpg"><img class="size-medium wp-image-459" src="http://nabpr.org/wp-content/uploads/2017/03/Att_building_nashville-200x300.jpg" alt="AT&amp;T Building Nashville" width="200" height="300" /></a> AT&amp;T Building, <a href="https://en.wikipedia.org/wiki/AT%26T_Building_(Nashville)">Nashville aka the Bat building.</a>[/caption]
+<figure id="attachment_459" aria-describedby="caption-attachment-459" style="width: 200px" class="wp-caption aligncenter">[<img class="size-medium wp-image-459" src="http://nabpr.org/wp-content/uploads/2017/03/Att_building_nashville-200x300.jpg" alt="AT&T Building Nashville" width="200" height="300" srcset="http://3.83.244.150/wp-content/uploads/2017/03/Att_building_nashville-200x300.jpg 200w, http://3.83.244.150/wp-content/uploads/2017/03/Att_building_nashville-768x1152.jpg 768w, http://3.83.244.150/wp-content/uploads/2017/03/Att_building_nashville-683x1024.jpg 683w, http://3.83.244.150/wp-content/uploads/2017/03/Att_building_nashville.jpg 1365w" sizes="(max-width: 200px) 100vw, 200px" />](http://3.83.244.150/wp-content/uploads/2017/03/Att_building_nashville.jpg)<figcaption id="caption-attachment-459" class="wp-caption-text">AT&T Building, [Nashville aka the Bat building.](https://en.wikipedia.org/wiki/AT%26T_Building_(Nashville))</figcaption></figure> 
 
-<a href="http://nabpr.org/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf">The Draft Program</a>, <a href="http://nabpr.org/meetings/registration/">Registration</a>, and <a href="http://nabpr.org/meetings/housing/">housing</a> are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
+[The Draft Program](http://3.83.244.150/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](http://nabpr.org/meetings/registration/), and [housing](http://nabpr.org/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
 
-<h2>Registration</h2>
+## Registration
 
-<a href="http://nabpr.org/meetings/registration/">Click here to Register</a>
-Conference Fee: Before May 1: $95. After May 1: $120
-<strong>All graduate student registration is compliments of NABPR. Students please note your status in the registration comment field.</strong>
+[Click here to Register](http://nabpr.org/meetings/registration/)  
+Conference Fee: Before May 1: $95. After May 1: $120  
+**All graduate student registration is compliments of NABPR. Students please note your status in the registration comment field.**
 
-<h3>Housing</h3>
+### Housing
 
-<a href="http://nabpr.org/meetings/housing/">Click here to register for housing</a>.
-A list of local hotels appears on the last page of the program. Belmont is providing on-campus housing to any registrant for $27 per night. You must register for the conference and housing separately. In order to take advantage of on campus housing, please fill out the <a href="http://nabpr.org/meetings/housing/">housing form</a>.
+[Click here to register for housing](http://nabpr.org/meetings/housing/).  
+A list of local hotels appears on the last page of the program. Belmont is providing on-campus housing to any registrant for $27 per night. You must register for the conference and housing separately. In order to take advantage of on campus housing, please fill out the [housing form](http://nabpr.org/meetings/housing/).
 
-<strong>Linens are NOT provided.</strong>
+**Linens are NOT provided.**
 
 Payment for housing will be made directly to Belmont when you arrive. NABPR will not collect housing payments at registration.
 
-<h3>Meals</h3>
+### Meals
 
 The registration fee covers the conference meetings, the banquet on Monday, lunch on Tuesday, light breakfast on Tuesday and Wednesday, and coffee breaks.
 
 If you wish to bring a guest to Monday’s banquet, there is a cost. If you have questions email Danny Mynatt at dmynatt@umhb.edu
 
-<h3>Parking</h3>
+### Parking
 
 TBA
 
-<h3>Questions</h3>
+### Questions
 
 If you have questions or concerns, email Danny Mynatt at dmynatt@umhb.edu. Danny will forward your question to the appropriate person.

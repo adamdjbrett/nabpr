@@ -1,12 +1,14 @@
 ---
-ID: 136
-post_title: NABPR Notes Sample Post
+id: 136
+title: NABPR Notes Sample Post
+date: 2016-05-20T21:41:22+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: >
-  https://nabpr.org/nabpr-notes-sample-post/
-published: true
-post_date: 2016-05-20 21:41:22
+guid: http://theological.me/?p=136
+permalink: /2016/05/20/nabpr-notes-sample-post/
+image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
+categories:
+  - NABPR Notes
 ---
 coming soon

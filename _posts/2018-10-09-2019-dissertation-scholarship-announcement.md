@@ -1,18 +1,23 @@
 ---
-ID: 1223
-post_title: >
-  2019 Dissertation Scholarship
-  Announcement
+id: 1223
+title: 2019 Dissertation Scholarship Announcement
+date: 2018-10-09T18:47:56+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: >
-  https://nabpr.org/2019-dissertation-scholarship-announcement/
-published: true
-post_date: 2018-10-09 18:47:56
+guid: https://nabpr.org/?p=1223
+permalink: /2018/10/09/2019-dissertation-scholarship-announcement/
+image: /wp-content/uploads/2017/06/nabpr-site-icon.png
+categories:
+  - Announcements
+tags:
+  - baptist
+  - Baptists
+  - dissertation
+  - scholarship
 ---
-<a href="https://nabpr.org/">NABPR</a> is now accepting applications for the <a href="https://nabpr.org/dissertation/">2019 Dissertation Scholarship</a>. Some recent recipients of the scholarship are: João Chaves (2017), Kathryn H. House (2018), Andrew Gardner (2018). The deadline is January 15.
+[NABPR](https://nabpr.org/) is now accepting applications for the [2019 Dissertation Scholarship](https://nabpr.org/dissertation/). Some recent recipients of the scholarship are: João Chaves (2017), Kathryn H. House (2018), Andrew Gardner (2018). The deadline is January 15.
 
 &nbsp;
 
-<a href="https://nabpr.org/dissertation/">[icon name="external-link-square" class="" unprefixed_class=""] Learn More about the Dissertation Scholarship</a>
+[[icon name=&#8221;external-link-square&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] Learn More about the Dissertation Scholarship](https://nabpr.org/dissertation/)

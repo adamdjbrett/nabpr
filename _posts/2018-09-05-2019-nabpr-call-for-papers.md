@@ -1,42 +1,48 @@
 ---
-ID: 1191
-post_title: 2019 NABPR Call for Papers
+id: 1191
+title: 2019 NABPR Call for Papers
+date: 2018-09-05T18:16:20+00:00
 author: Adam DJ Brett
-post_excerpt: ""
+excerpt: |
 layout: post
-permalink: >
-  https://nabpr.org/2019-nabpr-call-for-papers/
-published: true
-post_date: 2018-09-05 18:16:20
+guid: https://nabpr.org/?p=1191
+permalink: /2018/09/05/2019-nabpr-call-for-papers/
+image: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
+categories:
+  - Calls for Papers (CFP)
+tags:
+  - baptist
+  - call for papers
+  - cfp
+  - ministry
+  - pastoral care
 ---
-<a href="https://nabpr.org/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg"><img class="alignleft size-medium wp-image-1195" src="https://nabpr.org/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg" alt="Campbell University School of Law. Photo by Chris West" width="300" height="226" /></a>
+[<img class="alignleft size-medium wp-image-1195" src="http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg" alt="Campbell University School of Law. Photo by Chris West" width="300" height="226" srcset="http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg 300w, http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-768x579.jpg 768w, http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg 883w" sizes="(max-width: 300px) 100vw, 300px" />](http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg)
 
-<h3 style="text-align: center;">Call for Papers
-National Association of Baptist Professors of Religion
-Annual Meeting
-Campbell University School of Law
-Raleigh, NC
-May 20 – 22, 2019</h3>
+<h3 style="text-align: center;">
+  Call for Papers<br /> National Association of Baptist Professors of Religion<br /> Annual Meeting<br /> Campbell University School of Law<br /> Raleigh, NC<br /> May 20 – 22, 2019
+</h3>
 
-<a href="https://nabpr.org">The National Association of Baptist Professors of Religion (NABPR)</a> invites paper proposals in any area pertaining to scholarship in Religion. In an effort to develop innovative conversations among scholars, papers that create integration between traditional disciplines or broaden the margins of disciplinary conversations are encouraged. <em>Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are encouraged from any field, including Ministry Studies</em>.
+[The National Association of Baptist Professors of Religion (NABPR)](https://nabpr.org) invites paper proposals in any area pertaining to scholarship in Religion. In an effort to develop innovative conversations among scholars, papers that create integration between traditional disciplines or broaden the margins of disciplinary conversations are encouraged. _Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are encouraged from any field, including Ministry Studies_.
 
-<strong>Paper or panel proposals on any aspect of pedagogy related to the teaching of Religion are encouraged.</strong>
+**Paper or panel proposals on any aspect of pedagogy related to the teaching of Religion are encouraged.**
 
-The 2019 Annual Meeting will be held in conjunction with the <a href="http://www.baptisthistory.org/">Baptist History and Heritage Society (BHHS)</a> and the <em>Association of Ministry Guidance Professionals (AMGP)</em>. We encourage proposals on topics that would appeal to the overlapping interests of NABPR, BHHS and AMGP.
+The 2019 Annual Meeting will be held in conjunction with the [Baptist History and Heritage Society (BHHS)](http://www.baptisthistory.org/) and the _Association of Ministry Guidance Professionals (AMGP)_. We encourage proposals on topics that would appeal to the overlapping interests of NABPR, BHHS and AMGP.
 
-<strong>Please note: Members of AMGP should send paper proposals through NABPR. BHHS will issue a separate Call for Papers with instructions specific to BHHS members.</strong>
+**Please note: Members of AMGP should send paper proposals through NABPR. BHHS will issue a separate Call for Papers with instructions specific to BHHS members.**
 
 Graduate students are encouraged to submit proposals. Graduate students must register for the meeting, but the cost is waived, regardless of whether a paper is proposed.
 
-<em>Proposals must be received by January 15, 2019. Send a 300-word abstract electronically to:</em>
+_Proposals must be received by January 15, 2019. Send a 300-word abstract electronically to:_
 
-<p style="text-align: center;"><strong>Dr. Steven R. Harmon</strong>
-<strong>sharmon@gardner-webb.edu</strong></p>
+<p style="text-align: center;">
+  <strong>Dr. Steven R. Harmon</strong><br /> <strong>sharmon@gardner-webb.edu</strong>
+</p>
 
 Papers will be scheduled into a 30 minute time period, including discussion.
 
 Proposals will be accepted or denied by March 1, 2019.
 
-<h4>NABPR Membership Requirements</h4>
+#### NABPR Membership Requirements
 
-<code>Authors of accepted proposals must be members of NABPR in good standing by May 1. Authors must pay dues for the current year and be registered for the Annual Meeting. Accepted papers that have not met these criteria will be removed from the program. Inquiries about dues and membership status should be directed to Joyce Swoveland: joyce_swoveland@baylor.edu.</code>
+`Authors of accepted proposals must be members of NABPR in good standing by May 1. Authors must pay dues for the current year and be registered for the Annual Meeting. Accepted papers that have not met these criteria will be removed from the program. Inquiries about dues and membership status should be directed to Joyce Swoveland: joyce_swoveland@baylor.edu.`

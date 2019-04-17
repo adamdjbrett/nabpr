@@ -5,7 +5,7 @@ date: 2016-08-21T16:32:28+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=174
+guid: /?page_id=174
 ---
 **Minutes of the 2003 Annual Meeting**
 

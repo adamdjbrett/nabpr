@@ -5,7 +5,7 @@ date: 2016-08-21T16:28:32+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=168
+guid: /?page_id=168
 ---
 **Nashville, Tennessee 18 November 2000 9:00-11:30 am**
 

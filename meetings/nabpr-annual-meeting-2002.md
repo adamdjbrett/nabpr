@@ -5,7 +5,7 @@ date: 2016-08-21T16:31:57+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=172
+guid: /?page_id=172
 ---
 <div class="page" title="Page 1">
   <div class="layoutArea">

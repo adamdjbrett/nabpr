@@ -5,7 +5,7 @@ date: 2016-08-21T21:46:46+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=200
+guid: /?page_id=200
 ---
 **From the Executive Secretary**  
 **Danny Mynatt (Anderson College)**

@@ -5,7 +5,7 @@ date: 2016-05-20T19:19:17+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=75
+guid: /?page_id=75
 image: /wp-content/uploads/2016/05/NABPR_facebook.png
 ---
 ## Upcoming Meetings

@@ -5,7 +5,7 @@ date: 2016-08-21T16:34:59+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=180
+guid: /?page_id=180
 ---
 ## Minutes: 2006 Meeting
 

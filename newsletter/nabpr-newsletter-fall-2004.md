@@ -5,7 +5,7 @@ date: 2016-08-21T21:50:07+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=205
+guid: /?page_id=205
 ---
 **Yes, There Is An Error in the Program Book**
 

@@ -5,7 +5,7 @@ date: 2016-08-21T21:40:13+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=192
+guid: /?page_id=192
 ---
 <span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">From the Executive Secretary, Danny Mynatt, Anderson University</span>
 

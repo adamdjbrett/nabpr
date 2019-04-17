@@ -5,7 +5,7 @@ date: 2016-05-20T19:27:50+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=86
+guid: /?page_id=86
 ---
 ## Officers 2017-2018
 

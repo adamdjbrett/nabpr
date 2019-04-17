@@ -5,7 +5,7 @@ date: 2016-05-20T19:20:47+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=77
+guid: /?page_id=77
 ---
 ##  Joining NABPR
 

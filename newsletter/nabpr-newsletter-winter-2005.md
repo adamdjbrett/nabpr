@@ -5,7 +5,7 @@ date: 2016-08-21T21:45:47+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=198
+guid: /?page_id=198
 ---
 <span style="color: #cc6600; font-size: large;"><b><span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';">Diversify or Go Broke</span></b></span>****<span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';"><br /> </span>  
 _**<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Danny Mynatt, Executive Secretary-Treasurer</span>**_

@@ -5,7 +5,7 @@ date: 2016-05-20T19:30:55+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=90
+guid: /?page_id=90
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 ---
 ## Constitution — The National Association of Baptist Professors of Religion

@@ -5,7 +5,7 @@ date: 2016-08-21T16:20:07+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=162
+guid: /?page_id=162
 ---
 <p style="line-height: 135%; background: white;">
   <b><span lang="EN-GB" style="font-size: 10.0pt; line-height: 135%;">NABPR RAL 2012 Call for Papers</span></b>

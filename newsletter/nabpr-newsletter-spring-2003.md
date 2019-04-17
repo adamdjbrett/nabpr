@@ -5,7 +5,7 @@ date: 2016-08-21T21:53:42+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=212
+guid: /?page_id=212
 ---
 **Update on Perspectives in Religious Studies**  
 **Mikeal C. Parsons (Baylor University)  

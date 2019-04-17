@@ -5,7 +5,7 @@ date: 2016-08-21T21:53:16+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=209
+guid: /?page_id=209
 ---
 **Polity and Postmodernism**  
 **Bill J. Leonard (Wake Forest Divinity School)**

@@ -5,7 +5,7 @@ date: 2016-05-20T19:22:19+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=79
+guid: /?page_id=79
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 ---
 <h2 align="left">

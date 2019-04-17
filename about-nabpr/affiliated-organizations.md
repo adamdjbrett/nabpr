@@ -5,7 +5,7 @@ date: 2016-05-20T19:53:26+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=108
+guid: /?page_id=108
 ---
 NABPR Region At-Large
 

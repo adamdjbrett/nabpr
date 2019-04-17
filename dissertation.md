@@ -5,7 +5,7 @@ date: 2016-05-20T19:16:58+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://theological.me/?page_id=71
+guid: /?page_id=71
 ---
 **National Association of Baptist Professors of Religion**
 

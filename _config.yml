@@ -1,5 +1,182 @@
-url: http://127.0.0.1/wordpress/
-name: NABPR
-description: >
-  National Association of Baptist
-  Professors of Religion
+title: 'NABPR'
+slogan: 'National Association of Baptist Professors of Religion'
+description: 'NABPR is a community of teaching scholars. We are at Baptist-affiliated schools, colleges, and seminaries, as well as a wide range of institutions in North America.'
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+# Main author of the website
+# See > authors.yml
+author: NABPR
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'https://nabpr.org'
+baseurl: '/'
+
+# This is for the editing function in _/includes/improve_content
+# Leave it empty if your site is not on GitHub/GitHub Pages
+improve_content: https://github.com/adamdjbrett/NABPR/edit/gh-pages
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: 'https://nabpr.org/images/'
+
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+# Plugins
+plugins:
+    - jekyll-asciidoc
+    - jekyll-gist
+    - jekyll-paginate
+
+# Pagination
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown           : kramdown
+permalink          : /:title/
+highlight          : rouge
+excerpt_separator  : "<!--more-->"
+include            : ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - vendor
+# The language setting is used in /includes/header.html for html-settings
+language: 'en'
+
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+# Default
+defaults:
+  -
+    scope:
+      path: '' 				# an empty string here means all files in the project
+      type: 'pages'
+    values:
+      show_meta: false 	# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: phlow     # Default author for pages
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: phlow     # Default author for posts
+
+
+
+# Navigation       _   __            _             __  _
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+
+
+# SEO
+#google_site_verification:  'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+#bing_webmastertools_id:    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+# yandex_site_verification:  'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+# alexa_verify_id:           ''
+
+# Google Analytics
+# used in _includes/footer_scripts
+#google_analytics_tracking_id: UA-60112281-1
+
+
+# Favicons       ______            _
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+msapplication_tilecolor:                '#fabb00'
+
+# Facebook
+# Facebook-Optimization › http://j.mp/fb_optimize
+
+og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_locale:                          'en_US'
+og_type:                            'website'
+
+
+# Social Media
+#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
+#
+
+socialmedia:
+    twitter: nabpr1
+    facebook: nabpr
+
+
+# Disqus
+# disqus_shortname: feelingresponsive
+
+# SASS
+#  http://sass-lang.com/
+# http://jekyllrb.com/docs/assets/#sassscss
+#
+sass:
+    sass_dir : _sass
+    style    : :compressed
+
+
+
+#   _                 _     _
+#  | |_ __ ___      _| | __| |_ ___
+#  | __/ _` \ \ /\ / / |/ /| __/ _ \
+#  | || (_| |\ V  V /|   < | || (_) |
+#   \__\__,_| \_/\_/ |_|\_(_)__\___/     More › https://www.tawk.to/knowledgebase/
+#
+#  tawk.to is a free live chat app that lets you monitor and chat
+#  with visitors on your website or from a free customizable page
+#
+#  To load the script add tawkto: true in front matter of each page
+#
+# used in _includes/footer_scripts
+
+# tawkto_embed_uri:
+
+
+# ASCIIdoctor
+#  Asciidoctor is a fast text processor and publishing toolchain for converting
+#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
+#  https://github.com/asciidoctor/jekyll-asciidoc
+#  https://github.com/asciidoctor
+#
+#
+asciidoctor-enabled: false
+asciidoctor:
+  description: testtewtetrue
+  attributes:
+    source-highlighter: coderay
+    coderay-css: style
+    icons: font

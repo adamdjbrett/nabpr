@@ -1,32 +1,22 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/nabpr1
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow NABPR on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Facebook
+   url: http://www.facebook.com/nabpr
+   class: icon-facebook
+   title: "Follow NABPR on Facebook"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#- name: Linkedin
+#   url: http://linkedin.com/company/national-association-of-baptist-professors-of-religion
+#   class: icon-linkedin
+#   title: "Follow NABPR on Linkedin"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+#- name: GitHub
+#  url: http://github.com/adamdjbrett/NABPR
+#  class: icon-github
+#  title: Code und mehr...
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

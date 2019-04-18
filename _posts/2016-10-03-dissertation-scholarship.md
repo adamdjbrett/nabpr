@@ -5,7 +5,7 @@ date: 2016-10-03T15:28:56+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=389
+/?p=389
 permalink: /2016/10/03/dissertation-scholarship/
 image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
 categories:

@@ -5,7 +5,7 @@ date: 2016-08-30T10:17:07+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=349
+/?p=349
 permalink: /2016/08/30/eileen-campbell-reeds-anatomy-schism/
 image: /wp-content/uploads/2016/08/CampbellReed-Schism-isbn-1621901785-rev-678x1024.jpg
 categories:

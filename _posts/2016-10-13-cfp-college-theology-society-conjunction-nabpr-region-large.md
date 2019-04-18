@@ -5,7 +5,7 @@ date: 2016-10-13T10:33:39+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=395
+/?p=395
 permalink: /2016/10/13/cfp-college-theology-society-conjunction-nabpr-region-large/
 image: /wp-content/uploads/2016/10/OchreCourt234.jpg
 categories:

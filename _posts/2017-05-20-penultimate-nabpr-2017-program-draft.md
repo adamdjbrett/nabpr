@@ -5,7 +5,7 @@ date: 2017-05-20T16:55:44+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=574
+/?p=574
 permalink: /2017/05/20/penultimate-nabpr-2017-program-draft/
 categories:
   - Announcements

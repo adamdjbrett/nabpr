@@ -5,7 +5,7 @@ date: 2017-06-09T16:41:31+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=597
+/?p=597
 permalink: /2017/06/09/joao-chaves/
 image: /wp-content/uploads/2017/06/Chaves_Joao.jpg
 categories:

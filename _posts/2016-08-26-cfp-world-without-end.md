@@ -5,7 +5,7 @@ date: 2016-08-26T20:48:02+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=262
+/?p=262
 permalink: /2016/08/26/cfp-world-without-end/
 image: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
 categories:

@@ -5,7 +5,7 @@ date: 2017-05-21T18:13:44+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://nabpr.org/?page_id=579
+/?page_id=579
 ---
 <p style="text-align: left;">
   <a href="http://3.83.244.150/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf">Click here for the program in PDF format. The PDF is always the most up-to-date. </a>

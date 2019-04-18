@@ -5,7 +5,7 @@ date: 2016-08-29T18:49:03+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://nabpr.org/?page_id=322
+/?page_id=322
 image: /wp-content/uploads/2016/05/NABPR_facebook.png
 ---
 ## NABPR Members Only Facebook Group

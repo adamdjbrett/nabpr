@@ -5,7 +5,7 @@ date: 2016-08-29T21:41:22+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=339
+/?p=339
 permalink: /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
 image: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
 categories:

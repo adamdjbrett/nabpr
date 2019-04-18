@@ -5,7 +5,7 @@ date: 2017-06-16T16:32:39+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: http://nabpr.org/?page_id=603
+/?page_id=603
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 ---
 **FIRST DRAFT:** 

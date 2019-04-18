@@ -5,7 +5,7 @@ date: 2016-11-10T14:18:40+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: post
-guid: http://nabpr.org/?p=403
+/?p=403
 permalink: /2016/11/10/nabpr-aar-sbl-schedule-2016/
 image: /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png
 categories:

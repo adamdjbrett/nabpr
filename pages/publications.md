@@ -5,7 +5,8 @@ date: 2016-05-20T19:27:18+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=84
+permalink: /publications/
+redirect_from: /?page_id=84
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 ---
 ## Perspectives in Religious Studies

@@ -5,7 +5,7 @@ date: 2016-08-21T16:42:35+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=190
+redirect_from: /?page_id=190
 ---
 Registration for the The [National Association of Baptist Professors of Religion](https://www.nabpr.org) Annual Meeting at First Baptist Church, 99 North Salisbury Street Raleigh, NC 27603 on May 20 – 22, 2019 is now open.<span style="font-size: large;"> </span>
 

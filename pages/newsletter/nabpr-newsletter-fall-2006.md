@@ -5,7 +5,7 @@ date: 2016-08-21T21:45:05+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=196
+redirect_from: /?page_id=196
 ---
 <span style="color: #cc6600; font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman'; font-size: large;"><b>From the Executive-Secretary</b></span>****<span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';"><br /> </span>  
 **<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Danny Mynatt, Anderson University</span>**

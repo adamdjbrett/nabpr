@@ -5,7 +5,7 @@ date: 2016-08-21T21:41:52+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=194
+redirect_from: /?page_id=194
 ---
 <span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">Baptist Doctoral Student Network</span>
 

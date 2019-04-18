@@ -5,7 +5,7 @@ date: 2016-08-21T21:53:16+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=209
+redirect_from: /?page_id=209
 ---
 **Polity and Postmodernism**  
 **Bill J. Leonard (Wake Forest Divinity School)**
@@ -54,7 +54,7 @@ Sally Smith Holt, Assistant Professor of Religion, William Jewell College
 
 11:00 &#8211; Annual Business Session &#8211; Bill J. Leonard, presiding
 
-  1. approval of the 2002 minutes</p> 
+  1. approval of the 2002 minutes</p>
   2. report of the Executive Committee &#8211; Daniel Mynatt
 
   3. recommendation on New Members &#8211; James P. Byrd, Jr.

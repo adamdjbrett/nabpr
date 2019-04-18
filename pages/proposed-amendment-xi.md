@@ -1,11 +1,13 @@
 ---
-id: 603
 title: NABPR Proposed Constitutional Amendment Article XI
 date: 2017-06-16T16:32:39+00:00
 author: Adam DJ Brett
-excerpt: |
+excerpt: "In rare and extreme situations that call for a public response, members of NABPR can vote, either at a national gathering or through an online process, to make a public statement based on the following guidelines"
 layout: page
-/?page_id=603
+permalink: /about/constitution/proposed-amendment-xi/
+redirect_from:
+  - /?page_id=603
+  - /about-nabpr/constitution/proposed-amendment-xi/
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 ---
 **Emended 22 May 2018**

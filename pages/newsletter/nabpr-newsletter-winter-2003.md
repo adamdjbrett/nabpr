@@ -5,7 +5,7 @@ date: 2016-08-21T21:52:09+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=207
+redirect_from: /?page_id=207
 ---
 **Welcome to the Wired World**
 

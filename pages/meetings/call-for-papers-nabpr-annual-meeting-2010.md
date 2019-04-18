@@ -5,21 +5,21 @@ date: 2016-08-21T16:38:55+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=185
+redirect_from: /?page_id=185
 ---
 **Call for Papers****  
-** 
+**
 
 **National Association of Baptist Professors of Religion****  
-** 
+**
 
 **Annual Meeting****  
-** 
+**
 
 **McAfee School of Theology**
 
 **Mercer University****  
-** 
+**
 
 **May 23 – 26, 2010**** **
 

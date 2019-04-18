@@ -5,7 +5,8 @@ date: 2016-05-20T19:22:19+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=79
+permalink: /membership/membership-dues/
+redirect_from: "/?page_id=79"
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 ---
 <h2 align="left">
@@ -46,189 +47,189 @@ image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
           <span style="font-size: 13pt;">base salary</span>
         </p>
       </td>
-      
+
       <td valign="top" width="216">
         <p style="text-align: center;" align="center">
           <span style="font-size: 13pt;">dues</span>
         </p>
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $20,000
       </td>
-      
+
       <td valign="top" width="216">
           $20
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $25,000
       </td>
-      
+
       <td valign="top" width="216">
           $25
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $30,000
       </td>
-      
+
       <td valign="top" width="216">
           $30
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $35,000
       </td>
-      
+
       <td valign="top" width="216">
           $35
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $40,000
       </td>
-      
+
       <td valign="top" width="216">
           $40
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $45,000
       </td>
-      
+
       <td valign="top" width="216">
           $45
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           up to $50,000
       </td>
-      
+
       <td valign="top" width="216">
           $50
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
           over $50,000
       </td>
-      
+
       <td valign="top" width="216">
           $50 + .1% over $50,000
       </td>
     </tr>
-    
+
     <tr>
       <td valign="top" width="208">
-          retired member or</p> 
-        
+          retired member or</p>
+
         <p>
-          retired assoc. member</td> 
-          
+          retired assoc. member</td>
+
           <td valign="top" width="216">
               $20
-          </td></tr> 
-          
+          </td></tr>
+
           <tr>
             <td valign="top" width="208">
                 student member
             </td>
-            
+
             <td valign="top" width="216">
                 $20
             </td>
-          </tr></tbody> </table> </div> 
-          
+          </tr></tbody> </table> </div>
+
           <p style="text-align: left;">
             Note:<br /> <b> <span style="color: #990000;"> &#8220;Base salary&#8221; </span></b>refers to annual contractual amount for teaching and/or administrative work <i>excluding</i> summer school or overload courses taught.
           </p>
-          
+
           <p>
             &nbsp;
           </p>
-          
+
           <hr />
-          
+
           <h4>
             Pay NABPR Membership Dues Online via Paypal
           </h4>
-          
+
           <h6>
             <em><strong>All dues paying members receive a subscription to <a href="https://nabpr.org/publications/">Perspectives in Religious Studies</a>. A copy of the journal will be mailed to you whichever mailing address you specify. </strong></em>
           </h6>
-          
+
           <h4>
             Students or Retired Members
           </h4>
-          
+
           <p>
             For students or retired members please use the button below.
           </p>
-          
+
           <hr />
-          
+
           <h4>
             NABPR Membership dues for those earning under $50,000 dollars
           </h4>
-          
+
           <p>
             For those earning less than $50,000 a year please use this button to pay your dues.
           </p>
-          
+
           <p>
             &nbsp;
           </p>
-          
+
           <hr />
-          
+
           <h4>
             NABPR Membership dues for those earning over $50,000 dollars
           </h4>
-          
+
           <p>
             <strong>Dues are $50 + .1% over $50,000</strong>
           </p>
-          
+
           <h5>
             Yearly Membership for those earning 60,000-105,000
           </h5>
-          
+
           <hr />
-          
+
           <h5>
             Yearly Membership for those earning over $110,000
           </h5>
-          
+
           <hr />
-          
+
           <p>
             Those earning greater than 200,000 please use the below button to pay your membership dues by calculating your membership amount using the following calculus: salary x .001 = dues
           </p>
-          
+
           <h2>
             Donate to NABPR
           </h2>
-          
+
           <p>
             &nbsp;
           </p>
-          
+
           <p>
             &nbsp;
           </p>

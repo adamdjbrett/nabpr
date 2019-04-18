@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "National Association of Baptist Professors of Religion (NABPR)"
+teaser: "The National Association of Baptist Professors of Religion is a community of teaching scholars. Most members teach at Baptist-affiliated schools, colleges, and seminaries, but members also hail from a wide range of institutions in the United States, Canada, and abroad, including church-related and state-supported schools. The history of the association is woven into the changing religious culture of the United States."
 permalink: "/info/"
 header:
     image_fullwidth: "/wp-content/uploads/2016/05/NABPR_site_logo_960x300.png"

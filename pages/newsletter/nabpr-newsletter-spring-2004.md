@@ -5,7 +5,7 @@ date: 2016-08-21T21:47:32+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=202
+redirect_from: /?page_id=202
 ---
 **The AAR/SBL Divorce and the Future of NABPR**  
 **Danny Mynatt (Anderson College)**

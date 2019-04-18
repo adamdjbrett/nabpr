@@ -5,7 +5,7 @@ date: 2016-08-21T16:33:32+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=176
+redirect_from: /?page_id=176
 ---
 **Minutes of the 2004 Annual Meeting**
 

@@ -19,7 +19,7 @@
   - title: "Newsletter Archive"
     url: "/newsletter/"
   - title: "Privacy Policy"
-    url: "/about/privacy-policy/"
+    url: "/privacy-policy/"
 
 - title: "Membership"
   url: "/membership/"
@@ -58,5 +58,5 @@
   dropdown:
   - title: "Doctoral Student Network"
     url: "/contact-us/doctoral-student-network/"
-  - title: "Facebook Group"  
+  - title: "Facebook Group"
     url: "/contact-us/facebook-group/"

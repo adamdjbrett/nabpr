@@ -5,7 +5,7 @@ date: 2016-08-21T16:21:41+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=164
+redirect_from: /?page_id=164
 ---
 ## University of Portland, Oregon, June 3-6, 2010
 

@@ -1,11 +1,13 @@
 ---
-id: 108
 title: Affiliated Organizations
 date: 2016-05-20T19:53:26+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=108
+permalink: /about/affiliated-organizations/
+redirect_from:
+  - /?page_id=108
+  - /about-nabpr/affiliated-organizations/
 ---
 NABPR Region At-Large
 

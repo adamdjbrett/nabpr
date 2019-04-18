@@ -5,7 +5,7 @@ date: 2016-08-21T16:29:08+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=170
+redirect_from: /?page_id=170
 ---
 **Colorado Convention Center  
 Denver, Colorado  
@@ -27,7 +27,7 @@ topic &#8220;Participation and Practice: Contemporary Trinitarian Construction.&
 
 At 11:00, President Mariottini convened the annual business session.
 
-  1. The 2000 minutes were approved.</p> 
+  1. The 2000 minutes were approved.</p>
   2. Rick Wilson gave the report of the Executive Committee, which included these items:  
     a. The presentation of the financial report, which was printed on the back of the agenda for the meeting.  
     b. A list of the names of people petitioning the Association for membership. The list was accepted unanimously.

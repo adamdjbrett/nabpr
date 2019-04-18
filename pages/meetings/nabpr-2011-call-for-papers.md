@@ -5,7 +5,7 @@ date: 2016-08-21T16:38:06+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=183
+redirect_from:  /?page_id=183
 ---
 National Association of Baptist Professors of Religion
 

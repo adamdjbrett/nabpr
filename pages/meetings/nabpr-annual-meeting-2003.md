@@ -5,13 +5,13 @@ date: 2016-08-21T16:32:28+00:00
 author: Adam DJ Brett
 excerpt: |
 layout: page
-guid: /?page_id=174
+redirect_from: /?page_id=174
 ---
 **Minutes of the 2003 Annual Meeting**
 
-**Atlanta, Georgia  **
+**Atlanta, Georgia**
 
-**22 November 2003 **
+**22 November 2003**
 
 The twenty-third annual meeting of the National Association of Baptist Professors of
 

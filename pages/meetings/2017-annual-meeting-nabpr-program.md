@@ -8,7 +8,7 @@ layout: page
 /?page_id=579
 ---
 <p style="text-align: left;">
-  <a href="http://3.83.244.150/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf">Click here for the program in PDF format. The PDF is always the most up-to-date. </a>
+  <a href="/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf">Click here for the program in PDF format. The PDF is always the most up-to-date. </a>
 </p>
 
 * * *
@@ -200,4 +200,4 @@ _Cliff is the producer of the documentary film “The Disturbances.” He  __wi
 
 * * *
 
-[Click here for the program in PDF format. The PDF is always the most up-to-date.](http://3.83.244.150/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
+[Click here for the program in PDF format. The PDF is always the most up-to-date.](/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)

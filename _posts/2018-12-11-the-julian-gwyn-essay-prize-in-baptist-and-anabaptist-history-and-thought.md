@@ -47,5 +47,5 @@ All submissions must include:
 &nbsp;
 
 <div class="wp-block-file">
-  <a href="http://3.83.244.150/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf">Download the CFP as a PDF</a><a class="wp-block-file__button" href="http://3.83.244.150/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf" download="">Download</a>
+  <a href="/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf">Download the CFP as a PDF</a><a class="wp-block-file__button" href="/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf" download="">Download</a>
 </div>

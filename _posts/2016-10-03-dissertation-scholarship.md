@@ -43,4 +43,4 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 
 Deadline for submitting materials is **January 15, 2017**.
 
-[PDF of Scholarship Announcement](http://3.83.244.150/wp-content/uploads/2016/10/ScholarshipAnnouncement2017.pdf)
+[PDF of Scholarship Announcement](/wp-content/uploads/2016/10/ScholarshipAnnouncement2017.pdf)

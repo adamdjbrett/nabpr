@@ -17,7 +17,7 @@ tags:
   - ministry
   - pastoral care
 ---
-[<img class="alignleft size-medium wp-image-1195" src="http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg" alt="Campbell University School of Law. Photo by Chris West" width="300" height="226" srcset="http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg 300w, http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-768x579.jpg 768w, http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg 883w" sizes="(max-width: 300px) 100vw, 300px" />](http://3.83.244.150/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg)
+[<img class="alignleft size-medium wp-image-1195" src="/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg" alt="Campbell University School of Law. Photo by Chris West" width="300" height="226" srcset="/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg 300w, /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-768x579.jpg 768w, /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg 883w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg)
 
 <h3 style="text-align: center;">
   Call for Papers<br /> National Association of Baptist Professors of Religion<br /> Annual Meeting<br /> Campbell University School of Law<br /> Raleigh, NC<br /> May 20 – 22, 2019

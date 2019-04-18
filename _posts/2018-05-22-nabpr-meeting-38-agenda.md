@@ -19,7 +19,7 @@ tags:
   - NABPR18
   - national
 ---
-##  [[icon name=&#8221;cloud-download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR Agenda 2018 PDF](http://3.83.244.150/wp-content/uploads/2018/05/NABPRAgenda2018.pdf)
+##  [[icon name=&#8221;cloud-download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR Agenda 2018 PDF](/wp-content/uploads/2018/05/NABPRAgenda2018.pdf)
 
 * * *
 

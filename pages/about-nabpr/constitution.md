@@ -146,4 +146,4 @@ In rare and extreme situations that call for a public response, members of NABPR
   </li>
 </ul>
 
-[View a PDF of the Constitution](http://3.83.244.150/wp-content/uploads/2018/05/NABPRconstitution2018.pdf)
+[View a PDF of the Constitution](/wp-content/uploads/2018/05/NABPRconstitution2018.pdf)

@@ -233,4 +233,4 @@ Baylor University Waco, TX</pre>
 
 * * *
 
-[⤓ Download the 2019 Program as a PDF. The PDF is the official version](http://3.83.244.150/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-1.pdf).
+[⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-1.pdf).

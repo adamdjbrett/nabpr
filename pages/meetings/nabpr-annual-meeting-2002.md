@@ -67,7 +67,7 @@ guid: /?page_id=172
   </div>
 </div>
 
-[Minutes of the 2002 Annual Meeting](http://3.83.244.150/wp-content/uploads/2016/08/Minutes-of-the-2002-Annual-Meeting.pdf)
+[Minutes of the 2002 Annual Meeting](/wp-content/uploads/2016/08/Minutes-of-the-2002-Annual-Meeting.pdf)
 
 <div class="page" title="Page 1">
   <div class="layoutArea">

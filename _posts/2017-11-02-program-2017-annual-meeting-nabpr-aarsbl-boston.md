@@ -24,7 +24,7 @@ tags:
   - SBLAAR17
   - theology
 ---
-### [<img class="aligncenter size-medium wp-image-764" src="http://3.83.244.150/wp-content/uploads/2017/11/NABPR-Boston-Meeting-300x251.png" alt="" width="300" height="251" srcset="http://3.83.244.150/wp-content/uploads/2017/11/NABPR-Boston-Meeting-300x251.png 300w, http://3.83.244.150/wp-content/uploads/2017/11/NABPR-Boston-Meeting-768x644.png 768w, http://3.83.244.150/wp-content/uploads/2017/11/NABPR-Boston-Meeting.png 940w" sizes="(max-width: 300px) 100vw, 300px" />](http://3.83.244.150/wp-content/uploads/2017/11/NABPR-Boston-Meeting.png)
+### [<img class="aligncenter size-medium wp-image-764" src="/wp-content/uploads/2017/11/NABPR-Boston-Meeting-300x251.png" alt="" width="300" height="251" srcset="/wp-content/uploads/2017/11/NABPR-Boston-Meeting-300x251.png 300w, /wp-content/uploads/2017/11/NABPR-Boston-Meeting-768x644.png 768w, /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png 940w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2017/11/NABPR-Boston-Meeting.png)
 
 <h3 style="text-align: center;">
   <strong>National Association of Baptist Professors of Religion</strong>

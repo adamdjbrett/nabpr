@@ -58,4 +58,4 @@ _Atlanta Marriott Buckhead Hotel and Conference Center._
 
 &nbsp;
 
-[Download a PDF of the Flyer](http://3.83.244.150/wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer.pdf)
+[Download a PDF of the Flyer](/wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer.pdf)

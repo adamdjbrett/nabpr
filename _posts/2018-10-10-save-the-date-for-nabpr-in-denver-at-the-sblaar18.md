@@ -24,7 +24,7 @@ Dear NABPR and AAR/SBL Attendees,
 
 Please save the date for the NABPR annual meeting in Denver. Tentative Schedule thus far:
 
-[<img class="aligncenter" src="http://3.83.244.150/wp-content/uploads/2018/10/NABPR-2018-rev3-min-1024x701.png" alt="NABPR at the AAR/SBL 2018" width="600" height="411" />](http://3.83.244.150/wp-content/uploads/2018/10/NABPR-2018-rev3-min.png)
+[<img class="aligncenter" src="/wp-content/uploads/2018/10/NABPR-2018-rev3-min-1024x701.png" alt="NABPR at the AAR/SBL 2018" width="600" height="411" />](/wp-content/uploads/2018/10/NABPR-2018-rev3-min.png)
 
 <h3 style="text-align: center;">
   <strong>National Association of Baptist Professors of Religion</strong>
@@ -61,4 +61,4 @@ M17-101
 
 &nbsp;
 
-[[icon name=&#8221;download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR November Program](http://3.83.244.150/wp-content/uploads/2018/10/NABPRProgramNov2018Denver.pdf)
+[[icon name=&#8221;download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR November Program](/wp-content/uploads/2018/10/NABPRProgramNov2018Denver.pdf)

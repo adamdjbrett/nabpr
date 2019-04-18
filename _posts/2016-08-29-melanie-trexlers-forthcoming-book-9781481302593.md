@@ -24,7 +24,7 @@ tags:
 
 <!--more--><figure id="attachment_340" aria-describedby="caption-attachment-340" style="width: 200px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-340" src="http://nabpr.org/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg" alt="via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html" width="200" height="300" srcset="http://3.83.244.150/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg 200w, http://3.83.244.150/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg 667w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html)<figcaption id="caption-attachment-340" class="wp-caption-text">via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html</figcaption></figure> 
+[<img class="size-medium wp-image-340" src="http://nabpr.org/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg" alt="via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html" width="200" height="300" srcset="/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg 200w, /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg 667w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html)<figcaption id="caption-attachment-340" class="wp-caption-text">via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html</figcaption></figure> 
 
 ## Evangelizing Lebanon
 

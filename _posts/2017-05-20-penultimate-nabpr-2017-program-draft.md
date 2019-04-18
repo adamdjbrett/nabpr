@@ -48,5 +48,5 @@ and
 
 Danny Mynatt, NABPR Executive Secretary-Treasurer
 
-  * PDF: [PENULTIMATE-NABPR-Program-May2017-Belmont](http://3.83.244.150/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
+  * PDF: [PENULTIMATE-NABPR-Program-May2017-Belmont](/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
   * [Mobile version of the Conference Program](http://nabpr.org/meetings/2017-annual-meeting-nabpr-program/)

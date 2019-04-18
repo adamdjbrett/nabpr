@@ -1,12 +1,21 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contacting the National Association of Baptist Professors of Religion"
+subheadline: "Contacting NABPR"
+teaser: "Get in touch with NABPR? Email contactus@nabpr.org."
 permalink: "/contact/"
+redirect_from: "/contact-us/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
 
- [1]: http://www.wufoo.com/
+[nabpr.org](https://nabpr.org/) \| [facebook](https://facebook.com/nabpr) \| [twitter](https://twitter.com/nabpr1)
+NABPR c/o Joyce Swoveland,
+Department of Religion,
+Baylor University One Bear Place
+\#97284 Waco, TX 76798
+phone: +1-254-710-3758
+fax: +1-254-710-3740
+<Joyce_Swoveland@baylor.edu>
+
+Or contact our Executive Secretary-Treasuer Danny Mynatt <dmynatt@umhb.edu>.

@@ -1,69 +1,51 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: "About"
+  url: "/info/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Affiliated Organizations"
+    url: "/about/affiliated-organizations/"
+  - title: "Constitution"
+    url: "/about/constitution/"
+  - title: "Constitutional Amendment Article XI"
+    url: "/about/constitution/proposed-amendment-xi/"
+  - title: "Officers"
+    url: "/officers/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Newsletter Archive"
+    url: "/newsletter/"
+  - title: "Privacy Policy"
+    url: "/about/privacy-policy/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Membership"
+  url: "/membership/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Membership Dues"
+    url: "/membership/membership-dues/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Meetings"
+  url: "/meetings/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Registration"
+    url: "/meetings/registration/"
+  - title: "Housing"
+    url: "/meetings/housing/"
 
-- title: Blog
+- title: "Dissertation"
+  url: "/dissertation/"
+  side: left
+
+- title: News
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Blog/News Archive"
     url: "/blog/archive/"
 
 - title: "Search"
@@ -73,3 +55,8 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+  dropdown:
+  - title: "Doctoral Student Network"
+    url: "/contact-us/doctoral-student-network/"
+  - title: "Facebook Group"  
+    url: "/contact-us/facebook-group/"

@@ -2,10 +2,10 @@
 id: 772
 title: NABPR-SE Regional Meeting Program March 2018
 date: 2017-11-16T17:50:14+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=772
+redirect_from: /?p=772
 permalink: /2017/11/16/nabpr-se-regional-meeting-program/
 image: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png
 categories:
@@ -48,7 +48,7 @@ _Atlanta Marriott Buckhead Hotel and Conference Center._
 
 **4:35-5:00 Business Meeting**
 
-  * 2019 SECSOR meeting 
+  * 2019 SECSOR meeting
       * NABPR-SE meeting Action Items
       * Location
       * Election of officers

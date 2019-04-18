@@ -1,7 +1,7 @@
 ---
 ID: 68
 post_title: About
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/about-nabpr/

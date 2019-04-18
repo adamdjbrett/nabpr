@@ -2,10 +2,11 @@
 id: 196
 title: 'NABPR Newsletter &#8211; Fall, 2006'
 date: 2016-08-21T21:45:05+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=196
+breadcrumb: true
 ---
 <span style="color: #cc6600; font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman'; font-size: large;"><b>From the Executive-Secretary</b></span>****<span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';"><br /> </span>  
 **<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Danny Mynatt, Anderson University</span>**
@@ -21,7 +22,7 @@ The Executive Committee has worked through this proposal via email, but we have 
 See you in DC,  
 Danny Mynatt
 
-**NOTE: Please complete the survey form at the bottom of this page. It will help us to gather information about how the changes proposed will influence the assocational meetings.** 
+**NOTE: Please complete the survey form at the bottom of this page. It will help us to gather information about how the changes proposed will influence the assocational meetings.**
 
 * * *
 

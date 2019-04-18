@@ -2,10 +2,10 @@
 id: 1110
 title: Thank you to Dr. Scott Nash for your years of service as Senior Editor.
 date: 2018-05-31T12:30:53+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1110
+redirect_from: ?p=1110
 permalink: /2018/05/31/thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
 categories:
   - Announcements

@@ -2,10 +2,10 @@
 id: 1301
 title: Festschrift Honoring Alan Culpepper
 date: 2018-11-07T15:34:42+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1301
+redirect_from: /?p=1301
 permalink: /2018/11/07/festschrift-honoring-alan-culpepper/
 categories:
   - Books of Interest

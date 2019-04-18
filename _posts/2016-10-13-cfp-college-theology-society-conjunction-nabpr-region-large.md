@@ -2,10 +2,10 @@
 id: 395
 title: 'CFP: College Theology Society, in conjunction with NABPR Region at Large'
 date: 2016-10-13T10:33:39+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-/?p=395
+redirect_from: /?p=395
 permalink: /2016/10/13/cfp-college-theology-society-conjunction-nabpr-region-large/
 image: /wp-content/uploads/2016/10/OchreCourt234.jpg
 categories:

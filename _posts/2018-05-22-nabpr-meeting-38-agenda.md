@@ -2,10 +2,10 @@
 id: 1080
 title: NABPR Meeting Agenda Thirty-Eighth Annual Meeting
 date: 2018-05-22T12:03:47+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1080
+redirect_from: /?p=1080
 permalink: /2018/05/22/nabpr-meeting-38-agenda/
 categories:
   - Announcements

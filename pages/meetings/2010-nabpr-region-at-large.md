@@ -2,10 +2,11 @@
 id: 164
 title: 'NABPR Region at Large &#8211; 2010'
 date: 2016-08-21T16:21:41+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=164
+breadcrumb: true
 ---
 ## University of Portland, Oregon, June 3-6, 2010
 

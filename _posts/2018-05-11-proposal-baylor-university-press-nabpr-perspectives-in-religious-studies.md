@@ -2,10 +2,10 @@
 id: 1042
 title: A Proposal for Baylor University Press and the National Association of Baptist Professors of Religion/Perspectives in Religious Studies
 date: 2018-05-11T18:25:39+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1042
+redirect_from: /?p=1042
 permalink: /2018/05/11/proposal-baylor-university-press-nabpr-perspectives-in-religious-studies/
 image: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png
 categories:

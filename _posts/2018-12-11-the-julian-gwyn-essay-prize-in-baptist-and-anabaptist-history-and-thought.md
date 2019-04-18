@@ -2,12 +2,12 @@
 id: 1381
 title: The Julian Gwyn Essay Prize in Baptist and Anabaptist History and Thought
 date: 2018-12-11T12:27:43+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
-  
+
   The Acadia Centre for Baptist and Anabaptist Studies (ACBAS) is pleased to announce a new prize competition in the general field of Baptist and Anabaptist history and thought, especially in Canada’s Atlantic region.
 layout: post
-guid: https://nabpr.org/?p=1381
+redirect_from: /?p=1381
 permalink: /2018/12/11/the-julian-gwyn-essay-prize-in-baptist-and-anabaptist-history-and-thought/
 image: /wp-content/uploads/2018/12/ACBAS-Essay-Prize-IMG.jpg
 categories:
@@ -21,10 +21,10 @@ The Acadia Centre for Baptist and Anabaptist Studies (ACBAS) is pleased to annou
 
 <!--more-->
 
-  
+
 ACBAS is a joint venture between the Acadia Divinity College and Acadia University. This centre was established in 1991 and its primary goal is to facilitate and encourage studies in the fields of Baptist and Anabaptist History and Thought. For this reason, we are excited to announce this new essay prize and would very much appreciate your assistance in making the existence of this prize known to students. 
 
-  
+
 Blessings,  
 Rev. Evan Colford,  
 _ACBAS Administrative Committee_

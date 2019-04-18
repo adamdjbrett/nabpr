@@ -1,20 +1,20 @@
 ---
 title: Affiliated Organizations
 date: 2016-05-20T19:53:26+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /about/affiliated-organizations/
 redirect_from:
   - /?page_id=108
   - /about-nabpr/affiliated-organizations/
+breadcrumb: true
 ---
 NABPR Region At-Large
 
 ## Affiliated Organizations
-
-  * <a href="https://www.aarweb.org/" target="_blank" rel="noopener noreferrer">American Academy of Religion (AAR)</a>
-  * <a href="http://www.sbl-site.org/" target="_blank" rel="noopener noreferrer">Society of Biblical Literature (SBL)</a>
-  * [The Baptist History and Heritage Society (BH&HS)](http://www.baptisthistory.org/)
-  * [The Association of Librarians & Archivists at Baptist Institutions (ALABI)](http://alabi.org/)
-  * [College Theological Society](http://www.collegetheology.org/)
+* [American Academy of Religion (AAR)](https://www.aarweb.org/) 
+* [Society of Biblical Literature (SBL)](http://www.sbl-site.org/)
+* [The Baptist History and Heritage Society (BH&HS)\](http://www.baptisthistory.org/)
+* [The Association of Librarians & Archivists at Baptist Institutions (ALABI)\](http://alabi.org/)
+* [College Theological Society\](http://www.collegetheology.org/)

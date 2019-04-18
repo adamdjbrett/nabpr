@@ -1,7 +1,7 @@
 ---
 ID: 84
 post_title: Publications
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/publications/

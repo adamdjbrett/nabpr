@@ -2,10 +2,10 @@
 id: 1143
 title: Announcing The Publication of The Sub Loco Notes in the Torah
 date: 2018-06-18T15:32:28+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1143
+redirect_from: /?p=1143
 permalink: /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
 image: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia.png
 categories:

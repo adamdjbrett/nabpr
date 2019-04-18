@@ -2,11 +2,12 @@
 id: 77
 title: Membership
 date: 2016-05-20T19:20:47+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /membership/
 redirect_from: "/?page_id=77"
+breadcrumb: true
 ---
 ##  Joining NABPR
 

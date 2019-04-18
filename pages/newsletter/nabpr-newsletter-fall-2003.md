@@ -2,10 +2,11 @@
 id: 209
 title: 'NABPR Newsletter &#8211; Fall, 2003'
 date: 2016-08-21T21:53:16+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=209
+breadcrumb: true
 ---
 **Polity and Postmodernism**  
 **Bill J. Leonard (Wake Forest Divinity School)**

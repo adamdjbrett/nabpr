@@ -3,7 +3,7 @@ ID: 603
 post_title: >
   NABPR Proposed Constitutional Amendment
   Article XI
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

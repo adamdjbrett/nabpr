@@ -2,10 +2,10 @@
 id: 1106
 title: 'New Book: Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective'
 date: 2018-05-31T11:23:26+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1106
+redirect_from: /?p=1106
 permalink: /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
 image: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg
 categories:
@@ -19,7 +19,7 @@ tags:
 ---
 Ryan Andrew Newson, _Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective_, Perspectives on Baptist Identities (Macon: Mercer University Press, 2018) ISBN: 9780881466492.<figure id="attachment_1107" aria-describedby="caption-attachment-1107" style="width: 200px" class="wp-caption alignleft">
 
-[<img class="wp-image-1107 size-medium" src="/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-200x300.jpg" alt="Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover" width="200" height="300" srcset="/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-200x300.jpg 200w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-768x1152.jpg 768w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-683x1024.jpg 683w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg 1365w" sizes="(max-width: 200px) 100vw, 200px" />](/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg)<figcaption id="caption-attachment-1107" class="wp-caption-text">Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover</figcaption></figure> 
+[<img class="wp-image-1107 size-medium" src="/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-200x300.jpg" alt="Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover" width="200" height="300" srcset="/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-200x300.jpg 200w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-768x1152.jpg 768w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-683x1024.jpg 683w, /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg 1365w" sizes="(max-width: 200px) 100vw, 200px" />](/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg)<figcaption id="caption-attachment-1107" class="wp-caption-text">Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover</figcaption></figure>
 
 Announcing the first volume in the new NABPR series &#8220;[Perspectives on Baptist Identities](https://nabpr.org/publications/)&#8221; edited by Alicia C. Myers and Adam English.
 

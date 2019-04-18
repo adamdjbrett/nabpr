@@ -2,10 +2,10 @@
 id: 1226
 title: 'Save the Date For NABPR in Denver at the #SBLAAR18'
 date: 2018-10-10T19:09:25+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1226
+redirect_from: /?p=1226
 permalink: /2018/10/10/save-the-date-for-nabpr-in-denver-at-the-sblaar18/
 image: /wp-content/uploads/2018/10/NABPR-2018-rev3-min.png
 categories:
@@ -38,14 +38,14 @@ Please save the date for the NABPR annual meeting in Denver. Tentative Schedule 
   17 November 2018, 9:00-11:30 AM Hilton Denver City Center, Penrose 2
 </h4>
 
-  * 9:40 President’s Address Steve Harmon, Gardner-Webb University NABPR President 
+  * 9:40 President’s Address Steve Harmon, Gardner-Webb University NABPR President
       * Dr. Harmon is Associate Professor of Historical Theology in the School of Divinity at Gardner-Webb University.
 
 <p style="padding-left: 120px;">
   <strong>“Engaging James Wm. McClendon, Jr.’s Ecumenical Theology: Fifty Years after ‘What Is a Southern Baptist Ecumenism?’”</strong>
 </p>
 
-  * 10:25 Keynote Address Paul Harvey, University of Colorado, Colorado Springs 
+  * 10:25 Keynote Address Paul Harvey, University of Colorado, Colorado Springs
       * Dr. Harvey is Professor and Presidential Teaching Scholar in the Department of history at UCCS.
 
 <p style="padding-left: 120px;">

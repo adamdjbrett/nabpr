@@ -3,7 +3,7 @@ ID: 579
 post_title: >
   Official Program for the 2017 Annual
   Meeting of NABPR
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

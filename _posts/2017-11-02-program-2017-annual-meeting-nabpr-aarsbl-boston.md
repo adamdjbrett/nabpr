@@ -2,10 +2,10 @@
 id: 763
 title: Program for the 2017 Annual Meeting of NABPR at AAR/SBL in Boston
 date: 2017-11-02T17:38:57+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=763
+redirect_from: /?p=763
 permalink: /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
 image: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png
 categories:
@@ -47,7 +47,7 @@ tags:
 
   * 10:05 Responses from the Association Moderated by Steve Harmon
   * 10:20 Introduction of Keynote Address Rady Roldan-Figueroa, Boston University
-  * 10:25 Keynote Address Nancy Ammerman, Boston University 
+  * 10:25 Keynote Address Nancy Ammerman, Boston University
       * Dr. Ammerman is  Professor of Sociology of Religion, Sociology Department and School of Theology; Associate Dean of the Faculty for the Social Sciences.
 
 <h4 style="text-align: center;">
@@ -57,8 +57,8 @@ tags:
 &nbsp;
 
   * 11:00 Responses from the Association Moderated by Rady Roldan-Figueroa
-  * 11:15 Fall Business Meeting Danny Mynatt, University of Mary Hardin-Baylor, and NABPR Executive Secretary-Treasurer 
-      * Introduction of the Nominating Committee Steve Harmon 
+  * 11:15 Fall Business Meeting Danny Mynatt, University of Mary Hardin-Baylor, and NABPR Executive Secretary-Treasurer
+      * Introduction of the Nominating Committee Steve Harmon
           * Bill Pitts, Baylor University (chair)
           * Mel Hawkins, Carson-Newman University
           * Meredith Stone, Hardin-Simmons University

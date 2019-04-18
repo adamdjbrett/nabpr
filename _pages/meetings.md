@@ -1,7 +1,7 @@
 ---
 ID: 75
 post_title: Meetings
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/meetings/

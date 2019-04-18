@@ -2,10 +2,11 @@
 id: 202
 title: 'NABPR Newsletter &#8211; Spring, 2004'
 date: 2016-08-21T21:47:32+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=202
+breadcrumb: true
 ---
 **The AAR/SBL Divorce and the Future of NABPR**  
 **Danny Mynatt (Anderson College)**
@@ -126,7 +127,7 @@ The Society is seeking innovative and engaging paper presentations on the histor
 
 **Submission Guidelines**
 
-  1. Proposals should state, as fully as possible, the purpose of the paper. Include a preliminary outline and a brief list of sources that will be used.</p> 
+  1. Proposals should state, as fully as possible, the purpose of the paper. Include a preliminary outline and a brief list of sources that will be used.</p>
   2. Proposals should not be more than 800 words in length.
 
   3. Proposals should include a title for the paper, followed by your name, institutional affiliation seminary, university, association, or church), address, telephone number, and e-mail address.

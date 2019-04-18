@@ -1,7 +1,7 @@
 ---
 ID: 79
 post_title: Membership Dues
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

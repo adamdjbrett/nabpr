@@ -2,7 +2,7 @@
 id: 90
 title: Constitution
 date: 2016-05-20T19:30:55+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /about/constitution/
@@ -10,6 +10,7 @@ redirect_from:
   - /?page_id=90
   - /about-nabpr/constitution/
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
+breadcrumb: true
 ---
 ## Constitution — The National Association of Baptist Professors of Religion
 

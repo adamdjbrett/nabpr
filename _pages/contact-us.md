@@ -1,7 +1,7 @@
 ---
 ID: 276
 post_title: Contact Us
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/contact-us/

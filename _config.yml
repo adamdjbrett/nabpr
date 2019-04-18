@@ -14,7 +14,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/adamdjbrett/NABPR/edit/gh-pages
+# improve_content: https://github.com/adamdjbrett/NABPR/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -123,7 +123,7 @@ msapplication_tilecolor:                '#fabb00'
 # Facebook
 # Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image:                           '/assets/img/android-chrome-512x512.png'
 og_locale:                          'en_US'
 og_type:                            'website'
 
@@ -178,11 +178,12 @@ asciidoctor:
     icons: font
 
 plugins: # previously gems
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+#  - jekyll-sitemap
+#  - jekyll-feed
 
-feed:
-  path: atom.xml
+
+#feed:
+  #path: atom.xml

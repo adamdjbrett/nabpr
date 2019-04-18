@@ -2,10 +2,10 @@
 id: 1740
 title: Crescent Hill Baptist Church lecture series
 date: 2019-03-01T18:25:38+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1740
+redirect_from: /?p=1740
 permalink: /2019/03/01/crescent-hill-baptist-church-lecture-series/
 categories:
   - Announcements

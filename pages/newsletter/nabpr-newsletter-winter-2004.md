@@ -2,10 +2,11 @@
 id: 200
 title: 'NABPR Newsletter &#8211; Winter, 2004'
 date: 2016-08-21T21:46:46+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=200
+breadcrumb: true
 ---
 **From the Executive Secretary**  
 **Danny Mynatt (Anderson College)**

@@ -2,10 +2,10 @@
 id: 1191
 title: 2019 NABPR Call for Papers
 date: 2018-09-05T18:16:20+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1191
+redirect_from: /?p=1191
 permalink: /2018/09/05/2019-nabpr-call-for-papers/
 image: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
 categories:

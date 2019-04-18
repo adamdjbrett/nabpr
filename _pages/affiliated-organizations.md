@@ -1,7 +1,7 @@
 ---
 ID: 108
 post_title: Affiliated Organizations
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

@@ -2,10 +2,11 @@
 id: 185
 title: 'Call for Papers, NABPR Annual Meeting &#8211; 2010'
 date: 2016-08-21T16:38:55+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=185
+breadcrumb: true
 ---
 **Call for Papers****  
 **

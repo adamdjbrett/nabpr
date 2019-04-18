@@ -2,10 +2,11 @@
 id: 212
 title: 'NABPR Newsletter &#8211; Spring, 2003'
 date: 2016-08-21T21:53:42+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=212
+breadcrumb: true
 ---
 **Update on Perspectives in Religious Studies**  
 **Mikeal C. Parsons (Baylor University)  

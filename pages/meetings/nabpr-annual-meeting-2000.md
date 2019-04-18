@@ -2,10 +2,11 @@
 id: 168
 title: 'NABPR Annual Meeting &#8211; 2000'
 date: 2016-08-21T16:28:32+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=168
+breadcrumb: true
 ---
 **Nashville, Tennessee 18 November 2000 9:00-11:30 am**
 

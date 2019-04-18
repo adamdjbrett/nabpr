@@ -2,12 +2,13 @@
 id: 79
 title: Membership Dues
 date: 2016-05-20T19:22:19+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /membership/membership-dues/
 redirect_from: "/?page_id=79"
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
+breadcrumb: true
 ---
 <h2 align="left">
   Membership Dues to NABPR

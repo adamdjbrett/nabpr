@@ -2,10 +2,10 @@
 id: 1112
 title: Announcing the new partnership between NABPR and Baylor University Press
 date: 2018-05-31T12:45:40+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1112
+redirect_from: /?p=1112
 permalink: /2018/05/31/announcing-the-new-partnership-between-nabpr-and-baylor-university-press/
 image: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png
 categories:

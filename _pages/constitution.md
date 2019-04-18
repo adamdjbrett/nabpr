@@ -1,7 +1,7 @@
 ---
 ID: 90
 post_title: Constitution
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

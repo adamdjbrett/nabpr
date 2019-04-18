@@ -1,7 +1,7 @@
 ---
 ID: 77
 post_title: Membership
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/membership/

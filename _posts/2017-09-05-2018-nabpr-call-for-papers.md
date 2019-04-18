@@ -2,10 +2,10 @@
 id: 726
 title: 2018 NABPR Call for Papers
 date: 2017-09-05T18:20:15+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=726
+redirect_from: /?p=726
 permalink: /2017/09/05/2018-nabpr-call-for-papers/
 image: /wp-content/uploads/2017/09/gardner-webb-university.jpg
 categories:

@@ -1,7 +1,7 @@
 ---
 ID: 86
 post_title: Officers
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/officers/

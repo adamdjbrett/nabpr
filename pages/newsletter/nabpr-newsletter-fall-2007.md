@@ -2,10 +2,11 @@
 id: 192
 title: 'NABPR Newsletter &#8211; Fall, 2007'
 date: 2016-08-21T21:40:13+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=192
+breadcrumb: true
 ---
 <span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">From the Executive Secretary, Danny Mynatt, Anderson University</span>
 

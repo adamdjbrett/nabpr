@@ -1,7 +1,7 @@
 ---
 ID: 183
 post_title: NABPR 2011 Call for Papers
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

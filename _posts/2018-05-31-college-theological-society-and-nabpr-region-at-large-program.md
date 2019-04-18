@@ -2,10 +2,10 @@
 id: 1100
 title: College Theological Society and NABPR Region at Large Program
 date: 2018-05-31T10:59:35+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1100
+redirect_from: /?p=1100
 permalink: /2018/05/31/college-theological-society-and-nabpr-region-at-large-program/
 categories:
   - General

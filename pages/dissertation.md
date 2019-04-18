@@ -2,10 +2,11 @@
 id: 71
 title: Dissertation Scholarship
 date: 2016-05-20T19:16:58+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=71
+breadcrumb: true
 ---
 **National Association of Baptist Professors of Religion**
 

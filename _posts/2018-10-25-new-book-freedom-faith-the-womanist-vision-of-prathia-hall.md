@@ -2,10 +2,10 @@
 id: 1264
 title: 'New Book: Freedom Faith: The Womanist Vision of Prathia Hall'
 date: 2018-10-25T11:11:23+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1264
+redirect_from: ?p=1264
 permalink: /2018/10/25/new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
 categories:
   - Books of Interest
@@ -20,7 +20,7 @@ tags:
   - womanism
   - womanist
 ---
-<figure id="attachment_1282" aria-describedby="caption-attachment-1282" style="width: 202px" class="wp-caption alignleft">[<img class="wp-image-1282 size-medium" src="/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg" alt="Freedom Faith: The Womanist Vision of Prathia Hall by Courtney Pace" width="202" height="300" srcset="/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg 202w, /wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg 526w" sizes="(max-width: 202px) 100vw, 202px" />](/wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg)<figcaption id="caption-attachment-1282" class="wp-caption-text">Book Cover</figcaption></figure> 
+<figure id="attachment_1282" aria-describedby="caption-attachment-1282" style="width: 202px" class="wp-caption alignleft">[<img class="wp-image-1282 size-medium" src="/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg" alt="Freedom Faith: The Womanist Vision of Prathia Hall by Courtney Pace" width="202" height="300" srcset="/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg 202w, /wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg 526w" sizes="(max-width: 202px) 100vw, 202px" />](/wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg)<figcaption id="caption-attachment-1282" class="wp-caption-text">Book Cover</figcaption></figure>
 
 Courtney Pace, _Freedom Faith: The Womanist Vision of Prathia Hall Hardcover_ – June 15, 2019  
 (Athens: University of Georgia Press, 2019). ISBN: 9780820355061.

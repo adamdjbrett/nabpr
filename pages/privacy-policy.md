@@ -2,13 +2,14 @@
 id: 374
 title: Privacy Policy
 date: 2016-09-05T00:19:21+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /privacy-policy/
 redirect_from:
   - /?page_id=374
   - /about-nabpr/privacy-policy/
+breadcrumb: true  
 ---
 <div id="ppHeader">
   http://nabpr.org Privacy Policy

@@ -2,10 +2,11 @@
 id: 178
 title: 'NABPR Annual Meeting &#8211; 2005'
 date: 2016-08-21T16:33:59+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=178
+breadcrumb: true
 ---
 **The National Association of Baptist Professors of Religion **
 

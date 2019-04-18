@@ -2,10 +2,10 @@
 id: 1223
 title: 2019 Dissertation Scholarship Announcement
 date: 2018-10-09T18:47:56+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1223
+redirect_from: /?p=1223
 permalink: /2018/10/09/2019-dissertation-scholarship-announcement/
 image: /wp-content/uploads/2017/06/nabpr-site-icon.png
 categories:

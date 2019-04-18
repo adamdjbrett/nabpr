@@ -2,10 +2,10 @@
 id: 831
 title: NABPR 2018 Meeting at Gardner-Webb Program
 date: 2018-02-19T13:53:08+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=831
+redirect_from: /?p=831
 permalink: /2018/02/19/meeting-at-gardner-webb-program/
 image: /wp-content/uploads/2017/09/gardner-webb-university.jpg
 categories:
@@ -109,8 +109,8 @@ If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  D
   * #### 3:30-5:00 <b style="color: #222222;">— Executive </b><span style="color: #222222;"><b>Committee</b></span><b style="color: #222222;"> Meeting (Room 353, Tucker Student Center)</b>
 
   * #### **6:00 — Dinner: Stewart Hall (Tucker Student Center)**
-    
-      * **Program:** 
+
+      * **Program:**
           * Joseph S. Moore, Assistant Professor of History, Chair of the Department of Social Sciences, and Special Assistant to the Provost for Academic Enhancement at Gardner-Webb University and author of _Founding Sins: How a Group of Antislavery Radicals Fought to Put Christ into the Constitution_ (Oxford University Press, 2015).
 
 * * *
@@ -128,9 +128,9 @@ If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  D
   * #### **8:00-8:30am ****— ****Continental Breakfast — ****Stewart Hall foyer, Tucker Student Center**
 
   * #### **8:30–10:15 — Tuesday, May 22 –Session I**
-    
+
       * ##### **Old Testament I — Chapel (Room 228, Tucker Student Center) — Presiding: Gerald Keown**
-        
+
           * _The Theology of Joel in Aimee Semple McPherson’s Sermons and Writings_  
             Lacy K. Crocker Papadakis  
             Baylor University, Doctoral Student
@@ -140,9 +140,9 @@ If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  D
           * _The Ascension of Enoch and Muhammad: A Comparative Analysis of 2 Enoch and the Bukhari_ _Hadith_  
             Zachary J. Dey  
             Gardner-Webb University, Master of Divinity/ Master of Arts Student_  
-_ 
+_
       * ##### **New Testament I — Hope Hall (Tucker Student Center) —  Presiding: Jim McConnell**
-        
+
           * _Echoes of Exodus in the Epistle to the Hebrews_  
             David M. Moffitt  
             University of St Andrews
@@ -150,7 +150,7 @@ _
             Gregory M. Barnhill  
             Baylor University, Doctoral Student
       * ##### **Church History I — Room 139 (TSC) — Presiding: Glenn Jonas**
-        
+
           * _Reclaiming the Bible: Martin Luther and LGBTQ+ Inclusion_  
             Adam Peeler  
             MacAfee School of Theology, Master of Divinity Student
@@ -158,7 +158,7 @@ _
             Andrew Gardner  
             Florida State University, Doctoral Student
       * ##### **Theology I  —  Room 141 —  Presiding: Kent Blevins**
-        
+
           * _Watery Vulnerability and Impious Resistance:  Perpetua’s Martyrdom, Our Baptism_  
             Mark S. Medley  
             Baptist Seminary of Kentucky
@@ -169,7 +169,7 @@ _
             Kenneth A. Vandergriff  
             Florida State University, Doctoral Student
       * ##### **Pedagogy I —  ****Room 353, TSC —  Presiding: Tim Crawford**
-        
+
           * _Privilege and “Standard” English:  Reframing Expectations of Student Writing_  
             Dalen C. Jackson  
             Baptist Seminary of Kentucky
@@ -183,15 +183,15 @@ _
 * * *
 
   * #### **10:30-1:15 —  Tuesday, May 22 — Plenary Session I**
-    
+
       * **Annual Business Session**
       * **Lunch**
 
-  * #### **10:30-11:45****  —   ** **Plenary Session I****   —  ** **Room: Stewart Hall ****(Tucker Student Center)** 
+  * #### **10:30-11:45****  —   ** **Plenary Session I****   —  ** **Room: Stewart Hall ****(Tucker Student Center)**
 
 <div style="padding-left: 30px;">
-  <strong>A Multi-Disciplinary Response to </strong><strong><em>Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective</em> (Perspectives on Baptist Identities series; Mercer University Press, 2018)</strong><br /> <strong>Presiding:  </strong>Alicia Myers, Campbell University</p> 
-  
+  <strong>A Multi-Disciplinary Response to </strong><strong><em>Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective</em> (Perspectives on Baptist Identities series; Mercer University Press, 2018)</strong><br /> <strong>Presiding:  </strong>Alicia Myers, Campbell University</p>
+
   <ul>
     <li>
       <strong>Panelists:</strong> <ul>
@@ -223,9 +223,9 @@ _
 &nbsp;
 
   * #### **1:30-3:15 —  Tuesday, May 22 —  Session II**
-    
+
       * ##### Old Testament  II** — ** Chapel (Room 228, Tucker Student Center)** — **Presiding: W. H. Bellinger, Jr.
-        
+
           * _Enemies and Evildoers in Book V of the Psalter  
 _ W. H. Bellinger, Jr.  
             Baylor University
@@ -236,7 +236,7 @@ _ Kim Bodenhamer
 _ Rebecca W. Poe Hays  
             Baylor University, Doctoral Student
       * ##### **New Testament II  —  Chapel ****Room 228 ****(Tucker Student Center)** **— Presiding: Mitchell Reddish**
-        
+
           * _Jesus the Anti-Prophet (?)  
 _ Cody Carpenter  
             McAfee School of Theology, Master of Divinity Student
@@ -244,7 +244,7 @@ _ Cody Carpenter
 _ Scott C. Ryan  
             Baylor University
       * ##### **Church History II  — **Spectrum Theater, Room 139 **(Tucker Student Center)****— Presiding**: James Byrd
-        
+
           * _The Gospel in Flames: Lynching and Orthodoxy  
 _ Glenn Jonas  
             Campbell University
@@ -255,7 +255,7 @@ _ Mikeal Parsons
 _ John Inscore Essick  
             Baptist Seminary of Kentucky
       * ##### **Theology II — ****Room 141 ****(Tucker Student Center) ****— Presiding: Mark Medley**
-        
+
           * _Humans as Animal Loquens; or Recovering James McClendon’s Lost Strand  
 _ Brandon Morgan  
             Baylor University, Doctoral Student
@@ -273,7 +273,7 @@ _ Jackson Adamah
       <h4>
         <strong>Race, Memory, and Violence in the Future of Baptist Studies: Latino/a, Black, and White Perspectives</strong>
       </h4>
-      
+
       <ul>
         <li>
           <strong>Presiding:  </strong>Doug Weaver, Baylor University
@@ -291,7 +291,7 @@ _ Jackson Adamah
             </li>
           </ul>
         </li>
-        
+
         <li>
           <strong>Response:</strong>  Doug Weaver, Baylor University
         </li>
@@ -303,13 +303,13 @@ _ Jackson Adamah
   * ### 5:15** — **Tuesday Evening, May 22** — **Free Time and Dinner on your own
 
   * ### **8:00-8:30AM  — Wednesday Morning, May 23 **
-    
+
       * #### ****8:00-8:30AM — Continental Breakfast —  ******Stewart Hall foyer, Tucker Student Center**
 
   * ### 8:30-10:15 ** — **Wednesday, May 23** — ** Session III
-    
+
       * #### **Practical Studies I  — ****Room 141 ****(Tucker Student Center)****— Presiding:** Eric Holleyman
-        
+
           * _ Preaching by Immersion: Homiletics for the Age of Virtual Reality  
 _ Jennifer Garcia Bashaw  
             Campbell University
@@ -320,7 +320,7 @@ _ Kathryn H. House
 _ Tom LeGrand  
             Gardner-Webb University
       * #### **Old Testament III  — ****Room Hope Hall (Tucker Student Center) — Presiding: Kim Bodenhamer**
-        
+
           * _The Makings of a Despondent Queen: An Analysis of Esther 2:12-18  
 _ Mariah Q. Richardson  
             Gardner-Webb University, Master of Divinity/Master of Arts in Religion Student
@@ -328,7 +328,7 @@ _ Mariah Q. Richardson
 _ Richard Purcell  
             Emory University, Doctoral Student
       * #### Theology III** — **Room: Room 228 (Tucker Student Center)** — ** Presiding: Ryan Andrew Newson
-        
+
           * _Baptists Hearing Voices and Seeing Things: Imagining Radical Practices of Local Church Theology  
 _ Amy L. Chilton, Fuller Theological Seminary & Azusa Pacific University  
             Steven R. Harmon, Gardner-Webb University School of Divinity
@@ -336,7 +336,7 @@ _ Amy L. Chilton, Fuller Theological Seminary & Azusa Pacific University
 _ Daniel W. Houck  
             Trinity Evangelical Divinity School, Research Fellow at the Henry Center
       * #### **Church History III — ****Room 139 (Tucker Student Center) — Presiding: Loyd Allen**
-        
+
           * _According to Luther: The Nature, Role, and Purpose of Women  
 _ Joe Early  
             Campbellsville University
@@ -344,11 +344,11 @@ _ Joe Early
 _ Emily Buck  
             Fuller Theological Seminary, Doctoral Student
   * ### **10:30-12:00 — Wednesday morning, May 23 – Plenary Session III**
-    
+
       * #### Plenary Session III ** — Stewart Hall, (Tucker Student Center)  —  Presiding: W.H. Bellinger, Jr.**
-        
+
           * **Panel:** Discussion of Heidi J. Hornik and Mikeal C. Parsons, _Acts of the Apostles Through the Centuries_ (Wiley, 2016)
-          * **_Panelists:_** 
+          * **_Panelists:_**
               * John Essick, Baptist Seminary at Kentucky
               * Alicia Myers, Campbell University
               * Scott Shauf, Gardner Webb University
@@ -362,8 +362,8 @@ _ Emily Buck
 2019 Annual Meeting
 
 May 20 - 22, 2019
-Campbell University 
-School of Law 
+Campbell University
+School of Law
 Raleigh, NC</pre>
 
 ** — **

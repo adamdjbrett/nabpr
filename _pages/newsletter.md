@@ -1,7 +1,7 @@
 ---
 ID: 92
 post_title: Newsletter
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/newsletter/

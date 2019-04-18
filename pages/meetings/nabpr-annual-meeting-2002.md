@@ -2,10 +2,11 @@
 id: 172
 title: 'NABPR Annual Meeting &#8211; 2002'
 date: 2016-08-21T16:31:57+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=172
+breadcrumb: true
 ---
 <div class="page" title="Page 1">
   <div class="layoutArea">

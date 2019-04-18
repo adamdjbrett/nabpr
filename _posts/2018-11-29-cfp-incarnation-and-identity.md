@@ -2,10 +2,10 @@
 id: 1350
 title: 'CFP: &#8221;Incarnation and Identity&#8221;'
 date: 2018-11-29T10:26:43+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1350
+redirect_from: /?p=1350
 permalink: /2018/11/29/cfp-incarnation-and-identity/
 categories:
   - Calls for Papers (CFP)

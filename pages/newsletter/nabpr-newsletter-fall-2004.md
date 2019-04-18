@@ -2,10 +2,11 @@
 id: 205
 title: 'NABPR Newsletter &#8211; Fall, 2004'
 date: 2016-08-21T21:50:07+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=205
+breadcrumb: true
 ---
 **Yes, There Is An Error in the Program Book**
 
@@ -55,7 +56,7 @@ _Forming Baptist Identity(ies) in American Higher Education_
 
 11:00 &#8211; Annual Business Session Nancy deClaisse-Walford, presiding
 
-  1. approval of the 2003 minutes</p> 
+  1. approval of the 2003 minutes</p>
   2. report of the Executive Committee Daniel Mynatt
 
   3. recommendation on New Members James P. Byrd, Jr.

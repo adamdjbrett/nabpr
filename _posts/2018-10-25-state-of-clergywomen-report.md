@@ -2,10 +2,10 @@
 id: 1273
 title: New Report on the State of Clergywomen in the U.S. is now available 
 date: 2018-10-25T10:47:13+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1273
+redirect_from: /?p=1273
 permalink: /2018/10/25/state-of-clergywomen-report/
 image: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png
 categories:
@@ -40,37 +40,37 @@ tags:
     <p>
       Here are a few of the insights of the report:
     </p>
-    
+
     <ul>
       <li>
         In 1960 women were 2.3% of U.S. clergy. In 2016 women are 20.7% of U.S. clergy.
       </li>
     </ul>
-    
+
     <ul>
       <li>
         Since 2015 Roman Catholic lay ministers outnumber priests in the U.S., and 80% of them are women.
       </li>
     </ul>
-    
+
     <ul>
       <li>
         In 2017 women remain fewer than 25% of seminary faculty and deans, and just 11% of the presidents.
       </li>
     </ul>
-    
+
     <ul>
       <li>
         In most Mainline denominations, the percentage of clergywomen has doubled or tripled since 1994.
       </li>
     </ul>
-    
+
     <ul>
       <li>
         Unitarian Universalist and United Church of Christ clergywomen have reached numerical equity with clergymen.
       </li>
     </ul>
-    
+
     <ul>
       <li>
         More women of color and fewer white women are going to seminary to earn MDivs since 2008.

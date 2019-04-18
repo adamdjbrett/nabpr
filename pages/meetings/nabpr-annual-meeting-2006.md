@@ -2,10 +2,11 @@
 id: 180
 title: 'NABPR Annual Meeting &#8211; 2006'
 date: 2016-08-21T16:34:59+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=180
+breadcrumb: true
 ---
 ## Minutes: 2006 Meeting
 

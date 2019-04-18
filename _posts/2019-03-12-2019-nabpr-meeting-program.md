@@ -2,10 +2,10 @@
 id: 1751
 title: 2019 NABPR Meeting Program
 date: 2019-03-12T15:40:40+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1751
+redirect_from: ?p=1751
 permalink: /2019/03/12/2019-nabpr-meeting-program/
 categories:
   - Schedule
@@ -94,35 +94,32 @@ Brad Creed, President Campbell University
 
 ### Tuesday, May 21 – Session I 8:30 – 10:15
 
-  * Old Testament I — Room TBD — Presiding: 
+  * Old Testament I — Room TBD — Presiding:
       * A Prophetic Response to Monotheism: Is YHWH the God of the Nations as Well?  
         Anna Sieges Beal, Gardner-Webb University
       * Blending Royal and Divine Identities: The Rhetoric of Merging King and Deity in Ancient Near Easter Art and Psalm 21  
         Richard A. Purcell, Emory University
-  * New Testament/Christianity in Late Antiquity I — Room: TBD — Presiding: 
-      * _Siblings, Scribes, and Satan: Rhetorical Composition in Mark 3:20-35  
-_ Daniel Glover, Baylor University
-      * Passio Marculi _and the Construction of Memory and Identity in 4__th_ _and 5__th_ _Century North Africa  
-_ Kenneth A. Vandergriff, Florida State University
-      * _Christ Behind Culture  
-_ Cody Carpenter, McAfee School of Theology, Mercer University
+  * New Testament/Christianity in Late Antiquity I — Room: TBD — Presiding:
+      * _Siblings, Scribes, and Satan: Rhetorical Composition in Mark 3:20-35_ Daniel Glover, Baylor University
+      * Passio Marculi _and the Construction of Memory and Identity in 4__th_ _and 5__th_ _Century North Africa_ Kenneth A. Vandergriff, Florida State University
+      * _Christ Behind Culture_ Cody Carpenter, McAfee School of Theology, Mercer University
 
 ### Tuesday, May 22 –Session I 8:30 – 10:15
 
-  * Church History I — Room: TBD — Presiding: 
+  * Church History I — Room: TBD — Presiding:
       * You Are Still Eve: The Nature, Purpose, and Role of Women Throughout Christian History Joseph E. Early, Jr., Campbellsville University
       * Footnoting Augustine: The Legacy of De Doctrina Christiana in the Reformation Era  
         Emily Buck, Fuller Theological Seminary
       * The Evolution of Holy War Terminology  
         Adam Peeler, Emory University
-  * Theology I — Room: TBD — Presiding: 
+  * Theology I — Room: TBD — Presiding:
       * Theosis as Huiosis: An Afro-Thomistic Contextualization of Deification  
         Jackson Adamah, Duke Divinity School
       * The Image of God in Contemporary Theology  
         Daniel W. Houck, Southern Methodist University
       * The Possibility of Theology in A Secular Age  
         Tracey Mark Stout, Bluefield College
-  * Practical Studies I — Room: TBD — Presiding: 
+  * Practical Studies I — Room: TBD — Presiding:
       * Masculinities and Trauma: A Pastoral Analysis in Three Domains  
         Matthew S. Beal, Boston University
       * A Hermeneutical Approach to Baptist Spirituality: A Catholic-Baptist-Pentecostal Trialogue on the Question of Experience  
@@ -140,29 +137,29 @@ Glenn Jonas, Campbell University
 
 ### Tuesday, May 21 – Session II 1:30 – 3:15
 
-  * Old Testament II — Room: TBD — Presiding: TBD 
+  * Old Testament II — Room: TBD — Presiding: TBD
       * The Achievements of Robert Alter  
         Thomas J. Millay, Baylor University
       * The Four Senses of the Text: Gabriel Fackre’s Pastoral Hermeneutic as a Model for Integration of Theological Disciplines in the Interpretation of Scripture  
         Barry A. Jones, Campbell University Divinity School
-  * Church History II — Room: TBD — Presiding: TBD 
+  * Church History II — Room: TBD — Presiding: TBD
       * “The World That Now Is and the World That Is to Come”: Hanserd Knollys’ Eschatology  
         Bill Pitts, Baylor University
       * George Liele Was the First Baptist Missionary. So What?  
         John Inscore Essick, Baptist Seminary of Kentucky
       * The Distinctive Theology of Ministry of Baptist Preaching Giant, John Claypool  
         Doug Weaver, Baylor University
-  * Theology II — Room: TBD — Presiding: TBD 
+  * Theology II — Room: TBD — Presiding: TBD
       * Operant Pneumatologies in Church Decision-Making  
         Jon Kara Shields, University of Notre Dame
       * et’s Get Together: The Intersecting Traditions of Practicing Communities  
         Amy L. Chilton, Wingate University and Fuller Theological Seminary
       * “But Did It Happen?”: Understanding Textual Reference in James Wm. McClendon, Jr.’s Thought  
         Spencer Boersma, Acadia Divinity College
-  * Pedagogy I — Room: TBD — Presiding: TBD 
+  * Pedagogy I — Room: TBD — Presiding: TBD
       * Privilege, Bias, and the Classroom: A Panel Discussion on (or Resources for a) Critically Reflexive Pedagogy  
         Anna Sieges Beal (Gardner-Webb University), Scott Ryan (Baylor University), other panelists TBD
-  * Practical Studies II — Room: TBD — Presiding: TBD 
+  * Practical Studies II — Room: TBD — Presiding: TBD
       * Race, Education, and Poverty: Finding Salvation in the Louisiana Delta  
         Marc J. Boswell, Together for Hope, Louisiana
       * Responding to the Leadership Shortage in Rural Churches: Some Lessons from History and Cross-Cultural Missions  
@@ -186,23 +183,23 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
 ### Wednesday, May 22 – Session III 8:30 – 10:15
 
-  * Church History III —Room: TBD — Presiding: 
+  * Church History III —Room: TBD — Presiding:
       * The Importance of Repudiating the Doctrine of Discovery for Baptists  
         Adam DJ Brett, Syracuse University
       * Slavery, Racism, and Theological Higher Education: A Response to Southern Seminary’s Report on Slavery and Racism  
         Andrew Gardner, Florida State University
-  * Theology III — Room: TBD — Presiding: 
+  * Theology III — Room: TBD — Presiding:
       * To Sing against Singing: Roland Hayes’ Music and the Christ of his Spirituals  
         Thomas Breedlove, Baylor University
       * Palliative and Apocalyptic Monuments: Theologically Assessing Confederate Statues  
         Ryan Andrew Newson, Campbell University
-  * Pedagogy II —  Room: TBD — Presiding: 
+  * Pedagogy II —  Room: TBD — Presiding:
       * Teaching Christian History with The Wesley Bros Online Comics: Pedagogical Reflections  
         Scott C. Ryan, Baylor University
       * Experiential Learning and the Short-term Mission Trip: Moving from Experience to Transformation  
         Dennis J. Horton, Baylor University
-  * Practical Studies III  — Room: TBD — Presiding: 
-      * Silence, Tears, Ordination and Resistance: Historical, Theological and Pedagogical Perspectives on Women and the Church 
+  * Practical Studies III  — Room: TBD — Presiding:
+      * Silence, Tears, Ordination and Resistance: Historical, Theological and Pedagogical Perspectives on Women and the Church
           * The Silencing of Women in the Church: History, Problems, and Pedagogy  
             Jennifer A. Garcia Bashaw, Campbell University
           * The Humble Foolishness of God: Margery Kempe’s Tears  
@@ -217,11 +214,11 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 #### Panel: Discussion of Mikeal C. Parsons, _Crawford Howell Toy: From the Southern Baptist Theological Seminary to Harvard University_ (Perspectives on Baptist Identities, no. 2; Macon, GA: Mercer University Press, 2019)
 
   * Presiding: Mandy McMichael
-  * Panelists: 
+  * Panelists:
       * Bill Leonard, Wake Forest University School of Divinity
       * Carol Vaughn Cross, Samford University  
         Glenn Jonas, Campbell University
-  * Response: 
+  * Response:
       * Mikeal C. Parsons, Baylor University
 
 * * *

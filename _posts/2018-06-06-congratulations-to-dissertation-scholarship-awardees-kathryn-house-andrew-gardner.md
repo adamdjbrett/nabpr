@@ -2,10 +2,10 @@
 id: 1126
 title: 'Congratulations to Dissertation Scholarship Awardees Kathryn House &#038; Andrew Gardner'
 date: 2018-06-06T14:18:50+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=1126
+redirect_from: /?p=1126
 permalink: /2018/06/06/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
 categories:
   - Announcements

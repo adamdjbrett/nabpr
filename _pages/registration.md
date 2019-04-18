@@ -1,7 +1,7 @@
 ---
 ID: 190
 post_title: Registration
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/meetings/registration/

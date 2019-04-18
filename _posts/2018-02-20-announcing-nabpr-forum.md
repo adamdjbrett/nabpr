@@ -2,10 +2,10 @@
 id: 883
 title: Announcing NABPR Forum
 date: 2018-02-20T14:27:59+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-guid: https://nabpr.org/?p=883
+redirect_from: /?p=883
 permalink: /2018/02/20/announcing-nabpr-forum/
 image: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
 categories:
@@ -46,7 +46,7 @@ How to signup for [NABPR Forum (meta.nabpr.org)](https://meta.nabpr.org)
   * your registration will then be confirmed by Adam DJ Brett with Joyce Swoveland to ensure you are a current NABPR dues paying member. Below are some screenshots to assist with the process.
   * Comment on the [Constitutional Amendment thread](https://meta.nabpr.org/viewtopic.php?f=4&t=5). [You can read the amendment on nabpr.org](https://nabpr.org/about-nabpr/constitution/proposed-amendment-xi/).<figure id="attachment_884" aria-describedby="caption-attachment-884" style="width: 900px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-884" src="/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png" alt="" width="900" height="368" srcset="/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png 900w, /wp-content/uploads/2018/02/meta-nabpr-org-01-register-300x123.png 300w, /wp-content/uploads/2018/02/meta-nabpr-org-01-register-768x314.png 768w" sizes="(max-width: 900px) 100vw, 900px" />](/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png)<figcaption id="caption-attachment-884" class="wp-caption-text">meta.nabpr.org registration is in the top right corner of the page.</figcaption></figure> 
+[<img class="size-full wp-image-884" src="/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png" alt="" width="900" height="368" srcset="/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png 900w, /wp-content/uploads/2018/02/meta-nabpr-org-01-register-300x123.png 300w, /wp-content/uploads/2018/02/meta-nabpr-org-01-register-768x314.png 768w" sizes="(max-width: 900px) 100vw, 900px" />](/wp-content/uploads/2018/02/meta-nabpr-org-01-register.png)<figcaption id="caption-attachment-884" class="wp-caption-text">meta.nabpr.org registration is in the top right corner of the page.</figcaption></figure>
 
 &nbsp;<figure id="attachment_885" aria-describedby="caption-attachment-885" style="width: 913px" class="wp-caption aligncenter">
 

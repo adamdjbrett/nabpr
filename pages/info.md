@@ -12,6 +12,21 @@ redirect_from:
   - /sample-page/
   - ?page_id=2
   - /?page_id=68
+  - /2016/05/20/announcement-sample-post/
+  - /2016/05/20/cfp-sample/
+  - /2016/05/20/general-post/
+  - /2016/05/20/job-listing-sample-post/
+  - /2016/05/20/nabpr-notes-sample-post/  
+  - /2016/05/20/resources-of-interest-sample/
+  - /2019/01/15/hello-world/
+  - /?p=132
+  - /?p=130
+  - /?p=119
+  - /?p=134
+  - /?p=136
+  - /?p=138
+  - /?p=1
+breadcrumb: true  
 ---
 ## Introduction to the NABPR
 

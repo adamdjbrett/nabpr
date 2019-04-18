@@ -1,7 +1,7 @@
 ---
 ID: 164
 post_title: 'NABPR Region at Large &#8211; 2010'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

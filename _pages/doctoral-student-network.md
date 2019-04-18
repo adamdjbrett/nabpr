@@ -1,7 +1,7 @@
 ---
 ID: 316
 post_title: Doctoral Student Network
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

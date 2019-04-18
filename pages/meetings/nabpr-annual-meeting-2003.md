@@ -2,10 +2,11 @@
 id: 174
 title: 'NABPR Annual Meeting &#8211; 2003'
 date: 2016-08-21T16:32:28+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=174
+breadcrumb: true
 ---
 **Minutes of the 2003 Annual Meeting**
 

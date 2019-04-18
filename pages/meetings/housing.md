@@ -2,11 +2,12 @@
 id: 450
 title: Housing
 date: 2017-03-21T18:32:01+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 permalink: /meetings/housing/
 redirect_from: /?page_id=450
+breadcrumb: true
 ---
 ### 2019 NABPR Program Meeting Hotels Near First Baptist Church, Raleigh
 

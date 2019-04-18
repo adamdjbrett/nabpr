@@ -2,10 +2,11 @@
 id: 579
 title: Official Program for the 2017 Annual Meeting of NABPR
 date: 2017-05-21T18:13:44+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=579
+breadcrumb: true
 ---
 <p style="text-align: left;">
   <a href="/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf">Click here for the program in PDF format. The PDF is always the most up-to-date. </a>

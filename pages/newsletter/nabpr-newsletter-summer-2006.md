@@ -2,10 +2,11 @@
 id: 194
 title: 'NABPR Newsletter &#8211; Summer, 2006'
 date: 2016-08-21T21:41:52+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: page
 redirect_from: /?page_id=194
+breadcrumb: true
 ---
 <span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">Baptist Doctoral Student Network</span>
 
@@ -28,7 +29,7 @@ redirect_from: /?page_id=194
 <span style="color: #cc6600; font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman'; font-size: large;"><b>A Note from the Executive-Secretary</b></span>****<span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';"><br /> </span>  
 _**<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Danny Mynatt, Anderson College</span>**_
 
-<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Dues and memberships are keeping pace with last year. If you have not paid your dues yet, please do that as soon as you can. If you have some question about your membership, please email Mary Ann at CSSR@rice.edu.</p> 
+<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Dues and memberships are keeping pace with last year. If you have not paid your dues yet, please do that as soon as you can. If you have some question about your membership, please email Mary Ann at CSSR@rice.edu.</p>
 
 <p>
   I am hopeful that CSSR is getting back on its feet. Mary Ann is very resourceful and should be able to answer any questions you might have. If you have other NABPR-related questions, please let me know.
@@ -62,49 +63,49 @@ _**<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Da
 
 <p align="left">
   <hr />
-  
+
   <p>
     <span style="color: #cc6600; font-size: large;"><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Becker and Angelov Awarded Dissertation Scholarships<br /> </span></strong></span><span style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: small;"><em><strong>Curtis Freeman, President of the NABPR</strong></em></span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">G. Scott Becker and Kristian T. Angelov have been selected as recipients of the first NABPR dissertation scholarships. Each scholarship provides a one time award of $3,000 plus two $1,000 travel stipends to attend the NABPR national meeting for two years.</span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Becker is a PhD candidate at Fuller Theological Seminary and is writing a dissertation entitled “Resistance and Participation: the Way of Jesus and Public Discourse in the Work of Karl Barth, André Trochmé and Christopher Marshall.” His dissertation supervisor is Glen Stassen, who will also serve as Becker’s faculty mentor.</span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Commenting on Becker’s dissertation, Glen Stassen said: “He writes with excellent balance and fairness to different viewpoints, very clear organization and logic, and constructive insight, not only analyzing incisively but also proposing creatively and wisely. . . . I predict his dissertation will be an important argument and very well written, highly likely to deserve publication.”</span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Angleov is completing his PhD at Oxford Center for Mission Studies. He is writing a dissertation on “Divine Self-Limitation and Divine Self-Emptying” which draws on Orthodox and Protestant theologians. Loyd Allen, one of Angelov’s former professors at McAfee School of Theology, will be his faculty mentor.</span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Angelov, whose father and grandfather were Baptist pastors in Bulgaria during the era of communist domination, is currently serving as a pastor in Didcot, Oxfordshire while completing his dissertation. Loyd Allen declared his confidence in Angelov: “Kris has great potential as a professor, a minister and a Baptist influence internationally.”</span>
   </p>
-  
+
   <p>
     <span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">The dissertation scholarships demonstrate the commitment of NABPR to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity. The particular purpose of the NABPR dissertation scholarship is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.<br /> </span>
   </p>
-  
+
   <p>
     &nbsp;
   </p>
-  
+
   <p>
     &nbsp;
   </p>
-  
+
   <hr />
-  
+
   <p>
     <span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: small;"><strong>FYI</strong></span>
   </p>
-  
+
   <p>
     <span style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: small;">Dr. Mikeal Parsons, Baylor University, and Dr. Bill Leonard, Wake Forest Divinity School, received a grant from the Louisville Institute to work on the Baptists’ Bible project during 2006-07. This project will gather and catalogue four hundred years of Baptist interpretations of Luke and Acts in commentaries, sermons, hymns, devotional materials and other genres of literature. Sample pages from the Baptists’ Bible were distributed at the 2005 NABPR meeting as part of Mikeal Parsons’ presidential address and will be reprinted in the summer, 2006 issue of Perspectives in Religious Studies.</span>
   </p>

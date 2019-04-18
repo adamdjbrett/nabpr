@@ -2,10 +2,10 @@
 id: 339
 title: 'Melanie Trexler&#8217;s forthcoming book'
 date: 2016-08-29T21:41:22+00:00
-author: Adam DJ Brett
+author: adamdjbrett
 excerpt: |
 layout: post
-/?p=339
+redirect_from: /?p=339
 permalink: /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
 image: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
 categories:
@@ -24,7 +24,7 @@ tags:
 
 <!--more--><figure id="attachment_340" aria-describedby="caption-attachment-340" style="width: 200px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-340" src="http://nabpr.org/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg" alt="via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html" width="200" height="300" srcset="/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg 200w, /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg 667w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html)<figcaption id="caption-attachment-340" class="wp-caption-text">via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html</figcaption></figure> 
+[<img class="size-medium wp-image-340" src="http://nabpr.org/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg" alt="via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html" width="200" height="300" srcset="/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg 200w, /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg 667w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html)<figcaption id="caption-attachment-340" class="wp-caption-text">via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html</figcaption></figure>
 
 ## Evangelizing Lebanon
 

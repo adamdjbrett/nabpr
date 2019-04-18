@@ -1,7 +1,7 @@
 ---
 ID: 174
 post_title: 'NABPR Annual Meeting &#8211; 2003'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

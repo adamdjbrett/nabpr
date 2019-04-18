@@ -1,7 +1,7 @@
 ---
 ID: 209
 post_title: 'NABPR Newsletter &#8211; Fall, 2003'
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: >

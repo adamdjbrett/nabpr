@@ -1,7 +1,7 @@
 ---
 ID: 450
 post_title: Housing
-author: Adam DJ Brett
+author: adamdjbrett
 post_excerpt: ""
 layout: page
 permalink: https://nabpr.org/meetings/housing/

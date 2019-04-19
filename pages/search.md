@@ -6,4 +6,4 @@ sitemap: true
 breadcrumb: true
 ---
 
- {% include search-lunr.html.html %}
+ {% include search-lunr.html %}

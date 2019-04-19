@@ -367,8 +367,8 @@ body.video cite { color: #fff; }
 */
 .page-meta {
   p{
-    @include font-size(14,no);
-    font-family: $alt-font;
+    @include font-size: rem-calc(14);
+    font-family: $font-family-sans-serif;
     color: lighten($black,60);
     }
   }

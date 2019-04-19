@@ -4,7 +4,7 @@ title: 'CFP: College Theology Society and NABPR Region-at-Large'
 date: 2018-10-23T12:00:31+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1254
 permalink: /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/
 image: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg

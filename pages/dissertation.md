@@ -5,6 +5,7 @@ date: 2016-05-20T19:16:58+00:00
 author: adamdjbrett
 excerpt: |
 layout: page
+permalink: /dissertation/
 redirect_from: /?page_id=71
 breadcrumb: true
 ---

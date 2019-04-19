@@ -4,7 +4,7 @@ title: Crescent Hill Baptist Church lecture series
 date: 2019-03-01T18:25:38+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1740
 permalink: /2019/03/01/crescent-hill-baptist-church-lecture-series/
 categories:

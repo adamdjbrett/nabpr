@@ -4,7 +4,7 @@ title: NABPR Executive Committee Statement
 date: 2017-02-27T16:35:09+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=435
 permalink: /2017/02/27/nabpr-executive-committee-statement/
 image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png

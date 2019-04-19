@@ -4,7 +4,7 @@ title: NABPR-SE Regional Meeting Program March 2018
 date: 2017-11-16T17:50:14+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=772
 permalink: /2017/11/16/nabpr-se-regional-meeting-program/
 image: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png

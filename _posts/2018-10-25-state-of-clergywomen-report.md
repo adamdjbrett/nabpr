@@ -4,7 +4,7 @@ title: New Report on the State of Clergywomen in the U.S. is now available 
 date: 2018-10-25T10:47:13+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1273
 permalink: /2018/10/25/state-of-clergywomen-report/
 image: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png

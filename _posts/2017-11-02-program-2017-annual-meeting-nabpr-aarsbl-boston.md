@@ -4,7 +4,7 @@ title: Program for the 2017 Annual Meeting of NABPR at AAR/SBL in Boston
 date: 2017-11-02T17:38:57+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=763
 permalink: /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
 image: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png

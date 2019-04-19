@@ -4,7 +4,7 @@ title: NABPR 2018 Meeting at Gardner-Webb Program
 date: 2018-02-19T13:53:08+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=831
 permalink: /2018/02/19/meeting-at-gardner-webb-program/
 image: /wp-content/uploads/2017/09/gardner-webb-university.jpg

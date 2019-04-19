@@ -4,7 +4,7 @@ title: 'Job: James and Marilyn Dunn Chair of Baptist Studies, Wake Forest Univer
 date: 2018-10-23T15:39:54+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1261
 permalink: /2018/10/23/job-james-and-marilyn-dunn-chair-of-baptist-studies-wake-forest-university-school-of-divinity/
 image: /wp-content/uploads/2018/10/Wake-Forest-University-School-of-Divinity.jpg

@@ -4,7 +4,7 @@ title: A Proposal for Baylor University Press and the National Association of Ba
 date: 2018-05-11T18:25:39+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1042
 permalink: /2018/05/11/proposal-baylor-university-press-nabpr-perspectives-in-religious-studies/
 image: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png

@@ -4,7 +4,7 @@ title: 'Blessed Among Women?  Mothers and Motherhood in the New Testament'
 date: 2017-12-04T16:41:12+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=782
 permalink: /2017/12/04/blessed-among-women-mothers-motherhood-new-testament/
 image: /wp-content/uploads/2017/12/9780190677084.jpeg

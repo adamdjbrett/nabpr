@@ -4,7 +4,7 @@ title: 'Melanie Trexler&#8217;s forthcoming book'
 date: 2016-08-29T21:41:22+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=339
 permalink: /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
 image: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg

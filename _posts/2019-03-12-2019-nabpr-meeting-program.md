@@ -4,7 +4,7 @@ title: 2019 NABPR Meeting Program
 date: 2019-03-12T15:40:40+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: ?p=1751
 permalink: /2019/03/12/2019-nabpr-meeting-program/
 categories:

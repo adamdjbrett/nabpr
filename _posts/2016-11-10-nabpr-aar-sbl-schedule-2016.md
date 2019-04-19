@@ -4,7 +4,7 @@ title: NABPR Schedule for Meeting with AAR-SBL 2016
 date: 2016-11-10T14:18:40+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=403
 permalink: /2016/11/10/nabpr-aar-sbl-schedule-2016/
 image: /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png

@@ -4,7 +4,7 @@ title: The Baylor Department of Religion Open Faculty Positions
 date: 2016-08-29T21:14:20+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=333
 permalink: /2016/08/29/baylor-department-religion-open-faculty-positions/
 image: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg

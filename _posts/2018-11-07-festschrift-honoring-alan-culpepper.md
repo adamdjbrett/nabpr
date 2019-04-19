@@ -4,7 +4,7 @@ title: Festschrift Honoring Alan Culpepper
 date: 2018-11-07T15:34:42+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1301
 permalink: /2018/11/07/festschrift-honoring-alan-culpepper/
 categories:

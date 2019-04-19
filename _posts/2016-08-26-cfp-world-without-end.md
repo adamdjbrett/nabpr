@@ -4,7 +4,7 @@ title: 'CFP: World Without End'
 date: 2016-08-26T20:48:02+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=262
 permalink: /2016/08/26/cfp-world-without-end/
 image: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg

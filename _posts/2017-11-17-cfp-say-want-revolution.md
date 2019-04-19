@@ -4,7 +4,7 @@ title: 'CFP: You say you want a revolution'
 date: 2017-11-17T10:44:50+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=776
 permalink: /2017/11/17/cfp-say-want-revolution/
 image: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg

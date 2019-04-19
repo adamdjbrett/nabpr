@@ -4,7 +4,7 @@ title: NABPR Meeting Agenda Thirty-Eighth Annual Meeting
 date: 2018-05-22T12:03:47+00:00
 author: adamdjbrett
 excerpt: |
-layout: blog
+layout: page
 redirect_from: /?p=1080
 permalink: /2018/05/22/nabpr-meeting-38-agenda/
 categories:

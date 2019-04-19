@@ -4,7 +4,7 @@ title: 'CFP: 2017 NABPR Annual Meeting'
 date: 2016-08-31T16:10:08+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=357
 permalink: /2016/08/31/cfp-2017-nabpr-annual-meeting/
 image: /wp-content/uploads/2016/08/belmont-1568x1132.jpg

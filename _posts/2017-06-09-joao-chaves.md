@@ -4,7 +4,7 @@ title: 'Announcing Dissertation Scholarship Awardee: João Chaves'
 date: 2017-06-09T16:41:31+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=597
 permalink: /2017/06/09/joao-chaves/
 image: /wp-content/uploads/2017/06/Chaves_Joao.jpg

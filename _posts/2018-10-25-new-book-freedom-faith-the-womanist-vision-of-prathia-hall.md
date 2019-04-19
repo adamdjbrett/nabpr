@@ -4,7 +4,7 @@ title: 'New Book: Freedom Faith: The Womanist Vision of Prathia Hall'
 date: 2018-10-25T11:11:23+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: ?p=1264
 permalink: /2018/10/25/new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
 categories:

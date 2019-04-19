@@ -4,7 +4,7 @@ title: Announcing NABPR Forum
 date: 2018-02-20T14:27:59+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=883
 permalink: /2018/02/20/announcing-nabpr-forum/
 image: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg

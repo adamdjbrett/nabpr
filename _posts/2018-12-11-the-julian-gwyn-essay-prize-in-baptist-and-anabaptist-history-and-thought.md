@@ -6,7 +6,7 @@ author: adamdjbrett
 excerpt: |
 
   The Acadia Centre for Baptist and Anabaptist Studies (ACBAS) is pleased to announce a new prize competition in the general field of Baptist and Anabaptist history and thought, especially in Canada’s Atlantic region.
-layout: post
+layout: blog
 redirect_from: /?p=1381
 permalink: /2018/12/11/the-julian-gwyn-essay-prize-in-baptist-and-anabaptist-history-and-thought/
 image: /wp-content/uploads/2018/12/ACBAS-Essay-Prize-IMG.jpg

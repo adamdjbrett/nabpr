@@ -4,7 +4,7 @@ title: Fundamentalism, Fundraising, and the Transformation of the Southern Bapti
 date: 2016-08-30T13:25:15+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=352
 permalink: /2016/08/30/andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
 image: /wp-content/uploads/2016/08/Andrew-Christopher-Smith.jpg

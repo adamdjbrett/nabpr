@@ -4,7 +4,7 @@ title: 'New Book: Inhabiting the World: Identity, Politics, and Theology in Radi
 date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=1106
 permalink: /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
 image: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg

@@ -4,7 +4,7 @@ title: Dissertation Scholarship Annoucement
 date: 2016-10-03T15:28:56+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=389
 permalink: /2016/10/03/dissertation-scholarship/
 image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png

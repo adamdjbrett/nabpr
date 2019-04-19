@@ -4,7 +4,7 @@ title: NABPR at the 2016 AAR-SBL
 date: 2016-11-08T18:14:00+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=399
 permalink: /2016/11/08/nabpr-aar-sbl/
 image: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook.png

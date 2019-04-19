@@ -4,7 +4,7 @@ title: A Note from the NABPR Region-at-Large affirming women in Baptist Life
 date: 2018-06-08T14:27:08+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=1136
 permalink: /2018/06/08/a-note-from-the-nabpr-region-at-large-affirming-women-in-baptist-life/
 image: /wp-content/uploads/2017/06/nabpr-site-icon.png

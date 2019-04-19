@@ -4,7 +4,7 @@ title: Mitchell G. Reddish Festschrift
 date: 2018-05-25T13:37:04+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=1093
 permalink: /2018/05/25/reddish-festschrift/
 image: /wp-content/uploads/2018/05/nash-reddish-queen-min-1-1568x1176.jpg

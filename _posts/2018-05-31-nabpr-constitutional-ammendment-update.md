@@ -4,7 +4,7 @@ title: NABPR Constitutional Amendment Update
 date: 2018-05-31T20:37:22+00:00
 author: adamdjbrett
 excerpt: |
-layout: post
+layout: blog
 redirect_from: /?p=1114
 permalink: /2018/05/31/nabpr-constitutional-ammendment-update/
 image: /wp-content/uploads/2017/06/nabpr-site-icon.png

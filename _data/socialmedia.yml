@@ -4,14 +4,14 @@
   title: "Follow NABPR on Twitter"
 
 - name: Facebook
-   url: http://www.facebook.com/nabpr
-   class: icon-facebook
-   title: "Follow NABPR on Facebook"
+  url: http://www.facebook.com/nabpr
+  class: icon-facebook
+  title: "Follow NABPR on Facebook"
 
-#- name: Linkedin
-#   url: http://linkedin.com/company/national-association-of-baptist-professors-of-religion
-#   class: icon-linkedin
-#   title: "Follow NABPR on Linkedin"
+- name: Linkedin
+  url: http://linkedin.com/company/national-association-of-baptist-professors-of-religion
+  class: icon-linkedin
+  title: "Follow NABPR on Linkedin"
 
 #- name: GitHub
 #  url: http://github.com/adamdjbrett/NABPR

@@ -3,7 +3,7 @@ id: 1751
 title: 2019 NABPR Meeting Program
 date: 2019-03-12T15:40:40+00:00
 author: adamdjbrett
-excerpt: "Welcome to the Annual May Meeting of NABPR. Save the date for 2020: Baylor University will host our Annual Meeting on May 18-20. Also, mark your calendar for November 23, 2019. This year’s plenary speaker for our November meeting will be Dr. Charles Kimball. At this year’s meeting, we will consider changing our dues structure for the first time since 1992. Adam D. J. Brett has been leading an ad hoc committee who has been looking into revising and simplifying dues payments. He will give a report at the Annual Business Meeting. Many thanks go to Steve Harmon, our President, Christine Jones, Vice-President, and Glenn Jonas, our on-site coordinator. We are grateful to the First Baptist Church and Campbell University for their support of NABPR and this meeting. I look forward to seeing you in Raleigh."
+excerpt: "Welcome to the Annual May Meeting of NABPR. Many thanks go to Steve Harmon, our President, Christine Jones, Vice-President, and Glenn Jonas, our on-site coordinator. We are grateful to the First Baptist Church and Campbell University for their support of NABPR and this meeting. I look forward to seeing you in Raleigh."
 layout: page
 redirect_from: ?p=1751
 permalink: /2019/03/12/2019-nabpr-meeting-program/

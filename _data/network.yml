@@ -1,9 +1,19 @@
-- menu_name: "Perspectives in Religious Studies (PRSt)"
+- menu_name: "(PRSt)"
 
-- name: "Perspectives in Religious Studies (PRSt). ISSN: 0093-531X, ISSN-L: 0093-531X"
+- name: "Perspectives in Religious Studies (PRSt)."
   url: "https://www.baylor.edu/prs/"
   class: "network-prs"
   title: "Perspectives in Religious Studies (PRSt). ISSN: 0093-531X, ISSN-L: 0093-531X"
+
+- name: "ISSN: 0093-531X"
+  url: "https://www.baylor.edu/prs/"
+  class: "network-prs"
+  title: "ISSN: 0093-531X"
+
+- name: "ISSN-L: 0093-531X"
+  url: "https://www.baylor.edu/prs/"
+  class: "network-prs"
+  title: "ISSN-L: 0093-531X"
 
 - name: "PRSt Index"
   url: "http://www.baylor.edu/prs/index.php?id=6076"

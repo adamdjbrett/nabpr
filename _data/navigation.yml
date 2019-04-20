@@ -6,6 +6,8 @@
   url: "/info/"
   side: left
   dropdown:
+  - title: "Donate"
+    url: "/donate/"
   - title: "Affiliated Organizations"
     url: "/about/affiliated-organizations/"
   - title: "Constitution"

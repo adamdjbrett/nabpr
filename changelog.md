@@ -15,5 +15,7 @@ breadcrumb: true
   - fix thumbnails and header images not working
   - categories and tags pages
   - can I disable `urlimg`
+  - fix sidebar of blog
+  - fix homepage
 ## 2019-04-17 // Version 1.0
 : After WordPress continually crashed under the weight of the site I moved it to the Jekyll Static Site Generator.

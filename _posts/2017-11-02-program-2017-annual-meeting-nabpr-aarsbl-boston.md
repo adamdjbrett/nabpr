@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=763
 permalink: /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
-image: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png
+image:
+  title: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png
+  thumb: /wp-content/uploads/2017/11/NABPR-Boston-Meeting-150x150.png
 categories:
   - Announcements
   - General

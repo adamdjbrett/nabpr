@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=262
 permalink: /2016/08/26/cfp-world-without-end/
-image: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
+image:
+  title: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
+  thumb: /wp-content/uploads/2016/08/World-Without-End-Webpage-150x150.jpg
 categories:
   - Calls for Papers (CFP)
 tags:

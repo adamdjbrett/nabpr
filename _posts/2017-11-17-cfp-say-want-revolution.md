@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=776
 permalink: /2017/11/17/cfp-say-want-revolution/
-image: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg
+image:
+  title: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg
+  thumb: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008-150x150.jpg
 categories:
   - Announcements
   - Calls for Papers (CFP)

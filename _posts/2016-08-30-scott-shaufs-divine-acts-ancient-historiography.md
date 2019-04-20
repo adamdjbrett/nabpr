@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=346
 permalink: /2016/08/30/scott-shaufs-divine-acts-ancient-historiography/
-image: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h.jpg
+image:
+  title: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h.jpg
+  thumb: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h-150x150.jpg
 categories:
   - Books of Interest
 tags:

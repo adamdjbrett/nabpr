@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=772
 permalink: /2017/11/16/nabpr-se-regional-meeting-program/
-image: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png
+image:
+  title: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png
+  thumb: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min-150x150.png
 categories:
   - Announcements
   - Schedule

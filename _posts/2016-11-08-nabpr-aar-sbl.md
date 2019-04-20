@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=399
 permalink: /2016/11/08/nabpr-aar-sbl/
-image: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook.png
+image:
+  title: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook.png
+  thumb: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook-150x150.png
 categories:
   - Announcements
   - General

@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=389
 permalink: /2016/10/03/dissertation-scholarship/
-image: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
+image:
+  title: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
+  thumb: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent-150x150.png
 categories:
   - Announcements
   - Scholarship

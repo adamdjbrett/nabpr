@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=597
 permalink: /2017/06/09/joao-chaves/
-image: /wp-content/uploads/2017/06/Chaves_Joao.jpg
+image:
+  title: /wp-content/uploads/2017/06/Chaves_Joao.jpg
+  thumb: /wp-content/uploads/2017/06/Chaves_Joao-150x150.jpg
 categories:
   - Announcements
   - General

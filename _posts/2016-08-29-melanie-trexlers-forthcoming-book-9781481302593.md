@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=339
 permalink: /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
-image: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
+image:
+  title: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
+  thumb: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-150x150.jpeg
 categories:
   - Books of Interest
   - NABPR Notes

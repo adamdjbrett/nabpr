@@ -3,7 +3,7 @@ id: 322
 title: Facebook Group
 date: 2016-08-29T18:49:03+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /contact-us/facebook-group/
 redirect_from: "/?page_id=322"

@@ -3,7 +3,7 @@ id: 207
 title: 'NABPR Newsletter &#8211; Winter, 2003'
 date: 2016-08-21T21:52:09+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=207
 breadcrumb: true

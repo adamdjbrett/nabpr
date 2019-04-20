@@ -3,7 +3,7 @@ id: 164
 title: 'NABPR Region at Large &#8211; 2010'
 date: 2016-08-21T16:21:41+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=164
 breadcrumb: true

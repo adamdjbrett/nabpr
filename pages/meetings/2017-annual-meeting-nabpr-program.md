@@ -3,7 +3,7 @@ id: 579
 title: Official Program for the 2017 Annual Meeting of NABPR
 date: 2017-05-21T18:13:44+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=579
 breadcrumb: true

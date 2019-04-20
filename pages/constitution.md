@@ -3,7 +3,7 @@ id: 90
 title: Constitution
 date: 2016-05-20T19:30:55+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /about/constitution/
 redirect_from:

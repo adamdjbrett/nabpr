@@ -3,7 +3,7 @@ id: 92
 title: Newsletter
 date: 2016-05-20T19:31:53+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /newsletter/
 redirect_from: "/?page_id=92"

@@ -2,7 +2,7 @@
 title: Affiliated Organizations
 date: 2016-05-20T19:53:26+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /about/affiliated-organizations/
 redirect_from:

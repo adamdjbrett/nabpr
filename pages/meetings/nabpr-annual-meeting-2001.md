@@ -3,7 +3,7 @@ id: 170
 title: 'NABPR Annual Meeting &#8211; 2001'
 date: 2016-08-21T16:29:08+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=170
 breadcrumb: true

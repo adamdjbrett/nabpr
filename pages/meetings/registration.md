@@ -3,7 +3,7 @@ id: 190
 title: Registration
 date: 2016-08-21T16:42:35+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /meetings/registration/
 redirect_from: /?page_id=190

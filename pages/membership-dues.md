@@ -3,7 +3,7 @@ id: 79
 title: Membership Dues
 date: 2016-05-20T19:22:19+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /membership/membership-dues/
 redirect_from: "/?page_id=79"

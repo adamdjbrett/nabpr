@@ -3,7 +3,7 @@ id: 316
 title: Doctoral Student Network
 date: 2016-08-29T18:33:58+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /contact-us/doctoral-student-network/
 redirect_from: "/?page_id=316"

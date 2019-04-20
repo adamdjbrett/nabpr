@@ -3,7 +3,7 @@ id: 202
 title: 'NABPR Newsletter &#8211; Spring, 2004'
 date: 2016-08-21T21:47:32+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=202
 breadcrumb: true

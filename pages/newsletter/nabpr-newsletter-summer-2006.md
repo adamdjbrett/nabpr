@@ -3,7 +3,7 @@ id: 194
 title: 'NABPR Newsletter &#8211; Summer, 2006'
 date: 2016-08-21T21:41:52+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=194
 breadcrumb: true

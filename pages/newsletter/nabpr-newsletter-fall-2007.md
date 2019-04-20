@@ -3,7 +3,7 @@ id: 192
 title: 'NABPR Newsletter &#8211; Fall, 2007'
 date: 2016-08-21T21:40:13+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=192
 breadcrumb: true

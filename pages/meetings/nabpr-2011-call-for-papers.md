@@ -3,7 +3,7 @@ id: 183
 title: NABPR 2011 Call for Papers
 date: 2016-08-21T16:38:06+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from:  /?page_id=183
 breadcrumb: true

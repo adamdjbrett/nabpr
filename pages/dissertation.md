@@ -3,7 +3,7 @@ id: 71
 title: Dissertation Scholarship
 date: 2016-05-20T19:16:58+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /dissertation/
 redirect_from: /?page_id=71

@@ -3,7 +3,7 @@ id: 75
 title: Meetings
 date: 2016-05-20T19:19:17+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /meetings/
 redirect_from: "/?page_id=75"

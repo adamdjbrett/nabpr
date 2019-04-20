@@ -3,7 +3,7 @@ id: 374
 title: Privacy Policy
 date: 2016-09-05T00:19:21+00:00
 author: adamdjbrett
-excerpt: |
+teaser: The National Association of Baptist Professors of Religion Privacy Policy
 layout: page
 permalink: /privacy-policy/
 redirect_from:
@@ -21,27 +21,6 @@ breadcrumb: true
 </div>
 
 
-
-
-Information Usage
-
-Information Protection
-
-Cookie Usage
-
-3rd Party Disclosure
-
-3rd Party Links
-
-Google AdSense
-
-Fair Information Practices
-
-Fair information Practices
-
-COPPA
-
-CalOPPA
 
 ## Our Contact Information
 

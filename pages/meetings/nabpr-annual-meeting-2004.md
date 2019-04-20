@@ -3,7 +3,7 @@ id: 176
 title: 'NABPR Annual Meeting &#8211; 2004'
 date: 2016-08-21T16:33:32+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?page_id=176
 breadcrumb: true

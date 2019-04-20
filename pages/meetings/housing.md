@@ -3,7 +3,7 @@ id: 450
 title: Housing
 date: 2017-03-21T18:32:01+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /meetings/housing/
 redirect_from: /?page_id=450

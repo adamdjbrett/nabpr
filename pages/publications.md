@@ -3,7 +3,7 @@ id: 84
 title: Publications
 date: 2016-05-20T19:27:18+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 permalink: /publications/
 redirect_from: /?page_id=84
@@ -14,33 +14,31 @@ breadcrumb: true
 
 The backbone of the NABPR is its publications. Since 1973 the Association has published the journal, _[Perspectives in Religious Studies](http://www.baylor.edu/prs/)_ (PRSt) (which has been quarterly since 1974). [How to Submit a Manuscript to PRSt](http://www.baylor.edu/prs/index.php?id=6073).
 
-<p style="padding-left: 30px;">
-  <a href="http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live"><em>Perspectives in Religious Studies</em> (PRSt)</a> bibliographic data information is as follows:<br /> <a href="http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live">ATLA: ATLA0000003459</a> | ISSN: 0093-531X | ISSN-L: 0093-531X<br /> <a href="http://www.worldcat.org/oclc/1378270">WorldCat entry</a> | <a href="http://miar.ub.edu/issn/0093-531X">Information Matrix for the Analysis of Journals</a><br /> <a href="https://www.zotero.org/groups/perspectives-in-religious-studies">Follow Perspectives in Religious Studies on Zotero</a> | <a href="https://www.mendeley.com/groups/10136871/perspectives-in-religious-studies/">Follow Perspectives in Religious Studies on Mendeley</a>
-</p>
+- [_Perspectives in Religious Studies_ (PRSt)](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live)
+- bibliographic data information is as follows:  
+  - [ATLA: ATLA0000003459](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live) \| ISSN: 0093-531X \| ISSN-L: 0093-531X  
+  - [WorldCat entry](http://www.worldcat.org/oclc/1378270)
+  - [Information Matrix for the Analysis of Journals](http://miar.ub.edu/issn/0093-531X)  
+  - [Follow Perspectives in Religious Studies on Zotero](https://www.zotero.org/groups/perspectives-in-religious-studies)
+  - [Follow Perspectives in Religious Studies on Mendeley](https://www.mendeley.com/groups/10136871/perspectives-in-religious-studies/)
 
 In 1990 and 1995 the Association collaborated with Mercer University Press to produce two very successful reference volumes for students of the Bible. The _Mercer Dictionary of the Bible_ and the _Mercer Commentary on the Bible_ are the crowning achievements in publication to date for the Association.
 
-Since 1996 [<span style="color: #993333;">R. Scott Nash</span>](mailto:nash_rs@mercer.edu) has been the Senior Editor for the Association, overseeing all of the publication projects.
+Since 1996 [R. Scott Nash](mailto:nash_rs@mercer.edu) has been the Senior Editor for the Association, overseeing all of the publication projects.
 
-The  NABPR also has to a quarterly newsletter (<span style="color: #000000;"><i><a href="http://nabpr.org/about-nabpr/history/newsletter/">NABPRNews</a></i></span>) that publishes updated information about the association and its members. NABPRNews is edited by [<span style="color: #993333;">James P. Byrd, Jr</span>](mailto:james.p.byrd@vanderbilt.edu). Members are encouraged to submit updated career information to the editor. ** **
+The  NABPR also has to a quarterly newsletter (_[NABPRNews](/newsletter/)_) that publishes updated information about the association and its members. NABPRNews is edited by [James P. Byrd, Jr](mailto:james.p.byrd@vanderbilt.edu). Members are encouraged to submit updated career information to the editor. 
 
-<h3 align="left">
-  <b>Mercer Dictionary of the Bible</b>
-</h3>
+****
 
-<p align="left">
-  Watson E. Mills, general editor
-</p>
+### **Mercer Dictionary of the Bible**
+
+Watson E. Mills, general editor
 
 The Mercer Dictionary of the Bible includes more than 1,000 pages of original materials relating to every aspect of biblical studies. The 1,450 articles are written by members of the National Association of Baptist Professors of Religion. It contains 64 pages of four-color maps, charts, and photographs and 156 black-and-white illustrations throughout the text. An outline of each canonical books is also available in this volume.
 
-<h3 align="left">
-  <b>Mercer</b><b> Commentary on the Bible<br /> </b>
-</h3>
+### **Mercer** **Commentary on the Bible**
 
-Watson E. Mills & Richard F. Wilson, general editors
-
-This one-volume commentary on the entire Bible distinguishes itself as a leading work in biblical studies. It is the first one-volume commentary based on the New Revised Standard Version of the Bible. It covers the complete Bible, including the apocryphal/deutercanonical books. The Mercer Commentary includes introductory articles on the nature of Scripture, its interpretation, and its role in theology and church. The intended audience is students engaged in Bible study, ministers seeking clear and concise treatment of texts, and laypersons involved in personal and group study; the Mercer Commentary should also be helpful for professionals in various theological disciplines.
+Watson E. Mills & Richard F. Wilson, general editors This one-volume commentary on the entire Bible distinguishes itself as a leading work in biblical studies. It is the first one-volume commentary based on the New Revised Standard Version of the Bible. It covers the complete Bible, including the apocryphal/deutercanonical books. The Mercer Commentary includes introductory articles on the nature of Scripture, its interpretation, and its role in theology and church. The intended audience is students engaged in Bible study, ministers seeking clear and concise treatment of texts, and laypersons involved in personal and group study; the Mercer Commentary should also be helpful for professionals in various theological disciplines.
 
 ## **Perspectives on Baptist Identities**
 
@@ -61,7 +59,3 @@ Please submit proposals for book length contributions to the series editors: Dr.
   5. A **sample chapter** from the book.
   6. Four or five **comparable titles** and an identification of the **target audience** of the book.
   7. **A current CV,** listing education, all academic and professional positions, and major academic publications.
-
-&nbsp;
-
-&nbsp;

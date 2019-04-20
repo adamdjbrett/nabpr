@@ -26,10 +26,8 @@ breadcrumb: true
   * NABPR/Southwest: [Larry McGraw](https://www.hsutx.edu/faculty-profile/logsdon/mcgraw-larry/), Hardin-Simmons University
   * NABPR Region-At-Large: [Philip Thompson,](https://sfseminary.edu/about-the-seminary/faculty-and-staff/philip-thompson/) Sioux-Falls Seminary
 
-* * *
+***
 
 ### Staff
 
   * ASSISTANT TO THE EXECUTIVE SECRETARY-TREASURER: Joyce Swoveland, Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 (<Joyce_Swoveland@baylor.edu>) phone: 254-710-3758 fax: 254-710-3740
-
-&nbsp

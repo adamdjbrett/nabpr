@@ -30,7 +30,7 @@ Courtney Pace, _Freedom Faith: The Womanist Vision of Prathia Hall Hardcover_ â€
 
 Announcing,Â _Freedom Faith: The Womanist Vision of Prathia Hall_, a forthcoming book by NABPR member and 2013 dissertation scholarship awardee, Dr. Courtney Pace, of Memphis Theological Seminary. [The book is now available for pre-order](https://amzn.to/2JdgEs3).
 
-> [icon name=&#8221;quote-left&#8221; class=&#8221;fa-1x&#8221; unprefixed_class=&#8221;&#8221;] I stood in the authenticity of my being: Black, preacher, Baptist, woman. For the same God who made me a preacher made me a woman, and I am convinced that God was not confused on either account.  
+> I stood in the authenticity of my being: Black, preacher, Baptist, woman. For the same God who made me a preacher made me a woman, and I am convinced that God was not confused on either account.  
 > ~ Rev. Dr. Prathia Hall
 
 Rev. Dr. Prathia Hall was a Baptist pastor, professor, activist, Womanist theologian, & more. She held the Martin Luther, King Jr. Chair in Social Ethics at Boston University School of Theology and she later became the dean of United Theological Seminary in Dayton, Ohio and director of the Harriet Miller Women&#8217;s Center. According to [Pace](https://www.ethicsdaily.com/prathia-hall-an-extraordinary-ordinary-saint-cms-22090/), &#8220;In 1997, Ebony magazine named Hall first in its list of 15 Greatest Black Women Preachers, and she was the only woman considered for its list of 10 Greatest Black Preachers, ultimately placing 11th.&#8221;

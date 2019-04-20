@@ -79,7 +79,7 @@ NABPR Vice President
 **[Registration](https://nabpr.org/meetings/registration/) is now open at: **[**https://nabpr.org/meetings/registration/**](https://nabpr.org/meetings/registration/)
 
 <div style="color: #66000b;">
-  [icon name=&#8221;exclamation-circle&#8221; class=&#8221;2x&#8221; unprefixed_class=&#8221;&#8221;] <strong>Conference Fee:  Before May 1: $95. | After May 1: $125.</strong>
+  ‼︎ <strong>Conference Fee:  Before May 1: $95. | After May 1: $125.</strong>
 </div>
 
 All graduate student registration is compliments of [NABPR](https://nabpr.org).
@@ -120,7 +120,7 @@ If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  D
 * * *
 
 <div style="color: #66000b;">
-  [icon name=&#8221;flag&#8221; class=&#8221;2x&#8221; unprefixed_class=&#8221;&#8221;]
+  ‼︎
 </div>
 
 <pre>The Break Area for the conference will be located in the Foyer outside Stewart Hall in Tucker Student Center.</pre>
@@ -314,38 +314,29 @@ _ Jackson Adamah
 
       * #### **Practical Studies I  — ****Room 141 ****(Tucker Student Center)****— Presiding:** Eric Holleyman
 
-          * _ Preaching by Immersion: Homiletics for the Age of Virtual Reality  
-_ Jennifer Garcia Bashaw  
+          * _Preaching by Immersion: Homiletics for the Age of Virtual Reality_ Jennifer Garcia Bashaw  
             Campbell University
-          * _Feeling the Weight: Re-Conceiving a Baptist Theology of Ordination After #MeToo  
-_ Kathryn H. House  
+          * _Feeling the Weight: Re-Conceiving a Baptist Theology of Ordination After #MeToo_ Kathryn H. House  
             Boston University School of Theology, Doctoral Fellow
-          * _Blessing or Blessed? Toward an Ethic of Hospitable Service__  
-_ Tom LeGrand  
+          * _Blessing or Blessed? Toward an Ethic of Hospitable Service_ Tom LeGrand  
             Gardner-Webb University
       * #### **Old Testament III  — ****Room Hope Hall (Tucker Student Center) — Presiding: Kim Bodenhamer**
 
-          * _The Makings of a Despondent Queen: An Analysis of Esther 2:12-18  
-_ Mariah Q. Richardson  
+          * _The Makings of a Despondent Queen: An Analysis of Esther 2:12-18_ Mariah Q. Richardson  
             Gardner-Webb University, Master of Divinity/Master of Arts in Religion Student
-          * _Comparing Rhetoric in Art and Text: Considering the Rhetorical Function of Images  
-_ Richard Purcell  
+          * _Comparing Rhetoric in Art and Text: Considering the Rhetorical Function of Images_ Richard Purcell  
             Emory University, Doctoral Student
       * #### Theology III** — **Room: Room 228 (Tucker Student Center)** — ** Presiding: Ryan Andrew Newson
 
-          * _Baptists Hearing Voices and Seeing Things: Imagining Radical Practices of Local Church Theology  
-_ Amy L. Chilton, Fuller Theological Seminary & Azusa Pacific University  
+          * _Baptists Hearing Voices and Seeing Things: Imagining Radical Practices of Local Church Theology_ Amy L. Chilton, Fuller Theological Seminary & Azusa Pacific University  
             Steven R. Harmon, Gardner-Webb University School of Divinity
-          * _Aquinas on Grace and Altruism  
-_ Daniel W. Houck  
+          * _Aquinas on Grace and Altruism_ Daniel W. Houck  
             Trinity Evangelical Divinity School, Research Fellow at the Henry Center
       * #### **Church History III — ****Room 139 (Tucker Student Center) — Presiding: Loyd Allen**
 
-          * _According to Luther: The Nature, Role, and Purpose of Women  
-_ Joe Early  
+          * _According to Luther: The Nature, Role, and Purpose of Women_ Joe Early  
             Campbellsville University
-          * _Martin Luther’s Influence on the Religious Education of Children: The Centrality of the Gospel and Laity Involvement in Faith Development__  
-_ Emily Buck  
+          * _Martin Luther’s Influence on the Religious Education of Children: The Centrality of the Gospel and Laity Involvement in Faith Development_ Emily Buck  
             Fuller Theological Seminary, Doctoral Student
   * ### **10:30-12:00 — Wednesday morning, May 23 – Plenary Session III**
 
@@ -356,10 +347,10 @@ _ Emily Buck
               * John Essick, Baptist Seminary at Kentucky
               * Alicia Myers, Campbell University
               * Scott Shauf, Gardner Webb University
-          * **Response: **Mikeal Parsons, Baylor University
+          * **Response:** Mikeal Parsons, Baylor University
 
 <div style="color: #66000b;">
-  [icon name=&#8221;flag&#8221; class=&#8221;3x&#8221; unprefixed_class=&#8221;&#8221;]
+  ⚑
 </div>
 
 <pre>Save the Date!
@@ -370,6 +361,5 @@ Campbell University
 School of Law
 Raleigh, NC</pre>
 
-** — **
-
-[[icon name=&#8221;download&#8221; class=&#8221;4x&#8221; unprefixed_class=&#8221;&#8221;] Download a PDF of the FINAL Version of the NABPR Program.](/wp-content/uploads/2018/05/NABPR-Program-May2018-Gardner-WebbFinal.pdf)
+***
+[→ Download a PDF of the FINAL Version of the NABPR Program.](/wp-content/uploads/2018/05/NABPR-Program-May2018-Gardner-WebbFinal.pdf)

@@ -24,4 +24,4 @@ tags:
 
 &nbsp;
 
-[[icon name=&#8221;external-link-square&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] Learn More about the Dissertation Scholarship](https://nabpr.org/dissertation/)
+[→ Learn More about the Dissertation Scholarship](https://nabpr.org/dissertation/)

@@ -26,7 +26,7 @@ tags:
 </h2>
 
 <h3 style="text-align: left;">
-  <span style="color: #66000b;">[icon name=&#8221;exclamation-circle&#8221; class=&#8221;2x&#8221; unprefixed_class=&#8221;&#8221;]</span> All events will occur at the First Baptist Church, <a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>.
+  <span style="color: #66000b;">‼︎</span> All events will occur at the First Baptist Church, <a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>.
 </h3>
 
 <!--more-->
@@ -37,14 +37,14 @@ Welcome to the Annual May Meeting of NABPR. Save the date for 2020: Baylor Unive
 Daniel Mynatt  
 Executive Secretary-Treasurer
 
-* * *
+***
 
 ### Greetings from Campbell University
 
 Welcome to Raleigh and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Baptist History and Heritage Society and the Association of Ministry Guidance Professionals. Campbell University is honored to host your gathering and affirms the important work you do as scholars and teachers. I hope this gathering of colleagues over the next few days enriches your understanding of the Christian faith informed and inspired by its Baptist heritage and strengthens your commitment to a life of intellectual inquiry and engagement. Thank you for your influence on students during the most formative stages of their lives and for serving the colleges and the universities represented at this annual meeting. I hope the conference is beneficial to your personal and professional development and that you enjoy your time here in the vibrant city of Raleigh and the beautiful state of North Carolina.  
 Brad Creed, President Campbell University
 
-* * *
+***
 
 ### Information
 
@@ -74,7 +74,7 @@ Brad Creed, President Campbell University
 
   * If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>. Danny will forward your question to the appropriate person.
 
-* * *
+***
 
 ## Program for 2019 Annual Meeting
 
@@ -84,11 +84,11 @@ Brad Creed, President Campbell University
   * 3:30-5:00 Executive Committee meeting Location TBD
   * 6:00 Dinner: TBD Program: TBD
 
-* * *
+***
 
-<span style="color: #800000;">[icon name=&#8221;flag&#8221; class=&#8221;2x&#8221; unprefixed_class=&#8221;&#8221;]</span> **The location of the Break Area for the conference is to TBD**.
+<span style="color: #800000;">⚑</span> **The location of the Break Area for the conference is to TBD**.
 
-* * *
+***
 
 ### Tuesday morning, May 21
 
@@ -176,12 +176,12 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
 ### Tuesday Evening, May 21 – Free Time & Dinner on your own
 
-* * *
+***
 
 ### Wednesday Morning, May 22 – Continental Breakfast  
 8:00– 8:30am Location: TBD
 
-* * *
+***
 
 ### Wednesday, May 22 – Session III 8:30 – 10:15
 
@@ -223,13 +223,13 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
   * Response:
       * Mikeal C. Parsons, Baylor University
 
-* * *
+***
 
-<span style="color: #66000b;">[icon name=&#8221;flag&#8221; class=&#8221;2x&#8221; unprefixed_class=&#8221;&#8221;]</span>
+<span style="color: #66000b;">⚑</span>
 
 <pre style="text-align: center;">Save the Date! 2020 Annual Meeting May 18-20, 2020
 Baylor University Waco, TX</pre>
 
-* * *
+***
 
 [⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-1.pdf).

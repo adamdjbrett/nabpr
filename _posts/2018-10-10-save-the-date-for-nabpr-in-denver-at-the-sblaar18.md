@@ -65,4 +65,4 @@ M17-101
 
 &nbsp;
 
-[[icon name=&#8221;download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR November Program](/wp-content/uploads/2018/10/NABPRProgramNov2018Denver.pdf)
+[⤓ NABPR November Program](/wp-content/uploads/2018/10/NABPRProgramNov2018Denver.pdf)

@@ -34,7 +34,7 @@ tags:
 <div>
   <blockquote>
     <p>
-      [icon name=&#8221;quote-left&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;fa-1x&#8221;] One measure of how women are doing is to consider the statistical status of their entry into ministry and leadership in congregations and other ministry settings. A statistical analysis is one dimension of clergywomen’s faring that we have not been able to gauge in a broad way for two decades – when the last comprehensive reports on clergywomen were published.
+      One measure of how women are doing is to consider the statistical status of their entry into ministry and leadership in congregations and other ministry settings. A statistical analysis is one dimension of clergywomen’s faring that we have not been able to gauge in a broad way for two decades – when the last comprehensive reports on clergywomen were published.
     </p>
   </blockquote>
 </div>

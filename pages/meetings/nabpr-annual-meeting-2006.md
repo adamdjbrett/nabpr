@@ -23,7 +23,7 @@ Pam Scalise introduced Curtis Freeman for the presidential address. Freeman’s 
 
 Pam Scalise introduced the program, which featured a panel discussion on the topic “Baptists and the Ten Commandments.” Panelists were Walter Harrelson (Wake Forest University), Bill J. Leonard (Wake Forest University), and Glen Stassen (Fuller Theological Seminary)
 
-.
+***
 
  At 11:00, President Curtis Freeman convened the annual business session. After the 2005 minutes were approved, Executive Secretary Danny Mynatt gave the Executive Committee report. Mynatt updated the membership on the current status of the Endowment Funds, which posted a gain of +27.1% for the year. He also noted that dues-paying membership was up 30%.  
 Mynatt reported on the NABPR strategy for meeting following the breakup of the AAR/SBL annual meetings. He presented a proposal for the new Annual Meeting format, which was decided by the NABPR News online poll. The proposal read as follows: “The Annual Meeting will now move to a time during the last half of May (the Sunday – Tuesday commencing with the 3rd Sunday in May has been suggested). The NABPR Executive Committee will appoint a program committee to create an agenda for the meeting, but it will include more program opportunities for academic papers and fellowship gatherings. The schedule for the meetings will occur in this rotation (after which, the rotation will repeat):  
@@ -37,5 +37,3 @@ After the Executive Committee report, Assistant Executive Secretary Jimmy Byrd r
 The meeting was adjourned at 11:30 am.
 
 Respectfully submitted, Jimmy Byrd, Vanderbilt University
-
-Play with the [Rubiks Cube simulator](https://rubiks-cu.be/#simulator) online! Drag the pieces with your mouse to unjumble the puzzle.

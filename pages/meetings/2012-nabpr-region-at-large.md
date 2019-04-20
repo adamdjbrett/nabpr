@@ -5,6 +5,7 @@ date: 2016-08-21T16:20:07+00:00
 author: adamdjbrett
 teaser: |
 layout: page
+permalink: /meetings/2012-nabpr-region-at-large/
 redirect_from: /?page_id=162
 breadcrumb: true
 ---

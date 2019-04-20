@@ -5,6 +5,7 @@ date: 2016-08-21T16:34:59+00:00
 author: adamdjbrett
 teaser: |
 layout: page
+permalink: /meetings/nabpr-annual-meeting-2006/
 redirect_from: /?page_id=180
 breadcrumb: true
 ---

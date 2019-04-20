@@ -5,6 +5,7 @@ date: 2016-08-21T16:38:55+00:00
 author: adamdjbrett
 teaser: |
 layout: page
+permalink: /meetings/call-for-papers-nabpr-annual-meeting-2010/
 redirect_from: /?page_id=185
 breadcrumb: true
 ---

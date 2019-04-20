@@ -10,7 +10,7 @@ redirect_from: /?page_id=84
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 breadcrumb: true
 ---
-## Perspectives in Religious Studies
+## [Perspectives in Religious Studies](#prst)
 
 The backbone of the NABPR is its publications. Since 1973 the Association has published the journal, _[Perspectives in Religious Studies](http://www.baylor.edu/prs/)_ (PRSt) (which has been quarterly since 1974). [How to Submit a Manuscript to PRSt](http://www.baylor.edu/prs/index.php?id=6073).
 
@@ -30,17 +30,17 @@ The  NABPR also has to a quarterly newsletter (_[NABPRNews](/newsletter/)_) tha
 
 ****
 
-### **Mercer Dictionary of the Bible**
+### [**Mercer Dictionary of the Bible**](#dictionary)
 
 Watson E. Mills, general editor
 
 The Mercer Dictionary of the Bible includes more than 1,000 pages of original materials relating to every aspect of biblical studies. The 1,450 articles are written by members of the National Association of Baptist Professors of Religion. It contains 64 pages of four-color maps, charts, and photographs and 156 black-and-white illustrations throughout the text. An outline of each canonical books is also available in this volume.
 
-### **Mercer** **Commentary on the Bible**
+### [**Mercer Commentary on the Bible**](#mercer)
 
 Watson E. Mills & Richard F. Wilson, general editors This one-volume commentary on the entire Bible distinguishes itself as a leading work in biblical studies. It is the first one-volume commentary based on the New Revised Standard Version of the Bible. It covers the complete Bible, including the apocryphal/deutercanonical books. The Mercer Commentary includes introductory articles on the nature of Scripture, its interpretation, and its role in theology and church. The intended audience is students engaged in Bible study, ministers seeking clear and concise treatment of texts, and laypersons involved in personal and group study; the Mercer Commentary should also be helpful for professionals in various theological disciplines.
 
-## **Perspectives on Baptist Identities**
+## [**Perspectives on Baptist Identities**](#baptistid)
 
 **The National Association of Baptist Professors of Religion & Mercer University Press **proudly announce a new partnership for the NABPR series on **Perspectives on Baptist Identities.**
 

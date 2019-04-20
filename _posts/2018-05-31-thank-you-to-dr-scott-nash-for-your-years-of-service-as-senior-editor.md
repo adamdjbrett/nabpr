@@ -5,8 +5,10 @@ date: 2018-05-31T12:30:53+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: ?p=1110
-permalink: /2018/05/31/thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
+permalink: /thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
+redirect_from:
+  - /?p=1110
+  - /2018/05/31/thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
 categories:
   - Announcements
   - NABPR Notes

@@ -5,8 +5,10 @@ date: 2017-05-20T16:55:44+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=574
-permalink: /2017/05/20/penultimate-nabpr-2017-program-draft/
+permalink: /penultimate-nabpr-2017-program-draft/
+redirect_from:
+  - /?p=574
+  - /2017/05/20/penultimate-nabpr-2017-program-draft/
 categories:
   - Announcements
 tags:

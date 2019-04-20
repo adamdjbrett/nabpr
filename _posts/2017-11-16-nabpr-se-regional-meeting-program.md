@@ -5,8 +5,10 @@ date: 2017-11-16T17:50:14+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=772
-permalink: /2017/11/16/nabpr-se-regional-meeting-program/
+permalink: /nabpr-se-regional-meeting-program/
+redirect_from:
+  - /?p=772
+  - /2017/11/16/nabpr-se-regional-meeting-program/
 image:
   title: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png
   thumb: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min-150x150.png

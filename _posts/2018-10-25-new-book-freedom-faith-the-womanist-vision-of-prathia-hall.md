@@ -6,8 +6,10 @@ author: adamdjbrett
 teaser: "Courtney Pace, _Freedom Faith: The Womanist Vision of Prathia Hall Hardcover_ – June 15, 2019  
 (Athens: University of Georgia Press, 2019). ISBN: 9780820355061."
 layout: page
-redirect_from: ?p=1264
-permalink: /2018/10/25/new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
+permalink: /new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
+redirect_from:
+  - ?p=1264
+  - /2018/10/25/new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
 categories:
   - Books of Interest
 tags:

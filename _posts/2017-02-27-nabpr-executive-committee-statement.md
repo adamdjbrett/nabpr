@@ -5,8 +5,10 @@ date: 2017-02-27T16:35:09+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=435
-permalink: /2017/02/27/nabpr-executive-committee-statement/
+permalink: /nabpr-executive-committee-statement/
+redirect_from:
+  - /?p=435
+  - /2017/02/27/nabpr-executive-committee-statement/
 image:
   title: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
   thumb: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent-150x150.png

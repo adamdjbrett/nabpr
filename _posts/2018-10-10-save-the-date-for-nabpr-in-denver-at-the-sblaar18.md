@@ -5,8 +5,10 @@ date: 2018-10-10T19:09:25+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1226
-permalink: /2018/10/10/save-the-date-for-nabpr-in-denver-at-the-sblaar18/
+permalink: /save-the-date-for-nabpr-in-denver-at-the-sblaar18/
+redirect_from:
+  - /?p=1226
+  - /2018/10/10/save-the-date-for-nabpr-in-denver-at-the-sblaar18/
 image:
   title: /wp-content/uploads/2018/10/NABPR-2018-rev3-min.png
   thumb: /wp-content/uploads/2018/10/NABPR-2018-rev3-min-150x150.png

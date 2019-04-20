@@ -5,8 +5,10 @@ date: 2018-06-18T15:32:28+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1143
-permalink: /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
+permalink: /announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
+redirect_from:
+  - /?p=1143
+  - /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
 image:
   title: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia.png
   thumb: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia-150x150.png

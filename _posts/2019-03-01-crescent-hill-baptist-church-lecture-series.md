@@ -5,8 +5,10 @@ date: 2019-03-01T18:25:38+00:00
 author: adamdjbrett
 teaser: "Crescent Hill Baptist Church would like to invite NABPR to a lecture series coming up March 29-31 at Crescent Hill Baptist Church, Louisville KY in honor of Dr. E Glenn Hinson."
 layout: page
-redirect_from: /?p=1740
-permalink: /2019/03/01/crescent-hill-baptist-church-lecture-series/
+permalink: /crescent-hill-baptist-church-lecture-series/
+redirect_from:
+  - /?p=1740
+  - /2019/03/01/crescent-hill-baptist-church-lecture-series/
 categories:
   - Announcements
 tags:

@@ -5,8 +5,10 @@ date: 2016-10-13T10:33:39+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=395
-permalink: /2016/10/13/cfp-college-theology-society-conjunction-nabpr-region-large/
+permalink: /cfp-college-theology-society-conjunction-nabpr-region-large/
+redirect_from:
+  - /?p=395
+  - /2016/10/13/cfp-college-theology-society-conjunction-nabpr-region-large/
 image:
   title: /wp-content/uploads/2016/10/OchreCourt234.jpg
   thumb: /wp-content/uploads/2016/10/OchreCourt234-150x150.jpg

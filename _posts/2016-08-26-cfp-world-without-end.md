@@ -5,8 +5,10 @@ date: 2016-08-26T20:48:02+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=262
-permalink: /2016/08/26/cfp-world-without-end/
+permalink: /cfp-world-without-end/
+redirect_from:
+  - /?p=262
+  - /2016/08/26/cfp-world-without-end/
 image:
   title: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
   thumb: /wp-content/uploads/2016/08/World-Without-End-Webpage-150x150.jpg

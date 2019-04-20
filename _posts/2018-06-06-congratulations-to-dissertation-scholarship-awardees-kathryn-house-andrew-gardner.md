@@ -5,8 +5,10 @@ date: 2018-06-06T14:18:50+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1126
-permalink: /2018/06/06/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
+permalink: /congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
+redirect_from:
+  - /?p=1126
+  - /2018/06/06/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
 categories:
   - Announcements
   - General

@@ -5,8 +5,10 @@ date: 2018-02-19T13:53:08+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=831
-permalink: /2018/02/19/meeting-at-gardner-webb-program/
+permalink: /meeting-at-gardner-webb-program/
+redirect_from:
+  - /?p=831
+  - /2018/02/19/meeting-at-gardner-webb-program/
 image:
   title: /wp-content/uploads/2017/09/gardner-webb-university.jpg
   thumb: /wp-content/uploads/2017/09/gardner-webb-university-150x150.jpg

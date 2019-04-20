@@ -5,8 +5,10 @@ date: 2016-08-29T21:14:20+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=333
-permalink: /2016/08/29/baylor-department-religion-open-faculty-positions/
+permalink: /baylor-department-religion-open-faculty-positions/
+redirect_from:
+  - /?p=333
+  - /2016/08/29/baylor-department-religion-open-faculty-positions/
 image:
   title: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg
   thumb: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-150x150.jpg

@@ -5,8 +5,10 @@ date: 2018-05-22T12:03:47+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1080
-permalink: /2018/05/22/nabpr-meeting-38-agenda/
+permalink: /nabpr-meeting-38-agenda/
+redirect_from:
+  - /?p=1080
+  - /2018/05/22/nabpr-meeting-38-agenda/
 categories:
   - Announcements
   - NABPR Notes
@@ -19,9 +21,9 @@ tags:
   - NABPR18
   - national
 ---
-##  [[icon name=&#8221;cloud-download&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] NABPR Agenda 2018 PDF](/wp-content/uploads/2018/05/NABPRAgenda2018.pdf)
+##   [⤓ NABPR Agenda 2018 PDF](/wp-content/uploads/2018/05/NABPRAgenda2018.pdf)
 
-* * *
+***
 
 ### The National Association of Baptist Professors of Religion
 

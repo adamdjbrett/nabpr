@@ -5,8 +5,10 @@ date: 2016-10-03T15:28:56+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=389
-permalink: /2016/10/03/dissertation-scholarship/
+permalink: /dissertation-scholarship/
+redirect_from:
+  - /?p=389
+  - /2016/10/03/dissertation-scholarship/
 image:
   title: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
   thumb: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent-150x150.png

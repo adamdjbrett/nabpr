@@ -5,8 +5,10 @@ date: 2017-06-09T16:41:31+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=597
-permalink: /2017/06/09/joao-chaves/
+permalink: /joao-chaves/
+redirect_from:
+  - /?p=597
+  - /2017/06/09/joao-chaves/
 image:
   title: /wp-content/uploads/2017/06/Chaves_Joao.jpg
   thumb: /wp-content/uploads/2017/06/Chaves_Joao-150x150.jpg

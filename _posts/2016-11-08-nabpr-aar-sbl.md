@@ -5,8 +5,10 @@ date: 2016-11-08T18:14:00+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=399
-permalink: /2016/11/08/nabpr-aar-sbl/
+permalink: /nabpr-aar-sbl/
+redirect_from:
+  - /?p=399
+  - /2016/11/08/nabpr-aar-sbl/
 image:
   title: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook.png
   thumb: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook-150x150.png

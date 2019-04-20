@@ -5,8 +5,10 @@ date: 2018-10-09T18:47:56+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1223
-permalink: /2018/10/09/2019-dissertation-scholarship-announcement/
+permalink: /2019-dissertation-scholarship-announcement/
+redirect_from:
+  - /?p=1223
+  - /2018/10/09/2019-dissertation-scholarship-announcement/
 image:
   title: /wp-content/uploads/2017/06/nabpr-site-icon.png
   thumb: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png

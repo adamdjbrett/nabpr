@@ -5,8 +5,10 @@ date: 2018-02-20T14:27:59+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=883
-permalink: /2018/02/20/announcing-nabpr-forum/
+permalink: /announcing-nabpr-forum/
+redirect_from:
+  - /?p=883
+  - /2018/02/20/announcing-nabpr-forum/
 image:
   title: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
   thumb: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
@@ -27,7 +29,7 @@ As you are probably aware, we will vote on a Constitutional amendment at our Ann
 
 Adam has set up a discussion forum on this topic. You can read the amendment, ask questions, or make comments.
 
-In order to participate, please register at [https://meta.nabpr.org.](https://meta.nabpr.org) Once we ensure that the person signing-up is a member of NABPR, Adam will enable the account.
+In order to participate, please register at [nabpr.org.](nabpr.org) Once we ensure that the person signing-up is a member of NABPR, Adam will enable the account.
 
 There are two screenshots below to assist. The first shows you where the Register button is, and the second shows you where the Constitutional amendment thread is located.
 
@@ -38,7 +40,7 @@ Executive Secretary
 
 <!--more-->
 
-* * *
+***
 
 How to signup for [NABPR Forum (meta.nabpr.org)](https://meta.nabpr.org)
 

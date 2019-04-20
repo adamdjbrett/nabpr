@@ -5,8 +5,10 @@ date: 2018-10-23T12:00:31+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1254
-permalink: /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/
+permalink: /cfp-college-theology-society-and-nabpr-region-at-large/
+redirect_from:
+  - /?p=1254
+  - /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/
 image:
   title: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg
   thumb: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana-150x150.jpg

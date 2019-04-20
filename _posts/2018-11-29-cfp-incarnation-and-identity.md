@@ -8,8 +8,10 @@ fifth pre-biennial theology conference around the theme Incarnation and Identity
 effort to foster ongoing, vigorous theological conversations among American Baptist  
 theologians, pastor-theologians, and theological educators throughout the denomination."
 layout: page
-redirect_from: /?p=1350
-permalink: /2018/11/29/cfp-incarnation-and-identity/
+permalink: /cfp-incarnation-and-identity/
+redirect_from:
+  - /?p=1350
+  - /2018/11/29/cfp-incarnation-and-identity/
 categories:
   - Calls for Papers (CFP)
 tags:

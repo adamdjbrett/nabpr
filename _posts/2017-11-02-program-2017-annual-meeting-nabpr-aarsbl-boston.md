@@ -5,8 +5,10 @@ date: 2017-11-02T17:38:57+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=763
-permalink: /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
+permalink: /program-2017-annual-meeting-nabpr-aarsbl-boston/
+redirect_from:
+  - /?p=763
+  - /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
 image:
   title: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png
   thumb: /wp-content/uploads/2017/11/NABPR-Boston-Meeting-150x150.png

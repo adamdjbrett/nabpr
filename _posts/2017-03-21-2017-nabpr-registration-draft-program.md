@@ -5,8 +5,10 @@ date: 2017-03-21T19:06:40+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=458
-permalink: /2017/03/21/2017-nabpr-registration-draft-program/
+permalink: /2017-nabpr-registration-draft-program/
+redirect_from:
+  - /?p=458
+  - /2017/03/21/2017-nabpr-registration-draft-program/ 
 image: /wp-content/uploads/2017/03/Att_building_nashville.jpg
 categories:
   - Announcements

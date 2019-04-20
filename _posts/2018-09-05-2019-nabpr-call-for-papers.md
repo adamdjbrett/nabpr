@@ -5,8 +5,10 @@ date: 2018-09-05T18:16:20+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1191
-permalink: /2018/09/05/2019-nabpr-call-for-papers/
+permalink: /2019-nabpr-call-for-papers/
+redirect_from:
+  - /?p=1191
+  - /2018/09/05/2019-nabpr-call-for-papers/
 image:
   title: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
   thumb: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg

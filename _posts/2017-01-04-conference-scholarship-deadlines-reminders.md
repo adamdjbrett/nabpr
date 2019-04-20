@@ -5,8 +5,10 @@ date: 2017-01-04T23:10:04+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=416
-permalink: /2017/01/04/conference-scholarship-deadlines-reminders/
+permalink: /conference-scholarship-deadlines-reminders/
+redirect_from:
+  - /?p=416
+  - /2017/01/04/conference-scholarship-deadlines-reminders/
 categories:
   - Announcements
   - Calls for Papers (CFP)

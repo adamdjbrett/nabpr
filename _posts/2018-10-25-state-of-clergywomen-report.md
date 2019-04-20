@@ -5,8 +5,10 @@ date: 2018-10-25T10:47:13+00:00
 author: adamdjbrett
 teaser: "Recent past NABPR president, Rev. Dr. Eileen Campbell-Reed has been working to answer the question &#8220;How are women faring in ministry in U.S. churches?.&#8221; In this report she provides not only a statistical accounting but also an analysis of some of the trends."
 layout: page
-redirect_from: /?p=1273
-permalink: /2018/10/25/state-of-clergywomen-report/
+permalink: /state-of-clergywomen-report/
+redirect_from:
+  - /?p=1273
+  - /2018/10/25/state-of-clergywomen-report/
 image:
   title: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png
   thumb: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png

@@ -5,8 +5,10 @@ date: 2019-02-11T15:44:38+00:00
 author: adamdjbrett
 teaser: "Carson-Newman University is seeking to hire an Assistant Professor of Religion."
 layout: page
-redirect_from: ?p=1668
-permalink: /2019/02/11/carson-newman-university-assistant-professor-of-religion/
+permalink: /carson-newman-university-assistant-professor-of-religion/
+redirect_from:
+  - /?p=1668
+  - /2019/02/11/carson-newman-university-assistant-professor-of-religion/
 image:
   title: wp-content/uploads/2019/02/carson-newman-admin-cropped539.jpg
   thumb: wp-content/uploads/2019/02/carson-newman-admin-cropped539-150x150.jpg

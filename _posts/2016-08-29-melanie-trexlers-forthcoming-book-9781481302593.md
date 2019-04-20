@@ -5,8 +5,10 @@ date: 2016-08-29T21:41:22+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=339
-permalink: /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
+permalink: /melanie-trexlers-forthcoming-book-9781481302593/
+redirect_from:
+  - /?p=339
+  - /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
 image:
   title: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
   thumb: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-150x150.jpeg

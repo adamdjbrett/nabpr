@@ -5,8 +5,10 @@ date: 2016-08-31T16:10:08+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=357
-permalink: /2016/08/31/cfp-2017-nabpr-annual-meeting/
+permalink: /cfp-2017-nabpr-annual-meeting/
+redirect_from:
+  - /?p=357
+  - /2016/08/31/cfp-2017-nabpr-annual-meeting/
 image:
   title: /wp-content/uploads/2016/08/belmont-1568x1132.jpg
   thumb: /wp-content/uploads/2016/08/belmont-1568x1132-150x150.jpg

@@ -5,8 +5,10 @@ date: 2017-12-04T16:41:12+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=782
-permalink: /2017/12/04/blessed-among-women-mothers-motherhood-new-testament/
+permalink: /blessed-among-women-mothers-motherhood-new-testament/
+redirect_from:
+  - /?p=782
+  - /2017/12/04/blessed-among-women-mothers-motherhood-new-testament/
 image:
   title: /wp-content/uploads/2017/12/9780190677084.jpeg
   thumb: /wp-content/uploads/2017/12/9780190677084-150x150.jpeg

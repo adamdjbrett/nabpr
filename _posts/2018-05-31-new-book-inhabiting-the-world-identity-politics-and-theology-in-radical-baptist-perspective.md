@@ -5,8 +5,10 @@ date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=1106
-permalink: /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
+permalink: /new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
+redirect_from:
+  - /?p=1106
+  - /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
 image:
   title: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg
   thumb: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-150x150.jpg

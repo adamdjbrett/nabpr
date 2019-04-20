@@ -5,8 +5,10 @@ date: 2016-08-30T07:05:50+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=346
-permalink: /2016/08/30/scott-shaufs-divine-acts-ancient-historiography/
+permalink: /scott-shaufs-divine-acts-ancient-historiography/
+redirect_from:
+  - /?p=346
+  - /2016/08/30/scott-shaufs-divine-acts-ancient-historiography/
 image:
   title: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h.jpg
   thumb: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h-150x150.jpg

@@ -12,7 +12,7 @@ breadcrumb: true
 ---
 ## Upcoming Meetings
 
-  * [2019 Annual Meeting, Raleigh, NC](/2019-nabpr-meeting-program/). **⟶** <strong style="color: #66000b;"><a href="/meetings/registration/">Registration is now open</a></strong>
+  * [2019 Annual Meeting, Raleigh, NC](/2019-nabpr-meeting-program/). **⟶** [**Registration is now open**](/meetings/registration/)
       * [2019 Meeting Program](/2019-nabpr-meeting-program/)
       * [2019 Call for Papers](/2019-nabpr-call-for-papers/)
       * [Registration](/meetings/registration/)

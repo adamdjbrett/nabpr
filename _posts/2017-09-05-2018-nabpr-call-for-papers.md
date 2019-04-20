@@ -5,8 +5,10 @@ date: 2017-09-05T18:20:15+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-redirect_from: /?p=726
-permalink: /2017/09/05/2018-nabpr-call-for-papers/
+permalink: /2018-nabpr-call-for-papers/
+redirect_from:
+  - /?p=726
+  - /2017/09/05/2018-nabpr-call-for-papers/
 image:
   title: /wp-content/uploads/2017/09/gardner-webb-university.jpg
   thumb: /wp-content/uploads/2017/09/gardner-webb-university-150x150.jpg

@@ -10,12 +10,13 @@ permalink: "/changelog/"
 breadcrumb: true
 ---
 ## 2019-04-20 // Version 1.1
-  - Need to fix search page
   - convert html to markdown
   - fix thumbnails and header images not working
   - categories and tags pages
   - can I disable `urlimg`
-  - fix sidebar of blog
   - fix homepage
+  - speedup lunr
+  - ~~Need to fix search page~~
+  - ~~fix sidebar of blog~~
 ## 2019-04-17 // Version 1.0
 : After WordPress continually crashed under the weight of the site I moved it to the Jekyll Static Site Generator.

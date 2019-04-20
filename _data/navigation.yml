@@ -41,6 +41,10 @@
   url: "/dissertation/"
   side: left
 
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
 - title: News
   url: "/blog/"
   side: left

@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1112
 permalink: /2018/05/31/announcing-the-new-partnership-between-nabpr-and-baylor-university-press/
-image: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png
+image:
+  title: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png
+  thumb: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies-150x150.png
 categories:
   - Announcements
 tags:

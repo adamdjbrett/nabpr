@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1254
 permalink: /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/
-image: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg
+image:
+  title: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg
+  thumb: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana-150x150.jpg
 categories:
   - Calls for Papers (CFP)
 tags:

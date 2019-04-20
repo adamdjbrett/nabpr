@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1226
 permalink: /2018/10/10/save-the-date-for-nabpr-in-denver-at-the-sblaar18/
-image: /wp-content/uploads/2018/10/NABPR-2018-rev3-min.png
+image:
+  title: /wp-content/uploads/2018/10/NABPR-2018-rev3-min.png
+  thumb: /wp-content/uploads/2018/10/NABPR-2018-rev3-min-150x150.png
 categories:
   - Announcements
   - Schedule

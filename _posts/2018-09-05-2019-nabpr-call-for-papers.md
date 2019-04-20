@@ -7,7 +7,10 @@ excerpt: |
 layout: page
 redirect_from: /?p=1191
 permalink: /2018/09/05/2019-nabpr-call-for-papers/
-image: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
+image:
+  title: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
+  thumb: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
+  caption: Photo by Chris West
 categories:
   - Calls for Papers (CFP)
 tags:

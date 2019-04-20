@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=883
 permalink: /2018/02/20/announcing-nabpr-forum/
-image: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
+image:
+  title: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
+  thumb: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
 categories:
   - Announcements
   - General

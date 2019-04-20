@@ -3,10 +3,12 @@ id: 1301
 title: Festschrift Honoring Alan Culpepper
 date: 2018-11-07T15:34:42+00:00
 author: adamdjbrett
-excerpt: |
+excerpt: "There will be a presentation for a festschrift honoring Alan Culpepper at 7:00-8:00pm at the Denver Meeting of the AAR and SBL. (Nov. 18, Sheraton-Downtown Spruce Room, third level). All are invited."
 layout: page
 redirect_from: /?p=1301
 permalink: /2018/11/07/festschrift-honoring-alan-culpepper/
+image:
+  thumb: /wp-content/uploads/2018/11/festschrift-Alan-Culpepper-150x150.jpg
 categories:
   - Books of Interest
 tags:

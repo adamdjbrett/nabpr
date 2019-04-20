@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1143
 permalink: /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
-image: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia.png
+image:
+  title: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia.png
+  thumb: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia-150x150.png
 categories:
   - Books of Interest
 tags:

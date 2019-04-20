@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1223
 permalink: /2018/10/09/2019-dissertation-scholarship-announcement/
-image: /wp-content/uploads/2017/06/nabpr-site-icon.png
+image:
+  title: /wp-content/uploads/2017/06/nabpr-site-icon.png
+  thumb: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png
 categories:
   - Announcements
 tags:

@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1261
 permalink: /2018/10/23/job-james-and-marilyn-dunn-chair-of-baptist-studies-wake-forest-university-school-of-divinity/
-image: /wp-content/uploads/2018/10/Wake-Forest-University-School-of-Divinity.jpg
+image:
+  title: /wp-content/uploads/2018/10/Wake-Forest-University-School-of-Divinity.jpg
+  thumb: /wp-content/uploads/2018/10/Wake-Forest-University-School-of-Divinity-150x150.jpg
 categories:
   - Job Listings
 tags:

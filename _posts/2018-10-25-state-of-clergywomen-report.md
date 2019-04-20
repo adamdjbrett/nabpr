@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1273
 permalink: /2018/10/25/state-of-clergywomen-report/
-image: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png
+image:
+  title: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png
+  thumb: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png
 categories:
   - Resources of Interest
 tags:

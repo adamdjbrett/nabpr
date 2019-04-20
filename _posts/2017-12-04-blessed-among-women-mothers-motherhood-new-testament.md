@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=782
 permalink: /2017/12/04/blessed-among-women-mothers-motherhood-new-testament/
-image: /wp-content/uploads/2017/12/9780190677084.jpeg
+image:
+  title: /wp-content/uploads/2017/12/9780190677084.jpeg
+  thumb: /wp-content/uploads/2017/12/9780190677084-150x150.jpeg
 categories:
   - Books of Interest
 tags:

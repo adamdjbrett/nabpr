@@ -5,6 +5,7 @@ date: 2016-08-21T16:42:35+00:00
 author: adamdjbrett
 excerpt: |
 layout: page
+permalink: /meetings/registration/
 redirect_from: /?page_id=190
 breadcrumb: true
 ---
@@ -12,5 +13,5 @@ Registration for the The [National Association of Baptist Professors of Religio
 
 <a title="2019 NABPR registration" href="https://secure.touchnet.net/C20495_ustores/web/classic/store_main.jsp?STOREID=56&SINGLESTORE=true" target="_blank" rel="noopener noreferrer">[icon name=&#8221;external-link&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] Register Now.</a>
 
-  * [2019 CFP](https://nabpr.org/2019-nabpr-call-for-papers/)
-  * [Program](https://nabpr.org/2019-nabpr-meeting-program/)
+  * [2019 CFP](/2019-nabpr-call-for-papers/)
+  * [Program](/2019-nabpr-meeting-program/)

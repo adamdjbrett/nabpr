@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=795
 permalink: /2018/01/05/2018-nabpr-membership-dues-renewal/
-image: /wp-content/uploads/2017/06/nabpr-site-icon.png
+image:
+  title: /wp-content/uploads/2017/06/nabpr-site-icon.png
+  thumb: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png
 categories:
   - Announcements
   - General

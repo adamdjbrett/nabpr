@@ -7,7 +7,9 @@ excerpt: |
 layout: page
 redirect_from: /?p=1114
 permalink: /2018/05/31/nabpr-constitutional-ammendment-update/
-image: /wp-content/uploads/2017/06/nabpr-site-icon.png
+image:
+  title: /wp-content/uploads/2017/06/nabpr-site-icon.png
+  thum: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png
 categories:
   - Announcements
   - General

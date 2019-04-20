@@ -32,8 +32,8 @@ In rare and extreme situations that call for a public response, members of NABPR
 
 #### PDF
 
-[PDF: REVISED Constitution CHANGE &#8211; Recommendation May 2017](https://nabpr.org/wp-content/uploads/2017/06/REVISED-Constitution-CHANGE-recommendation-May-2017.pdf)
+[PDF: REVISED Constitution CHANGE &#8211; Recommendation May 2017](/wp-content/uploads/2017/06/REVISED-Constitution-CHANGE-recommendation-May-2017.pdf)
 
 #### Final Version
 
-#### [[icon name=&#8221;long-arrow-right&#8221; class=&#8221;&#8221; unprefixed_class=&#8221;&#8221;] View the emended NABPR Constitution](https://nabpr.org/about-nabpr/constitution/).
+#### [→ View the emended NABPR Constitution](/about/constitution/).

@@ -1,6 +1,6 @@
 ---
 id: 1350
-title: 'CFP: &#8221;Incarnation and Identity&#8221;'
+title: 'CFP: Incarnation and Identity'
 date: 2018-11-29T10:26:43+00:00
 author: adamdjbrett
 teaser: "The Office of the General Secretary of ABC-USA and the Theologians&#8217; Commission will host the  

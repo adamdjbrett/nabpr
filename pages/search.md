@@ -1,6 +1,6 @@
 ---
 permalink: /search/
-layout: search
+layout: page-fullwidth
 title: "Search"
 sitemap: true
 breadcrumb: true

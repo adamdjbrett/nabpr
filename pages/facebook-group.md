@@ -5,9 +5,13 @@ date: 2016-08-29T18:49:03+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-permalink: /contact-us/facebook-group/
-redirect_from: "/?page_id=322"
-image: /wp-content/uploads/2016/05/NABPR_facebook.png
+permalink: /facebook-group/
+redirect_from:
+  - /?page_id=322
+  - /contact-us/facebook-group/
+image:
+  title: /wp-content/uploads/2016/05/NABPR_facebook.png
+  thumb: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## NABPR Members Only Facebook Group

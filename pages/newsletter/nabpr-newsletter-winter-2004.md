@@ -13,9 +13,9 @@ breadcrumb: true
 
 **Two Items Left Over from the National Meeting**
 
-_1)_<a href="http://www.mercer.edu/nabpr/news/placement.html" rel="nofollow"><i>NABPR Placement Service</i></a>
+## NABPR Placement Service
 
-At the national meeting, I announced that we would ATTEMPT to form a <a href="http://www.mercer.edu/nabpr/news/placement.html" rel="nofollow">NABPR placement website</a>. This idea has its roots in the lamenting which has gone on for several years now that NABPR has no integrated placement mechanism to help us promote promising young scholars and teachers, frequently our former students, who are interested in teaching at the institutions represented by our membership. So the NABPR Executive Committee has given permission to Jimmy Byrd and me to explore how such a placement service might work. I say &#8220;ATTEMPT&#8221; because we are trying to fill what we perceive as a void in NABPR institutional life; however, if the support doesn&#8217;t materialize, we will report that finding at our next national meeting. In the meantime, here is what I would like for each member to do:
+At the national meeting, I announced that we would ATTEMPT to form a NABPR placement website. This idea has its roots in the lamenting which has gone on for several years now that NABPR has no integrated placement mechanism to help us promote promising young scholars and teachers, frequently our former students, who are interested in teaching at the institutions represented by our membership. So the NABPR Executive Committee has given permission to Jimmy Byrd and me to explore how such a placement service might work. I say &#8220;ATTEMPT&#8221; because we are trying to fill what we perceive as a void in NABPR institutional life; however, if the support doesn&#8217;t materialize, we will report that finding at our next national meeting. In the meantime, here is what I would like for each member to do:
 
 1-Do you know young scholars seeking jobs or soon to be on the job search, scholars whom you believe would fit well in our member institutions? Do you have former students who are ending their degree programs, students that you know well and would like to help? If so, please refer them to Jimmy at jimmy.byrd@vanderbilt.edu. Specifically, we will ask them to send us a vita for posting on our website. If we get no resumes, this attempt will fail before it starts. So please get the word out. Incidentally, all persons posting a resume on our site MUST be members of NABPR, but we can take care of that when they contact Jimmy.
 
@@ -25,7 +25,7 @@ At the national meeting, I announced that we would ATTEMPT to form a <a href="ht
 
 _2)Dues Payment by Credit Card_
 
-CSSR will now take dues payments by credit card. You can charge your dues either by calling the CSSR office or mailing in the dues payment form with the appropriate information. The membership renewal form is now available online in either <a href="http://www.mercer.edu/nabpr/news/NABPRDuesnoticefor2004.pdf" rel="nofollow">Adobe/pdf</a> or <a href="http://www.mercer.edu/nabpr/news/NABPRDuesnoticefor2004.rtf" rel="nofollow">Word</a>format. Be advised that charging your dues by credit card will incur a $4 service charge.
+CSSR will now take dues payments by credit card. You can charge your dues either by calling the CSSR office or mailing in the dues payment form with the appropriate information. The membership renewal form is now available online in either PDF or Word format. Be advised that charging your dues by credit card will incur a $4 service charge.
 
 In the coming year, I will be talking with CSSR about setting up an automatic dues renewal via credit card, much like you can do with your AAR/SBL dues. But in the meantime, please be aware of the existing credit card service.
 

@@ -61,6 +61,6 @@
   side: right
   dropdown:
   - title: "Doctoral Student Network"
-    url: "/contact-us/doctoral-student-network/"
+    url: "/doctoral-student-network/"
   - title: "Facebook Group"
-    url: "/contact-us/facebook-group/"
+    url: "/facebook-group/"

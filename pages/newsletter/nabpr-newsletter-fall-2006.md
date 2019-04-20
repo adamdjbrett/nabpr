@@ -8,8 +8,8 @@ layout: page
 redirect_from: /?page_id=196
 breadcrumb: true
 ---
-<span style="color: #cc6600; font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman'; font-size: large;"><b>From the Executive-Secretary</b></span>****<span style="font-family: Tahoma, Arial, 'Microsoft Sans Serif', 'Times New Roman';"><br /> </span>  
-**<span style="font-family: Arial, Helvetica, sans-serif; font-size: small;">Danny Mynatt, Anderson University</span>**
+## **From the Executive-Secretary**
+## Danny Mynatt, Anderson University
 
 Fellow Members of NABPR:
 
@@ -55,9 +55,9 @@ Implementation
 For the first cycle (2008-2011) of Annual Meetings under the new model, the NABPR Executive Committee will appoint an ad hoc Program Committee. The Program Committee will schedule the Program and work out the logistics with the host institution.  
 If, after the first cycle of meetings, this model of the Annual Meeting works well, the Executive Committee will bring a permanent Constitutional change to the Association. If it does not work well, the Executive Committee will bring another recommendation.
 
-* * *
+***
 
-<span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">The Future&#8217;s Looking Good</span>
+## The Future&#8217;s Looking Good
 
 **Curtis W. Freeman, Duke University Divinity School**
 
@@ -75,12 +75,12 @@ colemanfannin@gmail.com
 
 It’s an important time for the NABPR. The Baptist academy needs us. Young Baptist scholars need us. And whether they recognize it or not, the various groups in our fragmented Baptist world need us. I hope you will continue to support this wonderful organization that I’ve been honored to serve over the past year. I’ll look forward to seeing you in D.C. on November 18.
 
-* * *
+***
 
-<span style="color: #cc6600; font-family: Arial, Helvetica, sans-serif; font-size: large;">Annual Meeting Program Preview</span>
+### Annual Meeting Program Preview
 
 **Pam Scalise, Fuller Theological Seminary**
 
 Three distinguished panelists will stimulate our thinking on the subject of “Baptists and the Ten Commandments.” Walter Harrelson has long been an advocate for the Commandments. (His most recent book on the subject, /The Ten Commandments for Today/, will be published in November.) Bill J. Leonard will give attention to the way Baptists have referenced the Commandments. Glen Stassen will propose an approach to interpreting the Commandments for ethics.
 
-Link: <a href="http://www.mercer.edu/nabpr/news/NABPRAGENDA%2006.pdf" rel="nofollow">NABPR Annual Meeting Agenda (pdf)</a>
+NABPR Annual Meeting Agenda

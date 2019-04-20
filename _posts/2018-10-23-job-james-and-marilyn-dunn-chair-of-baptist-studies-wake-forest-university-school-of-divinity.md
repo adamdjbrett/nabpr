@@ -3,7 +3,7 @@ id: 1261
 title: 'Job: James and Marilyn Dunn Chair of Baptist Studies, Wake Forest University School of Divinity'
 date: 2018-10-23T15:39:54+00:00
 author: adamdjbrett
-excerpt: "The Wake Forest University School of Divinity invites applications for the James and Marilyn Dunn Chair of Baptist Studies. Teaching responsibilities will include courses in the area of Baptist studies with  
+teaser: "The Wake Forest University School of Divinity invites applications for the James and Marilyn Dunn Chair of Baptist Studies. Teaching responsibilities will include courses in the area of Baptist studies with  
 particular emphasis on the role of ethics in the public sector. Related research and teaching interests in  
 the areas of theology or the history of Christianity are especially welcome."
 layout: page

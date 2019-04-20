@@ -3,7 +3,7 @@ id: 389
 title: Dissertation Scholarship Annoucement
 date: 2016-10-03T15:28:56+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=389
 permalink: /2016/10/03/dissertation-scholarship/

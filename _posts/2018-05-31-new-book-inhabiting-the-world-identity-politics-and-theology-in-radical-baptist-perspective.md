@@ -3,7 +3,7 @@ id: 1106
 title: 'New Book: Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective'
 date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1106
 permalink: /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/

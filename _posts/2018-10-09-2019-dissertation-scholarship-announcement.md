@@ -3,7 +3,7 @@ id: 1223
 title: 2019 Dissertation Scholarship Announcement
 date: 2018-10-09T18:47:56+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1223
 permalink: /2018/10/09/2019-dissertation-scholarship-announcement/

@@ -3,7 +3,7 @@ id: 883
 title: Announcing NABPR Forum
 date: 2018-02-20T14:27:59+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=883
 permalink: /2018/02/20/announcing-nabpr-forum/

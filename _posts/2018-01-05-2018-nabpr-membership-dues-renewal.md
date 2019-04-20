@@ -3,7 +3,7 @@ id: 795
 title: 2018 NABPR Membership Dues Renewal
 date: 2018-01-05T10:05:24+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=795
 permalink: /2018/01/05/2018-nabpr-membership-dues-renewal/

@@ -3,7 +3,7 @@ id: 1348
 title: American Baptist Quarterly, Call for Papers
 date: 2018-11-28T15:39:34+00:00
 author: adamdjbrett
-excerpt: "ABQ is the peer-reviewed journal of the American Baptist Historical Society. Both established and emerging scholars are invited to submit papers written from original research. Articles and essays should be between 6,000 and 10,000 words."
+teaser: "ABQ is the peer-reviewed journal of the American Baptist Historical Society. Both established and emerging scholars are invited to submit papers written from original research. Articles and essays should be between 6,000 and 10,000 words."
 layout: page
 redirect_from: /?p=1348
 permalink: /2018/11/28/american-baptist-quarterly-call-for-papers/

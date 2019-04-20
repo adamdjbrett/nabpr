@@ -3,7 +3,7 @@ id: 352
 title: Fundamentalism, Fundraising, and the Transformation of the Southern Baptist Convention.
 date: 2016-08-30T13:25:15+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=352
 permalink: /2016/08/30/andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/

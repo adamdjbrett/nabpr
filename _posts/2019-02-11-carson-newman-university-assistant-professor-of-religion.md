@@ -3,7 +3,7 @@ id: 1668
 title: 'Carson-Newman University &#8211; Assistant Professor of Religion'
 date: 2019-02-11T15:44:38+00:00
 author: adamdjbrett
-excerpt: "Carson-Newman University is seeking to hire an Assistant Professor of Religion."
+teaser: "Carson-Newman University is seeking to hire an Assistant Professor of Religion."
 layout: page
 redirect_from: ?p=1668
 permalink: /2019/02/11/carson-newman-university-assistant-professor-of-religion/

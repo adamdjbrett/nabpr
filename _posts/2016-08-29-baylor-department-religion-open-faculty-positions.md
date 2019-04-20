@@ -3,7 +3,7 @@ id: 333
 title: The Baylor Department of Religion Open Faculty Positions
 date: 2016-08-29T21:14:20+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=333
 permalink: /2016/08/29/baylor-department-religion-open-faculty-positions/

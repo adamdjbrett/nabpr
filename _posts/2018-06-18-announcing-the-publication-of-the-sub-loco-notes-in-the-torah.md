@@ -3,7 +3,7 @@ id: 1143
 title: Announcing The Publication of The Sub Loco Notes in the Torah
 date: 2018-06-18T15:32:28+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1143
 permalink: /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/

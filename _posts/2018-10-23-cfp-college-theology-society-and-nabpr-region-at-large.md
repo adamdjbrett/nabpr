@@ -3,7 +3,7 @@ id: 1254
 title: 'CFP: College Theology Society and NABPR Region-at-Large'
 date: 2018-10-23T12:00:31+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1254
 permalink: /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/

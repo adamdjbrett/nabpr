@@ -3,7 +3,7 @@ id: 399
 title: NABPR at the 2016 AAR-SBL
 date: 2016-11-08T18:14:00+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=399
 permalink: /2016/11/08/nabpr-aar-sbl/

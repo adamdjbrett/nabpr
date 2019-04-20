@@ -3,7 +3,7 @@ id: 772
 title: NABPR-SE Regional Meeting Program March 2018
 date: 2017-11-16T17:50:14+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=772
 permalink: /2017/11/16/nabpr-se-regional-meeting-program/

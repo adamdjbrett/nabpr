@@ -3,7 +3,7 @@ id: 416
 title: Conference and Scholarship Deadlines and Reminders
 date: 2017-01-04T23:10:04+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=416
 permalink: /2017/01/04/conference-scholarship-deadlines-reminders/

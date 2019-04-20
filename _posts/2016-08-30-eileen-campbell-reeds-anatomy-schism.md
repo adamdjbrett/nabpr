@@ -3,7 +3,7 @@ id: 349
 title: 'Eileen Campbell-Reed&#8217;s Anatomy of a Schism'
 date: 2016-08-30T10:17:07+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=349
 permalink: /2016/08/30/eileen-campbell-reeds-anatomy-schism/

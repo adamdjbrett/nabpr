@@ -3,7 +3,7 @@ id: 574
 title: Penultimate NABPR 2017 Program Draft
 date: 2017-05-20T16:55:44+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=574
 permalink: /2017/05/20/penultimate-nabpr-2017-program-draft/

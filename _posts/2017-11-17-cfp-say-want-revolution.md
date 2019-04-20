@@ -3,7 +3,7 @@ id: 776
 title: 'CFP: You say you want a revolution'
 date: 2017-11-17T10:44:50+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=776
 permalink: /2017/11/17/cfp-say-want-revolution/

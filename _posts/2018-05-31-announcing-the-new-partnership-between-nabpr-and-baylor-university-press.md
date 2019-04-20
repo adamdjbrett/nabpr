@@ -3,7 +3,7 @@ id: 1112
 title: Announcing the new partnership between NABPR and Baylor University Press
 date: 2018-05-31T12:45:40+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1112
 permalink: /2018/05/31/announcing-the-new-partnership-between-nabpr-and-baylor-university-press/

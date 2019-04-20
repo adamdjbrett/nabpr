@@ -3,7 +3,7 @@ id: 403
 title: NABPR Schedule for Meeting with AAR-SBL 2016
 date: 2016-11-10T14:18:40+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=403
 permalink: /2016/11/10/nabpr-aar-sbl-schedule-2016/

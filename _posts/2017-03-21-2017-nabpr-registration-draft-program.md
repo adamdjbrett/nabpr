@@ -3,7 +3,7 @@ id: 458
 title: 2017 NABPR Registration and Draft Program
 date: 2017-03-21T19:06:40+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=458
 permalink: /2017/03/21/2017-nabpr-registration-draft-program/

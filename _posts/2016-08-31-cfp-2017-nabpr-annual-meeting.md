@@ -3,7 +3,7 @@ id: 357
 title: 'CFP: 2017 NABPR Annual Meeting'
 date: 2016-08-31T16:10:08+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=357
 permalink: /2016/08/31/cfp-2017-nabpr-annual-meeting/

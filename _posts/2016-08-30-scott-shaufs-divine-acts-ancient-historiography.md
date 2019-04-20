@@ -3,7 +3,7 @@ id: 346
 title: 'Scott Shauf&#8217;s The Divine in Acts and in Ancient Historiography'
 date: 2016-08-30T07:05:50+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=346
 permalink: /2016/08/30/scott-shaufs-divine-acts-ancient-historiography/

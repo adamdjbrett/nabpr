@@ -3,7 +3,7 @@ id: 1191
 title: 2019 NABPR Call for Papers
 date: 2018-09-05T18:16:20+00:00
 author: adamdjbrett
-excerpt: |
+teaser: |
 layout: page
 redirect_from: /?p=1191
 permalink: /2018/09/05/2019-nabpr-call-for-papers/

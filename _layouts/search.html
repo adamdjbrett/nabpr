@@ -1,14 +1,15 @@
 <!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<html lang="en-US">
 <head>
 	{% include _head.html %}
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
-
+	{% include _navigation.html %}
 	{% include _masthead.html %}
 	{{ content }}
 
 
-
+{% include _footer.html %}
+{% include _footer_scripts.html %}
 </body>
 </html>

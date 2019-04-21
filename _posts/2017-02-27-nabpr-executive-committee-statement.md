@@ -28,7 +28,7 @@ tags:
 ---
 [![National Association of Baptist Professors of Religion (NABPR) Logo](/wp-content/uploads/2016/08/customLogo.jpg)](/wp-content/uploads/2016/08/customLogo.jpg)
 
-February 27, 2017 From the undersigned members of the Executive Committee of the [National Association of Baptist Professors of Religion](/):
+## February 27, 2017 From the undersigned members of the Executive Committee of the [National Association of Baptist Professors of Religion](/):
 
 As scholars who are committed to studying and understanding texts, religious groups and faith commitments, which take many forms, it seems worthy and right to respond to recent actions, which have such important implications for religion and the study of religion. We believe it is crucial to be on record stating our concern and opposition to actions taken recently by executive orders from the office of the president of the United States of America, Donald J. Trump. We express our concern and urge membership of the NABPR to consider the following statements offered by the American Academy of Religion and the Society for Biblical Literature. These statements demonstrate the seriousness of the recent restrictions and exclusion of people from visiting, living or traveling in the U.S. based on their religious commitments.
 
@@ -45,7 +45,7 @@ Adam D.J. Brett
 
 ***
 
-
+## AAR
 > AAR Board Statement on U.S. Executive Order “Protecting the Nation from Foreign Terrorist Entry into the United States&#8221;
 >
 > Statement Issued by the Board of Directors of the American Academy of Religion on January 30, 2017
@@ -65,7 +65,7 @@ Adam D.J. Brett
 <cite>[American Academy of Religion](https://www.aarweb.org/about/board-statement-on-us-executive-order-%E2%80%9Cprotecting-the-nation-from-foreign-terrorist-entry-into)</cite>
 &nbsp;
 
-
+## SBL
 > Statement on the 27 January 2017 U.S. Executive Order “Protecting the Nation from Foreign Terrorist Entry into the United States”
 >
 > The Society of Biblical Literature’s mission is to foster biblical scholarship in accordance with our core values, which include scholarly integrity, critical inquiry, respect for diversity, inclusivity, and tolerance. This mission of fostering biblical scholarship rests on the firm belief that the study of sacred texts and traditions involves unhindered intellectual exchange among scholars. Such open, scholarly exchange serves the common good by contributing to a broad public understanding of religious texts, traditions, and practices in the modern world. It is for these reasons, for example, that SBL does not endorse academic boycotts.

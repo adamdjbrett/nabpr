@@ -24,7 +24,7 @@ Feeling Responsive is heavily customizable.
 
 
 ## Changelog
-
+### [View Full CHANGELOG](changelog.md)
 - *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
 - Add custom SASS
 - integrate categories and tags pages from @mmistakes Jekyll Skinny Bones
@@ -39,4 +39,10 @@ Feeling Responsive is heavily customizable.
     color: lighten($black,60);
     }
   }`
-  
+
+## Credits
+### Stock photos
+  - Pixabay images:
+    - [Cup of Coffee](https://pixabay.com/photos/cup-of-coffee-laptop-office-macbook-1280537/)
+    - [Newspaper Globe](https://pixabay.com/illustrations/news-newspaper-globe-read-paper-1074604/)
+  - Membership Highway sign by Nick Youngson CC BY-SA 3.0 Alpha Stock Images via [Picpedia.org](http://www.picpedia.org/highway-signs/m/membership.html)

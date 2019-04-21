@@ -10,7 +10,7 @@ redirect_from:
   - /?page_id=316
   - /contact-us/doctoral-student-network/
 image:
-  title: /wp-content/uploads/2016/08/NABPR-Doctoral-Student-Network-Facebook-group-1568x580.jpg
+  image_fullwidth: /wp-content/uploads/2016/08/NABPR-Doctoral-Student-Network-Facebook-group-1568x580.jpg
   thumb: /wp-content/uploads/2016/08/NABPR-Doctoral-Student-Network-Facebook-group-1568x580-150x150.jpg
 breadcrumb: true
 ---

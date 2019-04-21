@@ -4,8 +4,9 @@ title: "About"
 subheadline: "National Association of Baptist Professors of Religion (NABPR)"
 teaser: "The National Association of Baptist Professors of Religion is a community of teaching scholars. Most members teach at Baptist-affiliated schools, colleges, and seminaries, but members also hail from a wide range of institutions in the United States, Canada, and abroad, including church-related and state-supported schools. The history of the association is woven into the changing religious culture of the United States."
 permalink: "/info/"
-header:
-    image_fullwidth: "/wp-content/uploads/2016/05/NABPR_site_logo_960x300.png"
+header: no
+  image_fullwidth: "/wp-content/uploads/2016/05/NABPR_site_logo_960x300.png"
+  thumb: "/images/nabpr-logo-only-150x150.png"
 redirect_from:
   - /about/
   - /about-nabpr/

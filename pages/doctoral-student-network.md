@@ -16,5 +16,4 @@ breadcrumb: true
 ---
 ## NABPR Doctoral Student Network
 
-
-NABPR has an online facebook group that functions as a forum and cafe for all graduate students who are part of NABPR but most especially for the Doctoral students. Please feel free to join the <a href="https://www.facebook.com/groups/124777644209574/" "hreflang="en-us">NABPR Doctoral Student Network</a> (<a href="https://www.facebook.com/groups/124777644209574/" "hreflang="en-us">https://www.facebook.com/groups/124777644209574/</a>).
+NABPR has an online facebook group that functions as a forum and cafe for all graduate students who are part of NABPR but most especially for the Doctoral students. Please feel free to join the [NABPR Doctoral Student Network](https://www.facebook.com/groups/124777644209574/).

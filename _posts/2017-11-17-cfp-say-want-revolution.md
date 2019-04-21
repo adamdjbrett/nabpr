@@ -12,6 +12,8 @@ redirect_from:
 image:
   title: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg
   thumb: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008-150x150.jpg
+  caption: 'Derham Hall and Our Lady of Victory Chapel via wikipedia'
+  caption_url: 'https://commons.wikimedia.org/wiki/File:Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg'
 categories:
   - Announcements
   - Calls for Papers (CFP)
@@ -27,7 +29,7 @@ tags:
 Meeting Jointly with the College Theology Society  
 Saint Catherine University, Saint Paul, Minnesota, Thursday, May 31, to Sunday, June 3, 2018
 
-[<img class="aligncenter size-medium wp-image-777" src="/wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-300x193.jpg" alt="" width="300" height="193" srcset="/wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-300x193.jpg 300w, /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-768x494.jpg 768w, /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1024x659.jpg 1024w, /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg 1568w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg)
+
 
 The NABPR Region-at-Large invites proposals for the 2018 College Theology Society/NABPR joint meeting around the theme of this year’s CTS Conference: “You Say You Want a Revolution? 1968-2018 in Theological Perspective.”  The following are some suggested topics, but other proposals are also welcome, especially in the area of biblical studies.
 
@@ -67,5 +69,3 @@ _Please submit paper proposals of 500 words or less, including one’s current i
 
   * Mike Broadway, Shaw University Divinity School, <mbroadwa@shawu.edu>
   * Jason Hentschel, University of Dayton, [hentschel@gmail.com](mailto:jason.hentschel@gmail.com)
-
-header image via: [wikipedia](https://commons.wikimedia.org/wiki/File:Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg)

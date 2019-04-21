@@ -11,17 +11,17 @@ widget1:
   title: "Blog & News"
   url: '/blog/'
   image: /images/news-1074604-302x182.png
-  text: 'Keep up to date with NABPR. News ›'
+  text: 'Keep up to date with NABPR.'
 widget2:
   title: "Annual Meeting"
   url: '/2019-nabpr-meeting-program/'
-  text: 'The Annual Meeting of the National Association of Baptist Professors of Religion will take place from May 20-22, 2019 at the First Baptist Church of Raleigh, NC ›.'
+  text: 'The Annual Meeting of the National Association of Baptist Professors of Religion will take place from May 20-22, 2019 at the First Baptist Church of Raleigh, NC.'
   image: /images/fbcraleigh-edenton-street-entrance1-full-302x182.jpg
 widget3:
   title: "Renew Your Membership"
   url: '/membership/membership-dues/'
   image: /images/membership-302x182.jpg
-  text: "Don't forget to renew your Membership dues before the Annual Meeting. Renew ›"
+  text: "Don't forget to renew your Membership dues before the Annual Meeting."
 #
 # Use the call for action to show a button on the frontpage
 #

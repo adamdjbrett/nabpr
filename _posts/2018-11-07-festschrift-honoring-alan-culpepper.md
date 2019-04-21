@@ -10,7 +10,9 @@ redirect_from:
   - /?p=1301
   - /2018/11/07/festschrift-honoring-alan-culpepper/
 image:
+  title: /wp-content/uploads/2018/11/festschrift-Alan-Culpepper.jpg
   thumb: /wp-content/uploads/2018/11/festschrift-Alan-Culpepper-150x150.jpg
+  caption: 'Festschrift for Alan Culpepper'
 categories:
   - Books of Interest
 tags:
@@ -22,6 +24,6 @@ tags:
   - SBL
   - SBLAAR
 ---
-[<img class="alignleft size-medium wp-image-1302" src="/wp-content/uploads/2018/11/festschrift-Alan-Culpepper-187x300.jpg" alt="" width="187" height="300" srcset="/wp-content/uploads/2018/11/festschrift-Alan-Culpepper-187x300.jpg 187w, /wp-content/uploads/2018/11/festschrift-Alan-Culpepper.jpg 505w" sizes="(max-width: 187px) 100vw, 187px" />](/wp-content/uploads/2018/11/festschrift-Alan-Culpepper.jpg)
+
 
 There will be a presentation for a festschrift honoring Alan Culpepper at 7:00-8:00pm at the Denver Meeting of the AAR and SBL. (Nov. 18, Sheraton-Downtown Spruce Room, third level). All are invited.

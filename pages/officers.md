@@ -9,7 +9,7 @@ permalink: /officers/
 redirect_from: /?page_id=86
 breadcrumb: true
 ---
-## Officers 2017-2018
+## Officers 2018-2019
 
   * PRESIDENT: [Steven R. Harmon](http://www.gardner-webb.edu/academic-programs-and-resources/colleges-and-schools/divinity/about/faculty-and-staff/steven-harmon/index), Gardner-Webb University School of Divinity, (<sharmon@gardner-webb.edu>)
   * VICE-PRESIDENT: Christine Jones, Carson Newman University, (<cjones@cn.edu>)

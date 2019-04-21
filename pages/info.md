@@ -10,8 +10,6 @@ redirect_from:
   - /about/
   - /about-nabpr/
   - /sample-page/
-  - ?page_id=2
-  - /?page_id=68
   - /2016/05/20/announcement-sample-post/
   - /2016/05/20/cfp-sample/
   - /2016/05/20/general-post/
@@ -25,6 +23,8 @@ redirect_from:
   - /?p=134
   - /?p=136
   - /?p=138
+  - /?page_id=68
+  - /?page_id=2
   - /?p=1
 breadcrumb: true  
 ---

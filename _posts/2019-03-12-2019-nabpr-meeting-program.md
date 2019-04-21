@@ -9,6 +9,10 @@ permalink: /2019-nabpr-meeting-program/
 redirect_from:
   - /?p=1751
   - /2019/03/12/2019-nabpr-meeting-program/
+image:
+    title: /images/fbcraleigh-edenton-street-entrance1-full.jpg
+    thumb: /images/fbcraleigh-edenton-street-entrance1-full-th.jpg
+    caption: First Baptist Church, Raleigh, NC
 categories:
   - Schedule
 tags:
@@ -17,6 +21,13 @@ tags:
   - Campbell University
   - NABPR
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 <h1 style="text-align: center;">
   The National Association of Baptist Professors of Religion
 </h1>

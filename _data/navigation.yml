@@ -51,7 +51,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog/News Archive"
+  - title: "News Archive"
     url: "/blog/archive/"
 
 - title: "Search"

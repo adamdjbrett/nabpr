@@ -7,7 +7,8 @@ permalink: '/info/'
 header:
   image: "/wp-content/uploads/2016/05/NABPR_site_logo_960x300.png"
   background-color: "#2F4558"
-  thumb: "/images/nabpr-logo-only-150x150.png"
+  caption: NABPR Logo
+  caption_url: https://nabpr.org
 redirect_from:
   - /about/
   - /about-nabpr/

@@ -10,8 +10,8 @@ header:
 widget1:
   title: "Blog & News"
   url: '/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  image: /images/news-1074604-302x182.png
+  text: 'Keep up to date with NABPR.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'

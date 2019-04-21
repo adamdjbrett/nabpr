@@ -47,11 +47,11 @@
   url: "/publications/"
   side: left
 
-- title: News
+- title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "News Archive"
+  - title: "Blog Archive"
     url: "/blog/archive/"
 
 - title: "Search"

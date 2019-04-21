@@ -26,7 +26,7 @@ tags:
   - SBLAAR
   - travel
 ---
-[<img class="size-full wp-image-225 alignleft" src="/wp-content/uploads/2016/08/customLogo.jpg" alt="National Association of Baptist Professors of Religion (NABPR) Logo" width="85" height="100" />](/wp-content/uploads/2016/08/customLogo.jpg)
+[![National Association of Baptist Professors of Religion (NABPR) Logo](/wp-content/uploads/2016/08/customLogo.jpg)](/wp-content/uploads/2016/08/customLogo.jpg)
 
 February 27, 2017 From the undersigned members of the Executive Committee of the [National Association of Baptist Professors of Religion](/):
 

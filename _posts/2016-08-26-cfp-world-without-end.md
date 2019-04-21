@@ -12,6 +12,7 @@ redirect_from:
 image:
   title: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg
   thumb: /wp-content/uploads/2016/08/World-Without-End-Webpage-150x150.jpg
+  caption: 'Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College'
 categories:
   - Calls for Papers (CFP)
 tags:
@@ -23,18 +24,17 @@ tags:
 ---
 &nbsp;
 
-<div>
-</div><figure id="attachment_151" aria-describedby="caption-attachment-151" style="width: 300px" class="wp-caption alignnone">
+![Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College](http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg
 
-[<img class="size-medium wp-image-151" src="http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg" alt="Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College" width="300" height="159" srcset="/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg 300w, /wp-content/uploads/2016/08/World-Without-End-Webpage-768x407.jpg 768w, /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2016/08/World-Without-End-Webpage.jpg)<figcaption id="caption-attachment-151" class="wp-caption-text">Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College</figcaption></figure>
+
 
 <!--more-->
 
-Call for Proposals
+## Call for Proposals
 
-World Without End: The New Shape of World Christianity
+### World Without End: The New Shape of World Christianity
 
-<a href="http://www.georgetowncollege.edu/cdal/conferences/" target="_blank" rel="noopener noreferrer">January 26-27, 2017 Georgetown College</a>
+[January 26-27, 2017 Georgetown College](http://www.georgetowncollege.edu/cdal/conferences/)
 
 &nbsp;
 
@@ -74,16 +74,4 @@ Decisions by **October 1, 2016**.
 
 CDALConference17[AT]georgetowncollege[DOT]edu
 
-http://www.georgetowncollege.edu/cdal/conferences/
-
-<div>
-</div>
-
-&nbsp;
-
-<div>
-</div>
-
-&nbsp;
-
-&nbsp;
+<http://www.georgetowncollege.edu/cdal/conferences/>

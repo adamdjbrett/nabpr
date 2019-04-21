@@ -22,8 +22,9 @@ tags:
   - Ministry Guidance.
   - Practical Studies
 ---
-<figure id="attachment_334" aria-describedby="caption-attachment-334" style="width: 600px" class="wp-caption aligncenter">[<img class="wp-image-334 size-large" src="http://nabpr.org/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-1024x652.jpg" alt="Baylor-tidwell-bible-building-texascollectionbaylor-flickr" width="600" height="382" srcset="/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg 1024w, /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-300x191.jpg 300w, /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-768x489.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg)<figcaption id="caption-attachment-334" class="wp-caption-text">via: https://www.flickr.com/photos/texascollectionbaylor/5022007844</figcaption></figure>
+[![Baylor-tidwell-bible-building-texascollectionbaylor-flickr](http://nabpr.org/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-1024x652.jpg)](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg)
 
+via: https://www.flickr.com/photos/texascollectionbaylor/5022007844
 ## The Baylor Department of Religion Open Faculty Positions
 
 The Baylor Department of Religion has two open faculty positions:

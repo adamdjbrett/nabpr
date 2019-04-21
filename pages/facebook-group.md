@@ -11,7 +11,7 @@ redirect_from:
   - /contact-us/facebook-group/
 image:
   title: /wp-content/uploads/2016/05/NABPR_facebook.png
-  thumb: /wp-content/uploads/2016/05/NABPR_facebook.png
+  thumb: /wp-content/uploads/2016/05/NABPR_facebook-150x150.png
 breadcrumb: true
 ---
 ## NABPR Members Only Facebook Group

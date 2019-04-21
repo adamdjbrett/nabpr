@@ -22,7 +22,7 @@ tags:
   - Ministry Guidance.
   - Practical Studies
 ---
-[![Baylor-tidwell-bible-building-texascollectionbaylor-flickr](http://nabpr.org/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-1024x652.jpg)](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg)
+[![Baylor-tidwell-bible-building-texascollectionbaylor-flickr](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-1024x652.jpg)](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg)
 
 via: https://www.flickr.com/photos/texascollectionbaylor/5022007844
 ## The Baylor Department of Religion Open Faculty Positions

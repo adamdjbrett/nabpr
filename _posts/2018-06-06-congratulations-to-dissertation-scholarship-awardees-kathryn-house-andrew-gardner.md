@@ -53,6 +53,6 @@ Kathryn is ordained in the Alliance of Baptists and American Baptist Churches US
 
 &nbsp;
 
-### About the NABPR [Dissertation Scholarship](https://nabpr.org/dissertation/)
+### About the NABPR [Dissertation Scholarship](/dissertation/)
 
-[The NABPR dissertation scholarship](https://nabpr.org/dissertation/) program is designed to assist Baptist scholars who are in the process of completing their dissertation. The program was founded in 2006 and is awarded annually.
+[The NABPR dissertation scholarship](/dissertation/) program is designed to assist Baptist scholars who are in the process of completing their dissertation. The program was founded in 2006 and is awarded annually.

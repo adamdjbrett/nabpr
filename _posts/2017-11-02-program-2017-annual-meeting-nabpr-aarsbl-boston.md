@@ -71,6 +71,6 @@ tags:
       * Update on NABPR Social Media Adam DJ Brett
   * 11:25 Invitation to the National Meeting Steve Harmon
 
-#### [**_May 21-23, 2018, Gardner-Webb University, Boiling Springs, NC_**](https://nabpr.org/2018-nabpr-call-for-papers/)
+#### [**_May 21-23, 2018, Gardner-Webb University, Boiling Springs, NC_**](/2018-nabpr-call-for-papers/)
 
   * 11:30 Adjournment Steve Harmon

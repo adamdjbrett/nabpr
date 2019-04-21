@@ -25,18 +25,18 @@ tags:
   - NABPR
 ---
 
-[The Draft Program](/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](/meetings/registration/), and [housing](http://nabpr.org/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
+[The Draft Program](/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](/meetings/registration/), and [housing](/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
 
 ## Registration
 
-[Click here to Register](http://nabpr.org/meetings/registration/)  
+[Click here to Register](/meetings/registration/)  
 Conference Fee: Before May 1: $95. After May 1: $120  
 **All graduate student registration is compliments of NABPR. Students please note your status in the registration comment field.**
 
 ### Housing
 
-[Click here to register for housing](http://nabpr.org/meetings/housing/).  
-A list of local hotels appears on the last page of the program. Belmont is providing on-campus housing to any registrant for $27 per night. You must register for the conference and housing separately. In order to take advantage of on campus housing, please fill out the [housing form](http://nabpr.org/meetings/housing/).
+[Click here to register for housing](/meetings/housing/).  
+A list of local hotels appears on the last page of the program. Belmont is providing on-campus housing to any registrant for $27 per night. You must register for the conference and housing separately. In order to take advantage of on campus housing, please fill out the [housing form](/meetings/housing/).
 
 **Linens are NOT provided.**
 

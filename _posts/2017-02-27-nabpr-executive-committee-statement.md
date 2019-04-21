@@ -28,9 +28,7 @@ tags:
 ---
 [<img class="size-full wp-image-225 alignleft" src="/wp-content/uploads/2016/08/customLogo.jpg" alt="National Association of Baptist Professors of Religion (NABPR) Logo" width="85" height="100" />](/wp-content/uploads/2016/08/customLogo.jpg)
 
-<span data-term="goog_1002334373">February 27, 2017</span>
-
-From the undersigned members of the Executive Committee of the <a href="http://nabpr.org/" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://nabpr.org/&source=gmail&ust=1488317056282000&usg=AFQjCNGnIzfnNC48EK6Eic_Wy1-fqY7QmQ">National Association of Baptist Professors of Religion</a>:
+February 27, 2017 From the undersigned members of the Executive Committee of the [National Association of Baptist Professors of Religion](/):
 
 As scholars who are committed to studying and understanding texts, religious groups and faith commitments, which take many forms, it seems worthy and right to respond to recent actions, which have such important implications for religion and the study of religion. We believe it is crucial to be on record stating our concern and opposition to actions taken recently by executive orders from the office of the president of the United States of America, Donald J. Trump. We express our concern and urge membership of the NABPR to consider the following statements offered by the American Academy of Religion and the Society for Biblical Literature. These statements demonstrate the seriousness of the recent restrictions and exclusion of people from visiting, living or traveling in the U.S. based on their religious commitments.
 
@@ -45,9 +43,8 @@ Adam D.J. Brett
 
 &nbsp;
 
-* * *
+***
 
-**From the <a href="https://www.aarweb.org/about/board-statement-on-us-executive-order-%E2%80%9Cprotecting-the-nation-from-foreign-terrorist-entry-into" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://www.aarweb.org/about/board-statement-on-us-executive-order-%25E2%2580%259Cprotecting-the-nation-from-foreign-terrorist-entry-into&source=gmail&ust=1488317056282000&usg=AFQjCNFPUClrCzh20YGN4gSlceiXBKDPzg">American Academy of Religion</a> **
 
 > AAR Board Statement on U.S. Executive Order “Protecting the Nation from Foreign Terrorist Entry into the United States&#8221;
 >
@@ -65,9 +62,9 @@ Adam D.J. Brett
 >
 > With learned societies, colleges and universities, and educational leaders across the nation, we call on the President and Congress to retract the Muslim immigration ban and to denounce religious intolerance in all its forms.
 
+<cite>[American Academy of Religion](https://www.aarweb.org/about/board-statement-on-us-executive-order-%E2%80%9Cprotecting-the-nation-from-foreign-terrorist-entry-into)</cite>
 &nbsp;
 
-**From the <a href="https://www.sbl-site.org/assets/pdfs/Statement_on_EO_Ban.pdf" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://www.sbl-site.org/assets/pdfs/Statement_on_EO_Ban.pdf&source=gmail&ust=1488317056282000&usg=AFQjCNEUIt4MTJzVj34qdkmXkOrE8d1NfA">Society for Biblical Literature</a>**
 
 > Statement on the 27 January 2017 U.S. Executive Order “Protecting the Nation from Foreign Terrorist Entry into the United States”
 >
@@ -76,3 +73,6 @@ Adam D.J. Brett
 > In 2012, SBL received a grant to explore the establishment of an international and independent network of scholars of the Qur’an. That grant led to the formation of the International Qur’anic Studies Association (IQSA) in 2014, now an independent affiliate of the SBL and an invaluable partner in the study of sacred texts. As a learned society, IQSA, like SBL, seeks to promote peace through understanding. We thereby stand with our colleagues in Qur’anic and Islamic studies to protest the ban on immigrants and refugees from Muslim countries.
 >
 > Moreover, the ban encourages discrimination and promotes misleading and sometimes dangerous caricatures of religious people, practices, and texts. It also places obstacles to the travel of Muslim scholars in and out of the United States, and threatens the free exchange of ideas among the Society and partnering and affiliating organizations that advance learning and help make peace and understanding possible. Thus, the Society strongly opposes the ban and its implementation.
+
+<cite>[Society for Biblical Literature (PDF)](https://www.sbl-site.org/assets/pdfs/Statement_on_EO_Ban.pdf)
+</cite>

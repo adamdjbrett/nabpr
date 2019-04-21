@@ -13,5 +13,5 @@ categories:
   - Announcements
   - Calls for Papers (CFP)
 ---
-  * The [NABPR Annual Meeting will be in Nasvhille, TN at Belmont University](http://nabpr.org/cfp-2017-nabpr-annual-meeting/) this year. The call for papers deadline is Jan. 15.
-  * The [Dissertation Scholarship](http://nabpr.org/dissertation-scholarship/) deadline is Jan. 15.
+  * The [NABPR Annual Meeting will be in Nasvhille, TN at Belmont University](/cfp-2017-nabpr-annual-meeting/) this year. The call for papers deadline is Jan. 15.
+  * The [Dissertation Scholarship](/dissertation-scholarship/) deadline is Jan. 15.

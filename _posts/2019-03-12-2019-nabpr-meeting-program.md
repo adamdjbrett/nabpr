@@ -61,14 +61,14 @@ Brad Creed, President Campbell University
 
 #### Registration
 
-  * Registration is online at [NABPR.org](https://nabpr.org/meetings/registration/): <https://nabpr.org/meetings/registration/>
+  * Registration is online at [NABPR.org](/meetings/registration/): <https://nabpr.org/meetings/registration/>
   * Conference Fee: Before May 1: $95. After May 1: $125
   * All graduate student registration is compliments of NABPR.
   * All events will occur at the First Baptist Church, 99 North Salisbury Street Raleigh, NC 27603
 
 #### Housing
 
-  * [A list of local hotels appears on the housing page](https://nabpr.org/meetings/housing/). On-campus housing is not available for the 2019 meeting. We apologize for any inconvenience.
+  * [A list of local hotels appears on the housing page](/meetings/housing/). On-campus housing is not available for the 2019 meeting. We apologize for any inconvenience.
 
 #### Meals
 

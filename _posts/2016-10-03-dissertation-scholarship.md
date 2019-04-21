@@ -21,7 +21,7 @@ tags:
   - funding
   - scholarship
 ---
-**National Association of Baptist Professors of Religion: **[**Dissertation Scholarship**](http://nabpr.org/disssertation/)
+**National Association of Baptist Professors of Religion: **[**Dissertation Scholarship**](/disssertation/)
 
 <u></u>The NABPR is committed to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity.  The particular purpose of the NABPR dissertation scholarship is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.
 

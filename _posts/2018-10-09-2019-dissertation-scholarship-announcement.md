@@ -20,8 +20,8 @@ tags:
   - dissertation
   - scholarship
 ---
-[NABPR](https://nabpr.org/) is now accepting applications for the [2019 Dissertation Scholarship](https://nabpr.org/dissertation/). Some recent recipients of the scholarship are: João Chaves (2017), Kathryn H. House (2018), Andrew Gardner (2018). The deadline is January 15.
+[NABPR](/) is now accepting applications for the [2019 Dissertation Scholarship](/dissertation/). Some recent recipients of the scholarship are: João Chaves (2017), Kathryn H. House (2018), Andrew Gardner (2018). The deadline is January 15.
 
 &nbsp;
 
-[→ Learn More about the Dissertation Scholarship](https://nabpr.org/dissertation/)
+[→ Learn More about the Dissertation Scholarship](/dissertation/)

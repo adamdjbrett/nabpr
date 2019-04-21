@@ -29,7 +29,7 @@ Campbell University School of Law
 Raleigh, NC  
 May 20 – 22, 2019
 
-[The National Association of Baptist Professors of Religion (NABPR)](https://nabpr.org) invites paper proposals in any area pertaining to scholarship in Religion. In an effort to develop innovative conversations among scholars, papers that create integration between traditional disciplines or broaden the margins of disciplinary conversations are encouraged. _Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are encouraged from any field, including Ministry Studies_.
+[The National Association of Baptist Professors of Religion (NABPR)](/) invites paper proposals in any area pertaining to scholarship in Religion. In an effort to develop innovative conversations among scholars, papers that create integration between traditional disciplines or broaden the margins of disciplinary conversations are encouraged. _Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are encouraged from any field, including Ministry Studies_.
 
 **Paper or panel proposals on any aspect of pedagogy related to the teaching of Religion are encouraged.**
 

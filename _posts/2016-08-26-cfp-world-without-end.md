@@ -24,7 +24,7 @@ tags:
 ---
 &nbsp;
 
-![Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College](http://nabpr.org/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg
+![Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College](/wp-content/uploads/2016/08/World-Without-End-Webpage-300x159.jpg)
 
 
 

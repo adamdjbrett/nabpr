@@ -76,17 +76,17 @@ NABPR Vice President
 
 ### **Registration**
 
-**[Registration](https://nabpr.org/meetings/registration/) is now open at: **[**https://nabpr.org/meetings/registration/**](https://nabpr.org/meetings/registration/)
+**[Registration](/meetings/registration/) is now open at: **[/meetings/registration/](/meetings/registration/)
 
 <div style="color: #66000b;">
   ‼︎ <strong>Conference Fee:  Before May 1: $95. | After May 1: $125.</strong>
 </div>
 
-All graduate student registration is compliments of [NABPR](https://nabpr.org).
+All graduate student registration is compliments of [NABPR](/).
 
-[**Housing**](https://nabpr.org/meetings/housing/)
+[**Housing**](/meetings/housing/)
 
-We regret that on-campus housing is not available for this meeting; There are multiple [hotel options.](https://nabpr.org/meetings/housing/) The first hotel listed is located near the Gardner-Webb campus and has a block of rooms reserved for our conference at a discounted rate.
+We regret that on-campus housing is not available for this meeting; There are multiple [hotel options.](/meetings/housing/) The first hotel listed is located near the Gardner-Webb campus and has a block of rooms reserved for our conference at a discounted rate.
 
 **Meals**
 
@@ -104,7 +104,7 @@ For those traveling by air, the Gardner-Webb University campus is located 47 mil
 **Questions**  
 If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  Danny will forward your question to the appropriate person.
 
-* * *
+***
 
 ### **Monday, May 21**
 
@@ -117,15 +117,13 @@ If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>.  D
       * **Program:**
           * Joseph S. Moore, Assistant Professor of History, Chair of the Department of Social Sciences, and Special Assistant to the Provost for Academic Enhancement at Gardner-Webb University and author of _Founding Sins: How a Group of Antislavery Radicals Fought to Put Christ into the Constitution_ (Oxford University Press, 2015).
 
-* * *
+***
 
-<div style="color: #66000b;">
-  ‼︎
-</div>
+<div style="color: #66000b;">‼︎</div>
 
 <pre>The Break Area for the conference will be located in the Foyer outside Stewart Hall in Tucker Student Center.</pre>
 
-* * *
+***
 
 ### **Tuesday morning, May 22**
 

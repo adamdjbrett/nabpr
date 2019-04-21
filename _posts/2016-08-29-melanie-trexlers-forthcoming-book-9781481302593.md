@@ -40,7 +40,7 @@ Greetings NABPR:
 I received this today from Melanie Trexler:  
 “I wanted to share some good news with NABPR: My book, [Evangelizing Lebanon: Baptists, Missions, and the Question of Cultures](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html), is available from Baylor University Press starting on September 15. Since the book focuses on the Southern Baptist Mission to Lebanon from 1923–2011, I thought NABPR may be interested in it.”
 
-Melanie was the 2012 winner of the [NABPR Dissertation Scholarship Award](http://nabpr.org/disssertation/).
+Melanie was the 2012 winner of the [NABPR Dissertation Scholarship Award](/disssertation/).
 
 Danny Mynatt
 

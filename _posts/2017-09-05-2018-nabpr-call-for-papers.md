@@ -26,7 +26,7 @@ tags:
   - theology
 ---
 <h3 style="background-color: #c6302f; color: #ffffff;">
-  ‼︎<a href="https://nabpr.org/meeting-at-gardner-webb-program/">The Call for Papers is now closed. Please see the 2018 Program. </a><a href="https://nabpr.org/meeting-at-gardner-webb-program/">‼︎</a>
+  ‼︎<a href="/meeting-at-gardner-webb-program/">The Call for Papers is now closed. Please see the 2018 Program. </a><a href="/meeting-at-gardner-webb-program/">‼︎</a>
 </h3>
 
 <h3 style="text-align: center;">

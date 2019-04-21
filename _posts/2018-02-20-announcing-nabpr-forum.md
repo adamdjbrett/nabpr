@@ -48,4 +48,3 @@ How to signup for [NABPR Forum (nabpr.org)](/)
   * click on register in the top right corner
   * signup with your email
   * your registration will then be confirmed by Adam DJ Brett with Joyce Swoveland to ensure you are a current NABPR dues paying member. Below are some screenshots to assist with the process.
-  

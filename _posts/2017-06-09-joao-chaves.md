@@ -23,7 +23,7 @@ tags:
   - young scholars
 ---
 <div>
-  Congratulations to NABPR <a href="https://nabpr.org/disssertation/">Dissertation Scholarship</a> Awardee: João Chaves! Best wishes to him on the journey of dissertation.
+  Congratulations to NABPR <a href="/disssertation/">Dissertation Scholarship</a> Awardee: João Chaves! Best wishes to him on the journey of dissertation.
 </div>
 
 <div>
@@ -41,7 +41,7 @@ tags:
 ### About the Scholarship
 
 <div>
-  The National Association of Baptist Professors of Religion (NABPR) offers one dissertation scholarship a year to ABD scholars who carry out research on topics broadly related to Baptist Identity. The dissertation scholarship is designed to cultivate conversations about what it means to be a Baptist teach and scholar with relationship to the church and the academy. NABPR is committed to contributing to the formation of students in the Baptist tradition and supporting the important research by Baptist Ph.D. Students. To learn more see: <a href="https://nabpr.org/disssertation/">Dissertation Scholarship</a>.
+  The National Association of Baptist Professors of Religion (NABPR) offers one dissertation scholarship a year to ABD scholars who carry out research on topics broadly related to Baptist Identity. The dissertation scholarship is designed to cultivate conversations about what it means to be a Baptist teach and scholar with relationship to the church and the academy. NABPR is committed to contributing to the formation of students in the Baptist tradition and supporting the important research by Baptist Ph.D. Students. To learn more see: <a href="/disssertation/">Dissertation Scholarship</a>.
 </div>
 
 <div>

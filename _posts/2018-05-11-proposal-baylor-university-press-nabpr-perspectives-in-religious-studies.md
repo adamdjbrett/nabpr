@@ -21,7 +21,7 @@ tags:
 ---
 ### **Background and Executive Summary**
 
-After twenty years of faithful service as Senior Editor of [NABPR Publications](https://nabpr.org/publications/), Dr. Scott Nash informed the _PRSt_ editorial board last summer (2017) of his decision to relinquish that role in summer, 2018. We will honor Scott for his significant contributions to _PRSt_ and NABPR publications at our meeting at Gardner-Webb in a few days.
+After twenty years of faithful service as Senior Editor of [NABPR Publications](/publications/), Dr. Scott Nash informed the _PRSt_ editorial board last summer (2017) of his decision to relinquish that role in summer, 2018. We will honor Scott for his significant contributions to _PRSt_ and NABPR publications at our meeting at Gardner-Webb in a few days.
 
 We must also make new arrangements for the publication and distribution of the journal. With Scott’s departure, we also lose Mercer University’s generous institutional support in the production and distribution of _PRSt_, as well as housing the backlist inventory of the journal.
 
@@ -35,4 +35,4 @@ The Baylor University Press Faculty Advisory Committee has given provisional app
 
 #### Update: May 31, 2018
 
-[Announcing the new partnership between NABPR and Baylor University Press](https://nabpr.org/announcing-the-new-partnership-between-nabpr-and-baylor-university-press/).
+[Announcing the new partnership between NABPR and Baylor University Press](/announcing-the-new-partnership-between-nabpr-and-baylor-university-press/).

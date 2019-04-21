@@ -23,7 +23,7 @@ tags:
   - SBLAAR
   - SBLAAR16
 ---
-## [<img class="size-medium wp-image-400 aligncenter" src="http://nabpr.org/wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-300x300.png" alt="nabpr-aarsbl2016-twitter-instagram" width="300" height="300" srcset="/wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-300x300.png 300w, /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-150x150.png 150w, /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-768x768.png 768w, /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-1024x1024.png 1024w, /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png 1080w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png)
+
 
 ## Presidential Address:
 

@@ -10,8 +10,8 @@ redirect_from:
   - /?p=1668
   - /2019/02/11/carson-newman-university-assistant-professor-of-religion/
 image:
-  title: wp-content/uploads/2019/02/carson-newman-admin-cropped539.jpg
-  thumb: wp-content/uploads/2019/02/carson-newman-admin-cropped539-150x150.jpg
+  title: /wp-content/uploads/2019/02/carson-newman-admin-cropped539.jpg
+  thumb: /wp-content/uploads/2019/02/carson-newman-admin-cropped539-150x150.jpg
 categories:
   - Job Listings
 tags:

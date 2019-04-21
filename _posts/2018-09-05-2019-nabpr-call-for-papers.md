@@ -22,11 +22,12 @@ tags:
   - ministry
   - pastoral care
 ---
-[<img class="alignleft size-medium wp-image-1195" src="/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg" alt="Campbell University School of Law. Photo by Chris West" width="300" height="226" srcset="/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-300x226.jpg 300w, /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West-768x579.jpg 768w, /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg 883w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg)
-
-<h3 style="text-align: center;">
-  Call for Papers<br /> National Association of Baptist Professors of Religion<br /> Annual Meeting<br /> Campbell University School of Law<br /> Raleigh, NC<br /> May 20 – 22, 2019
-</h3>
+### Call for Papers  
+National Association of Baptist Professors of Religion  
+Annual Meeting  
+Campbell University School of Law  
+Raleigh, NC  
+May 20 – 22, 2019
 
 [The National Association of Baptist Professors of Religion (NABPR)](https://nabpr.org) invites paper proposals in any area pertaining to scholarship in Religion. In an effort to develop innovative conversations among scholars, papers that create integration between traditional disciplines or broaden the margins of disciplinary conversations are encouraged. _Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are encouraged from any field, including Ministry Studies_.
 
@@ -40,10 +41,8 @@ Graduate students are encouraged to submit proposals. Graduate students must reg
 
 _Proposals must be received by January 15, 2019. Send a 300-word abstract electronically to:_
 
-<p style="text-align: center;">
-  <strong>Dr. Steven R. Harmon</strong><br /> <strong>sharmon@gardner-webb.edu</strong>
-</p>
-
+**Dr. Steven R. Harmon**  
+**<sharmon@gardner-webb.edu>**
 Papers will be scheduled into a 30 minute time period, including discussion.
 
 Proposals will be accepted or denied by March 1, 2019.

@@ -12,6 +12,7 @@ redirect_from:
 image:
   title: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg
   thumb: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-150x150.jpeg
+  caption: 'Evangelizing Lebanon: Baptists, Missions, and the Question of Cultures by Melanie Trexler'
 categories:
   - Books of Interest
   - NABPR Notes
@@ -26,9 +27,8 @@ tags:
 ---
 ## Evangelizing Lebanon &#8211; Melanie Trexler
 
-<!--more--><figure id="attachment_340" aria-describedby="caption-attachment-340" style="width: 200px" class="wp-caption aligncenter">
+![/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg](https://www.baylorpress.com/9781481302593/evangelizing-lebanon/)
 
-[<img class="size-medium wp-image-340" src="http://nabpr.org/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg" alt="via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html" width="200" height="300" srcset="/wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press-200x300.jpeg 200w, /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg 667w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html)<figcaption id="caption-attachment-340" class="wp-caption-text">via: http://www.baylorpress.com/Book/482/Evangelizing_Lebanon.html</figcaption></figure>
 
 ## Evangelizing Lebanon
 
@@ -44,11 +44,13 @@ Melanie was the 2012 winner of the [NABPR Dissertation Scholarship Award](http:/
 
 Danny Mynatt
 
-* * *
+***
 
 ### Book information
 
-Title: _Evangelizing Lebanon: Baptists, Missions, and the Question of Cultures_  
-Author: Melanie Trexler  
-ISBN: 9781481302593 ([worldcat](http://www.worldcat.org/title/evangelizing-lebanon-baptists-missions-and-the-question-of-cultures/oclc/937368061&referer=brief_results))([amazon](https://www.amazon.com/Evangelizing-Lebanon-Baptists-Missions-Question/dp/1481302590/ref=sr_1_1?ie=UTF8&qid=1472506700&sr=8-1&keywords=9781481302593))  
-Publisher: Baylor University Press
+- Title: _Evangelizing Lebanon: Baptists, Missions, and the Question of Cultures_  
+- Author: Melanie Trexler  
+- ISBN: 9781481302593
+- [worldcat](http://www.worldcat.org/title/evangelizing-lebanon-baptists-missions-and-the-question-of-cultures/oclc/937368061&referer=brief_results)
+- [amazon](https://www.amazon.com/Evangelizing-Lebanon-Baptists-Missions-Question/dp/1481302590/ref=sr_1_1?ie=UTF8&qid=1472506700&sr=8-1&keywords=9781481302593)  
+- Publisher: [Baylor University Press](https://www.baylorpress.com/9781481302593/evangelizing-lebanon/)

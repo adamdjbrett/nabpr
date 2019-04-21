@@ -18,12 +18,7 @@ tags:
   - Missions
   - theology
 ---
-<p class="p3">
-  <span class="s1"><em>American Baptist Quarterly (ABQ)</em> </span>is the peer-reviewed journal of the American Baptist Historical Society. Both established and emerging scholars are invited to submit papers written from original research. Articles and essays should be between 6,000 and 10,000 words. <span class="s2">If </span>you are interested in submitting a paper for one of the upcoming issues, please contact editor <span class="s3">Curtis Freeman </span>(<span class="s4">CFreeman@div.duke.ed</span><span class="s4">u</span><span class="s4">) as </span><span class="s3">soon </span>as possible.
-</p>
-
-<!--more-->
-
+_American Baptist Quarterly (ABQ)_ is the peer-reviewed journal of the American Baptist Historical Society. Both established and emerging scholars are invited to submit papers written from original research. Articles and essays should be between 6,000 and 10,000 words. If you are interested in submitting a paper for one of the upcoming issues, please contact editor Curtis Freeman <CFreeman@div.duke.edu> as soon as possible.
 &nbsp;
 
 <table id="abq-cfp-2018" class="wdn_responsive_table flush-left">

@@ -8,8 +8,12 @@ layout: page
 permalink: /2017-nabpr-registration-draft-program/
 redirect_from:
   - /?p=458
-  - /2017/03/21/2017-nabpr-registration-draft-program/ 
-image: /wp-content/uploads/2017/03/Att_building_nashville.jpg
+  - /2017/03/21/2017-nabpr-registration-draft-program/
+image:
+  title: /wp-content/uploads/2017/03/Att_building_nashville.jpg
+  thumb: /wp-content/uploads/2017/03/Att_building_nashville-150x150.jpg
+  caption: "AT&T Building"
+  caption_url: 'http://bit.ly/2Iv2xRH'
 categories:
   - Announcements
   - General
@@ -20,9 +24,8 @@ tags:
   - Conference
   - NABPR
 ---
-<figure id="attachment_459" aria-describedby="caption-attachment-459" style="width: 200px" class="wp-caption aligncenter">[<img class="size-medium wp-image-459" src="http://nabpr.org/wp-content/uploads/2017/03/Att_building_nashville-200x300.jpg" alt="AT&T Building Nashville" width="200" height="300" srcset="/wp-content/uploads/2017/03/Att_building_nashville-200x300.jpg 200w, /wp-content/uploads/2017/03/Att_building_nashville-768x1152.jpg 768w, /wp-content/uploads/2017/03/Att_building_nashville-683x1024.jpg 683w, /wp-content/uploads/2017/03/Att_building_nashville.jpg 1365w" sizes="(max-width: 200px) 100vw, 200px" />](/wp-content/uploads/2017/03/Att_building_nashville.jpg)<figcaption id="caption-attachment-459" class="wp-caption-text">AT&T Building, [Nashville aka the Bat building.](https://en.wikipedia.org/wiki/AT%26T_Building_(Nashville))</figcaption></figure>
 
-[The Draft Program](/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](http://nabpr.org/meetings/registration/), and [housing](http://nabpr.org/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
+[The Draft Program](/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](/meetings/registration/), and [housing](http://nabpr.org/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.
 
 ## Registration
 

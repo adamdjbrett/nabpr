@@ -16,4 +16,4 @@ breadcrumb: true
 ---
 ## NABPR Members Only Facebook Group
 
-If you wish to keep in touch with your fellow NABPR members please join our [NABPR members facebook group](https://www.facebook.com/groups/NABPR/) (<https://www.facebook.com/groups/NABPR/>).
+If you wish to keep in touch with your fellow NABPR members please join our [NABPR members facebook group](https://www.facebook.com/groups/NABPR/).

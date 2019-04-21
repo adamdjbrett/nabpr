@@ -24,8 +24,7 @@ The national NABPR meeting will be held on Saturday, November 22, at 9:00 at the
 
 &nbsp;
 
-**  
-Agenda for the Annual Meeting, 2003**
+**Agenda for the Annual Meeting, 2003**
 
 **THE NATIONAL ASSOCIATION OF BAPTIST PROFESSORS OF RELIGION**
 

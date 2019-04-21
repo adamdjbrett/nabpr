@@ -21,8 +21,7 @@ breadcrumb: true
   * [Summer](/newsletter/nabpr-newsletter-summer-2006/)
   * [Fall](/newsletter/nabpr-newsletter-fall-2006/)
 
-**Volume 11:  
-2005**
+**Volume 11: 2005**
 
   * [Winter](/newsletter/nabpr-newsletter-winter-2005/)
 
@@ -37,5 +36,3 @@ breadcrumb: true
   * [Winter](/newsletter/nabpr-newsletter-winter-2003/)
   * [Spring](/newsletter/nabpr-newsletter-spring-2003/)
   * [Fall](/newsletter/nabpr-newsletter-fall-2003/)
-
-&nbsp;

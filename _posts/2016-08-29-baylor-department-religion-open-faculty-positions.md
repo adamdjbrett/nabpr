@@ -12,6 +12,8 @@ redirect_from:
 image:
   title: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg
   thumb: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-150x150.jpg
+  caption: 'Baylor University Tidwell Bible Building'
+  caption_url: 'https://www.flickr.com/photos/texascollectionbaylor/5022007844'
 categories:
   - Job Listings
 tags:
@@ -22,9 +24,7 @@ tags:
   - Ministry Guidance.
   - Practical Studies
 ---
-[![Baylor-tidwell-bible-building-texascollectionbaylor-flickr](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr-1024x652.jpg)](/wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg)
 
-via: https://www.flickr.com/photos/texascollectionbaylor/5022007844
 ## The Baylor Department of Religion Open Faculty Positions
 
 The Baylor Department of Religion has two open faculty positions:

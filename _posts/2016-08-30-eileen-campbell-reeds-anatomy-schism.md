@@ -12,6 +12,8 @@ redirect_from:
 image:
   title: /wp-content/uploads/2016/08/CampbellReed-Schism-isbn-1621901785-rev-678x1024.jpg
   thumb: /wp-content/uploads/2016/08/CampbellReed-Schism-isbn-1621901785-rev-678x1024-150x150.jpg
+  caption: 'Book Cover'
+  caption_url: 'http://utpress.org/title/anatomy-of-a-schism/'
 categories:
   - Books of Interest
 tags:
@@ -25,9 +27,7 @@ tags:
 ## Eileen Campbell-Reed&#8217;s Anatomy of a Schism
 
 <!--more-->
-[![via: http://utpress.org/title/anatomy-of-a-schism/](/wp-content/uploads/2016/08/CampbellReed-Schism-isbn-1621901785-rev-678x1024-199x300.jpg)]
 
-via: [UT Press](http://utpress.org/title/anatomy-of-a-schism/)
 
 > From 1979 to 2000, the Southern Baptist Convention (SBC) was mired in conflict, with the biblicist and autonomist parties fighting openly for control. This highly polarizing struggle ended in a schism that created major changes within the SBC and also resulted in the formation of several new Baptist groups. Discussions of the schism, academic and otherwise, generally ignore the church’s clergywomen for the roles they played and the contributions they made to the fracturing of the largest Protestant group in the United States. Ordained women are typically treated as a contentious issue between the parties. Only recently are scholars beginning to take seriously these women’s contributions and interpretations as active participants in the struggle&#8230; ([Read More on UofT Press](http://utpress.org/title/anatomy-of-a-schism/))
 

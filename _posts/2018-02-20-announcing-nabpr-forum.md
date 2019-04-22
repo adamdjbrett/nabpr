@@ -10,7 +10,7 @@ redirect_from:
   - /?p=883
   - /2018/02/20/announcing-nabpr-forum/
 image:
-  title: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
+  image_fullwidth:: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
   thumb: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
 categories:
   - Announcements

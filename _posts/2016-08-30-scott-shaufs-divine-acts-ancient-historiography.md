@@ -12,6 +12,8 @@ redirect_from:
 image:
   title: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h.jpg
   thumb: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h-150x150.jpg
+  caption: 'book cover'
+  caption_url: 'http://fortresspress.com/product/divine-acts-and-ancient-historiography'
 categories:
   - Books of Interest
 tags:
@@ -22,9 +24,7 @@ tags:
 ---
 ## Scott Shauf&#8217;s The Divine in Acts and in Ancient Historiography
 
-[![via: http://fortresspress.com/product/divine-acts-and-ancient-historiography](/wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h-200x300.jpg)]
 
-via: [FP](http://fortresspress.com/product/divine-acts-and-ancient-historiography)
 
 > Scott Shauf compares the portrayal of the divine in Acts with portrayals of the divine in other ancient historiographical writings, the latter including Jewish and wider Greco-Roman historiographical traditions. The divine may be represented as a single deity (in Judaism) or many (in Greek and Roman traditions) and also includes representations of angels, God’s spirit, Jesus as a divine figure, or forces with divine status such as fate, chance, and providence. Shauf’s particular interest is in how the divine is represented as involved in history, through themes including the nature of divine retribution, the partiality or impartiality of the divine toward different sets of people, and the portrayal of divine control over seemingly purely natural and human events. Acts is shown to be engaging historiographical traditions of the author’s own day but also contributing unique historiographical perspectives. The way history is written in Acts and in the other writings is shown to be intimately tied to the understanding of the role of the divine in history.
 

@@ -9,6 +9,7 @@ permalink: /reddish-festschrift/
 redirect_from:
   - /?p=1093
   - /2018/05/25/reddish-festschrift/
+  - /2018-05-25-reddish-festschrift/
 image:
   title: /wp-content/uploads/2018/05/nash-reddish-queen-min-1-1568x1176.jpg
   thumb: /wp-content/uploads/2018/05/nash-reddish-queen-min-1-1568x1176-150x150.jpg

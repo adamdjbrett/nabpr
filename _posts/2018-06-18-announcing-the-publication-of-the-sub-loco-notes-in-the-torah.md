@@ -10,7 +10,7 @@ redirect_from:
   - /?p=1143
   - /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
 image:
-  title: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia.png
+  title: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia-203x300.png
   thumb: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia-150x150.png
   caption: 'Book cover for Daniel S. Mynatt The sub loco notes in the Torah of the Biblia Hebraica Stuttgartensia'
 categories:

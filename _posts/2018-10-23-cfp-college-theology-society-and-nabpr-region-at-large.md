@@ -28,7 +28,7 @@ tags:
   <strong>The College Theology Society holds its Sixty-Fifth Annual Convention from Thursday evening, May 30 through Sunday noon, June 2, 2019, at Holy Cross College at Notre Dame in South Bend, Indiana.</strong>
 </p>
 
-**[⤓ Full Call for Papers](http://www.collegetheology.org/Annual-Convention)**
+**[→ Full Call for Papers](http://www.collegetheology.org/Annual-Convention)**
 
 <h3 style="text-align: center;">
   NABPR Region at Large Call for Papers:

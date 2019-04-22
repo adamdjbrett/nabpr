@@ -40,7 +40,7 @@ tags:
 </div>
 
 <div>
-  <blockquote>
+
     <p>
       Here are a few of the insights of the report:
     </p>
@@ -80,7 +80,6 @@ tags:
         More women of color and fewer white women are going to seminary to earn MDivs since 2008.
       </li>
     </ul>
-  </blockquote>
 </div>
 
 <div>

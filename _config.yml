@@ -1,7 +1,7 @@
 title: 'NABPR'
 slogan: 'National Association of Baptist Professors of Religion'
 description: 'The National Association of Baptist Professors of Religion is a community of teaching scholars. Most members teach at Baptist-affiliated schools, colleges, and seminaries, but members also hail from a wide range of institutions in the United States, Canada, and abroad, including church-related and state-supported schools.'
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/" target="_blank" rel="noopener">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

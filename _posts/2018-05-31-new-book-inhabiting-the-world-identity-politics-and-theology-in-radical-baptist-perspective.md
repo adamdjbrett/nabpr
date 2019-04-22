@@ -5,10 +5,11 @@ date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett
 teaser: 'Ryan Andrew Newson, _Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective_, Perspectives on Baptist Identities (Macon: Mercer University Press, 2018) ISBN: 9780881466492.'
 layout: page
-permalink: /new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
+permalink: /inhabiting-the-world/
 redirect_from:
   - /?p=1106
   - /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
+  - /new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
 image:
   title: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg
   thumb: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-150x150.jpg

@@ -4,6 +4,7 @@
 
 @font-face {
   font-family: "iconfont";
+  font-display: block;
   src: url("./iconfont.eot");
   src: url("./iconfont.eot?#iefix") format("embedded-opentype"),
        url("./iconfont.woff") format("woff"),

@@ -23,9 +23,6 @@ tags:
   - theology
 ---
 
-![Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover](/wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-200x300.jpg)
-
-
 
 Announcing the first volume in the new NABPR series &#8220;[Perspectives on Baptist Identities](/publications/)&#8221; edited by Alicia C. Myers and Adam English.
 

@@ -9,9 +9,6 @@ permalink: /cfp-2017-nabpr-annual-meeting/
 redirect_from:
   - /?p=357
   - /2016/08/31/cfp-2017-nabpr-annual-meeting/
-image:
-  title: /wp-content/uploads/2016/08/belmont-1568x1132.jpg
-  thumb: /wp-content/uploads/2016/08/belmont-1568x1132-150x150.jpg
 categories:
   - Calls for Papers (CFP)
 tags:

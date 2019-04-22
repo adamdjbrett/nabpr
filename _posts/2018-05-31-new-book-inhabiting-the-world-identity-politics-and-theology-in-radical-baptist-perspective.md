@@ -12,7 +12,7 @@ redirect_from:
 image:
   title: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492.jpg
   thumb: /wp-content/uploads/2018/05/Ryan-Newson-Inhabiting-the-world-9780881466492-150x150.jpg
-  caption: Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover
+  caption: "Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective by Ryan Andrew Newson, Cover"
 categories:
   - Announcements
   - Books of Interest

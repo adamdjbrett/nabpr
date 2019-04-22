@@ -10,8 +10,8 @@ redirect_from:
   - /?p=776
   - /2017/11/17/cfp-say-want-revolution/
 image:
-  title: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008.jpg
-  thumb: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-1568x1008-150x150.jpg
+  title: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg
+  thumb: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel-150x150.jpg
   caption: 'Derham Hall and Our Lady of Victory Chapel via wikipedia'
   caption_url: 'https://commons.wikimedia.org/wiki/File:Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg'
 categories:

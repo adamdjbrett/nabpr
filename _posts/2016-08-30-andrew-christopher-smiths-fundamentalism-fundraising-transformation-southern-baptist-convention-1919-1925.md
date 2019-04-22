@@ -5,11 +5,11 @@ date: 2016-08-30T13:25:15+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-permalink: /andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
+permalink: /1621902277/
 redirect_from:
   - /?p=352
   - /2016/08/30/andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
-  - /1621902277/
+  - /andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
 image:
   title: /wp-content/uploads/2016/08/Andrew-Christopher-Smith-203x300.jpg
   thumb: /wp-content/uploads/2016/08/Andrew-Christopher-Smith-150x150.jpg

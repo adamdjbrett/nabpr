@@ -14,11 +14,11 @@
 *
 *   You can even use markdown and <html>-tags inside the alert, but beware to use " and ' properly; for example:
 *
-*       {% include alert info='Show an info alert with <b>outstanding</b> <a href="#info">information</a>.' %}
+*       {% include alert info='Show an info alert with <b>outstanding</b> <a href="#info" rel="noopener">information</a>.' %}
 *
 *       {% include alert info='Show an info alert with *outstanding* [information](#info).' %}
 *
-*       {% include alert info='Show an info alert with *outstanding* <a href="#info">information</a>.' %}
+*       {% include alert info='Show an info alert with *outstanding* <a href="#info" rel="noopener">information</a>.' %}
 *
 *   You can also call for additional classes to be put on the alert div:
 *

@@ -12,7 +12,7 @@ format: post
 
 					{% if page.image.caption_url and page.image.caption %}
 					<figcaption class="text-right">
-						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+						<a href="{{ page.image.caption_url }}" rel="noopener">{{ page.image.caption }}</a>
 					</figcaption>
 					{% elsif page.image.caption %}
 					<figcaption class="text-right">

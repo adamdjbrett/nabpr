@@ -1,5 +1,7 @@
 
 ## 2019-04-20 // Version 1.1
+  - fix javascript.js to be most current version.
+  - why isn't mobile header showing name?
   - convert html to markdown
   - categories and tags pages
   - speedup lunr

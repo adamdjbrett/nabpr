@@ -43,18 +43,23 @@ Feeling Responsive is heavily customizable.
 ````
 ## Credits
 ### JS Libraries
-  - [jQuery](jquery.com)
-  - [FastClick: polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
+  - [jQuery 3.4.0](jquery.com)
   - [Sizzle.js](http://sizzlejs.com/)
+  - [FastClick: polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
   - [Foundation Responsive Library](http://foundation.zurb.com)
   - [matchMedia.js](https://github.com/paulirish/matchMedia.js)
   - [jquery.requestAnimationFrame](https://github.com/gnarf37/jquery-requestAnimationFrame)
   - [Backstretch - v2.0.4 - 2013-06-19](http://srobbin.com/jquery-plugins/backstretch/)
   - [jQuery Mobile 1.1.0](http://jquerymobile.com/)
   - [lunr.js search](http://lunrjs.com)
+  - [matchMedia](https://github.com/paulirish/matchMedia.js)
+    - matchMedia listener is optional
+  - [jQuery Backstretch](http://www.jquery-backstretch.com/)
+  - [JQuery Mobile](http://jquerymobile.com/)
+  - ~~jQuery requestAnimationFrame~~ deprecated with JQuery 3.4.0  
   - [MediaElement.js](https://www.mediaelementjs.com/)
   - [Modernizr v2.8.3](https://modernizr.com)
-  - [jQuery Backstretch](http://www.jquery-backstretch.com/)
+
 ### Stock photos
   - Pixabay images:
     - [Cup of Coffee](https://pixabay.com/photos/cup-of-coffee-laptop-office-macbook-1280537/)

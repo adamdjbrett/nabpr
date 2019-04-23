@@ -16,9 +16,9 @@ NABPR c/o Joyce Swoveland,
 Department of Religion,
 Baylor University One Bear Place
 \#97284 Waco, TX 76798
-- **phone**: +1-254-710-3758
-- **fax:** +1-254-710-3740
-- **email:** <Joyce_Swoveland@baylor.edu>
+ - **phone**: +1-254-710-3758
+ - **fax:** +1-254-710-3740
+ - **email:** <Joyce_Swoveland@baylor.edu>
 </address>
 
 Or contact our Executive Secretary-Treasuer Danny Mynatt <dmynatt@umhb.edu>.

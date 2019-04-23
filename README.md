@@ -25,11 +25,12 @@ Feeling Responsive is heavily customizable.
 
 ## Changelog
 ### [View Full CHANGELOG](changelog.md)
-- *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+- *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
 - Add custom SASS
 - integrate categories and tags pages from @mmistakes Jekyll Skinny Bones
 - Move `page-meta` from `_sass/_07_layout.scss` to own custom file.
-`/* Page Meta
+````
+/* Page Meta
 -------------------------------------------------------------------
 */
 .page-meta {
@@ -38,9 +39,21 @@ Feeling Responsive is heavily customizable.
     font-family: $alt-font;
     color: lighten($black,60);
     }
-  }`
-
+  }
+````
 ## Credits
+### JS Libraries
+  - [jQuery](jquery.com)
+  - [FastClick: polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
+  - [Sizzle.js](http://sizzlejs.com/)
+  - [Foundation Responsive Library](http://foundation.zurb.com)
+  - [matchMedia.js](https://github.com/paulirish/matchMedia.js)
+  - [jquery.requestAnimationFrame](https://github.com/gnarf37/jquery-requestAnimationFrame)
+  - [Backstretch - v2.0.4 - 2013-06-19](http://srobbin.com/jquery-plugins/backstretch/)
+  - [jQuery Mobile 1.1.0](http://jquerymobile.com/)
+  - [lunr.js search](http://lunrjs.com)
+  - [MediaElement.js](https://www.mediaelementjs.com/)
+  - [Modernizr v2.8.3](https://modernizr.com)
 ### Stock photos
   - Pixabay images:
     - [Cup of Coffee](https://pixabay.com/photos/cup-of-coffee-laptop-office-macbook-1280537/)

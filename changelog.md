@@ -1,12 +1,12 @@
 
 ## 2019-04-20 // Version 1.1
+  - google analytics, search, bing, etc.
   - fix javascript.js to be most current version.
-  - why isn't mobile header showing name?
   - convert html to markdown
   - categories and tags pages
-  - speedup lunr
+  - ~~why isn't mobile header showing name?~~
+  - ~~speedup lunr~~
   - ~~fix thumbnails and header images not working~~
-    - they aren't all fixed but I know know what is wrong
   - ~~disable `urlimg`~~
   - ~~fix homepage~~
   - ~~Need to fix search page~~

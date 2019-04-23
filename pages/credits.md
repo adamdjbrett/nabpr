@@ -43,7 +43,7 @@ visit [contact](/contact/) for more detailed contact information
   - Creative Commons
   - Content of this website is license under the [ Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
   - Code is licensed either under the [MIT License](LICENSE) or under the respective vendor license.
-  - Image Attributions have been given when able. If an image attribution is missing please email <contactus@nabpr.org> to have it added.
+  - Image Attributions have been given when able. If an image attribution is missing please email <hello@nabpr.org> to have it added.
 
 ### [Privacy Policy](/privacy-policy/)
   - view our [Privacy Policy](/privacy-policy/)

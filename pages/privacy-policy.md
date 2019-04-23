@@ -177,7 +177,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-contactus@nabpr.org and we will promptly remove you from **ALL** correspondence.
+hello@nabpr.org and we will promptly remove you from **ALL** correspondence.
 
 ### **Contacting Us**
 
@@ -191,7 +191,7 @@ Waco, Texas 76798
 
 USA
 
-contactus@nabpr.org
+hello@nabpr.org
 
 +1-254-710-3758
 

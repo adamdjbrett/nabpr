@@ -3,9 +3,7 @@ layout: page
 title: "Donate to NABPR"
 meta_title: "Give to NABPR"
 subheadline: "Donate to the National Association of Baptist Professors of Religion"
-teaser: "Give and donate of NABPR"
-header:
-   image_fullwidth: "logo.png"
+teaser: "donate of NABPR"
 permalink: "/donate/"
 breadcrumb: true
 ---

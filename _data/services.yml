@@ -4,6 +4,14 @@
   url: "/contact/"
   title: "Contact"
 
+- name: "Give"
+  url: "/donate/"
+  title: "Give to NABPR"
+
+- name: "Officers"
+  url: "/officers/"
+  title: "Officers"
+
 - name: "RSS"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
@@ -12,13 +20,21 @@
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-- name: "FeedBurner"
+- name: "Feed Burner"
   url: "http://feeds.feedburner.com/NABPR"
   title: "Google FeedBurner"
 
 - name: "Verify SSL"
   url: "https://www.sslshopper.com/ssl-checker.html#hostname=nabpr.org"
   title: "External Verifcation of NABPR's SSL certificate"
+
+- name: "Credits"
+  url: "/credits/"
+  title: "credits for NABPR"
+
+- name: "Privacy Policy"
+  url: "/privacy-policy/"
+  title: "Privacy Policy for NABPR"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"

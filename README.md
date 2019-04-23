@@ -54,6 +54,7 @@ Feeling Responsive is heavily customizable.
   - [lunr.js search](http://lunrjs.com)
   - [MediaElement.js](https://www.mediaelementjs.com/)
   - [Modernizr v2.8.3](https://modernizr.com)
+  - [jQuery Backstretch](http://www.jquery-backstretch.com/)
 ### Stock photos
   - Pixabay images:
     - [Cup of Coffee](https://pixabay.com/photos/cup-of-coffee-laptop-office-macbook-1280537/)

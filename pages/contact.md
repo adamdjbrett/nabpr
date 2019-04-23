@@ -3,14 +3,14 @@ layout: page
 title: "Contact"
 meta_title: "Contacting the National Association of Baptist Professors of Religion"
 subheadline: "Contacting NABPR"
-teaser: "Get in touch with NABPR? Email contactus@nabpr.org."
+teaser: "Do you wish to contact The National Association of Baptist Professors of Religion?"
 permalink: "/contact/"
 redirect_from: "/contact-us/"
 breadcrumb: true
 ---
 
 
-[nabpr.org](https://nabpr.org/) \| [facebook](https://facebook.com/nabpr) \| [twitter](https://twitter.com/nabpr1)  
+[nabpr.org](https://nabpr.org/) \| [facebook](https://facebook.com/nabpr) \| [twitter](https://twitter.com/nabpr1) \|  [email](mailto:contactus@nabpr.org)
 
 <address>
 NABPR c/o Joyce Swoveland,  

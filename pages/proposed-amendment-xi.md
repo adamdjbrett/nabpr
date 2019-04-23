@@ -11,8 +11,8 @@ redirect_from:
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 breadcrumb: true
 ---
-**Emended 22 May 2018**
-**FIRST DRAFT:**
+# **Emended 22 May 2018**
+## **FIRST DRAFT:**
 
 Article XI. Public Statements
 
@@ -22,7 +22,7 @@ In rare and extreme situations that call for a public response, members of NABPR
 
 &nbsp;
 
-**REVISED DRAFT:**
+## **REVISED DRAFT:**
 
 Article XI. Public Statements
 
@@ -30,10 +30,10 @@ In rare and extreme situations that call for a public response, members of NABPR
 
 &nbsp;
 
-#### PDF
+### PDF
 
-[PDF: REVISED Constitution CHANGE &#8211; Recommendation May 2017](/wp-content/uploads/2017/06/REVISED-Constitution-CHANGE-recommendation-May-2017.pdf)
+[⤓ PDF: REVISED Constitution CHANGE &#8211; Recommendation May 2017](/wp-content/uploads/2017/06/REVISED-Constitution-CHANGE-recommendation-May-2017.pdf)
 
-#### Final Version
+### Final Version
 
 #### [→ View the emended NABPR Constitution](/about/constitution/).

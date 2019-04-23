@@ -1,9 +1,12 @@
 
 ## 2019-04-20 // Version 1.1
   - google analytics, search, bing, etc.
-  - fix javascript.js to be most current version.
   - convert html to markdown
   - categories and tags pages
+  - fix javascript.js to be most current version.
+    - `javascript.js` included an outdated `jQuery` library.
+    - I split up the `javascript.js` file
+    - updated the various vendor include scripts. see [README](README.MD) for details.
   - ~~why isn't mobile header showing name?~~
   - ~~speedup lunr~~
   - ~~fix thumbnails and header images not working~~

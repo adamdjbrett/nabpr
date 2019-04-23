@@ -13,6 +13,16 @@
   class: icon-linkedin
   title: "Follow NABPR on Linkedin"
 
+- name: Contact
+  url: /contact/
+  class: icon-paper-plane
+  title: "email NABPR"
+
+- name: Give
+  url: /donate/
+  class: icon-heart
+  title: "Give to NABPR"
+
 #- name: GitHub
 #  url: http://github.com/adamdjbrett/NABPR
 #  class: icon-github

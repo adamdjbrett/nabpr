@@ -31,11 +31,12 @@ The backbone of the NABPR is its publications. Since 1973 the Association has pu
 
 In 1990 and 1995 the Association collaborated with Mercer University Press to produce two very successful reference volumes for students of the Bible. The _Mercer Dictionary of the Bible_ and the _Mercer Commentary on the Bible_ are the crowning achievements in publication to date for the Association.
 
-“Since 1996 R. Scott Nash has been the Senior Editor for the Association, overseeing all of the publication projects.” To “From 1996-2018, R. Scott Nash served as Senior Editor for the Association, overseeing all of the publication projects. In May, 2018, Dr. Nash was succeeded by Dr. [Mikeal Parsons](/officers/) of Baylor University.”
+Since 1996 R. Scott Nash has been the Senior Editor for the Association, overseeing all of the publication projects.” To “From 1996-2018, R. Scott Nash served as Senior Editor for the Association, overseeing all of the publication projects. In May, 2018, Dr. Nash was succeeded by Dr. [Mikeal Parsons](/officers/) of Baylor University.
 
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
+
 ****
 
 ## [**Mercer Dictionary of the Bible**](#dictionary)

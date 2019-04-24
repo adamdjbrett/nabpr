@@ -10,7 +10,6 @@ header:
 widget1:
   title: "Blog & News"
   url: '/blog/'
-  image: /images/news-1074604-302x182.jpg
   text: 'Keep up to date with NABPR.'
 widget2:
   title: "Annual Meeting"

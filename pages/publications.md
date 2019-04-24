@@ -34,6 +34,7 @@ In 1990 and 1995 the Association collaborated with Mercer University Press to pr
 Since 1996 [R. Scott Nash](mailto:nash_rs@mercer.edu) has been the Senior Editor for the Association, overseeing all of the publication projects.
 
 The  NABPR also has to a quarterly newsletter (_[NABPRNews](/newsletter/)_) that publishes updated information about the association and its members. NABPRNews is edited by [James P. Byrd, Jr](mailto:james.p.byrd@vanderbilt.edu). Members are encouraged to submit updated career information to the editor. 
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 ****
@@ -43,12 +44,14 @@ The  NABPR also has to a quarterly newsletter (_[NABPRNews](/newsletter/)_) tha
 Watson E. Mills, general editor
 
 The Mercer Dictionary of the Bible includes more than 1,000 pages of original materials relating to every aspect of biblical studies. The 1,450 articles are written by members of the National Association of Baptist Professors of Religion. It contains 64 pages of four-color maps, charts, and photographs and 156 black-and-white illustrations throughout the text. An outline of each canonical books is also available in this volume.
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 ## [**Mercer Commentary on the Bible**](#mercer)
 
 Watson E. Mills & Richard F. Wilson, general editors This one-volume commentary on the entire Bible distinguishes itself as a leading work in biblical studies. It is the first one-volume commentary based on the New Revised Standard Version of the Bible. It covers the complete Bible, including the apocryphal/deutercanonical books. The Mercer Commentary includes introductory articles on the nature of Scripture, its interpretation, and its role in theology and church. The intended audience is students engaged in Bible study, ministers seeking clear and concise treatment of texts, and laypersons involved in personal and group study; the Mercer Commentary should also be helpful for professionals in various theological disciplines.
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 

@@ -26,21 +26,7 @@ Feeling Responsive is heavily customizable.
 ## Changelog
 ### [View Full CHANGELOG](changelog.md)
 - *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-- Add custom SASS
-- integrate categories and tags pages from @mmistakes Jekyll Skinny Bones
-- Move `page-meta` from `_sass/_07_layout.scss` to own custom file.
-````
-/* Page Meta
--------------------------------------------------------------------
-*/
-.page-meta {
-  p{
-    @include font-size(14,no);
-    font-family: $alt-font;
-    color: lighten($black,60);
-    }
-  }
-````
+
 ## Credits
 ### JS Libraries
   - [jQuery 3.4.0](jquery.com)

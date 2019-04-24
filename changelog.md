@@ -1,12 +1,27 @@
 
 ## 2019-04-20 // Version 1.1
-  - google analytics, search, bing, etc.
-  - convert html to markdown
   - categories and tags pages
+  - Add custom SASS
+  - integrate categories and tags pages from @mmistakes Jekyll Skinny Bones
+  - Move `page-meta` from `_sass/_07_layout.scss` to own custom file.
+  ````
+  /* Page Meta
+  -------------------------------------------------------------------
+  */
+  .page-meta {
+    p{
+      @include font-size(14,no);
+      font-family: $alt-font;
+      color: lighten($black,60);
+      }
+    }
+  ````
+  - ~~google analytics, search, bing, etc.~~
+  - ~~convert html to markdown~~
   - fix javascript.js to be most current version.
     - `javascript.js` included an outdated `jQuery` library.
-    - I split up the `javascript.js` file
-    - updated the various vendor include scripts. see [README](README.MD) for details.
+    - - conclusion: Foundation JS and CSS need to be updated to Foundation 6
+    - ~~I split up the `javascript.js` file~~
   - ~~why isn't mobile header showing name?~~
   - ~~speedup lunr~~
   - ~~fix thumbnails and header images not working~~

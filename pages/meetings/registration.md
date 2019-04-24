@@ -9,9 +9,9 @@ permalink: /meetings/registration/
 redirect_from: /?page_id=190
 breadcrumb: true
 ---
-Registration for the The [National Association of Baptist Professors of Religion](/) Annual Meeting at First Baptist Church, 99 North Salisbury Street Raleigh, NC 27603 on May 20 – 22, 2019 is now open.<span style="font-size: large;"> </span>
+Registration for the The [National Association of Baptist Professors of Religion](/) Annual Meeting at First Baptist Church, 99 North Salisbury Street Raleigh, NC 27603 on May 20 – 22, 2019 is now open.
 
-<a title="2019 NABPR registration" href="https://secure.touchnet.net/C20495_ustores/web/classic/store_main.jsp?STOREID=56&SINGLESTORE=true" target="_blank" rel="noopener noreferrer">→ Register Now.</a>
+## [→ Register Now.](https://secure.touchnet.net/C20495_ustores/web/classic/store_main.jsp?STOREID=56&SINGLESTORE=true)
 
-  * [2019 CFP](/2019-nabpr-call-for-papers/)
-  * [Program](/2019-nabpr-meeting-program/)
+ * [2019 CFP](/2019-nabpr-call-for-papers/)
+ * [2019 Program](/2019-nabpr-meeting-program/)

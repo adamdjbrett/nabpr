@@ -107,14 +107,14 @@ The annual dues of the membership of The National Association of Baptist Profess
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-### ** _Article IX. Constitutional Changes_**
+### **_Article IX. Constitutional Changes_**
 
 Alterations or amendments to this Constitution may be made at any annual meeting of the NABPR upon two‑thirds vote of the members present provided that the change has been given a first reading at the previous annual meeting.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
-### ** _Article X. Endowment Fund_**
+### **_Article X. Endowment Fund_**
 
 At the direction of the Association, endow­ment funds shall be raised to underwrite the purposes of the Association. Funds so raised shall be not spent but rather invested, at the direction of the Executive Committee. A por­tion of the resulting return on these investments may be budgeted to support the work of the Association as approved by the Executive Committee.
 

@@ -9,7 +9,7 @@ permalink: /meetings/nabpr-annual-meeting-2000/
 redirect_from: /?page_id=168
 breadcrumb: true
 ---
-**Nashville, Tennessee 18 November 2000 9:00-11:30 am**
+## **Nashville, Tennessee 18 November 2000 9:00-11:30 am**
 
 The twentieth annual meeting of the National Association of Baptist Professors of Religion was called to order by President Glen Stassen. A moment of silence was observed remembering the passing of former Presidents of the NABPR, John Newport and James McClendon, and former members William Estep, Al Collins, Thomas Lea, and Carl Whirley.
 

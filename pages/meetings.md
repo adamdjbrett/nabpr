@@ -17,7 +17,7 @@ breadcrumb: true
       * [2019 Call for Papers](/2019-nabpr-call-for-papers/)
       * [Registration](/meetings/registration/)
 
-## **Past NABPR Meetings:**
+## Past NABPR Meetings:
 * [2018 Annual Meeting, Gardner-Webb University](/meeting-at-gardner-webb-program/), May 21-23, 2018.
     * [Registration](/meetings/registration/) and [Housing](/meetings/housing/)
     * [2018 Meeting Program](/meeting-at-gardner-webb-program/)
@@ -39,7 +39,7 @@ breadcrumb: true
 * [PDF 2009 Annual Meeting – Baylor University](/wp-content/uploads/2016/08/NABPR-Program-2009-rev-1.pdf) ([PDF Summer Camp](/wp-content/uploads/2016/08/SUMMER-CAMP-2009-FORM-E-00015623.pdf))
 
 
-### **Minutes of Annual Meetings**
+### Minutes of Annual Meetings
 
   * [2006 NABPR Annual Meeting](/meetings/nabpr-annual-meeting-2006/)
   * [2005 NABPR Annual Meeting](/meetings/nabpr-annual-meeting-2005/)

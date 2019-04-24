@@ -9,10 +9,10 @@ permalink: /meetings/nabpr-annual-meeting-2001/
 redirect_from: /?page_id=170
 breadcrumb: true
 ---
+## 2001 Annual Meeting of the NABPR
 **Colorado Convention Center  
 Denver, Colorado  
-17 November 2001  
-9:00-11:00 am**
+17 November 2001  9:00-11:00 am**
 
 The 21st annual meeting of the National Association of Baptist Professors of Religion was called to order by President Claude Mariottini. A moment of silence was observed remembering the passing of former members David Nelson Duke and Frank Stagg.
 

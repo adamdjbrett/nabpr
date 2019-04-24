@@ -9,7 +9,7 @@ permalink: /meetings/nabpr-annual-meeting-2004/
 redirect_from: /?page_id=176
 breadcrumb: true
 ---
-**Minutes of the 2004 Annual Meeting**
+## **Minutes of the 2004 Annual Meeting**
 
 **The National Association of Baptist Professors of Religion **
 

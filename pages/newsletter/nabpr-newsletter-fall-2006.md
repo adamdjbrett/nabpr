@@ -2,7 +2,7 @@
 id: 196
 title: 'NABPR Newsletter &#8211; Fall, 2006'
 date: 2016-08-21T21:45:05+00:00
-author: adamdjbrett
+author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2006/

@@ -9,9 +9,9 @@ permalink: /meetings/nabpr-annual-meeting-2005/
 redirect_from: /?page_id=178
 breadcrumb: true
 ---
-**The National Association of Baptist Professors of Religion **
+## **The National Association of Baptist Professors of Religion **
 
-**2005 Annual Meeting Minutes **
+## **2005 Annual Meeting Minutes **
 
 **Loews Hotel &#8211; Commonwealth C **
 

@@ -5,19 +5,17 @@ date: 2017-05-21T18:13:44+00:00
 author: adamdjbrett
 teaser: |
 layout: page
-permalink: /meetings/2017-annual-meeting-nabpr-program/
-redirect_from: /?page_id=579
+permalink: /2017-annual-meeting-nabpr-program/
+redirect_from:
+ - /?page_id=579
+ - /meetings/2017-annual-meeting-nabpr-program/
 breadcrumb: true
 ---
 [Click here for the program in PDF format. The PDF is always the most up-to-date. ](/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
 
 ***
 
-### The Official Program for the  
-2017 Annual Meeting of  
-The National Association of Baptist Professors of Religion,  
-Belmont University,  
-May 22-24, 2017.
+## The Official Program for the  2017 Annual Meeting of  The National Association of Baptist Professors of Religion, Belmont University,  May 22-24, 2017.
 
 ***
 

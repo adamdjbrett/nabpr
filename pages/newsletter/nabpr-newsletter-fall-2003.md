@@ -2,15 +2,15 @@
 id: 209
 title: 'NABPR Newsletter &#8211; Fall, 2003'
 date: 2016-08-21T21:53:16+00:00
-author: adamdjbrett
+author: 'Bill J. Leonard'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2003/
 redirect_from: /?page_id=209
 breadcrumb: true
 ---
-**Polity and Postmodernism**  
-**Bill J. Leonard (Wake Forest Divinity School)**
+## **Polity and Postmodernism**  
+by **Bill J. Leonard (Wake Forest Divinity School)**
 
 During September 2003 I learned a great deal about the changing nature of religious life in religious communions worldwide. Two weeks ago I was the only Baptist and the only North American Protestant at a Catholic-sponsored gathering in Bruges, Belgium centered on the topic of &#8220;synodality,&#8221; and aimed at exploring the nature of polity and governance in post-modern Christianity. Most of the 30-odd delegates were European Catholics, exploring the nature of the episcopacy in the RCC forty years after Vatican II. Many were not optimistic. Other Anglican, Orthodox, Methodist and Evangelical representatives reflected on the boundaries of ecumenical dialogue and the turmoil in their own traditions. Hearing the presentations and giving a paper on Baptist polity, I realized how radical and unwieldy Baptists ways of organizing and understanding the nature of the church look when compared with other ecclesial systems. Yet I also sensed that the pluralism, localism and congregationalism characteristic of Baptist &#8220;messiness&#8221; increasingly find their way into other traditions. Going to mass celebrated in French, I was also aware of the continuing distance between communions at the Table. At the time for &#8220;summing up,&#8221; I suggested (for what it was worth) that Baptist polity might give others hints of ways to understand these grass-roots &#8220;peoples&#8217; movements&#8221; present in &#8220;post-modern&#8221; faith communities. Returning to the US, I ventured to a Lutheran retreat near Asheville, NC, having been invited to conduct a workshop on the history of Premillennialism for a pastors whose church members are using the language of that theory of the Second Coming under the influence of the _Left Behind_ series. Baptists may be helpful in teaching Lutherans to speak another theological language! Discussions led beyond the history to the implications of popular religious literature, the impact of eschatological speculations on government policy, and religion in the public square. That same week I read the _NY Times_ report on the financial &#8220;crisis&#8221; in the SBC relative to funding and (implicitly at least) denominational identity in what has often been described as America&#8217;s most &#8220;in tact&#8221; denomination. Thus the paradox: While the &#8220;Baptistification&#8221; of local congregations influences and frustrates multiple religious traditions, &#8220;Baptistness&#8221; itself is certainly not static but is also subject to the permanent transition sweeping American religious life. Sooner or later demography catches up with Catholics and Lutherans, Premillennialists and Inerrantists. Then what?
 

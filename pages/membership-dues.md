@@ -9,14 +9,20 @@ permalink: /membership/membership-dues/
 redirect_from: "/?page_id=79"
 breadcrumb: true
 ---
+## Membership Dues to NABPR
 
-<h2>Membership Dues to NABPR</h2>
-<p>Please use the following table to calculate your annual dues. Send check payable to The National Association of Baptist Professors of Religion (or nabpr) to:</p>
-<p>NABPR c/o Religion Department Baylor University One Bear Place #97294 Waco, TX 76798-7294</p>
-<p>Please include your member number (check the mailing label of your most recent newsletter or issue of the journal) on your check. Please include any change of address with your correspondence.</p>
-<p>The official dues schedule for NABPR is below. It was adopted at the 1992 Annual Meeting, when faculty rarely earned above $50,000 per year. Now, it looks outdated.&nbsp;The principle that the schedule is based on is .1% of your salary, in $5000 increments.Hence, a salary of $30,000 results in dues of $30, $35,000 results in $35, and so on (salary x .001 = dues).&nbsp;The drop down menu at the bottom of this page is based on the same principle, but it extends the .1% principle well beyond $50,000.Please find the amount that most closely matches your base salary, and use that amount to pay your dues.&nbsp;If your salary is between two amounts on the list, for example $67,000, which amount should you use:$65 or $70?&nbsp;My opinion is that you should choose the amount you are most comfortable with.I am happy that you are choosing to include NABPR in your annual contributions, so a $5 difference is a negligible concern from my perspective!&nbsp;Remember that your dues are established by your base salary, and base salary is defined as salary derived from teaching and administrative work, excluding overload pay, summer pay, etc.<em>Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. I sincerely appreciate your willingness to join and renew membership to our organization.</em></p>
-<p>Daniel Mynatt</p>
-<p>Executive Secretary-Treasurer <a href="mailto:dmynatt@umhb.edu">dmynatt@umhb.edu</a></p>
+Please use the following table to calculate your annual dues. Send check payable to The National Association of Baptist Professors of Religion (or nabpr) to:
+
+NABPR c/o Religion Department Baylor University One Bear Place #97294 Waco, TX 76798-7294
+
+Please include your member number (check the mailing label of your most recent newsletter or issue of the journal) on your check. Please include any change of address with your correspondence.
+
+The official dues schedule for NABPR is below. It was adopted at the 1992 Annual Meeting, when faculty rarely earned above $50,000 per year. Now, it looks outdated. The principle that the schedule is based on is .1% of your salary, in $5000 increments.Hence, a salary of $30,000 results in dues of $30, $35,000 results in $35, and so on (salary x .001 = dues). The drop down menu at the bottom of this page is based on the same principle, but it extends the .1% principle well beyond $50,000.Please find the amount that most closely matches your base salary, and use that amount to pay your dues. If your salary is between two amounts on the list, for example $67,000, which amount should you use:$65 or $70? My opinion is that you should choose the amount you are most comfortable with.I am happy that you are choosing to include NABPR in your annual contributions, so a $5 difference is a negligible concern from my perspective! Remember that your dues are established by your base salary, and base salary is defined as salary derived from teaching and administrative work, excluding overload pay, summer pay, etc._Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. I sincerely appreciate your willingness to join and renew membership to our organization._
+
+Daniel Mynatt
+
+Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
+
 <div>
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
@@ -71,12 +77,19 @@ breadcrumb: true
 </tbody>
 </table>
 </div>
-<p>Note: <strong> "Base salary"&nbsp;</strong>refers to annual contractual amount for teaching and/or administrative work <em>excluding</em> summer school or overload courses taught.</p>
-<hr />
-<h4>Pay NABPR Membership Dues Online via Paypal</h4>
-<h6><em><strong>All dues paying members receive a subscription to&nbsp;<a href="https://nabpr.org/publications/">Perspectives in Religious Studies</a>. A copy of the journal will be mailed to you whichever mailing address you specify.&nbsp;</strong></em></h6>
-<h4>Students or Retired Members</h4>
-<p>For students or retired members please use the button below.</p>
+_Note_: **"Base salary"** refers to annual contractual amount for teaching and/or administrative work _excluding_ summer school or overload courses taught.
+
+***
+
+#### Pay NABPR Membership Dues Online via Paypal
+
+###### _**All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify. **_
+
+#### Students or Retired Members
+
+For students or retired members please use the button below.
+
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><input name="hosted_button_id" type="hidden" value="73WLS7VQHSZFQ" /><input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /><img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form><hr />
 <h4>NABPR Membership dues for those earning under $50,000 dollars</h4>
 <p>For those earning less than $50,000 a year please use this button to pay your dues.</p>

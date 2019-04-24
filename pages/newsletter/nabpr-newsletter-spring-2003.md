@@ -2,14 +2,14 @@
 id: 212
 title: 'NABPR Newsletter &#8211; Spring, 2003'
 date: 2016-08-21T21:53:42+00:00
-author: adamdjbrett
+author: 'Mikeal C. Parsons'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-spring-2003/
 redirect_from: /?page_id=212
 breadcrumb: true
 ---
-**Update on Perspectives in Religious Studies**  
+## **Update on Perspectives in Religious Studies**  
 **Mikeal C. Parsons (Baylor University)  
 Editor, Perspectives in Religious Studies**
 

@@ -9,21 +9,12 @@ permalink: /meetings/call-for-papers-nabpr-annual-meeting-2010/
 redirect_from: /?page_id=185
 breadcrumb: true
 ---
-**Call for Papers****  
-**
-
-**National Association of Baptist Professors of Religion****  
-**
-
-**Annual Meeting****  
-**
-
+##**Call for Papers**  
+**National Association of Baptist Professors of Religion**
+**Annual Meeting**
 **McAfee School of Theology**
-
-**Mercer University****  
-**
-
-**May 23 – 26, 2010**** **
+**Mercer University**
+**May 23 – 26, 2010**
 
 &nbsp;
 

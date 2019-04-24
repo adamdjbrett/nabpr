@@ -10,7 +10,7 @@ redirect_from: /?page_id=194
 breadcrumb: true
 ---
 
-Baptist Doctoral Student Network
+## Baptist Doctoral Student Network
 
 Once upon a time, when Baptists made plans for doctoral study in religion the range of schools they considered was fairly predictable, and most students went with one of the denominationally related graduate programs. Perhaps this description looks back on a time that never was, but there can be no doubt about the current reality. The default choice for Baptists interested in PhD studies is no longer a predictable career path through one of the denominational schools.Hopefully spreading the Baptist DNA far and wide will have positive effects that we may not even yet anticipate. But on the down side, this diversification has left many of these Baptist students with a sense of isolation and alienation from their denominational family of origin. They want to stay connected, but they don’t know how.NABPR can help by facilitating the networking of Baptists in PhD religion programs. You can help by sending us the names, contact information, and most importantly the email addresses of Baptists in PhD programs who want to be connected with others like themselves. We’ll compile the list, and contact them. Help us keep them connected as Baptists with other Baptists in the academy.
 

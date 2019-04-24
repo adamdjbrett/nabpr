@@ -2,14 +2,14 @@
 id: 202
 title: 'NABPR Newsletter &#8211; Spring, 2004'
 date: 2016-08-21T21:47:32+00:00
-author: adamdjbrett
+author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-spring-2004/
 redirect_from: /?page_id=202
 breadcrumb: true
 ---
-**The AAR/SBL Divorce and the Future of NABPR**  
+## **The AAR/SBL Divorce and the Future of NABPR**  
 **Danny Mynatt (Anderson College)**
 
 As I am sure you are well aware, AAR has decided not to hold its annual meeting in conjunction with SBL, beginning with the 2008 meeting. Some of us have come to refer to this as the AAR/SBL divorce, and as in any divorce, there are casualties. It appears that one casualty will be the annual meeting of NABPR. Since some of our members are associated with AAR and others with SBL, the NABPR annual meeting will be forced to take on a new form.

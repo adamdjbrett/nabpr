@@ -9,9 +9,9 @@ permalink: /dissertation/
 redirect_from: /?page_id=71
 breadcrumb: true
 ---
-**National Association of Baptist Professors of Religion**
+## **National Association of Baptist Professors of Religion**
 
-**Dissertation Scholarship**
+### **Dissertation Scholarship**
 
 The NABPR is committed to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity. The particular purpose of the NABPR dissertation scholarship is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.
 
@@ -37,7 +37,7 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 
 ***
 
-## Past Dissertation Scholarship Winners
+### Past Dissertation Scholarship Winners
 
 *   **2006**, G. Scott Becker
 *   **2006**, Kristian Angelov, The Purcell School

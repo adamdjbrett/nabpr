@@ -2,14 +2,14 @@
 id: 200
 title: 'NABPR Newsletter &#8211; Winter, 2004'
 date: 2016-08-21T21:46:46+00:00
-author: adamdjbrett
+author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-winter-2004/
 redirect_from: /?page_id=200
 breadcrumb: true
 ---
-**From the Executive Secretary**  
+# **From the Executive Secretary**  
 **Danny Mynatt (Anderson College)**
 
 **Two Items Left Over from the National Meeting**

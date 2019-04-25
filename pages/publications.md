@@ -6,7 +6,9 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /publications/
-redirect_from: /?page_id=84
+redirect_from:
+  - /?page_id=84
+  - /topics/resources-of-interest/
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 breadcrumb: true
 ---

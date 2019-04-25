@@ -88,7 +88,19 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: NABPR     # Default author for posts
-
+defaults:
+  -
+    scope:
+      path: 'wp-content/uploads'
+    values:
+      image: true
+      author: NABPR
+  -
+    scope:
+      path: 'wp-content/uploads'
+    values:
+      pdf: true
+      author: NABPR
 
 
 # Navigation       _   __            _             __  _

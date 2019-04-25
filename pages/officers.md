@@ -3,7 +3,7 @@ id: 86
 title: Officers
 date: 2016-05-20T19:27:50+00:00
 author: adamdjbrett
-teaser: 'NABPR OFficers'
+teaser: |
 layout: page
 permalink: /officers/
 redirect_from: /?page_id=86

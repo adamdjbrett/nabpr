@@ -48,12 +48,19 @@ Welcome to the Annual May Meeting of NABPR. Save the date for 2020: Baylor Unive
 Daniel Mynatt  
 Executive Secretary-Treasurer
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 ***
 
 ### Greetings from Campbell University
 
 Welcome to Raleigh and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Baptist History and Heritage Society and the Association of Ministry Guidance Professionals. Campbell University is honored to host your gathering and affirms the important work you do as scholars and teachers. I hope this gathering of colleagues over the next few days enriches your understanding of the Christian faith informed and inspired by its Baptist heritage and strengthens your commitment to a life of intellectual inquiry and engagement. Thank you for your influence on students during the most formative stages of their lives and for serving the colleges and the universities represented at this annual meeting. I hope the conference is beneficial to your personal and professional development and that you enjoy your time here in the vibrant city of Raleigh and the beautiful state of North Carolina.  
 Brad Creed, President Campbell University
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ***
 
@@ -66,14 +73,26 @@ Brad Creed, President Campbell University
   * All graduate student registration is compliments of NABPR.
   * All events will occur at the First Baptist Church, 99 North Salisbury Street Raleigh, NC 27603
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
 #### Housing
 
   * [A list of local hotels appears on the housing page](/meetings/housing/). On-campus housing is not available for the 2019 meeting. We apologize for any inconvenience.
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 #### Meals
 
   * The registration fee covers the conference meetings, the banquet on Monday, lunch on Tuesday, light breakfast on Tuesday and Wednesday, and coffee breaks.
   * If you wish to bring a guest to Monday’s banquet, the cost is $22.50 per unregistered guest. This option is available through the online registration.
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 #### Parking
 
@@ -81,9 +100,17 @@ Brad Creed, President Campbell University
   * The First Baptist Church will provide 10 spaces. When you come to Registration, you can request a parking pass (first come-first served). Be sure to park in the lot behind the church rather than beside the sanctuary, or your car will be towed.
   * Otherwise, please use one of the pay lots.
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
 #### Questions
 
   * If you have questions or concerns, email Danny Mynatt at <dmynatt@umhb.edu>. Danny will forward your question to the appropriate person.
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ***
 
@@ -95,6 +122,10 @@ Brad Creed, President Campbell University
   * 3:30-5:00 Executive Committee meeting Location TBD
   * 6:00 Dinner: TBD Program: TBD
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
 ***
 
 <span style="color: #800000;">⚑</span> **The location of the Break Area for the conference is to TBD**.
@@ -104,6 +135,10 @@ Brad Creed, President Campbell University
 ### Tuesday morning, May 21
 
   * 8:00 am – 8:30am &#8211; Continental Breakfast (Location: TBD)
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ### Tuesday, May 21 – Session I 8:30 – 10:15
 
@@ -116,6 +151,10 @@ Brad Creed, President Campbell University
       * _Siblings, Scribes, and Satan: Rhetorical Composition in Mark 3:20-35_ Daniel Glover, Baylor University
       * Passio Marculi _and the Construction of Memory and Identity in 4__th_ _and 5__th_ _Century North Africa_ Kenneth A. Vandergriff, Florida State University
       * _Christ Behind Culture_ Cody Carpenter, McAfee School of Theology, Mercer University
+
+    <small markdown="1">[Up to table of contents](#toc)</small>
+    {: .text-right }
+
 
 ### Tuesday, May 22 –Session I 8:30 – 10:15
 
@@ -140,13 +179,21 @@ Brad Creed, President Campbell University
       * “Pastor, During Those Four Days That Lazarus Lay Dead, Where Was He?”  
         Ben D. Craver, Wayland Baptist University
 
-### 10:30-11:30 Plenary Session I— Room: TBD
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
+### Tuesday, May 22, Plenary Session I— Room: TBD, 10:30-11:30
 
 #### Two Roads Diverged: The Civil Rights Movement Comes to First Baptist Church Raleigh  
 Glenn Jonas, Campbell University
 
   * 11:30-12:00 — Business Session
   * 12:00-1:15 — Lunch — Room TBD
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ### Tuesday, May 21 – Session II 1:30 – 3:15
 
@@ -178,6 +225,10 @@ Glenn Jonas, Campbell University
       * Responding to the Leadership Shortage in Rural Churches: Some Lessons from History and Cross-Cultural Missions  
         Kelly Malone, Southwest Baptist University
 
+      <small markdown="1">[Up to table of contents](#toc)</small>
+      {: .text-right }
+
+
 ### Tuesday, May 21 – Plenary II 3:30 – 5:00
 
   * Plenary — Session II — Room TBD
@@ -185,12 +236,24 @@ Glenn Jonas, Campbell University
 Baptists and Public Policy  
 Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
 ### Tuesday Evening, May 21 – Free Time & Dinner on your own
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ***
 
 ### Wednesday Morning, May 22 – Continental Breakfast  
 8:00– 8:30am Location: TBD
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 ***
 
@@ -222,7 +285,15 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
             State of Clergywomen in the U.S.: A Statistical Update  
             Eileen Campbell-Reed, Central Baptist Theological Seminary
 
+          <small markdown="1">[Up to table of contents](#toc)</small>
+          {: .text-right }
+
+
 ### Wednesday morning, May 22 – Plenary Session III 10:30-12:00, Room: TBD
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 #### Panel: Discussion of Mikeal C. Parsons, _Crawford Howell Toy: From the Southern Baptist Theological Seminary to Harvard University_ (Perspectives on Baptist Identities, no. 2; Macon, GA: Mercer University Press, 2019)
 
@@ -234,13 +305,29 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
   * Response:
       * Mikeal C. Parsons, Baylor University
 
-***
+ <small markdown="1">[Up to table of contents](#toc)</small>
+ {: .text-right }
 
+
+***  
+
+### Downloads
+ - [⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-1.pdf).
+ - [⤓ Download the 2019 NABPR, AMGP, BHHS, Joint Program Guide as a PDF](/docs/2019-Joint-Meeting-Schedule-AMGP-NABPR-BHHS.pdf)
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
+***  
+### Save the Date
 <span style="color: #66000b;">⚑</span>
 
-<pre style="text-align: center;">Save the Date! 2020 Annual Meeting May 18-20, 2020
+<pre style="text-align: center;">Save the Date! 2020 Annual Meeting May 18-20, 2020  
 Baylor University Waco, TX</pre>
 
-***
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
-[⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-1.pdf).
+
+***

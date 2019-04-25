@@ -28,16 +28,16 @@ tags:
 {:toc}
 </div>
 
-<h1 style="text-align: center;">
+<h2 style="text-align: center;">
   The National Association of Baptist Professors of Religion
-</h1>
+</h2>
 
 <h2 style="text-align: center;">
   Campbell University • May 20-22, 2019 • Raleigh, NC
 </h2>
 
 <h3 style="text-align: left;">
-  <span style="color: #66000b;">‼︎</span> All events will occur at the First Baptist Church, <a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>.
+  <span style="color: #66000b;">‼︎</span> All events will occur at the First Baptist Church, <a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>. <span style="color: #66000b;">‼︎</span>
 </h3>
 
 <!--more-->

@@ -75,7 +75,7 @@ Brad Creed, President Campbell University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
+***
 
 #### Housing
 
@@ -83,7 +83,7 @@ Brad Creed, President Campbell University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
+***
 
 #### Meals
 
@@ -92,7 +92,7 @@ Brad Creed, President Campbell University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
+***
 
 #### Parking
 
@@ -102,7 +102,7 @@ Brad Creed, President Campbell University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
+***
 
 #### Questions
 
@@ -110,9 +110,8 @@ Brad Creed, President Campbell University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
-
-
 ***
+
 
 ## Program for 2019 Annual Meeting
 

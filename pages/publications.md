@@ -9,6 +9,7 @@ permalink: /publications/
 redirect_from:
   - /?page_id=84
   - /topics/resources-of-interest/
+  - /topics/books-of-interest/
 image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
 breadcrumb: true
 ---

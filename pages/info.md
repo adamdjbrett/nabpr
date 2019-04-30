@@ -16,6 +16,7 @@ redirect_from:
   - /2016/05/20/resources-of-interest-sample/
   - /2019/01/15/hello-world/
   - /topics/nabpr-notes/
+  - /topics/general/
   - /?p=132
   - /?p=130
   - /?p=119

@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header: 'National Association of Baptist Professors of Religion'
+header:
   image_fullwidth: /images/cup-of-coffee-1280537-min3.jpg
 widget1:
   title: "Blog & News"

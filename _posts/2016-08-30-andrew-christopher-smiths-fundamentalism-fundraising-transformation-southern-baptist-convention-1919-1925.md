@@ -11,10 +11,10 @@ redirect_from:
   - /2016/08/30/andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
   - /andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
 image:
-  title: /wp-content/uploads/2016/08/Andrew-Christopher-Smith-214x300.jpg
+  title: /wp-content/uploads/2016/08/Andrew-Christopher-Smith.jpg
   thumb: /wp-content/uploads/2016/08/Andrew-Christopher-Smith-150x150.jpg
   caption: "Andrew Christopher Smith"
-  caption_url: 'http://utpress.org/title/fundamentalism-fundraising-and-the-transformation-of-the-southern-baptist-convention-1919-1925/'
+  caption_url: 'https://www.cn.edu/directory?person=496'
 categories:
   - Books of Interest
   - Resources of Interest

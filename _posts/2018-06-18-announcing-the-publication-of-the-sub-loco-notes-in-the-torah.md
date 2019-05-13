@@ -22,6 +22,7 @@ tags:
   - new books
   - scholarship
   - torah
+show_meta: true
 ---
 
 

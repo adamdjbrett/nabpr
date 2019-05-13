@@ -24,6 +24,7 @@ tags:
   - NABPR
   - religion
   - Revelation
+show_meta: true  
 ---
 
 

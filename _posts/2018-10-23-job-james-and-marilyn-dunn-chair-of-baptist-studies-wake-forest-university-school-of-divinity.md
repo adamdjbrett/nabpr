@@ -22,6 +22,7 @@ tags:
   - baptist studies
   - Wake Forest University
   - wfu
+show_meta: true
 ---
 Wake Forest University  
 School of Divinity  

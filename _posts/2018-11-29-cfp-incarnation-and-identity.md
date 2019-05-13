@@ -19,6 +19,7 @@ tags:
   - american baptists
   - baptist
   - theology
+show_meta: true
 ---
 Call for Papers  
 &#8221;Incarnation and Identity&#8221;  

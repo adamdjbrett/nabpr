@@ -19,6 +19,7 @@ tags:
   - dissertation
   - scholarship
   - theology
+show_meta: true  
 ---
 At the Annual Meeting on May 22, NABPR awarded two dissertation scholarships.
 

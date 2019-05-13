@@ -19,6 +19,7 @@ tags:
   - new testament
   - NT
   - professor
+show_meta: true
 ---
 Carson-Newman University is seeking to hire an Assistant Professor of Religion with a specialization in New Testament.
 

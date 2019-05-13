@@ -20,6 +20,7 @@ tags:
   - NABPR
   - NABPR18
   - national
+show_meta: true  
 ---
 ##   [⤓ NABPR Agenda 2018 PDF](/wp-content/uploads/2018/05/NABPRAgenda2018.pdf)
 

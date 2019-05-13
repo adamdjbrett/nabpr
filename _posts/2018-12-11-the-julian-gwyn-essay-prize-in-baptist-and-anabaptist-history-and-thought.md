@@ -18,6 +18,7 @@ tags:
   - call for papers
   - cfp
   - essay
+show_meta: true
 ---
 The Acadia Centre for Baptist and Anabaptist Studies (ACBAS) is pleased to announce the _Julian Gwyn Essay Prize in Baptist and Anabaptist History and Thought_. The details pertaining to this new essay prize can be found in the attached poster/advertisement. We would appreciate it if you would forward the information of this prize throughout your publications (print, electronic, website, blogs, etc.) and various channels of communication. The attached poster was created for this purpose and you are free to use it as you see fit. 
 
@@ -47,7 +48,4 @@ All submissions must include:
 *Photo: First Baptist Church, Amherst, NS (Acadia University Archives and Special Collections).
 
 &nbsp;
-
-<div class="wp-block-file">
-  <a href="/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf">Download the CFP as a PDF</a><a class="wp-block-file__button" href="/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf" download="">Download</a>
-</div>
+[⤓ Download the CFP as a PDF](/wp-content/uploads/2018/12/ACBAS-Essay-Prize-PDF.pdf)

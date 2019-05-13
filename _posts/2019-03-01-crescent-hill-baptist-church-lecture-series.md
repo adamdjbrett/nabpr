@@ -15,6 +15,7 @@ tags:
   - baptist
   - event
   - kentucky
+show_meta: true
 ---
 Crescent Hill Baptist Church would like to invite NABPR to a lecture series coming up March 29-31 at Crescent Hill Baptist Church, Louisville KY in honor of Dr. E Glenn Hinson.  They will have 6 lecturers who will speak: Loyd Allen, Karen Smith, Raymond Bailey, Bill Leonard, Phyllis Rodgerson Pleasants Tessieri, and Alan Culpepper.  Elizabeth Hinson-Hasty will preach at our 11:00 a. m. worship service on the 31st.  Doug will moderate the whole series, introducing each speaker and moderating a round table discussion of the lecturers on Sunday morning during the Sunday School hour.
 

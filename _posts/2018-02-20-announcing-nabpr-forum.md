@@ -22,6 +22,7 @@ tags:
   - constitution
   - featured
   - NABPR
+show_meta: true
 ---
 Good Afternoon NABPR:
 

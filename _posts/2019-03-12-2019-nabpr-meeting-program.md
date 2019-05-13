@@ -21,7 +21,7 @@ tags:
   - annual meeting
   - Campbell University
   - NABPR
-show_meta: true  
+show_meta: true
 ---
 <div class="panel radius" markdown="1">
 **Table of Contents**

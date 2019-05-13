@@ -21,6 +21,7 @@ tags:
   - cfp
   - ministry
   - pastoral care
+show_meta: true  
 ---
 ### Call for Papers  
 National Association of Baptist Professors of Religion  

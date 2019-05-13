@@ -21,6 +21,7 @@ tags:
   - theology
   - womanism
   - womanist
+show_meta: true
 ---
 [![Freedom Faith: The Womanist Vision of Prathia Hall by Courtney Pace](/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg)](/wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg)
 

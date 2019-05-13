@@ -24,6 +24,7 @@ tags:
   - religion
   - religious studies
   - theology
+show_meta: true
 ---
 <h3 style="text-align: center;">
   The National Association of Baptist Professors of Religion (NABPR)

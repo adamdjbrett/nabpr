@@ -22,6 +22,7 @@ tags:
   - book
   - New Book
   - theology
+show_meta: true
 ---
 
 

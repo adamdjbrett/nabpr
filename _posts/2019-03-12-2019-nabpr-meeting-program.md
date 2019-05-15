@@ -40,7 +40,7 @@ show_meta: true
 </h2>
 
 <h3 style="text-align: left;">
-  <span style="color: #66000b;">‼︎</span> All events will occur at the First Baptist Church, <a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>. <span style="color: #66000b;">‼︎</span>
+  <span style="color: #66000b;">‼︎</span> All events will occur at the First Baptist Church,<br /><a href="https://goo.gl/maps/b7anHU4foPT2">99 North Salisbury Street Raleigh, NC 27603</a>. <span style="color: #66000b;">‼︎</span>
 </h3>
 
 <!--more-->

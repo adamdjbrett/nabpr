@@ -1,7 +1,7 @@
 ---
 title: 2019 NABPR Meeting Program
 date: 2019-03-12T15:40:40+00:00
-modified: 2019-04-30T11:50:41+00:00
+modified: 2019-05-15T13:50:41+00:00
 author: adamdjbrett
 teaser: "Welcome to the Annual May Meeting of NABPR. Many thanks go to Steve Harmon, our President, Christine Jones, Vice-President, and Glenn Jonas, our on-site coordinator. We are grateful to the First Baptist Church and Campbell University for their support of NABPR and this meeting. I look forward to seeing you in Raleigh."
 layout: page

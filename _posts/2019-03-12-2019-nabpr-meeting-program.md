@@ -350,7 +350,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 
   * Guest Lecture I (AMGP) - Room: 220, Presiding: Bill Carrell, University of Mary Hardin-Baylor
     _Theological Reflection for Integration_
-    Matthew Floding Duke Divinity School
+    Matthew Floding, Duke Divinity School
 
       <small markdown="1">[Up to table of contents](#toc)</small>
       {: .text-right }
@@ -358,25 +358,34 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 
 ### Tuesday, May 21 – Plenary II 3:30 – 5:00
 
-  * Plenary — Session II — Room TBD
+  * Plenary — Session II — Room: Sanctuary - Presiding: Pamela R. Durso, Baptist Women in Ministry
+    * _Baptists and Public Policy_  
+      Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
-_Baptists and Public Policy_  
-Amanda Tyler, Baptist Joint Committee for Religious Liberty
+  * Plenary — Session II — Room: 220 - Presiding: Bill Carrell, University of Mary Hardin-Baylor
+    * _Pastoral Imagination and Leadership Formation_  
+      Matthew Floding, Duke Divinity School
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
-### Tuesday Evening, May 21 – Free Time & Dinner on your own
+### Tuesday Evening, May 21 – Dinner & Free Time on your own
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
 ***
-
-### Wednesday Morning, May 22 – Continental Breakfast  
-8:00– 8:30am Location: TBD
+### Wednesday, May 22 - Breakfasts
+  * 7:30 – 8:30
+    * Fellowship of Baptist Historians Breakfast, Room: Fellowship Hall
+    * Presiding: Melody Maxwell, Acadia Divinity College
+    * _Hopeful Apocalypse: Charting a Baptist Future One More Time_
+      Bill J. Leonard
+      Wake Forest University
+  * 8:00 AM–8:30 AM
+     * NABPR and AMGP Continental Breakfast, Rooms: 301/302    
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -385,18 +394,18 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 ***
 
 ### Wednesday, May 22 – Concurrent Sessions III 8:30 – 10:15
-
-  * Church History III (NABPR) — Room: TBD — Presiding:
+_[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
+  * Church History III (NABPR) — Room: 222 — Presiding: Melody Maxwell, Acadia Divinity College
       * _The Importance of Repudiating the Doctrine of Discovery for Baptists_  
         Adam DJ Brett, Syracuse University
       * _Slavery, Racism, and Theological Higher Education: A Response to Southern Seminary’s Report on Slavery and Racism_  
         Andrew Gardner, Florida State University
-  * Theology III (NABPR) — Room: TBD — Presiding:
+  * Theology III (NABPR) — Room: 310 — Presiding: : Adam English, Campbell University
       * _To Sing against Singing: Roland Hayes’ Music and the Christ of his Spirituals_  
         Thomas Breedlove, Baylor University
       * _Palliative and Apocalyptic Monuments: Theologically Assessing Confederate Statues_  
         Ryan Andrew Newson, Campbell University
-  * Pedagogy II (NABPR) —  Room: TBD — Presiding:
+  * Pedagogy II (NABPR) —  Rooms: 301/302 TBD — Presiding:Tim Crawford, University of Mary Hardin-Baylor
       * _Teaching Christian History with The Wesley Bros Online Comics: Pedagogical Reflections_  
         Scott C. Ryan, Baylor University
       * _Experiential Learning and the Short-term Mission Trip: Moving from Experience to Transformation_  

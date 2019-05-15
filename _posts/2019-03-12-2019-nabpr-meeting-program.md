@@ -31,8 +31,8 @@ show_meta: true
 </div>
 
 <h2 style="text-align: center;">
-  The National Association of Baptist Professors of Religion, <br /> Baptist History and Heritage Society, & <br />
-  the Association of Ministry Guidance Professionals
+  National Association of Baptist Professors of Religion, <br /> Baptist History and Heritage Society, & <br />
+  Association of Ministry Guidance Professionals
 </h2>
 
 <h2 style="text-align: center;">

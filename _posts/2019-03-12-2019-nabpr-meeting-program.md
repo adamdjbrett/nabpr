@@ -332,7 +332,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
     * _Expanding the Fear of the Mongrel: Baptist Missions in Latin America and Transnational Racist Cross-Pollination_
     Joao Chaves, San Antonio, TX
 
-  * Virginia Baptists in the 18th and 19th Centuries (BHHS) - Room: 227, Presiding: Nathan Taylor, Virginia Baptist Historical Society
+  * Virginia Baptists in the 18th and 19th Centuries (BHHS) - Room: 227 - Presiding: Nathan Taylor, Virginia Baptist Historical Society
     * _The Colonial Virginia Pamphlet Dialogue Between the Rev. James Maury and Elder David Thomas_
     Laverne Smith, University of Birmingham
     * Andrew Broaddus and the Evolution of Baptist Hymnody in Virginia, 1790–1840
@@ -340,7 +340,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
     * From Richmond to New Orleans: The Life and Ministry of Isaac Taylor Hinton
     Lloyd A. Harsch, New Orleans Baptist Theological Seminary
 
-  * Baptist Identity and Gender Roles (BHHS) - Room: 110, Presiding: Carol Ann Vaughn Cross, Samford University
+  * Baptist Identity and Gender Roles (BHHS) - Room: 110 - Presiding: Carol Ann Vaughn Cross, Samford University
     * _“Till Rebellion Be Cast Down”: Baptist Identity and Historical Memory in the Works of Union Chaplain, Frederic Denison_
     Christopher Moore, Catawba Valley Community College
     * _The Role, Place, and Purpose of Southern Baptist Women, 1979–1987_
@@ -348,7 +348,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
     * _Personal Histories on the State of Baptists and the LGBTQ Issue_
     Nathan Peace Samford University
 
-  * Guest Lecture I (AMGP) - Room: 220, Presiding: Bill Carrell, University of Mary Hardin-Baylor
+  * Guest Lecture I (AMGP) - Room: 220 - Presiding: Bill Carrell, University of Mary Hardin-Baylor
     _Theological Reflection for Integration_
     Matthew Floding, Duke Divinity School
 
@@ -428,7 +428,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
       * _Data Science as Theological Ressourcement: A Case Study in the Sermons of C.H. Spurgeon_
     James Patrick, Phillips East Carolina University
 
-  * Baptists Engaging the Frontier (BHHS) - Room: Fellowship Hall, Presiding: Gary Burton, Pintlala Baptist Church, Hope Hull, Ala.
+  * Baptists Engaging the Frontier (BHHS) - Room: Fellowship Hall - Presiding: Gary Burton, Pintlala Baptist Church, Hope Hull, Ala.
       * _Imaginary Indians: Baptist Laypeople and Indian Reform_
         Daniel Williams, Mercer University
       * _A Man of Many Frontiers: The True Story of the Lives and Legends of Green Clay Smith_

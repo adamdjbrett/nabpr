@@ -10,6 +10,7 @@ permalink: /2019-nabpr-meeting-program/
 redirect_from:
   - /?p=1751
   - /2019/03/12/2019-nabpr-meeting-program/
+  - /NABPR-Program-May-2019-Campbell-draft-1.pdf
 image:
     title: /images/fbcraleigh-edenton-street-entrance1-full.jpg
     thumb: /images/fbcraleigh-edenton-street-entrance1-full-th.jpg
@@ -31,7 +32,7 @@ show_meta: true
 </div>
 
 <h2 style="text-align: center;">
-  The National Association of Baptist Professors of Religion
+  The National Association of Baptist Professors of Religion, Baptist History and Heritage Society, and the Association of Ministry Guidance Professionals
 </h2>
 
 <h2 style="text-align: center;">
@@ -43,26 +44,54 @@ show_meta: true
 </h3>
 
 <!--more-->
+### Greetings from Campbell University
 
-### Greetings from the Executive Secretary-Treasurer
+Welcome to Raleigh and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Baptist History and Heritage Society and the Association of Ministry Guidance Professionals. Campbell University is honored to host your gathering and affirms the important work you do as scholars and teachers. I hope this gathering of colleagues over the next few days enriches your understanding of the Christian faith informed and inspired by its Baptist heritage and strengthens your commitment to a life of intellectual inquiry and engagement. Thank you for your influence on students during the most formative stages of their lives and for serving the colleges and the universities represented at this annual meeting. I hope the conference is beneficial to your personal and professional development and that you enjoy your time here in the vibrant city of Raleigh and the beautiful state of North Carolina.  
+
+Brad Creed,   
+President  
+Campbell University  
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+***
+
+### Greetings from the National Association of Baptist Professors of Religion
 
 Welcome to the Annual May Meeting of NABPR. Save the date for 2020: Baylor University will host our Annual Meeting on May 18-20. Also, mark your calendar for November 23, 2019. This year’s plenary speaker for our November meeting will be Dr. Charles Kimball. At this year’s meeting, we will consider changing our dues structure for the first time since 1992. Adam D. J. Brett has been leading an ad hoc committee who has been looking into revising and simplifying dues payments. He will give a report at the Annual Business Meeting. Many thanks go to Steve Harmon, our President, Christine Jones, Vice-President, and Glenn Jonas, our on-site coordinator. We are grateful to the First Baptist Church and Campbell University for their support of NABPR and this meeting. I look forward to seeing you in Raleigh.  
-Daniel Mynatt  
-Executive Secretary-Treasurer
+
+Daniel Mynatt   
+Executive Secretary-Treasurer  
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 ***
 
-### Greetings from Campbell University
+### Greetings from the Baptist History and Heritage Society
 
-Welcome to Raleigh and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Baptist History and Heritage Society and the Association of Ministry Guidance Professionals. Campbell University is honored to host your gathering and affirms the important work you do as scholars and teachers. I hope this gathering of colleagues over the next few days enriches your understanding of the Christian faith informed and inspired by its Baptist heritage and strengthens your commitment to a life of intellectual inquiry and engagement. Thank you for your influence on students during the most formative stages of their lives and for serving the colleges and the universities represented at this annual meeting. I hope the conference is beneficial to your personal and professional development and that you enjoy your time here in the vibrant city of Raleigh and the beautiful state of North Carolina.  
-Brad Creed, President Campbell University
+Welcome to the 2019 annual conference of BHHS, held in cooperation with our colleagues of NABPR and AMGP. Since 1969 the Society has sponsored an annual meeting in which we have considered a variety of themes relating to Baptist history, listened to formal paper presentations, and participated in stimulating panel discussions. This fifty-year tradition will continue over the next three days as we hear some of the most insightful persons from both inside and outside our denominational life.
+
+We deeply appreciate the hospitality shown to us by our friends at First Baptist Church, Raleigh, and Campbell University, our official hosts. Special thanks go to: Chris Chapman, senior pastor of First Baptist Church, and Wayne Hager, church administrator, for their splendid cooperation in planning every aspect of this meeting; Brad Creed, president of Campbell University, for agreeing to host the online registration process; and Glenn Jonas, professor of religion, for serving as our local representative.
+
+John Finley,  
+Executive Director  
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
+
+### Greetings from the Association of Ministry Guidance Professionals
+
+Welcome to the 2019 annual meeting of AMGP. We express our thanks to our host institutions this year, Campbell University and First Baptist Church of Raleigh, for much hard work to accommodate our organizations for this meeting. The AMGP consists of theological educators who have responsibility for guiding students through supervised field experiences in Christian ministry. We provide a forum for sharing information and establishing professional standards for ministry guidance.
+
+For the first time, the AMGP annual meeting is combined with that of the NABPR and BHHS. Our members will have the opportunity to attend not only AMGP sessions but also NABPR and BHHS sessions. Highlighting the AMGP meeting are two guest lectures by Dr. Matthew Floding, Director of Ministerial Formation and Field Education at Duke Divinity School and the editor of Engage: A Theological Field Education Toolkit and Welcome to Theological Field Education. He has also served as a pastor in Illinois, college chaplain in Iowa, and director of formation for ministry at a seminary of the Reformed Church in America in Michigan.
+
+Bill Carrell, President
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 ***
 

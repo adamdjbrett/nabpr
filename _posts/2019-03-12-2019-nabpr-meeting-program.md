@@ -74,7 +74,7 @@ Welcome to the 2019 annual conference of BHHS, held in cooperation with our coll
 
 We deeply appreciate the hospitality shown to us by our friends at First Baptist Church, Raleigh, and Campbell University, our official hosts. Special thanks go to: Chris Chapman, senior pastor of First Baptist Church, and Wayne Hager, church administrator, for their splendid cooperation in planning every aspect of this meeting; Brad Creed, president of Campbell University, for agreeing to host the online registration process; and Glenn Jonas, professor of religion, for serving as our local representative.
 
-John Finley,  
+John Finley
 Executive Director  
 
 <small markdown="1">[Up to table of contents](#toc)</small>
@@ -88,7 +88,8 @@ Welcome to the 2019 annual meeting of AMGP. We express our thanks to our host in
 
 For the first time, the AMGP annual meeting is combined with that of the NABPR and BHHS. Our members will have the opportunity to attend not only AMGP sessions but also NABPR and BHHS sessions. Highlighting the AMGP meeting are two guest lectures by Dr. Matthew Floding, Director of Ministerial Formation and Field Education at Duke Divinity School and the editor of Engage: A Theological Field Education Toolkit and Welcome to Theological Field Education. He has also served as a pastor in Illinois, college chaplain in Iowa, and director of formation for ministry at a seminary of the Reformed Church in America in Michigan.
 
-Bill Carrell, President
+Bill Carrell   
+President  
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

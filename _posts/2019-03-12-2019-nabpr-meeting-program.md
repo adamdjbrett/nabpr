@@ -400,17 +400,18 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
         Adam DJ Brett, Syracuse University
       * _Slavery, Racism, and Theological Higher Education: A Response to Southern Seminary’s Report on Slavery and Racism_  
         Andrew Gardner, Florida State University
-  * Theology III (NABPR) — Room: 310 — Presiding: : Adam English, Campbell University
+  * Theology III (NABPR) — Room: 310 — Presiding: Adam English, Campbell University
       * _To Sing against Singing: Roland Hayes’ Music and the Christ of his Spirituals_  
         Thomas Breedlove, Baylor University
       * _Palliative and Apocalyptic Monuments: Theologically Assessing Confederate Statues_  
         Ryan Andrew Newson, Campbell University
-  * Pedagogy II (NABPR) —  Rooms: 301/302 TBD — Presiding:Tim Crawford, University of Mary Hardin-Baylor
+  * Pedagogy II (NABPR) —  Rooms: 301/302 — Presiding: Tim Crawford, University of Mary Hardin-Baylor
       * _Teaching Christian History with The Wesley Bros Online Comics: Pedagogical Reflections_  
         Scott C. Ryan, Baylor University
       * _Experiential Learning and the Short-term Mission Trip: Moving from Experience to Transformation_  
         Dennis J. Horton, Baylor University
-  * Practical Studies III (NABPR)  — Room: TBD — Presiding:
+  * Practical Studies III (NABPR)  — Room: 311 — Presiding: Ken Gore, Dallas Baptist University
+
       * _Silence, Tears, Ordination and Resistance: Historical, Theological and Pedagogical Perspectives on Women and the Church_
           * _The Silencing of Women in the Church: History, Problems, and Pedagogy_  
             Jennifer A. Garcia Bashaw, Campbell University
@@ -421,15 +422,24 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
           * _State of Clergywomen in the U.S.: A Statistical Update_  
           Eileen Campbell-Reed, Central Baptist Theological Seminary
 
+  * European Baptists in the 19th Century (BHHS) - Room 220 - Presiding: Joseph E. Early Jr., Campbellsville University
+      * _Ruptured Relationships and Reconciliation: Johann Gerhard Oncken and Julius Köbner_
+      Lloyd A. Harsch, New Orleans Baptist Theological Seminary
+      * _Data Science as Theological Ressourcement: A Case Study in the Sermons of C.H. Spurgeon_
+    James Patrick, Phillips East Carolina University
+
+  * Baptists Engaging the Frontier (BHHS) - Room: Fellowship Hall, Presiding: Gary Burton, Pintlala Baptist Church, Hope Hull, Ala.
+      * _Imaginary Indians: Baptist Laypeople and Indian Reform_
+        Daniel Williams, Mercer University
+      * _A Man of Many Frontiers: The True Story of the Lives and Legends of Green Clay Smith_
+        Bruce Gourley Historian
+      * _Go West Young Man: Edwin Charles Dargan’s Abbreviated Mission to the Baptists of California, 1887–1888_
+        John M. Finley, Baptist History and Heritage Society
+
           <small markdown="1">[Up to table of contents](#toc)</small>
           {: .text-right }
 
-
-### Wednesday morning, May 22 – Plenary Session III 10:30-12:00, Room: TBD
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
+### Wednesday morning, May 22 – Plenary Session III 10:30-12:00, Room: Sanctuary
 
 #### Panel: Discussion of Mikeal C. Parsons, _Crawford Howell Toy: From the Southern Baptist Theological Seminary to Harvard University_ (Perspectives on Baptist Identities, no. 2; Macon, GA: Mercer University Press, 2019)
 
@@ -458,7 +468,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 ### Save the Date
 <span style="color: #66000b;">⚑</span>
 
-<pre style="text-align: center;">Save the Date! 2020 Annual Meeting May 18-20, 2020  
+<pre style="text-align: center;">Save the Date! The 2020 Annual  Meeting of the National Association of Baptist Professors of Religion will take place May 18-20, 2020  
 Baylor University Waco, TX</pre>
 
 <small markdown="1">[Up to table of contents](#toc)</small>

@@ -166,6 +166,14 @@ Bill Carrell, President
 * 3:00–6:00 PM Registration and Check-in, Lewis Lobby
 * 3:30–5:00 PM
   * NABPR Executive Committee meeting, Room 110
+* 6:00 PM
+  * Dinner and Entertainment, Fellowship Hall
+    * Greetings:
+      * Brad Creed, President, Campbell University
+      * Christopher Chapman, Senior Pastor, First Baptist Church, Raleigh
+    * Entertainment
+      * "Freeman and the Captives"
+        *  (Glenn Jonas, Curtis Freeman, Ed Beddingfield, Daryll Powell, Bill McCraw, John Lehman, Logan Wilkins)
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -177,22 +185,23 @@ Bill Carrell, President
 
 ***
 
-### Tuesday morning, May 21
+### Tuesday, May 21, 2019
 
-  * 8:00 am – 8:30am &#8211; Continental Breakfast (Location: TBD)
+  * 8:00 am – 8:30am &#8211; Continental Breakfast (Location: Fellowship Hall)
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
 ### Tuesday, May 21 – Session I 8:30 – 10:15
+_[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 
-  * Old Testament I — Room TBD — Presiding:
+  * Old Testament I (NABPR) — Room 220 — Presiding: Kathy Lopez, Campbell University
       * _A Prophetic Response to Monotheism: Is YHWH the God of the Nations as Well?_  
         Anna Sieges Beal, Gardner-Webb University
       * Blending Royal and Divine Identities: The Rhetoric of Merging King and Deity in Ancient Near Easter Art and Psalm 21  
         Richard A. Purcell, Emory University
-  * New Testament/Christianity in Late Antiquity I — Room: TBD — Presiding:
+  * New Testament/Christianity in Late Antiquity I (NABPR) — Room: 301/302 — Presiding: Scott Shauf, Gardner-Webb University
       * _Siblings, Scribes, and Satan: Rhetorical Composition in Mark 3:20-35_ Daniel Glover, Baylor University
       * _Passio Marculi and the Construction of Memory and Identity in 4__th_ _and 5__th_ _Century North Africa_ Kenneth A. Vandergriff, Florida State University
       * _Christ Behind Culture_ Cody Carpenter, McAfee School of Theology, Mercer University
@@ -203,27 +212,54 @@ Bill Carrell, President
 
 ### Tuesday, May 22 –Session I 8:30 – 10:15
 
-  * Church History I — Room: TBD — Presiding:
+  * Church History I (NABPR) — Room: 310 — Presiding: Lydia Hoyle, Campbell University
       * _You Are Still Eve: The Nature, Purpose, and Role of Women Throughout Christian History_
       Joseph E. Early, Jr., Campbellsville University
       * _Footnoting Augustine: The Legacy of De Doctrina Christiana in the Reformation Era_  
         Emily Buck, Fuller Theological Seminary
       * _The Evolution of Holy War Terminology_   
         Adam Peeler, Emory University
-  * Theology I — Room: TBD — Presiding:
+  * Theology I (NABPR) — Room: 311 — Presiding: Amy L. Chilton, Wingate University
       * _Theosis as Huiosis: An Afro-Thomistic Contextualization of Deification_  
         Jackson Adamah, Duke Divinity School
       * _The Image of God in Contemporary Theology_  
         Daniel W. Houck, Southern Methodist University
       * _The Possibility of Theology in A Secular Age_  
         Tracey Mark Stout, Bluefield College
-  * Practical Studies I — Room: TBD — Presiding:
+  * Practical Studies I (NABPR) — Room: 322/323 — Presiding: Mandy McMichael, Baylor University
       * _Masculinities and Trauma: A Pastoral Analysis in Three Domains_  
         Matthew S. Beal, Boston University
       * _A Hermeneutical Approach to Baptist Spirituality: A Catholic-Baptist-Pentecostal Trialogue on the Question of Experience_  
         J. August Higgins, Institute for the Study of Contemporary Spirituality, Oblate School of Theology
       * _“Pastor, During Those Four Days That Lazarus Lay Dead, Where Was He?”_  
         Ben D. Craver, Wayland Baptist University
+
+  * Woman’s Missionary Union, the WMU Training School, and the Carver School of Social Work (BHHS) - Room: 227 - Presiding: Paul Richardson, Samford University
+    * _From Home Missions to Social Activism: A Comparative Study of
+        Southern Methodist and Southern Baptist Women During the Progressive Era_
+        Amy Smith, Historian
+    * _A Year at the Woman’s Missionary Union Training School:
+        Insights from the Diaries of Jewell Legett, Louisville, Ky., 1908–1909_
+        T. Laine Scales, Baylor University
+    * _The Carver School of Social Work: When the Walls Came Tumbling Down, 1993–1997_
+        Melody Maxwell, Acadia Divinity College
+
+  * Baptist Progressivism in the Early Twentieth Century (BHHS) - Room 110 - Presiding: Pamela R. Durso, Baptist Women in Ministry
+    * _John E. White: “Social Betterment” or a Precursor to White Nationalism_
+    Doug Weaver, Baylor University
+    * _“A Voice Crying in the Wilderness”: Joseph Martin Dawson’s Fight for Social Justice_
+    Bill Pitts, Baylor University
+
+    *   Precursors and Personalities in the Civil Rights Movement (BHHS) - Room 108 - Presiding: C. Delane Tew, Samford University
+        *   _Women of Influence: Black Church Trailblazers of Gospel, Dignity, and Integration, 1870–1960_
+         Laura Levens  
+          Baptist Seminary of Kentucky
+    *   _Two Baptist Senators and Two Differing Viewpoints: Robert C. Byrd, Jennings Randolph, and the 1964 Civil Rights Debate_
+        Christopher Price  
+        Colby Community College
+    *   _“The Combative Spirituality” of Birmingham’s Fred Shuttlesworth_
+        Andrew Manis  
+        Middle Georgia State University
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

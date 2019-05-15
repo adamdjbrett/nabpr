@@ -1,5 +1,4 @@
 ---
-id: 1751
 title: 2019 NABPR Meeting Program
 date: 2019-03-12T15:40:40+00:00
 modified: 2019-04-30T11:50:41+00:00
@@ -193,7 +192,7 @@ Bill Carrell, President
 {: .text-right }
 
 
-### Tuesday, May 21 – Session I 8:30 – 10:15
+### Tuesday, May 21 – Concurrent Sessions I 8:30 – 10:15
 _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 
   * Old Testament I (NABPR) — Room 220 — Presiding: Kathy Lopez, Campbell University
@@ -265,47 +264,93 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 {: .text-right }
 
 
-### Tuesday, May 22, Plenary Session I— Room: TBD, 10:30-11:30
+### Tuesday, May 22, Plenary Session I— Room: Sanctuary, 10:30-11:30 - Presiding Steven Harmon, Gardner-Webb University School of Divinity
+
 
 #### Two Roads Diverged: The Civil Rights Movement Comes to First Baptist Church Raleigh  
 Glenn Jonas, Campbell University
 
-  * 11:30-12:00 — Business Session
-  * 12:00-1:15 — Lunch — Room TBD
+* 11:30 AM–12:00 NN, Room: Fellowship Hall
+  * NABPR Annual Business Session
+* 11:30 AM–12:00 NN, Room: Sanctuary
+  * BHHS Annual Business Session
+    * Presiding: Doug Weaver, Baylor University
+* 11:30 AM–12:30 PM, Room: 220
+  * AMGP Annual Business Session
+    * Presiding: Bill Carrell, University of Mary Hardin-Baylor
+* 12:00–1:15 PM, Room: Fellowship Hall
+  * NABPR and AMGP Luncheon
+* 12:00–1:30 PM, Rooms: 301/302
+  * BHHS Awards Luncheon
+  * Presiding: Doug Weaver, Baylor University
+
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
-### Tuesday, May 21 – Session II 1:30 – 3:15
-
-  * Old Testament II — Room: TBD — Presiding: TBD
+### Tuesday, May 21 – Concurrent Sessions II 1:30 – 3:15
+_[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
+  * Old Testament II (NABPR) — Room: 222 — Presiding: Christine Jones, Carson-Newman University
       * _The Achievements of Robert Alter_  
         Thomas J. Millay, Baylor University
       * _The Four Senses of the Text: Gabriel Fackre’s Pastoral Hermeneutic as a Model for Integration of Theological Disciplines in the Interpretation of Scripture_  
         Barry A. Jones, Campbell University Divinity School
-  * Church History II — Room: TBD — Presiding: TBD
+  * Church History II (NABPR) — Room: 310 — Presiding: Carol Crawford Holcomb, University of Mary Hardin-Baylor
       * _“The World That Now Is and the World That Is to Come”: Hanserd Knollys’ Eschatology_  
         Bill Pitts, Baylor University
       * _George Liele Was the First Baptist Missionary. So What?_  
         John Inscore Essick, Baptist Seminary of Kentucky
       * _The Distinctive Theology of Ministry of Baptist Preaching Giant, John Claypool_  
         Doug Weaver, Baylor University
-  * Theology II — Room: TBD — Presiding: TBD
+  * Theology II (NABPR) — Room: 311 — Presiding: Mark Medley, Baptist Seminary of Kentucky
       * _Operant Pneumatologies in Church Decision-Making_  
         Jon Kara Shields, University of Notre Dame
       * _Let’s Get Together: The Intersecting Traditions of Practicing Communities_  
         Amy L. Chilton, Wingate University and Fuller Theological Seminary
       * _“But Did It Happen?”: Understanding Textual Reference in James Wm. McClendon, Jr.’s Thought_  
         Spencer Boersma, Acadia Divinity College
-  * Pedagogy I — Room: TBD — Presiding: TBD
+  * Pedagogy I (NABPR) — Room: 319 — Presiding: Kent Blevins, Gardner-Webb University
       * _Privilege, Bias, and the Classroom: A Panel Discussion on (or Resources for a) Critically Reflexive Pedagogy_  
-        Anna Sieges Beal (Gardner-Webb University), Scott Ryan (Baylor University), other panelists TBD
-  * Practical Studies II — Room: TBD — Presiding: TBD
+        * Co-Conveners:
+        Anna Sieges Beal (Gardner-Webb University) Scott Ryan (Baylor University)
+        * Panelists:
+          * Jerusha Matsen Neal (Duke Divinity School)
+          * Caleb O. Oladipo (Campbell University Divinity School) * * Matthew S. Beal (Boston University)
+
+  * Practical Studies II (NABPR) — Room: 322/323 — Presiding:  Kathryn House, Boston University
       * _Race, Education, and Poverty: Finding Salvation in the Louisiana Delta_  
         Marc J. Boswell, Together for Hope, Louisiana
       * _Responding to the Leadership Shortage in Rural Churches: Some Lessons from History and Cross-Cultural Missions_  
         Kelly Malone, Southwest Baptist University
+
+  * Latino/a Baptists in the 19th and 20th Centuries (BHHS) - Room: 108 - Presiding: Melody Maxwell, Acadia Divinity College
+    * _A History of Baptist Mission Work Among Latinos in the United States: 1837–1989_
+    Twyla K. Hernandez, Campbellsville University
+    * _Teófilo Barocio Ondarza: First Mexican Baptist Pastor in México City, 1888–1912_
+    Rubí Elizabeth Barocio, Castells Convención Nacional Bautista de México
+    * _Expanding the Fear of the Mongrel: Baptist Missions in Latin America and Transnational Racist Cross-Pollination_
+    Joao Chaves, San Antonio, TX
+
+  * Virginia Baptists in the 18th and 19th Centuries (BHHS) - Room: 227, Presiding: Nathan Taylor, Virginia Baptist Historical Society
+    * _The Colonial Virginia Pamphlet Dialogue Between the Rev. James Maury and Elder David Thomas_
+    Laverne Smith, University of Birmingham
+    * Andrew Broaddus and the Evolution of Baptist Hymnody in Virginia, 1790–1840
+    Paul A. Richardson, Samford University
+    * From Richmond to New Orleans: The Life and Ministry of Isaac Taylor Hinton
+    Lloyd A. Harsch, New Orleans Baptist Theological Seminary
+
+  * Baptist Identity and Gender Roles (BHHS) - Room: 110, Presiding: Carol Ann Vaughn Cross, Samford University
+    * _“Till Rebellion Be Cast Down”: Baptist Identity and Historical Memory in the Works of Union Chaplain, Frederic Denison_
+    Christopher Moore, Catawba Valley Community College
+    * _The Role, Place, and Purpose of Southern Baptist Women, 1979–1987_
+    Joseph E. Early, Jr. Campbellsville University
+    * _Personal Histories on the State of Baptists and the LGBTQ Issue_
+    Nathan Peace Samford University
+
+  * Guest Lecture I (AMGP) - Room: 220, Presiding: Bill Carrell, University of Mary Hardin-Baylor
+    _Theological Reflection for Integration_
+    Matthew Floding Duke Divinity School
 
       <small markdown="1">[Up to table of contents](#toc)</small>
       {: .text-right }
@@ -339,24 +384,24 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
 ***
 
-### Wednesday, May 22 – Session III 8:30 – 10:15
+### Wednesday, May 22 – Concurrent Sessions III 8:30 – 10:15
 
-  * Church History III —Room: TBD — Presiding:
+  * Church History III (NABPR) — Room: TBD — Presiding:
       * _The Importance of Repudiating the Doctrine of Discovery for Baptists_  
         Adam DJ Brett, Syracuse University
       * _Slavery, Racism, and Theological Higher Education: A Response to Southern Seminary’s Report on Slavery and Racism_  
         Andrew Gardner, Florida State University
-  * Theology III — Room: TBD — Presiding:
+  * Theology III (NABPR) — Room: TBD — Presiding:
       * _To Sing against Singing: Roland Hayes’ Music and the Christ of his Spirituals_  
         Thomas Breedlove, Baylor University
       * _Palliative and Apocalyptic Monuments: Theologically Assessing Confederate Statues_  
         Ryan Andrew Newson, Campbell University
-  * Pedagogy II —  Room: TBD — Presiding:
+  * Pedagogy II (NABPR) —  Room: TBD — Presiding:
       * _Teaching Christian History with The Wesley Bros Online Comics: Pedagogical Reflections_  
         Scott C. Ryan, Baylor University
       * _Experiential Learning and the Short-term Mission Trip: Moving from Experience to Transformation_  
         Dennis J. Horton, Baylor University
-  * Practical Studies III  — Room: TBD — Presiding:
+  * Practical Studies III (NABPR)  — Room: TBD — Presiding:
       * _Silence, Tears, Ordination and Resistance: Historical, Theological and Pedagogical Perspectives on Women and the Church_
           * _The Silencing of Women in the Church: History, Problems, and Pedagogy_  
             Jennifer A. Garcia Bashaw, Campbell University
@@ -395,7 +440,6 @@ Amanda Tyler, Baptist Joint Committee for Religious Liberty
 
 ### Downloads
  - [⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-2.pdf).
- - [⤓ Download the 2019 NABPR, AMGP, BHHS, Joint Program Guide as a PDF](/docs/2019-Joint-Meeting-Schedule-AMGP-NABPR-BHHS.pdf)
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

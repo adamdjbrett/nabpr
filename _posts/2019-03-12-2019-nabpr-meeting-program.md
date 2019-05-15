@@ -146,12 +146,26 @@ Bill Carrell, President
 
 ## Program for 2019 Annual Meeting
 
-### Monday, May 20
+### Monday, May 20, 2019
 
-  * 3:00-6:00 Registration Check-in Location TBD
-  * 3:30-5:00 Executive Committee meeting Location TBD
-  * 6:00 Dinner: TBD Program: TBD
-
+* 8:00 AM  
+  * AMGP Board of Directors’ Meeting, Conference Room
+  * AMGP New Directors’ Workshop, Room 220
+* 9:00 AM
+  * BHHS Board of Directors’ Meeting, Room 108
+* 12:00 NN
+  * AMGP Luncheon and Committee Meetings, Conference Room and Room 220
+* 12:00 NN
+  * BHHS Board of Directors’ and Editorial Board Luncheon, Room 108
+* 1:00 PM
+  * BHHS Editorial Board Meeting, Room 108
+* 2:30 PM
+  * AMGP Board of Directors’ Meeting, Conference Room
+  * AMGP New Directors’ Workshop, Room 220
+* 3:00–6:00 PM Registration and Check-in, Lewis Lobby
+* 3:30–5:00 PM
+  * NABPR Executive Committee meeting, Room 110
+  
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 

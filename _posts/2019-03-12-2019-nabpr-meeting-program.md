@@ -181,9 +181,6 @@ President
 
 ***
 
-<span style="color: #800000;">⚑</span> **<mark>The location of the Break Area for the conference is to TBD.</mark>**
-
-***
 
 ### Tuesday, May 21, 2019
 

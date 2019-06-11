@@ -2,7 +2,7 @@
 title: 'NABPR Resolution of Gratitude'
 date: 2019-06-11T12:00:00+00:00
 author: adamdjbrett
-teaser: "On behalf of the Executive Committee of the NABPR, we would like to express our deep gratitude to Campbell University and First Baptist Church of Raleigh for their generous hospitality during our 2019 annual meeting. The facilities were perfect for our meeting, and the food was as good as any that we can remember.  We owe the tremendous success of our meeting to the preparations and efforts by the staff of the First Baptist Church and the Business Office of Campbell University.."
+teaser: "On behalf of the Executive Committee of the NABPR, we would like to express our deep gratitude to Campbell University and First Baptist Church of Raleigh for their generous hospitality during our 2019 annual meeting."
 layout: page
 permalink: /resolution-gratitude/
 image:

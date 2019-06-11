@@ -6,7 +6,7 @@ teaser: "On behalf of the Executive Committee of the NABPR, we would like to exp
 layout: page
 permalink: /resolution-gratitude/
 image:
-  title: /images/nabpr-logo-only-256x256.png
+  title: /images/NABPR-header.png
   thumb: /images/nabpr-logo-only-128x128.png
   caption: 'NABPR Logo'
 categories:

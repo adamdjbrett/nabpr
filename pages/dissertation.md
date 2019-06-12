@@ -51,6 +51,6 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 *   **2014**, Amy Chilton-Thompson, Adjunct Professor of Theology at Fuller Theological Seminary and Azusa Pacific University
 *   **2015**, Jordan Rowan Fannin, Assistant Professor in the Department of Religion and Philosophy at Berry College
 *   **2016**, No Award
-*   **2017**, [João Chaves](/announcing-dr-chaves-2018-nabpr-dissertation-fellowship/), Lecturer at the Baptist University of the Américas
+*   **2017**, [João Chaves](/joao-chaves/), Lecturer at the Baptist University of the Américas
 *   **2018**, [Kathryn H. House](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Boston University School of Theology
 *   **2018, **[Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Florida State University, Department of Religion

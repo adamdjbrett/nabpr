@@ -9,7 +9,6 @@ permalink: /joao-chaves/
 redirect_from:
   - /?p=597
   - /2017/06/09/joao-chaves/
-  - /announcing-dr-chaves-2018-nabpr-dissertation-fellowship/
 image:
   title: /wp-content/uploads/2017/06/Chaves_Joao.jpg
   thumb: /wp-content/uploads/2017/06/Chaves_Joao-150x150.jpg

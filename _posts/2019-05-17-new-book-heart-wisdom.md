@@ -7,7 +7,7 @@ layout: page
 permalink: /heart-wisdom/
 image:
   title: /images/books/jones-gaining-heart-wisdom_cvr_xxl.jpg
-  thumb: /images/thumbs/2019-ACBAS-essay-prize_tn.jpg
+  thumb: /images/thumbs/jones-gaining-heart-wisdom_cvr_xxl_tn.jpg
   caption: 'Gaining a Heart of Wisdom, Book Cover'
 categories:
   - Books of Interest

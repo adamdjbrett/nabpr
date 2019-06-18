@@ -6,7 +6,7 @@ teaser: "Congratulations to NABPR Member Barry A. Jones on the publication of Ga
 layout: page
 permalink: /heart-wisdom/
 image:
-  title: /images/books/jones-gaining-heart-wisdom_cvr_xxl.jpg
+  title: /images/books/barry-jones-header.jpg
   thumb: /images/thumbs/jones-gaining-heart-wisdom_cvr_xxl_tn.jpg
   caption: 'Gaining a Heart of Wisdom, Book Cover'
 categories:

@@ -5,9 +5,8 @@ author: adamdjbrett
 teaser: "Congratulations to NABPR Member Barry A. Jones on the publication of Gaining a Heart of Wisdom, A Model for Theological Interpretation of Scripture."
 layout: page
 permalink: /heart-wisdom/
-header:
-  image: "/images/books/jones-gaining-heart-wisdom_cvr_xxl.jpg"
-  background-color: "#fabb00"
+image:
+  title: /images/books/jones-gaining-heart-wisdom_cvr_xxl.jpg
   thumb: /images/thumbs/jones-gaining-heart-wisdom_cvr_xxl_tn.jpg
   caption: 'Gaining a Heart of Wisdom, Book Cover'
 categories:

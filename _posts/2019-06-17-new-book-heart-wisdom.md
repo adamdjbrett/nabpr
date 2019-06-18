@@ -31,7 +31,7 @@ Associate Professor of Old Testament
 Duke Divinity School</cite>
 
 >More than a recent trend in biblical and theological scholarship, theological interpretation of Scripture is nothing less than the church’s engagement with the Bible as Christian Scripture and not merely as a collection of ancient Mediterranean religious texts. But how to practice this approach to reading Scripture is a daunting challenge for ministers trained in historical-critical interpretive methodologies (as well they should be). Barry Jones provides theological students and theologically educated ministers with a helpful apprenticeship in this art—not a theoretical introduction, but an invitation to join him in the actual practice of reading a particular biblical text theologically.  
-  
+
 <cite>Steven R. Harmon  
 Associate Professor of Historical Theology  
 Gardner-Webb University School of Divinity  </cite>

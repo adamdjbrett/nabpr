@@ -5,6 +5,7 @@ author: adamdjbrett
 teaser: "Congratulations to NABPR Member Barry A. Jones on the publication of Gaining a Heart of Wisdom, A Model for Theological Interpretation of Scripture."
 layout: page
 permalink: /heart-wisdom/
+header: no
 image:
   title: /images/books/jones-gaining-heart-wisdom_cvr_xxl.jpg
   thumb: /images/thumbs/jones-gaining-heart-wisdom_cvr_xxl_tn.jpg
@@ -25,12 +26,12 @@ Announcing, _Gaining a Heart of Wisdom_ by Barry A. Jones of Professor of Old Te
 
 ## Book Reviews
 > “Pedagogical gold! Barry Jones has produced an illuminating and moving guide to theological interpretation, framed as a sustained exploration of Psalm 90, and drawing on categories developed by theologian Gabriel Fackre. Jones hoped to show his students how to appreciate both traditional and critical approaches to Scripture while also moving beyond them. He has succeeded admirably, and now I can thankfully use his book with my own students.”
-<cite>—Stephen B. Chapman
+<cite>Stephen B. Chapman
 Associate Professor of Old Testament
 Duke Divinity School</cite>
 
 >“More than a recent trend in biblical and theological scholarship, theological interpretation of Scripture is nothing less than the church’s engagement with the Bible as Christian Scripture and not merely as a collection of ancient Mediterranean religious texts. But how to practice this approach to reading Scripture is a daunting challenge for ministers trained in historical-critical interpretive methodologies (as well they should be). Barry Jones provides theological students and theologically educated ministers with a helpful apprenticeship in this art—not a theoretical introduction, but an invitation to join him in the actual practice of reading a particular biblical text theologically.”  
-<cite>—Steven R. Harmon  
+<cite>Steven R. Harmon  
 Associate Professor of Historical Theology  
 Gardner-Webb University School of Divinity  </cite>
 

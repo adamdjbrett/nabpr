@@ -26,7 +26,7 @@ show_meta: true
 [![Freedom Faith: The Womanist Vision of Prathia Hall by Courtney Pace](/wp-content/uploads/2018/10/freedom-faith-courtney-pace-202x300.jpg)](/wp-content/uploads/2018/10/freedom-faith-courtney-pace.jpg)
 
 
-Announcing, *Freedom Faith: The Womanist Vision of Prathia Hall*, a forthcoming book by NABPR member and 2013 dissertation scholarship awardee, Dr. Courtney Pace, of Memphis Theological Seminary. [The book is now available for pre-order](https://amzn.to/2JdgEs3).
+Announcing, *Freedom Faith: The Womanist Vision of Prathia Hall*, a new book by NABPR member and 2013 dissertation scholarship awardee, Dr. Courtney Pace, of Memphis Theological Seminary. [The book is now available](https://amzn.to/2JdgEs3).
 
 > I stood in the authenticity of my being: Black, preacher, Baptist, woman. For the same God who made me a preacher made me a woman, and I am convinced that God was not confused on either account.  
 <cite>~ Rev. Dr. Prathia Hall</cite>
@@ -35,5 +35,4 @@ Rev. Dr. Prathia Hall was a Baptist pastor, professor, activist, Womanist theolo
 
 Rev. Dr. Prathia Hall&#8217;s theology revolved around freedom faith, the belief that God wants all people to be free and equips those who work for freedom. This dissertation offers a thematic biography of Hall, paying particular attention to her activism in the Civil Rights Movement and her womanist preaching ministry, through the lens of freedom faith. Hall first learned of freedom faith from her father, growing up in North Philadelphia. Through her training in Fellowship House and her activism with the Student Nonviolent Coordinating Committee in Southwest Georgia and Selma, Alabama, Hall&#8217;s freedom faith matured. After the Movement, Hall returned North and pursued theological education at Princeton Theological Seminary, where her freedom faith culminated in womanist liberation theology.
 
-Courtney Pace, _Freedom Faith: The Womanist Vision of Prathia Hall Hardcover_
-(Athens: University of Georgia Press, 2019). ISBN: 9780820355061.
+Courtney Pace, _Freedom Faith: The Womanist Vision of Prathia Hall_, (Athens: University of Georgia Press, 2019). ISBN: 9780820355061.

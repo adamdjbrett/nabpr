@@ -38,10 +38,10 @@ format: post
 			<div itemprop="articleSection">
 			{{ content }}
 			</div>
-
+			{% include page-meta.html %}
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
-			{% include page-meta.html %}
+
 			{% endif %}
 
 			{% if page.comments == true %}

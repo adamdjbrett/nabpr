@@ -4,15 +4,14 @@ gem 'jekyll'
 gem 'liquid-c'
 
 group :jekyll_plugins do
+  gem "jekyll-asciidoc"
   gem 'jekyll-gist'
+  gem 'jekyll-include-cache'
+  gem 'jekyll-paginate'
+  gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
   gem 'jekyll-typogrify'
-  gem 'jekyll-figure'
-  gem 'jekyll-tagging-related_posts'
-  gem 'jekyll-include-cache'
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
+
 end
 
 gem 'asciidoctor', '~> 1.5.4'

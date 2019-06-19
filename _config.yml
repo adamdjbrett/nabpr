@@ -32,8 +32,11 @@ logo: "logo.png"
 plugins:
     - jekyll-asciidoc
     - jekyll-gist
+    - jekyll-include-cache
     - jekyll-paginate
+    - jekyll-redirect-from
     - jekyll-seo-tag
+    - jekyll-typogrify
 
 # Pagination
 paginate: 5                      # Paginates all X entries

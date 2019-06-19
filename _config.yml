@@ -33,6 +33,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-seo-tag
 
 # Pagination
 paginate: 5                      # Paginates all X entries

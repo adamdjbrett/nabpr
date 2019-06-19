@@ -5,8 +5,6 @@ gem 'liquid-c'
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
-  gem 'jekyll-feed'
-  gem 'jemoji'
   gem 'jekyll-seo-tag'
   gem 'jekyll-typogrify'
   gem 'jekyll-figure'

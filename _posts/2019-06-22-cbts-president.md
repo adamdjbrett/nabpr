@@ -16,7 +16,7 @@ image:
     - president
     - Central Baptist Theological Seminary
     - CBTS
-  show_meta: true
+show_meta: true
 ---
 
 ## Summary

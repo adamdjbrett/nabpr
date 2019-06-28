@@ -1,6 +1,7 @@
 ---
 id: 1264
-title: 'New Book: Freedom Faith: The Womanist Vision of Prathia Hall'
+subheadline: "New Book"
+title: 'Freedom Faith: The Womanist Vision of Prathia Hall'
 date: 2018-10-25T11:11:23+00:00
 modified: 2019-06-18T21:00+00:00
 author: adamdjbrett

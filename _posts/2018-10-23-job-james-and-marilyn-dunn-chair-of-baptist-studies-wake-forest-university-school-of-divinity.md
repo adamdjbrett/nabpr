@@ -1,5 +1,6 @@
 ---
 id: 1261
+subheadline: "Job"
 title: 'Job: James and Marilyn Dunn Chair of Baptist Studies, Wake Forest University School of Divinity'
 date: 2018-10-23T15:39:54+00:00
 author: adamdjbrett

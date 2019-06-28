@@ -1,5 +1,6 @@
 ---
 id: 1126
+subheadline: "Dissertation"
 title: 'Congratulations to Dissertation Scholarship Awardees Kathryn House &#038; Andrew Gardner'
 date: 2018-06-06T14:18:50+00:00
 author: adamdjbrett

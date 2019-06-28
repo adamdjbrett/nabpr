@@ -1,5 +1,6 @@
 ---
 id: 1223
+subheadline: "Dissertation"
 title: 2019 Dissertation Scholarship Announcement
 date: 2018-10-09T18:47:56+00:00
 author: adamdjbrett

@@ -1,5 +1,6 @@
 ---
 id: 1668
+subheadline: "Job"
 title: 'Carson-Newman University &#8211; Assistant Professor of Religion'
 date: 2019-02-11T15:44:38+00:00
 author: adamdjbrett

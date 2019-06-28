@@ -1,5 +1,6 @@
 ---
 id: 1350
+subheadline: "CFP"
 title: 'CFP: Incarnation and Identity'
 date: 2018-11-29T10:26:43+00:00
 author: adamdjbrett

@@ -1,5 +1,6 @@
 ---
 id: 1273
+subheadline: "Resource"
 title: New Report on the State of Clergywomen in the U.S. is now available 
 date: 2018-10-25T10:47:13+00:00
 author: adamdjbrett

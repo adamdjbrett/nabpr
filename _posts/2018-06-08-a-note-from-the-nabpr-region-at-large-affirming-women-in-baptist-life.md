@@ -1,6 +1,7 @@
 ---
 id: 1136
-title: A Note from the NABPR Region-at-Large affirming women in Baptist Life
+subheadline: "Announcements"
+title: 'A Note from the NABPR Region-at-Large affirming women in Baptist Life'
 date: 2018-06-08T14:27:08+00:00
 author: adamdjbrett
 teaser: |

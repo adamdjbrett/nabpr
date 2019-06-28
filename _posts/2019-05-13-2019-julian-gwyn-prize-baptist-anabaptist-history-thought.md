@@ -1,4 +1,5 @@
 ---
+subheadline: "CFP"
 title: 'The Julian Gwyn Essay Prize in Baptist and Anabaptist History and Thought'
 date: 2019-05-13T12:00:00+00:00
 author: adamdjbrett

@@ -1,5 +1,6 @@
 ---
 id: 1740
+subheadline: "Announcements"
 title: Crescent Hill Baptist Church lecture series
 date: 2019-03-01T18:25:38+00:00
 author: adamdjbrett

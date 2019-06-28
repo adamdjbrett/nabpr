@@ -1,6 +1,7 @@
 ---
 id: 1143
-title: Announcing The Publication of The Sub Loco Notes in the Torah
+subheadline: "New Book"
+title: 'Announcing The Publication of The Sub Loco Notes in the Torah'
 date: 2018-06-18T15:32:28+00:00
 author: adamdjbrett
 teaser: |

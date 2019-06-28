@@ -1,5 +1,6 @@
 ---
 id: 1348
+subheadline: "CFP"
 title: American Baptist Quarterly, Call for Papers
 date: 2018-11-28T15:39:34+00:00
 author: adamdjbrett

@@ -1,5 +1,6 @@
 ---
 id: 1381
+subheadline: "CFP"
 title: The Julian Gwyn Essay Prize in Baptist and Anabaptist History and Thought
 date: 2018-12-11T12:27:43+00:00
 author: adamdjbrett

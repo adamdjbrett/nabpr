@@ -1,5 +1,6 @@
 ---
 id: 389
+subheadline: "Dissertation"
 title: Dissertation Scholarship Annoucement
 date: 2016-10-03T15:28:56+00:00
 author: adamdjbrett

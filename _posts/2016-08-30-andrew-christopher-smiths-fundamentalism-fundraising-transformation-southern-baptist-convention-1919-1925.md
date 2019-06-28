@@ -1,5 +1,6 @@
 ---
 id: 352
+subheadline: "New Book"
 title: Fundamentalism, Fundraising, and the Transformation of the Southern Baptist Convention.
 date: 2016-08-30T13:25:15+00:00
 author: adamdjbrett

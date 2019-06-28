@@ -1,5 +1,6 @@
 ---
 id: 782
+subheadline: "New Book"
 title: 'Blessed Among Women?  Mothers and Motherhood in the New Testament'
 date: 2017-12-04T16:41:12+00:00
 author: adamdjbrett

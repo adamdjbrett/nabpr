@@ -1,5 +1,6 @@
 ---
 id: 349
+subheadline: "New Book"
 title: 'Eileen Campbell-Reed&#8217;s Anatomy of a Schism'
 date: 2016-08-30T10:17:07+00:00
 author: adamdjbrett

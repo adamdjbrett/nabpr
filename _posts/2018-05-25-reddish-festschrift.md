@@ -1,5 +1,6 @@
 ---
 id: 1093
+subheadline: "Festschrift"
 title: "Mitchell G. Reddish Festschrift"
 date: 2018-05-25T13:37:04+00:00
 author: adamdjbrett

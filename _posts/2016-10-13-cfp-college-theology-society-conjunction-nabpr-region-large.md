@@ -1,5 +1,6 @@
 ---
 id: 395
+subheadline: "CFP"
 title: 'CFP: College Theology Society, in conjunction with NABPR Region at Large'
 date: 2016-10-13T10:33:39+00:00
 author: adamdjbrett

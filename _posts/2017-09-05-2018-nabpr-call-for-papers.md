@@ -1,5 +1,6 @@
 ---
 id: 726
+subheadline: "CFP"
 title: 2018 NABPR Call for Papers
 date: 2017-09-05T18:20:15+00:00
 author: adamdjbrett

@@ -1,6 +1,7 @@
 ---
 id: 1106
-title: "New Book: Inhabiting the World"
+subheadline: "New Book"
+title: "Inhabiting the World"
 date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett
 teaser: "Ryan Andrew Newson, Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective, Perspectives on Baptist Identities (Macon: Mercer University Press, 2018) ISBN: 9780881466492."

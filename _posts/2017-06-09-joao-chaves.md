@@ -1,5 +1,6 @@
 ---
 id: 597
+subheadline: "Dissertation"
 title: 'Announcing Dissertation Scholarship Awardee: João Chaves'
 date: 2017-06-09T16:41:31+00:00
 author: adamdjbrett

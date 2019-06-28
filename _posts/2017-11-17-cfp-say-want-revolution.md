@@ -1,5 +1,6 @@
 ---
 id: 776
+subheadline: "CFP"
 title: 'CFP: You say you want a revolution'
 date: 2017-11-17T10:44:50+00:00
 author: adamdjbrett

@@ -1,5 +1,6 @@
 ---
 id: 262
+subheadline: "CFP"
 title: 'CFP: World Without End'
 date: 2016-08-26T20:48:02+00:00
 author: adamdjbrett

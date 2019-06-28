@@ -1,5 +1,6 @@
 ---
 id: 1100
+subheadline: "Program"
 title: College Theological Society and NABPR Region at Large Program
 date: 2018-05-31T10:59:35+00:00
 author: adamdjbrett

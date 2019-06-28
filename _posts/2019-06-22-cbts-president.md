@@ -1,5 +1,6 @@
 ---
-title: 'Job: President Central Baptist Theological Seminary'
+subheadline: Job
+title: 'President Central Baptist Theological Seminary'
 date: 2019-06-22T12:00:00+00:00
 author: adamdjbrett
 teaser: "Central Baptist Theological Seminary invites applications and nominations from inspired, dynamic, Christian leaders for the position of President."

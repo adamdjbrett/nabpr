@@ -1,5 +1,6 @@
 ---
-title: 'New Book: Gaining a Heart of Wisdom'
+subheadline: 'New Book'
+title: 'Gaining a Heart of Wisdom'
 date: 2019-06-17T12:00:00+00:00
 author: adamdjbrett
 teaser: "Congratulations to NABPR Member Barry A. Jones on the publication of Gaining a Heart of Wisdom, A Model for Theological Interpretation of Scripture."

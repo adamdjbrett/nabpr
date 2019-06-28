@@ -1,5 +1,5 @@
 ---
-layout: page
+subheadline: "Dissertation"
 title: "Congratulations to Dissertation Scholarship Awardees Kate Hanch and Elizabeth Arnold"
 teaser: "About Elizabeth Arnold and Kate Hanch"
 header: no

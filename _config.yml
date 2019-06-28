@@ -90,6 +90,7 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      layout: 'page'
       comments: false
       author: NABPR     # Default author for posts
 defaults:

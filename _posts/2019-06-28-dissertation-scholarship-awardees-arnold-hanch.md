@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Congratulations to Dissertation Scholarship Awardees Kate Hanch and Elizabeth Arnold"
-subheadline: "At the Annual Meeting on May 21, 2019 NABPR awarded two dissertation scholarships."
 teaser: "About Elizabeth Arnold and Kate Hanch"
 header: no
 permalink: '/dissertation-scholarship-awardees-arnold-hanch/'

@@ -12,7 +12,7 @@ tags:
   - Christianity
   - Interfaith-Relations
 image:
-  header: "/images/books/truth-over-fear-charles-kimball.jpg"
+  title: "/images/books/truth-over-fear-charles-kimball.jpg"
   thumb: "/images/thumbs/truth-over-fear-charles-kimball_tn.jpg"
   homepage: "wjkbooks.com"
   caption: "Truth over Fear: Combating the Lies about Islam"

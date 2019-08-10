@@ -1,5 +1,6 @@
 ---
 layout: page
+date: 2019-08-10T12:00:00+00:00
 subheadline: "New Book"
 title: "Charles Kimball to Speak at the November Meeting"
 teaser: "New book by Charles Kimball"

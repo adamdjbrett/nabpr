@@ -8,9 +8,9 @@ title: ""
 teaser: ""
 meta_description: ""
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 #
 # Styling
 #
@@ -19,7 +19,7 @@ image:
   thumb: ""
   homepage: ""
   caption: ""
-  url: ""
+  caption_url: ""
 ---
 
 

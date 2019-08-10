@@ -16,6 +16,7 @@ image:
   homepage: "wjkbooks.com"
   caption: "Truth over Fear: Combating the Lies about Islam"
   url: "https://www.wjkbooks.com/Products/066426462X/truth-over-fear.aspx"
+show_meta: true  
 ---
 Greetings NABPR:
 

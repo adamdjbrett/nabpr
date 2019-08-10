@@ -1,5 +1,6 @@
 ---
 layout: page
+date: 2019-06-28T12:00:00+00:00
 subheadline: "Dissertation"
 title: "Congratulations to Dissertation Scholarship Awardees Kate Hanch and Elizabeth Arnold"
 teaser: "At the Annual Meeting on May 21, 2019 NABPR awarded two dissertation scholarships"

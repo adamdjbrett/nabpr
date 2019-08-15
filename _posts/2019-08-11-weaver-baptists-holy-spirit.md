@@ -22,6 +22,10 @@ show_meta: true
 published: false
 ---
 
+Baptists possess a rich history when it comes to their interaction with the Holy Spirit, and Doug Weaver guides us through it in *Baptists and the Holy Spirit - The Contested History with Holiness-Pentecostal-Charismatic Movements.*
+
+Order with code: `17FALL19` for 20% off and free shipping. [Baylor Press](https://baylorpr.es/BaptandSpirit)
+<!--more-->
 Book Description via [Baylor Press](https://www.baylorpress.com/9781481310062/baptists-and-the-holy-spirit/):
 > The record is clear that Baptists, historically, have prioritized conversion, Jesus, and God. Equally clear is that Baptists have never known what to do with the Holy Spirit.
 >

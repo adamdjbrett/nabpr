@@ -19,7 +19,6 @@ image:
   caption: "Baptists and the Holy Spirit: The Contested History with Holiness-Pentecostal-Charismatic Movements, book cover."
   caption_url: "https://www.baylorpress.com/9781481310062/baptists-and-the-holy-spirit/"
 show_meta: true
-published: true
 ---
 
 Baptists possess a rich history when it comes to their interaction with the Holy Spirit, and Doug Weaver guides us through it in *Baptists and the Holy Spirit - The Contested History with Holiness-Pentecostal-Charismatic Movements.*

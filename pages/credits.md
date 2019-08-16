@@ -38,7 +38,7 @@ visit [contact](/contact/) for more detailed contact information
  - [adamdjbrett.com](https://adamdjbrett.com)
  - [contact](https://adamdj.tel)
  - [github](https://github.com/adamdjbrett)
- - [twitter](https://twitter.com/adjbx)
+ - [twitter](https://twitter.com/__adjb)
  - [quotidian.pub](https://quotidian.pub)
 
 ### Copyright

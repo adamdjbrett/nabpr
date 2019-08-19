@@ -18,7 +18,7 @@ image:
   caption: "Christianity: A Brief History, book cover."
   caption_url: "https://wipfandstock.com/christianity-a-brief-history.html"
 show_meta: true
-published: false
+published: true
 ---
 NABPR member Michael (Mike) Robinson, Professor of Christian Studies at University of Mary Hardin-Baylor has published a new book entitled: *Christianity: A Brief History*. This book is designed to serve as a survey text for undergraduate and seminary courses on Christian history.
 

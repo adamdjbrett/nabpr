@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 2019-09-03T12:00:00+00:00
-subheadline: "Scholarship"
+subheadline: "Dissertation Scholarship"
 title: "2020 Dissertation Scholarship Announcement"
 teaser: "NABPR is proud to announce the 2020 Dissertation Scholarship."
 meta_description: "NABPR is proud to announce the 2020 Dissertation Scholarship."

@@ -11,10 +11,9 @@ tags:
   - Baptists
   - Christianity
   - Dissertation
-image:
-  title: "/images/cup-of-coffee-1280537-min3.jpg"
+header:
+  image_fullwidth: "/images/cup-of-coffee-1280537-min3.jpg"
   thumb: "/images/thumbs/cup-of-coffee-1280537-min3_tn.jpg"
-  homepage: "nabpr.org"
   caption: "coffee cup and laptop on a desk."
 show_meta: true
 published: true

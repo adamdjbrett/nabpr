@@ -32,10 +32,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
- callforaction:
-    url: /dissertation/
-    text: Apply for the Dissertation Scholarship ›
-    style: alert
+callforaction:
+  url: /dissertation/
+  text: Apply for the Dissertation Scholarship ›
+  style: alert
+
 permalink: /index.html
 redirect_from: /home/
 #

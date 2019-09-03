@@ -39,8 +39,9 @@ format: post
 			{{ content }}
 			</div>
 			{% include share-buttons.html %}<br />
-			{% include page-meta.html %}
+
 			{% if page.show_meta == true %}
+			{% include page-meta.html %}
 			{% include _meta_information.html %}
 
 			{% endif %}

@@ -19,6 +19,8 @@ image:
   caption: "coffee cup and laptop on a desk."
 show_meta: true
 published: true
+permalink: /2020-dissertation-scholarship-annoucement/
+redirect_from: /2019-09-03-2020-dissertation-scholarship-annoucement/
 ---
 The NABPR is committed to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity.  The particular purpose of the [NABPR dissertation scholarship](/dissertation/) is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.
 

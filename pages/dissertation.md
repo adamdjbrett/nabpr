@@ -2,6 +2,7 @@
 id: 71
 title: Dissertation Scholarship
 date: 2016-05-20T19:16:58+00:00
+modified: 2019-09-03T21:00+00:00
 author: adamdjbrett
 teaser: |
 layout: page

@@ -11,11 +11,11 @@ tags:
   - Baptists
   - Christianity
   - Dissertation
-header:
-  homepage: "/images/cup-of-coffee-1280537-min3.jpg"
+image:
   image_fullwidth: "/images/cup-of-coffee-1280537-min3.jpg"
   thumb: "/images/thumbs/cup-of-coffee-1280537-min3_tn.jpg"
-  caption: "coffee cup and laptop on a desk."
+  homepage: "/images/cup-of-coffee-1280537-min3.jpg"
+ caption: "coffee cup and laptop on a desk."
 show_meta: true
 published: true
 ---

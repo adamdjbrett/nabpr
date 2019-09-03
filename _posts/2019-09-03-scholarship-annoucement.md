@@ -1,20 +1,20 @@
 ---
 layout: page
-date: 2019-08-15T12:00:00+00:00
-subheadline: "New Book"
-title: "New Book by Mike Robinson on Christianity"
-teaser: "Christianity: A Brief History by Michael Robinson"
-meta_description: "new book by Mike Robinson"
+date: 2019-09-03T12:00:00+00:00
+subheadline: "Scholarship"
+title: "2020 Dissertation Scholarship Announcement"
+teaser: "NABPR is proud to announce the 2020 Dissertation Scholarship."
+meta_description: "nNABPR is proud to announce the 2020 Dissertation Scholarship."
 categories:
-  - Books of Interest
+  - Scholarship
 tags:
   - Baptists
   - Christianity
-  - History
+  - Dissertation
 image:
   title: "/images/books/robinson-christianity-brief-history.jpg"
   thumb: "/images/thumbs/robinson-christianity-brief-history_tn.jpg"
-  homepage: "wipfandstock.com"
+  homepage: "baylorpress.com"
   caption: "Christianity: A Brief History, book cover."
   caption_url: "https://wipfandstock.com/christianity-a-brief-history.html"
 show_meta: true

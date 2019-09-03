@@ -53,4 +53,6 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 *   **2016**, No Award
 *   **2017**, [João Chaves](/joao-chaves/), Lecturer at the Baptist University of the Américas
 *   **2018**, [Kathryn H. House](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Boston University School of Theology
-*   **2018, **[Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Florida State University, Department of Religion
+*   **2018**, [Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Florida State University, Department of Religion
+* **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), Garrett-Evangelical Theological Seminary
+* **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University

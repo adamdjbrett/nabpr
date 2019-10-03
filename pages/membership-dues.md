@@ -17,12 +17,12 @@ NABPR c/o Religion Department Baylor University One Bear Place #97294 Waco, TX 7
 
 Please include your member number (check the mailing label of your most recent newsletter or issue of the journal) on your check. Please include any change of address with your correspondence.
 
-The official dues schedule for NABPR is below. It was adopted at the 1992 Annual Meeting, when faculty rarely earned above $50,000 per year. Now, it looks outdated. The principle that the schedule is based on is .1% of your salary, in $5000 increments.Hence, a salary of $30,000 results in dues of $30, $35,000 results in $35, and so on (salary x .001 = dues). The drop down menu at the bottom of this page is based on the same principle, but it extends the .1% principle well beyond $50,000.Please find the amount that most closely matches your base salary, and use that amount to pay your dues. If your salary is between two amounts on the list, for example $67,000, which amount should you use:$65 or $70? My opinion is that you should choose the amount you are most comfortable with.I am happy that you are choosing to include NABPR in your annual contributions, so a $5 difference is a negligible concern from my perspective! Remember that your dues are established by your base salary, and base salary is defined as salary derived from teaching and administrative work, excluding overload pay, summer pay, etc._Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. I sincerely appreciate your willingness to join and renew membership to our organization._
+The official dues schedule for NABPR is below. In 1992 an income based dues structure was adopted and this model had been used and updated throughout the years until a change was requested, after much deliberation and voting upon the dues structure at the May 2019 meeting the new revised flat rate dues structure passed and has been implemented as of October 3, 2019. Hopefully this clarified dues structure will be easier for everyone to use. _Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. I sincerely appreciate your willingness to join and renew membership to our organization._
 
 Daniel Mynatt
 
-Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
-Colons can be used to align columns.
+Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)  
+
 
 | Position      | Dues         |
 | ------------- |-------------:|

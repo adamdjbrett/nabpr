@@ -32,9 +32,10 @@ Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
 
 ***
 
-#### Pay NABPR Membership Dues Online via PayPal
-##### All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify.
+#### Pay NABPR Membership Dues Online via PayPal  
 
+##### All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify.  
+  
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="X7EF9EHMAXFC2">

@@ -22,62 +22,13 @@ The official dues schedule for NABPR is below. It was adopted at the 1992 Annual
 Daniel Mynatt
 
 Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
+Colons can be used to align columns.
 
-<div>
-<table border="1" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td width="208">
-<p>base salary</p>
-</td>
-<td width="216">
-<p>dues</p>
-</td>
-</tr>
-<tr>
-<td width="208">up to $20,000</td>
-<td width="216">$20</td>
-</tr>
-<tr>
-<td width="208">up to $25,000</td>
-<td width="216">$25</td>
-</tr>
-<tr>
-<td width="208">up to $30,000</td>
-<td width="216">$30</td>
-</tr>
-<tr>
-<td width="208">up to $35,000</td>
-<td width="216">$35</td>
-</tr>
-<tr>
-<td width="208">up to $40,000</td>
-<td width="216">$40</td>
-</tr>
-<tr>
-<td width="208">up to $45,000</td>
-<td width="216">$45</td>
-</tr>
-<tr>
-<td width="208">up to $50,000</td>
-<td width="216">$50</td>
-</tr>
-<tr>
-<td width="208">over $50,000</td>
-<td width="216">$50 + .1% over $50,000</td>
-</tr>
-<tr>
-<td width="208">retired member or retired assoc. member</td>
-<td width="216">$20</td>
-</tr>
-<tr>
-<td width="208">student member</td>
-<td width="216">$20</td>
-</tr>
-</tbody>
-</table>
-</div>
-_Note_: **"Base salary"** refers to annual contractual amount for teaching and/or administrative work _excluding_ summer school or overload courses taught.
+| Position      | Dues         |
+| ------------- |-------------:|
+| Full time (teaching, administration or any combination)      | $75          |
+| Retired      | $50          |
+| Student or Contingent Faculty | $25          |
 
 ***
 

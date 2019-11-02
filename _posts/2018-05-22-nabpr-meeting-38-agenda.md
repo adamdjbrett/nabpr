@@ -38,9 +38,9 @@ Boiling Springs, NC
 
 11:55 _Welcome from the Executive Secretary_. Daniel Mynatt
 
-12:00 _Recognition of the Outgoing Senior Editor, PRSt_.. Doug Weaver
+12:00 _Recognition of the Outgoing Senior Editor, PRSt_. Doug Weaver
 
-12:05 _Introduction of the Dissertation Scholarship Award_ . Doug Weaver
+12:05 _Introduction of the Dissertation Scholarship Award_. Doug Weaver
 
 12:10 _Recognition of Previous Dissertation Scholarship Award Recipients_. Daniel Mynatt
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-date: 2019-09-03T12:00:00+00:00
+date: 2019-11-02T12:00:00+00:00
 subheadline: "Call for Papers"
 title: "CFP: Human Families: Identities, Relationships, and Responsibilities"
 teaser: "The College Theology Society holds its Sixty-Sixth Annual Convention from May 28-May 31, 2020, at Spring Hill College, with a focus on the theme “Human Families: Identities, Relationships, and Responsibilities.” The NABPR Region-at-Large CFP applies only to the NABPR-RAL sessions at CTS."

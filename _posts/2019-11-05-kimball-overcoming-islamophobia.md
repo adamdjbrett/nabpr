@@ -13,7 +13,7 @@ tags:
   - Islamophobia
   - AAR
   - SBL
-header: yes
+
 image:
   title: "/images/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
   thumb: "/images/thumbs/lucas-davies-uxIU0kYGu-k-unsplash_tn.jpg"
@@ -23,7 +23,7 @@ show_meta: true
 published: true
 ---
 
-## The National Association of Baptist Professors of Religion 
+## The National Association of Baptist Professors of Religion
 ## November Meeting Program
 ### 22 NOVEMBER 2019, 9:00-11:30 AM
 San Diego, California

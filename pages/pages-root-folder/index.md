@@ -13,10 +13,10 @@ widget1:
   image: /images/news-1074604-302x182.jpg
   text: 'Keep up to date with NABPR.'
 widget2:
-  title: "Annual Meeting"
-  url: '/2019-nabpr-meeting-program/'
-  text: 'The Annual Meeting of the National Association of Baptist Professors of Religion will take place from May 20-22, 2019 at the First Baptist Church of Raleigh, NC.'
-  image: /images/fbcraleigh-edenton-street-entrance1-full-302x182.jpg
+  title: "November Meeting"
+  url: '/kimball-overcoming-islamophobia/'
+  text: 'The November Meeting of the National Association of Baptist Professors of Religion will take place from during the American Academy of Religion Annual Meeting in San Diego.'
+  image: /images/lucas-davies-uxIU0kYGu-k-unsplash-302x182.jpg
 widget3:
   title: "Renew Your Membership"
   url: '/membership/membership-dues/'

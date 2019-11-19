@@ -17,7 +17,7 @@ image:
   homepage: "/images/NABPRSE-institutions-crisis.png"
   caption: "Flyer for the Institutions In Crisis panel"
 show_meta: true
-published: false
+published: true
 ---
 The NABPR Southeast Region will meet in conjunction with SECSOR February 28, 2020 in Athens, GA at the University of Georgia Miller Learning Center from 6:00PM – 7:45PM.
 

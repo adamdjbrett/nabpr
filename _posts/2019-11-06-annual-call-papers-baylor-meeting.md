@@ -21,7 +21,7 @@ image:
   caption: "Baylor University June 2016 22 (Tidwell Bible Building).jpg. From Wikimedia Commons, the free media repository"
   caption_url: "https://commons.wikimedia.org/wiki/File:Baylor_University_June_2016_22_(Tidwell_Bible_Building).jpg"
 show_meta: true
-published: false
+published: true
 ---
 
 ## The National Association of Baptist Professors of Religion

@@ -23,7 +23,6 @@ The NABPR Southeast Region will meet in conjunction with SECSOR February 28, 202
 
 ## Institutions in Crisis
 The theme of the plenary panel will be Institutions in Crisis and feature the following panelists:
-Panelists:
   - Andrew Gardner, Florida State University
   - David Gushee, Mercer University
   - Andrew Smith, Carson-Newman University

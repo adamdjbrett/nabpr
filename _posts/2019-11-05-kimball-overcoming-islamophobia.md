@@ -13,7 +13,6 @@ tags:
   - Islamophobia
   - AAR
   - SBL
-
 image:
   title: "/images/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
   thumb: "/images/thumbs/lucas-davies-uxIU0kYGu-k-unsplash_tn.jpg"
@@ -25,7 +24,7 @@ published: true
 
 ## The National Association of Baptist Professors of Religion
 ## November Meeting Program
-### 22 NOVEMBER 2019, 9:00-11:30 AM
+### Saturday, 23 NOVEMBER 2019, 9:00-11:30 AM
 San Diego, California
 Marriott Marquis San Diego Marina, Torrey Pines 3
 
@@ -37,8 +36,8 @@ Marriott Marquis San Diego Marina, Torrey Pines 3
 **"You Get what You Get: The Inheritance of Higher Education and Its Implications for Pedagogy”**
 
 - 10:05 Responses from the Association Moderated by Barry Jones
-- 10:20 Introduction of Keynote Address 		           Helen Lee Turner, Furman University
-- 10:25 Keynote Address 							         Charles Kimball, Presidential Professor and Chair of Religious Studies, University of Oklahoma
+- 10:20 Introduction of Keynote Address - Helen Lee Turner, Furman University
+- 10:25 Keynote Address - Charles Kimball, Presidential Professor and Chair of Religious Studies, University of Oklahoma
 
 **“Truth over Fear: Overcoming Islamophobia through Education, Dialogue, and Cooperation”**
 

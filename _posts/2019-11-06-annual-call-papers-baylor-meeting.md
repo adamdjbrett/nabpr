@@ -1,6 +1,6 @@
 ---
 layout: page
-date: 2019-11-06T00:45:00+00:00
+date: 2019-11-27T00:00:15+00:00
 subheadline: "Call for Papers"
 title: "2020 NABPR Annual Meeting CFP"
 teaser: "The Call for Papers for the National Association of Baptist Professors of Religion, Annual Meeting, at Baylor University, in Waco, TX, from May 18 – 20, 2020."

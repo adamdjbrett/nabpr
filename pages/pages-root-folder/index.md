@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: /images/cup-of-coffee-1280537-min3.jpg
+  image_fullwidth: /images/cup-of-coffee-1280537-min4.jpg
 widget1:
   title: "Blog & News"
   url: '/blog/'

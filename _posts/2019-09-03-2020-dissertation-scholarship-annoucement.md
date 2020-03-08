@@ -13,9 +13,9 @@ tags:
   - Dissertation
 header: no
 image:
-  title: "/images/cup-of-coffee-1280537-min3.jpg"
+  title: "/images/cup-of-coffee-1280537-min4.jpg"
   thumb: "/images/thumbs/cup-of-coffee-1280537-min3_tn.jpg"
-  homepage: "/images/cup-of-coffee-1280537-min3.jpg"
+  homepage: "/images/cup-of-coffee-1280537-min4.jpg"
   caption: "coffee cup and laptop on a desk."
 show_meta: true
 published: true

@@ -14,7 +14,7 @@ tags:
 image:
   title: "/images/NABPRSE-institutions-crisis.png"
   thumb: "/images/thumbs/NABPRSE-institutions-crisis_tn.png"
-  homepage: "/images/NABPRSE-institutions-crisis.png"
+  homepage: "/images/NABPRSE-institutions-crisis_tn.jpg"
   caption: "Flyer for the Institutions In Crisis panel"
 show_meta: true
 published: true

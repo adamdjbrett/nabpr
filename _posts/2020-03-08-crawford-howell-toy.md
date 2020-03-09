@@ -14,7 +14,7 @@ tags:
   - History
 image:
   header: "/images/books/Crawford-Howell-Toy_tn.jpg"
-  thumb: "/images/thumb/Crawford-Howell-Toy_tn.jpg"
+  thumb: "/images/thumbs/Crawford-Howell-Toy_tn.jpg"
   homepage: ""
   caption: "Crawford Howell Toy: the man, the scholar, the teacher, book cover"
   caption_url: "http://mupress.org"

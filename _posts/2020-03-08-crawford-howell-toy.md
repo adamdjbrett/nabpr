@@ -20,7 +20,7 @@ image:
   caption_url: "http://mupress.org"
 show_meta: true
 published: true
-permalink: /sources-light/
+permalink: /crawford-howell-toy/
 ---
 The [NABPR](/) [*Perspectives on Baptist Identities*](/publications/) is proud to present *Crawford Howell Toy: The Man, the Scholar, the Teacher* by Mikeal C. Parsons. Mikeal C. Parsons is professor and Macon Chair in Religion at Baylor University where he has taught since 1986. Parsons has published two dozen books, including with Elizabeth Struthers Malbon and Paul N. Anderson. _Anatomies of the Gospels and Beyond_. Brill, 2018 and with Richard Walsh, eds. _A Temple Not Made with Hands: Essays in Honor of Naymond H. Keathley_. Wipf & Stock, 2018.
 

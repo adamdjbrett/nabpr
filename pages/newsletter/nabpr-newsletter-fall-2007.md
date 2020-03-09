@@ -9,7 +9,7 @@ permalink: /newsletter/nabpr-newsletter-fall-2007/
 redirect_from: /?page_id=192
 breadcrumb: true
 ---
-## From the Executive Secretary, Danny Mynatt, Anderson University</span>
+## From the Executive Secretary, Danny Mynatt, Anderson University
 
 As you know, we have scheduled our 2008 Annual Meeting at Belmont University, May 18 – 20, 2008. The separation of AAR and SBL was the factor which influenced the new Annual Meeting format, but I am excited that we will have more time to engage in discussion and fellowship. The Call for Papers was distributed by email in early October, but it is also included with this newsletter. I encourage you to participate, either by attending or presenting. If you have an idea that you always wanted to develop in an academic setting, this is your opportunity. Proposals from all topics related to Religion are welcome. Also, graduate students are welcome and encouraged to present. If you have questions about the Annual Meeting program, please let me know. You will receive information about accommodations from me later in the year. I have asked Darrell Gwaltney, Dean of the School of Religion at Belmont, to address this year’s Annual Meeting as a way of introducing the new meeting format and answering any questions. I hope to see you there.
 

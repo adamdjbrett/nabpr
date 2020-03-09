@@ -7,8 +7,8 @@ teaser: "Thank you Campbell University and First Baptist Church of Raleigh."
 layout: page
 permalink: /resolution-gratitude/
 image:
-  title: /images/NABPR-header.png
-  thumb: /images/nabpr-logo-only-128x128.png
+  title: /images/logos/NABPR-header.png
+  thumb: /images/logos/nabpr-logo-only-128x128.png
   caption: 'NABPR Logo'
 categories:
   - General

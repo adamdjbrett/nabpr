@@ -7,7 +7,7 @@ teaser: "Central Baptist Theological Seminary invites applications and nominatio
 layout: page
 permalink: /cbts-president/
 image:
-  title: /images/central-baptist-theological-seminary-kansas.jpg
+  title: /images/schools/central-baptist-theological-seminary-kansas.jpg
   thumb: /images/thumbs/central-baptist-theological-seminary-kansas_tn.jpg
   caption: 'Central Baptist Theological Seminary'
   categories:

@@ -14,9 +14,9 @@ tags:
   - AAR
   - SBL
 image:
-  title: "/images/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
+  title: "/images/unsplash/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
   thumb: "/images/thumbs/lucas-davies-uxIU0kYGu-k-unsplash_tn.jpg"
-  homepage: "/images/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
+  homepage: "/images/unsplash/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
   caption: "San Diego Photo by Lucas Davies on Unsplash"
 show_meta: true
 published: true

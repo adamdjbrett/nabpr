@@ -15,7 +15,7 @@ tags:
 image:
   title: "/images/books/doug-weaver-baptists-holy-spirit-9781481310062.jpg"
   thumb: "/images/thumbs/doug-weaver-baptists-holy-spirit-9781481310062_tn.jpg"
-  homepage: "baylorpress.com"
+  homepage: "/images/books/doug-weaver-baptists-holy-spirit-9781481310062.jpg"
   caption: "Baptists and the Holy Spirit: The Contested History with Holiness-Pentecostal-Charismatic Movements, book cover."
   caption_url: "https://www.baylorpress.com/9781481310062/baptists-and-the-holy-spirit/"
 show_meta: true

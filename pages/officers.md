@@ -9,10 +9,10 @@ permalink: /officers/
 redirect_from: /?page_id=86
 breadcrumb: true
 ---
-## Officers 2018-2019
+## Officers 2019-2020 
 
-  * PRESIDENT: [Steven R. Harmon](http://www.gardner-webb.edu/academic-programs-and-resources/colleges-and-schools/divinity/about/faculty-and-staff/steven-harmon/index), Gardner-Webb University School of Divinity, (<sharmon@gardner-webb.edu>)
-  * VICE-PRESIDENT: [Christine Jones](https://www.cn.edu/directory?person=280), Carson Newman University, (<cjones@cn.edu>)
+  * PRESIDENT: [Christine Jones](https://www.cn.edu/directory?person=280), Carson Newman University, (<cjones@cn.edu>)
+  * VICE-PRESIDENT: [Barry Jones](https://directory.campbell.edu/people/barry-a-jones/), Campbell University, (<jonesb@campbell.edu>)
   * EXECUTIVE SECRETARY-TREASURER: [Danny Mynatt](http://hr.umhb.edu/profile/Mynatt/Daniel), University of Mary Hardin-Baylor (<dmynatt@umhb.edu>)
   * ASSISTANT EXECUTIVE SECRETARY, SOCIAL MEDIA COORDINATOR AND WEB ADMINISTRATOR: [Adam DJ Brett](http://adamdjbrett.com), Syracuse University (<adam@adamdjbrett.com>)
   * SENIOR EDITOR, [Perspectives in Religious Studies](http://baylor.edu/prs): [Mikeal Parsons](http://www.baylor.edu/religion/index.php?id=931782), Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 (<mike_parsons@baylor.edu>)

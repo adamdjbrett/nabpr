@@ -14,7 +14,7 @@ tags:
 image:
   title: "/images/books/robinson-christianity-brief-history.jpg"
   thumb: "/images/thumbs/robinson-christianity-brief-history_tn.jpg"
-  homepage: "wipfandstock.com"
+  homepage: "/images/books/robinson-christianity-brief-history.jpg"
   caption: "Christianity: A Brief History, book cover."
   caption_url: "https://wipfandstock.com/christianity-a-brief-history.html"
 show_meta: true

@@ -14,7 +14,7 @@ tags:
 image:
   title: "/images/books/truth-over-fear-charles-kimball.jpg"
   thumb: "/images/thumbs/truth-over-fear-charles-kimball_tn.jpg"
-  homepage: "wjkbooks.com"
+  homepage: "/images/books/truth-over-fear-charles-kimball.jpg"
   caption: "Truth over Fear: Combating the Lies about Islam, book cover."
   caption_url: "https://www.wjkbooks.com/Products/066426462X/truth-over-fear.aspx"
 show_meta: true  

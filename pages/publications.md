@@ -66,6 +66,13 @@ The National Association of Baptist Professors of Religion is proud to join with
 
 Mercer University Press has long proven its commitment to Baptist studies, especially through the successful James N. Griffith Endowed Series in Baptist Studies. And now, **Perspectives on Baptist Identities** will expand and enhance the conversation, bringing together diverse fields such as biblical studies, theology, history, and sociology. Questions of identity, denominationalism, scriptural hermeneutics, catholicity, history and future loom large in the minds of NABPR members. Consider a few recent titles: Steven Harmon, _Baptist Identity and the Ecumenical Future_ (2016); Paul Fiddes, _Baptists and the Communion of Saints_ (2014); Curtis Freeman, _Contested Catholicity_ (2014); Keith Harper ed., _Through a Glass Darkly: Contested Notions of Baptist Identity_ (2012); David Cohen and Michael Parsons, eds., _Beyond 400: Exploring Baptist Futures_(2011); Helen Dare and Simon Woodman eds., _The “Plainly Revealed” Word of God? Baptist Hermeneutics in Theory and Practice_ (2011); David Bebbington, _Baptists Through the Centuries_ (2010); Beth Allison Barr, Bill Leonard, Mikeal Parsons, Douglas Weaver, eds., _The Acts of the Apostles: Four Centuries of Baptist Interpretation_ (2009); Douglas Weaver, _In Search of the New Testament Church_ (2008).
 
+### Recent Volumes in The *Perspectives on Baptist Identities* Series
+  - [_Sources of Light: Resources for Baptist Churches Practicing Theology_](/sources-light/) edited by Amy L. Chilton and Steven R. Harmon (2020)
+  - [*Crawford Howell Toy: the man, the scholar, the teacher*](/crawford-howell-toy) by Mikeal C Parsons (2019)
+  - [*Inhabiting the world: identity, politics, and Theology in Radical Baptist Perspective*](/inhabiting-the-world/) by Ryan Andrew Newson (2018)
+
+
+### Submission Guidelines for *Perspectives on Baptist Identities*
 The NABPR in conjunction with Mercer University Press is calling for proposals for the series, **Perspectives on Baptist Identities**. Proposals accepted for publication will be granted a **$1,000 stipend** upon completion of the manuscript.
 
 Please submit proposals for book length contributions to the series editors: Dr. Adam English <englisha@campbell.edu> and/or Dr. Alicia Myers <amyers@campbell.edu>. Either monograph proposals or promising collections of essays will be considered. The proposal should include:

@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: /images/cup-of-coffee-1280537-min4.jpg
+  image_fullwidth: /images/coffee/cup-of-coffee-1280537-min4.jpg
 widget1:
   title: "Blog & News"
   url: '/blog/'
@@ -16,7 +16,7 @@ widget2:
   title: "November Meeting"
   url: '/kimball-overcoming-islamophobia/'
   text: 'The November Meeting of the National Association of Baptist Professors of Religion will take place from during the American Academy of Religion Annual Meeting in San Diego.'
-  image: /images/lucas-davies-uxIU0kYGu-k-unsplash-302x182.jpg
+  image: /images/unsplash/lucas-davies-uxIU0kYGu-k-unsplash-302x182.jpg
 widget3:
   title: "Renew Your Membership"
   url: '/membership/membership-dues/'

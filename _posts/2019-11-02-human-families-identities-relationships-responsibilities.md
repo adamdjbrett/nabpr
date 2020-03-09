@@ -13,9 +13,9 @@ tags:
   - CFP
 header: no
 image:
-  title: "/images/Spring-Hill-College-St_Joseph_Chapel_NICE-min.jpeg"
+  title: "/images/schools/Spring-Hill-College-St_Joseph_Chapel_NICE-min.jpeg"
   thumb: "/images/thumbs/Spring-Hill-College-St_Joseph_Chapel_NICE_tn.jpg"
-  homepage: "/images/Spring-Hill-College-St_Joseph_Chapel_NICE-min.jpeg"
+  homepage: "/images/schools/Spring-Hill-College-St_Joseph_Chapel_NICE-min.jpeg"
   caption: "St. Joseph's Chapel, Spring Hill College."
 show_meta: true
 published: true

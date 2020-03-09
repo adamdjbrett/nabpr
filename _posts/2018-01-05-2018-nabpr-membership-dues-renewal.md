@@ -11,8 +11,8 @@ redirect_from:
   - /?p=795
   - /2018/01/05/2018-nabpr-membership-dues-renewal/
 image:
-  title: /images/NABPR-header.png
-  thumb: /images/nabpr-logo-only-150x150.png
+  title: /images/logos/NABPR-header.png
+  thumb: /images/logos/nabpr-logo-only-150x150.png
 categories:
   - Announcements
   - General

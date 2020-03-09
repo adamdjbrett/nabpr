@@ -10,7 +10,6 @@ permalink: /2019-nabpr-meeting-program/
 redirect_from:
   - /?p=1751
   - /2019/03/12/2019-nabpr-meeting-program/
-  - /NABPR-Program-May-2019-Campbell-draft-1.pdf
 image:
     title: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg
     thumb: /images/thumbs/fbcraleigh-edenton-street-entrance1-full-th.jpg

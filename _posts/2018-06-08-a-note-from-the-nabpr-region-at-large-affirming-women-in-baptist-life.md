@@ -15,7 +15,6 @@ image:
   thumb: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png
 categories:
   - Announcements
-  - NABPR Notes
 tags:
   - baptist
   - Baptists

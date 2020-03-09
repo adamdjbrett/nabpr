@@ -11,7 +11,7 @@ redirect_from:
   - /?p=1348
   - /2018/11/28/american-baptist-quarterly-call-for-papers/
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - ABQ
   - american baptists

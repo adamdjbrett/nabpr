@@ -12,8 +12,6 @@ redirect_from:
   - /2018/05/22/nabpr-meeting-38-agenda/
 categories:
   - Announcements
-  - NABPR Notes
-  - Schedule
 tags:
   - agenda
   - association

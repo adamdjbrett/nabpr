@@ -16,7 +16,6 @@ image:
   caption: 'NABPR at the AAR/SBL 2018'
 categories:
   - Announcements
-  - Schedule
 tags:
   - '#SBLAAR18'
   - AAR

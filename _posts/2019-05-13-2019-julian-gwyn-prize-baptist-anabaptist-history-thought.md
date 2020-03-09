@@ -11,7 +11,7 @@ image:
   thumb: /images/thumbs/2019-ACBAS-essay-prize_tn.jpg
   caption: 'Flyer'
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - call for papers
   - cfp

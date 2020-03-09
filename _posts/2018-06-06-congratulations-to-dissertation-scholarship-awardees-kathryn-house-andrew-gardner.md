@@ -12,9 +12,6 @@ redirect_from:
   - /2018/06/06/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
 categories:
   - Announcements
-  - General
-  - NABPR Notes
-  - Scholarship
 tags:
   - baptist
   - dissertation

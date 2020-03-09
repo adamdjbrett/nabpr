@@ -15,7 +15,7 @@ image:
   thumb: /wp-content/uploads/2018/09/campbell-university-school-of-law-Chris-West.jpg
   caption: Photo by Chris West
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - baptist
   - call for papers

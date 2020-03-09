@@ -14,7 +14,7 @@ image:
   title: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg
   thumb: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana-150x150.jpg
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - baptist
   - catholics

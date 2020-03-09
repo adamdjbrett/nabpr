@@ -14,8 +14,6 @@ image:
   title: /wp-content/uploads/2017/06/nabpr-site-icon.png
   thum: /wp-content/uploads/2017/06/nabpr-site-icon-150x150.png
 categories:
-  - Announcements
-  - General
   - NABPR Notes
 tags:
   - ammendment

@@ -179,5 +179,3 @@ Papers will be scheduled into a 30 time period, including discussion.
 Proposals will be accepted or denied by March 1, 2008.  
 Graduate Students are encouraged to submit proposals.  
 Authors of accepted proposals must be members of NABPR in good standing by May 1, 2008.
-
-The [free online CSS minimizer and beutifier](https://html-cleaner.com/css/) will compress the style files for your websites in seconds.

@@ -1,24 +1,25 @@
 ---
+layout: page
+date: 2019-06-22T12:00:00+00:00
 subheadline: Job
 title: 'President Central Baptist Theological Seminary'
-date: 2019-06-22T12:00:00+00:00
-author: adamdjbrett
 teaser: "Central Baptist Theological Seminary invites applications and nominations from inspired, dynamic, Christian leaders for the position of President."
-layout: page
-permalink: /cbts-president/
+meta_description: "Central Baptist Theological Seminary searches for a new president."
 image:
   title: /images/schools/central-baptist-theological-seminary-kansas.jpg
   thumb: /images/thumbs/central-baptist-theological-seminary-kansas_tn.jpg
   caption: 'Central Baptist Theological Seminary'
-  categories:
-    - Job Listings
-  tags:
-    - baptist
-    - president
-    - Central Baptist Theological Seminary
-    - CBTS
+categories:
+  - Job Listings
+tags:
+  - baptist
+  - president
+  - Central Baptist Theological Seminary
+  - CBTS
+author: adamdjbrett
 show_meta: true
 published: true
+permalink: /cbts-president/
 ---
 
 ## Summary

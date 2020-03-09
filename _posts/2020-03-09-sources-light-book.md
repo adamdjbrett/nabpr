@@ -7,11 +7,11 @@ teaser: "...the congregational freedom cherished by Baptists makes it possible f
 meta_description: "This book (<em>Sources of Light</em>) commends listening deeply to these voices as an ecclesial practice through which the Spirit of God enlightens the church of Christ, whose rule draws the church into deeper participation in the life of the Triune God, forming the church for practices that offer the gift of Trinitarian communion to a fractured world."
 categories:
   - Books of Interest
-  - Perspectives on Baptists Identities
 tags:
   - Baptists
   - Christianity
   - Theology
+  - Perspectives on Baptists Identities
 image:
   title: "/images/books/Sources-of-Light-front-cover-min.jpg"
   thumb: "/images/thumbs/Sources-of-Light-front-cover_tn.jpg"

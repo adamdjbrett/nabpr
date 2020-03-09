@@ -69,7 +69,7 @@ Mercer University Press has long proven its commitment to Baptist studies, espec
 ### Recent Volumes in The *Perspectives on Baptist Identities* Series
   - [_Sources of Light: Resources for Baptist Churches Practicing Theology_](/sources-light/) edited by Amy L. Chilton and Steven R. Harmon (2020)
   - [*Crawford Howell Toy: the man, the scholar, the teacher*](/crawford-howell-toy) by Mikeal C Parsons (2019)
-  - [*Inhabiting the world: identity, politics, and Theology in Radical Baptist Perspective*](/inhabiting-the-world/) by Ryan Andrew Newson (2018)
+  - [*Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective*](/inhabiting-the-world/) by Ryan Andrew Newson (2018)
 
 
 ### Submission Guidelines for *Perspectives on Baptist Identities*

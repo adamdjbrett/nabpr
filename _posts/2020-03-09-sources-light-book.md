@@ -4,7 +4,7 @@ Date: 2020-03-09T12:00:00+00:00
 subheadline: "Perspectives on Baptist Identities"
 title: "New Book: Sources of Light: Resources for Baptist Churches Practicing Theology"
 teaser: "...the congregational freedom cherished by Baptists makes it possible for their local churches to engage in a practice of theology informed by a full range of voices speaking from the whole church beyond the local church, past and present."
-meta_description: "This [_Sources of Light_] book commends listening deeply to these voices as an ecclesial practice through which the Spirit of God enlightens the church of Christ, whose rule draws the church into deeper participation in the life of the Triune God, forming the church for practices that offer the gift of Trinitarian communion to a fractured world."
+meta_description: "This book (<em>Sources of Light</em>) commends listening deeply to these voices as an ecclesial practice through which the Spirit of God enlightens the church of Christ, whose rule draws the church into deeper participation in the life of the Triune God, forming the church for practices that offer the gift of Trinitarian communion to a fractured world."
 categories:
   - Books of Interest
   - Perspectives on Baptists Identities

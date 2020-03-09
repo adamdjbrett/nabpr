@@ -4,7 +4,7 @@ Date: 2020-03-08T12:00:00+00:00
 subheadline: "Perspectives on Baptist Identities"
 title: "New Book: Crawford Howell Toy: the man, the scholar, the teacher"
 teaser: "Crawford Howell Toy was professor of Old Testament at the Southern Baptist Theological Seminary from 1869-1879. In 1879, he was forced to resign from the Seminary over his views of evolution. In 1880, he was hired by Harvard University as the Hancock Professor of Hebrew and Other Oriental Languages. Parsons narrates Toy's life in two parts."
-meta_description: "Crawford Howell Toy was professor of Old Testament at the Southern Baptist Theological Seminary from 1869-1879. In 1879, he was forced to resign from the Seminary over his views of evolution. In 1880, he was hired by Harvard University as the Hancock Professor of Hebrew and Other Oriental Languages. Parsons narrates Toy's life in two parts.."
+meta_description: "Crawford Howell Toy was professor of Old Testament at the Southern Baptist Theological Seminary from 1869-1879. In 1879, he was forced to resign from the Seminary over his views of evolution. In 1880, he was hired by Harvard University as the Hancock Professor of Hebrew and Other Oriental Languages. Parsons narrates Toy's life in two parts."
 categories:
   - Books of Interest
 tags:

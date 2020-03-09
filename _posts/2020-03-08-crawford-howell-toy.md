@@ -13,7 +13,7 @@ tags:
   - Christianity
   - History
 image:
-  header: "/images/books/Crawford-Howell-Toy_tn.jpg"
+  title: "/images/books/Crawford-Howell-Toy.jpg"
   thumb: "/images/thumbs/Crawford-Howell-Toy_tn.jpg"
   homepage: ""
   caption: "Crawford Howell Toy: the man, the scholar, the teacher, book cover"

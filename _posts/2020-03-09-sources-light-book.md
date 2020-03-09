@@ -13,7 +13,7 @@ tags:
   - Christianity
   - Theology
 image:
-  header: "/images/books/Sources-of-Light-front-cover-min.jpg"
+  title: "/images/books/Sources-of-Light-front-cover-min.jpg"
   thumb: "/images/thumbs/Sources-of-Light-front-cover_tn.jpg"
   homepage: "/images/books/source-of-light-banner.jpg"
   caption: "Sources of Light: Resources for Baptist Churches Practicing Theology, book cover"

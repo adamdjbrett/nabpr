@@ -106,7 +106,12 @@ defaults:
     values:
       pdf: true
       author: NABPR
-
+  -
+    scope:
+      path: 'pdfs'
+    values:
+      pdf: true
+      author: NABPR
 
 # Navigation       _   __            _             __  _
 #  Open _data/navigation.yml to adjust the left and right topbar navigation

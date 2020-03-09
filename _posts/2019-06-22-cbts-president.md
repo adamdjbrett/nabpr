@@ -18,6 +18,7 @@ image:
     - Central Baptist Theological Seminary
     - CBTS
 show_meta: true
+published: true
 ---
 
 ## Summary

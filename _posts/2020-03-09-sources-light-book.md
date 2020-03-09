@@ -20,6 +20,7 @@ image:
   caption_url: "http://mupress.org"
 show_meta: true
 published: true
+breadcrumb: true
 permalink: /sources-light/
 ---
 The [NABPR](/) [*Perspectives on Baptist Identities*](/publications/) book series newest installment is edited by NABPR members Amy L. Chilton and Steven R. Harmon.

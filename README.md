@@ -1,6 +1,6 @@
 # [National Association of Baptist Professors of Religion](nabpr.org)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/nabpr)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/NABPR)
 [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 ## Theme
 - Feeling Responsive by @Phlow.

@@ -1,4 +1,7 @@
 # [National Association of Baptist Professors of Religion](nabpr.org)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/nabpr)
+[![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 ## Theme
 - Feeling Responsive by @Phlow.
   - If you like this theme then support Phlow. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia).

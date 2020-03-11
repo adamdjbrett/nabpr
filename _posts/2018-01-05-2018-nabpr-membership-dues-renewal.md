@@ -15,7 +15,6 @@ image:
   thumb: /images/logos/nabpr-logo-only-150x150.png
 categories:
   - Announcements
-  - General
 tags:
   - baptist
   - dues

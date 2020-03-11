@@ -14,7 +14,6 @@ image:
   title: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png
   thumb: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent-150x150.png
 categories:
-  - Announcements
   - NABPR Notes
 tags:
   - AAR

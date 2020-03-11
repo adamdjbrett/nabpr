@@ -11,8 +11,11 @@ redirect_from:
   - /?p=416
   - /2017/01/04/conference-scholarship-deadlines-reminders/
 categories:
-  - Announcements
-  - Calls for Papers (CFP)
+  - Scholarship
+tags:
+  - baptists
+  - dissertation
+  - scholarship
 ---
   * The [NABPR Annual Meeting will be in Nasvhille, TN at Belmont University](/cfp-2017-nabpr-annual-meeting/) this year. The call for papers deadline is Jan. 15.
   * The [Dissertation Scholarship](/dissertation-scholarship/) deadline is Jan. 15.

@@ -14,8 +14,6 @@ image:
   thumb: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg
 categories:
   - Announcements
-  - General
-  - NABPR Notes
 tags:
   - autonomy
   - baptist

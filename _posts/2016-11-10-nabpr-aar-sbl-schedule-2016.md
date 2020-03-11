@@ -14,8 +14,7 @@ image:
   title: /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png
   thumb: /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram-150x150.png
 categories:
-  - NABPR Notes
-  - Schedule
+  - Program
 tags:
   - AAR
   - AARSBL16

@@ -14,7 +14,7 @@ image:
   title: /wp-content/uploads/2016/10/OchreCourt234.jpg
   thumb: /wp-content/uploads/2016/10/OchreCourt234-150x150.jpg
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - Baptists
   - call for papers

@@ -15,7 +15,6 @@ image:
   thumb: /wp-content/uploads/2017/09/gardner-webb-university-150x150.jpg
 categories:
   - Announcements
-  - General
 tags:
   - baptist
   - Conference

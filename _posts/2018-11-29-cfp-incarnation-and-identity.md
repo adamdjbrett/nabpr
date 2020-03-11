@@ -14,7 +14,7 @@ redirect_from:
   - /?p=1350
   - /2018/11/29/cfp-incarnation-and-identity/
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - ABQ
   - american baptists

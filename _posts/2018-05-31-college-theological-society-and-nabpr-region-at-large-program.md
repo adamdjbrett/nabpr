@@ -11,7 +11,7 @@ redirect_from:
   - /?p=1100
   - /2018/05/31/college-theological-society-and-nabpr-region-at-large-program/
 categories:
-  - NABPR Notes
+  - program
 tags:
   - baptist
   - Baptists

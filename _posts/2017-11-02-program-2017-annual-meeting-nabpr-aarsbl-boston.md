@@ -16,8 +16,6 @@ image:
   caption: 'NABPR Boston Meeting'
 categories:
   - Announcements
-  - General
-  - Schedule
 tags:
   - AAR
   - AARSBL

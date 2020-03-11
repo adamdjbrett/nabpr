@@ -16,8 +16,6 @@ image:
   thumb: /wp-content/uploads/2017/06/Chaves_Joao-150x150.jpg
 categories:
   - Announcements
-  - General
-  - Scholarship
 tags:
   - Baylor
   - dissertation

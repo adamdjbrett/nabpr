@@ -17,9 +17,7 @@ image:
   caption_url: 'http://bit.ly/2Iv2xRH'
 categories:
   - Announcements
-  - General
 tags:
-  - "2017"
   - baptist
   - Belmont
   - Conference

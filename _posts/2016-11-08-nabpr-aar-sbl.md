@@ -15,7 +15,6 @@ image:
   thumb: /wp-content/uploads/2016/11/NABPR-AARSBL2016-Facebook-150x150.png
 categories:
   - Announcements
-  - General
 tags:
   - AAR
   - AARSBL16

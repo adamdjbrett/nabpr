@@ -16,7 +16,6 @@ image:
   caption: 'Evangelizing Lebanon: Baptists, Missions, and the Question of Cultures by Melanie Trexler'
 categories:
   - Books of Interest
-  - NABPR Notes
 tags:
   - Baptists
   - Baylor University Press

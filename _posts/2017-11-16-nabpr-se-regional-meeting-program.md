@@ -15,7 +15,6 @@ image:
   thumb: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min-150x150.png
 categories:
   - Announcements
-  - Schedule
 tags:
   - NABPR
   - religion

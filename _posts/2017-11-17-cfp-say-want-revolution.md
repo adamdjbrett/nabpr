@@ -16,8 +16,7 @@ image:
   caption: 'Derham Hall and Our Lady of Victory Chapel via wikipedia'
   caption_url: 'https://commons.wikimedia.org/wiki/File:Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg'
 categories:
-  - Announcements
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - call for papers
   - cfp

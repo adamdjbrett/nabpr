@@ -11,6 +11,11 @@ redirect_from:
  - /?page_id=579
  - /meetings/2017-annual-meeting-nabpr-program/
 breadcrumb: true
+categories:
+  - Program
+tags:
+  - Baptists
+  - NABPR  
 ---
 [Click here for the program in PDF format. The PDF is always the most up-to-date. ](/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
 

@@ -11,7 +11,7 @@ redirect_from:
   - /?p=357
   - /2016/08/31/cfp-2017-nabpr-annual-meeting/
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - AAR
   - Baptists

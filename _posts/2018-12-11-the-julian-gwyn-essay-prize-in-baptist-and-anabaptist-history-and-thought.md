@@ -14,7 +14,7 @@ image:
   title: /wp-content/uploads/2018/12/ACBAS-Essay-Prize-IMG.jpg
   thumb: /wp-content/uploads/2018/12/ACBAS-Essay-Prize-IMG-150x150.jpg
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - call for papers
   - cfp

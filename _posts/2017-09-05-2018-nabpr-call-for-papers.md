@@ -14,7 +14,7 @@ image:
   title: /wp-content/uploads/2017/09/gardner-webb-university.jpg
   thumb: /wp-content/uploads/2017/09/gardner-webb-university-150x150.jpg
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - AAR
   - baptist

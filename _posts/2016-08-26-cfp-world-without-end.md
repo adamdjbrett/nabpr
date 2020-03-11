@@ -15,7 +15,7 @@ image:
   thumb: /wp-content/uploads/2016/08/World-Without-End-Webpage-150x150.jpg
   caption: 'Call for Proposals World Without End: The New Shape of World Christianity January 26-27, 2017 Georgetown College'
 categories:
-  - Calls for Papers (CFP)
+  - CFP
 tags:
   - baptist
   - CBF

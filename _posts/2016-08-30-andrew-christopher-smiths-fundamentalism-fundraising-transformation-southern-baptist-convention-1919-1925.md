@@ -18,8 +18,10 @@ image:
   caption_url: 'https://www.cn.edu/directory?person=496'
 categories:
   - Books of Interest
-  - Resources of Interest
-  - Uncategorized
+tags:
+  - Baptists
+  - SBC
+  - History
 ---
 ## Andrew Christopher Smith&#8217;s Fundamentalism, Fundraising, and the Transformation of the Southern Baptist Convention, 1919-1925.
 

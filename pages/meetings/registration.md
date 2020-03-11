@@ -14,5 +14,4 @@ Registration for the The National Association of Baptist Professors of Religion
 ## [→ Register Now.](https://secure.touchnet.net/C20495_ustores/web/classic/store_main.jsp?STOREID=56&SINGLESTORE=true)  
 
 
- * [2019 CFP](/2019-nabpr-call-for-papers/)  
- * [2019 Program](/2019-nabpr-meeting-program/)  
+ * [2020 CFP](/annual-call-papers-baylor-meeting/)

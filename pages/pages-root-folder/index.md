@@ -14,7 +14,7 @@ widget1:
   text: 'Keep up to date with NABPR.'
 widget2:
   title: "Publications"
-  url: '/Publications/'
+  url: '/publications/'
   text: 'NABPR publishes a journal, a Bible dictionary, a Bible commentary series, and a series on Baptist Identities.'
   image: /images/stock/books-1655783_302x182.jpg
 widget3:

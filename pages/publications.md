@@ -13,7 +13,7 @@ redirect_from:
 header:
   image_fullwidth: /images/stock/books-1655783_1920.jpg
   caption: Bookstore entrace image by Nino Carè from Pixabay
-  caption_url: https://pixabay.com/users/ninocare-3266770/
+  caption_url: https://pixabay.com/
 breadcrumb: true
 ---
 <div class="panel radius" markdown="1">

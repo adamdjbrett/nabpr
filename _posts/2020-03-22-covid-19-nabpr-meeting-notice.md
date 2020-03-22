@@ -16,7 +16,7 @@ tags:
 image:
   title: "/images/stock/cancellation-4944727_1920.jpg"
   thumb: "/images/thumbs/cancellation-4944727_1920_tn.jpg"
-  homepage: "/images/books/cancellation-4944727_1920.jpg"
+  homepage: "/images/stock/cancellation-4944727_1920.jpg"
   caption: "Cancellation image by Image by Gerd Altmann from Pixabay"
   caption_url: "https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4924028"
 author: mynatt

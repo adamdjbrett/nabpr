@@ -13,10 +13,10 @@ widget1:
   image: /images/news-1074604-302x182.jpg
   text: 'Keep up to date with NABPR.'
 widget2:
-  title: "November Meeting"
-  url: '/kimball-overcoming-islamophobia/'
-  text: 'The November Meeting of the National Association of Baptist Professors of Religion will take place from during the American Academy of Religion Annual Meeting in San Diego.'
-  image: /images/unsplash/lucas-davies-uxIU0kYGu-k-unsplash-302x182.jpg
+  title: "Publications"
+  url: '/Publications/'
+  text: 'NABPR publishes a journal, a Bible dictionary, a Bible commentary series, and a series on Baptist Identities.'
+  image: /images/stock/books-1655783_302x182.jpg
 widget3:
   title: "Renew Your Membership"
   url: '/membership/membership-dues/'

@@ -10,7 +10,10 @@ redirect_from:
   - /?page_id=84
   - /topics/resources-of-interest/
   - /topics/books-of-interest/
-image: /wp-content/uploads/2016/05/NABPR_site_logo_960x300.png
+header:
+  image_fullwidth: /images/stock/books-1655783_1920.jpg
+  caption: Bookstore entrace image by Nino Carè from Pixabay
+  caption_url: https://pixabay.com/users/ninocare-3266770/
 breadcrumb: true
 ---
 <div class="panel radius" markdown="1">

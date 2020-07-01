@@ -43,9 +43,10 @@ format: post
 			</p>
 			{% endif %}
 
-			<div itemprop="articleSection" property="mainEntityOfPage">
+			<div itemprop="articleSection">
+				<span itemprop="mainEntityOfPage">
 			{{ content }}
-
+			</span>
 			</div>
 			{% include share-buttons.html %}<br />
 

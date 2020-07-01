@@ -1,6 +1,6 @@
 ---
 id: 1106
-subheadline: "New Book"
+subheadline: "Perspectives on Baptist Identities"
 title: "Inhabiting the World"
 date: 2018-05-31T11:23:26+00:00
 author: adamdjbrett

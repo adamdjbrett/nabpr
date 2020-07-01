@@ -20,6 +20,7 @@ image:
   caption_url: "http://bakerpublishinggroup.com/books/baptists-and-the-catholic-tradition-2nd-edition/392851"
 show_meta: true
 published: true
+author: adamdjbrett
 permalink: /baptists-catholic-tradition/
 ---
 NABPR member Barry Harvey, professor of Theology in the Honors College and the graduate faculty in Religion at Baylor University has published a revised and expanded second edition of *Can These Bones Live?*. The [preface and introduction](http://bakerpublishinggroup.com/books/baptists-and-the-catholic-tradition-2nd-edition/392851) are available as a a free download on [Baker Academic's site](http://bakerpublishinggroup.com/books/baptists-and-the-catholic-tradition-2nd-edition/392851). Professor Harvey's previous books include *Taking Hold of the Real: Dietrich Bonhoeffer and the Profound Worldliness of Christianity* (Wipf and Stock, 2015), and *StormFront: The Good News of God*, with James V. Brownson, Inagrace T. Dietterich and Charles C. West (W.B. Eerdmans, 2003).

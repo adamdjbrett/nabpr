@@ -15,6 +15,7 @@ tags:
   - dissertation
   - scholarship
 show_meta: true
+author: adamdjbrett
 ---
 
 ## [Kate Hanch](https://www.garrett.edu/phds/kate-hanch)  

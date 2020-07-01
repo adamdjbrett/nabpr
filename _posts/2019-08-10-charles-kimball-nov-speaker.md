@@ -17,7 +17,8 @@ image:
   homepage: "/images/books/truth-over-fear-charles-kimball.jpg"
   caption: "Truth over Fear: Combating the Lies about Islam, book cover."
   caption_url: "https://www.wjkbooks.com/Products/066426462X/truth-over-fear.aspx"
-show_meta: true  
+show_meta: true
+author: adamdjbrett  
 ---
 Greetings NABPR:
 

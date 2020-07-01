@@ -9,7 +9,8 @@ permalink: /privacy-policy/
 redirect_from:
   - /?page_id=374
   - /about-nabpr/privacy-policy/
-breadcrumb: true  
+breadcrumb: true
+show_meta: true 
 ---
 # [nabpr.org](http://nabpr.org ) Privacy Policy
 

@@ -10,7 +10,9 @@ redirect_from:
   - /?page_id=374
   - /about-nabpr/privacy-policy/
 breadcrumb: true
-show_meta: true 
+show_meta: true
+categories:
+  - policy
 ---
 # [nabpr.org](http://nabpr.org ) Privacy Policy
 

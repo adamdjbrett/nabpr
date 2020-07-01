@@ -24,7 +24,10 @@ format: post
 
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<h1>{{ page.title }}</h1>
+					<h1 property="headline">>{{ page.title }}</h1>
+					<span property="publisher" typeof="Organization">
+						<meta property="name" content="National Association of Baptist Professors of Religion">
+				</span>
 				</div>
 			</header>
 
@@ -35,8 +38,9 @@ format: post
 			</p>
 			{% endif %}
 
-			<div itemprop="articleSection">
+			<div itemprop="articleSection" property="mainEntityOfPage">
 			{{ content }}
+
 			</div>
 			{% include share-buttons.html %}<br />
 

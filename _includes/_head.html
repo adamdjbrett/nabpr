@@ -55,6 +55,9 @@
 	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 	<link rel="canonical" href="{{ url }}{{ page.url }}">
 
+	{% if seo in page.frontpage %}
+		{% include _seo.html %}
+	{% endif %}
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="{{ title }}">

@@ -37,4 +37,4 @@ Danny
 Daniel S. Mynatt, Ph.D.  
 Executive Secretary-Treasurer  
 National Association Baptist Professors of Religion  
-[https://nabpr.org](https://nabpr.org)
+[nabpr.org](https://nabpr.org)

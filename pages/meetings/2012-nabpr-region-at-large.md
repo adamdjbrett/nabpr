@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/2012-nabpr-region-at-large/
-redirect_from: /?page_id=162
 breadcrumb: true
 ---
 ## **NABPR RAL 2012 Call for Papers**

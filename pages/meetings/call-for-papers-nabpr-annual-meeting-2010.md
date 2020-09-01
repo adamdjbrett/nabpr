@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/call-for-papers-nabpr-annual-meeting-2010/
-redirect_from: /?page_id=185
 breadcrumb: true
 ---
 ##**Call for Papers**  

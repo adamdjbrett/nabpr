@@ -7,7 +7,6 @@ teaser: The National Association of Baptist Professors of Religion Privacy Polic
 layout: page
 permalink: /privacy-policy/
 redirect_from:
-  - /?page_id=374
   - /about-nabpr/privacy-policy/
 breadcrumb: true
 show_meta: true

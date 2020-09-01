@@ -6,7 +6,6 @@ teaser: |
 layout: page
 permalink: /about/affiliated-organizations/
 redirect_from:
-  - /?page_id=108
   - /about-nabpr/affiliated-organizations/
 breadcrumb: true
 ---

@@ -6,7 +6,6 @@ author: adamdjbrett
 layout: page
 permalink: /doctoral-student-network/
 redirect_from:
-  - /?page_id=316
   - /contact-us/doctoral-student-network/
 image:
   image_fullwidth: /wp-content/uploads/2016/08/NABPR-Doctoral-Student-Network-Facebook-group.jpg

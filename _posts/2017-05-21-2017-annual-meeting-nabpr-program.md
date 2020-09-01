@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /2017-annual-meeting-nabpr-program/
 redirect_from:
- - /?page_id=579
  - /meetings/2017-annual-meeting-nabpr-program/
 breadcrumb: true
 categories:

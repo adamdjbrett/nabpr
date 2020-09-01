@@ -6,7 +6,6 @@ author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-winter-2003/
-redirect_from: /?page_id=207
 breadcrumb: true
 ---
 ## **Welcome to the Wired World**

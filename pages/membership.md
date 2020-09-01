@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /membership/
-redirect_from: "/?page_id=77"
 breadcrumb: true
 ---
 ##  Joining NABPR

@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-annual-meeting-2002/
-redirect_from: /?page_id=172
 breadcrumb: true
 ---
 The twenty-second annual meeting of the National Association of Baptist Professors of Religion was called to order by President Molly T. Marshall. A moment of silence was observed remembering the passing of former member of the NABPR, John Joseph Owens. Also recognized was Findley Edge, who, though not a member of the Association, touched the lives of many who shaped the guild. Richard F. Wilson, Executive Secretary, gave greetings and acknowledged the planning of Molly Marshall for the Meeting.

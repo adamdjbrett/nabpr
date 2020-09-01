@@ -6,7 +6,6 @@ author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-spring-2004/
-redirect_from: /?page_id=202
 breadcrumb: true
 ---
 ## **The AAR/SBL Divorce and the Future of NABPR**  

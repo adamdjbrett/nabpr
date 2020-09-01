@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-annual-meeting-2001/
-redirect_from: /?page_id=170
 breadcrumb: true
 ---
 ## 2001 Annual Meeting of the NABPR

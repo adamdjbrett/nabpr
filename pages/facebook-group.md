@@ -7,7 +7,6 @@ teaser: |
 layout: page
 permalink: /facebook-group/
 redirect_from:
-  - /?page_id=322
   - /contact-us/facebook-group/
 image:
   title: /wp-content/uploads/2016/05/NABPR_facebook.png

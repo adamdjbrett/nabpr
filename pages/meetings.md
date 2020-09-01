@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/
-redirect_from: "/?page_id=75"
 image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---

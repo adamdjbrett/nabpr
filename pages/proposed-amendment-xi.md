@@ -6,7 +6,6 @@ teaser: "In rare and extreme situations that call for a public response, members
 layout: page
 permalink: /about/constitution/proposed-amendment-xi/
 redirect_from:
-  - /?page_id=603
   - /about-nabpr/constitution/proposed-amendment-xi/
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 breadcrumb: true

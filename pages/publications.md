@@ -7,7 +7,6 @@ teaser: |
 layout: page
 permalink: /publications/
 redirect_from:
-  - /?page_id=84
   - /topics/resources-of-interest/
   - /topics/books-of-interest/
 header:

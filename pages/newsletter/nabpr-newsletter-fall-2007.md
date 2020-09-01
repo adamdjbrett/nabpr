@@ -6,7 +6,6 @@ author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2007/
-redirect_from: /?page_id=192
 breadcrumb: true
 ---
 ## From the Executive Secretary, Danny Mynatt, Anderson University

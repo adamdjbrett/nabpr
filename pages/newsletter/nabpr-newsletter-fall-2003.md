@@ -6,7 +6,6 @@ author: 'Bill J. Leonard'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2003/
-redirect_from: /?page_id=209
 breadcrumb: true
 ---
 ## **Polity and Postmodernism**  

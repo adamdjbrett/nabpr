@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-annual-meeting-2000/
-redirect_from: /?page_id=168
 breadcrumb: true
 ---
 ## **Nashville, Tennessee 18 November 2000 9:00-11:30 am**

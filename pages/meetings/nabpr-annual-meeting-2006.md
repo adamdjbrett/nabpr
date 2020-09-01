@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-annual-meeting-2006/
-redirect_from: /?page_id=180
 breadcrumb: true
 ---
 ## Minutes: 2006 Meeting

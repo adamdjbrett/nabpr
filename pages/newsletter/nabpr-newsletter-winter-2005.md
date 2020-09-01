@@ -6,7 +6,6 @@ author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-winter-2005/
-redirect_from: /?page_id=198
 breadcrumb: true
 ---
 ## Diversify or Go Broke

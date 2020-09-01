@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-annual-meeting-2005/
-redirect_from: /?page_id=178
 breadcrumb: true
 ---
 ## **The National Association of Baptist Professors of Religion **

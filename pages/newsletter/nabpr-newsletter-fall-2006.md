@@ -6,7 +6,6 @@ author: 'Danny Mynatt'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2006/
-redirect_from: /?page_id=196
 breadcrumb: true
 ---
 ## **From the Executive-Secretary**

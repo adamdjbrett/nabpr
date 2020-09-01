@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/2010-nabpr-region-at-large/
-redirect_from: /?page_id=164
 breadcrumb: true
 ---
 ## University of Portland, Oregon, June 3-6, 2010

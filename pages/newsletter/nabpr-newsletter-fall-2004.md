@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-fall-2004/
-redirect_from: /?page_id=205
 breadcrumb: true
 ---
 **Yes, There Is An Error in the Program Book**

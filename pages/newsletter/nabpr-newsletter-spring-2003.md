@@ -6,7 +6,6 @@ author: 'Mikeal C. Parsons'
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-spring-2003/
-redirect_from: /?page_id=212
 breadcrumb: true
 ---
 ## **Update on Perspectives in Religious Studies**  

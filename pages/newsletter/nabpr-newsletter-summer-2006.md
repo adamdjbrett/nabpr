@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /newsletter/nabpr-newsletter-summer-2006/
-redirect_from: /?page_id=194
 breadcrumb: true
 ---
 

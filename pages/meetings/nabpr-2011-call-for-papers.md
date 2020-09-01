@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /meetings/nabpr-2011-call-for-papers/
-redirect_from:  /?page_id=183
 breadcrumb: true
 ---
 ## National Association of Baptist Professors of Religion

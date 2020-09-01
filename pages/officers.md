@@ -6,10 +6,9 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /officers/
-redirect_from: /?page_id=86
 breadcrumb: true
 ---
-## Officers 2019-2020 
+## Officers 2019-2020
 
   * PRESIDENT: [Christine Jones](https://www.cn.edu/directory?person=280), Carson Newman University, (<cjones@cn.edu>)
   * VICE-PRESIDENT: [Barry Jones](https://directory.campbell.edu/people/barry-a-jones/), Campbell University, (<jonesb@campbell.edu>)

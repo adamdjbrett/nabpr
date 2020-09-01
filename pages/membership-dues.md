@@ -6,7 +6,6 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /membership/membership-dues/
-redirect_from: "/?page_id=79"
 breadcrumb: true
 ---
 ## Membership Dues to NABPR
@@ -50,5 +49,3 @@ Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
 </form>
 
 ##### All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify.   
-
-  

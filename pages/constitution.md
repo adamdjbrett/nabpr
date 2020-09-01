@@ -7,7 +7,6 @@ teaser: |
 layout: page
 permalink: /about/constitution/
 redirect_from:
-  - /?page_id=90
   - /about-nabpr/constitution/
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 breadcrumb: true

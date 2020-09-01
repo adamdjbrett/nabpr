@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /dissertation-scholarship/
 redirect_from:
-  - /?p=389
   - /2016/10/03/dissertation-scholarship/
 image:
   title: /wp-content/uploads/2016/05/NABPR_facebook_2_logo_95percent.png

@@ -9,7 +9,6 @@ teaser: "Courtney Pace, Freedom Faith: The Womanist Vision of Prathia Hall. (Ath
 layout: page
 permalink: /new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
 redirect_from:
-  - ?p=1264
   - /2018/10/25/new-book-freedom-faith-the-womanist-vision-of-prathia-hall/
 categories:
   - Books of Interest

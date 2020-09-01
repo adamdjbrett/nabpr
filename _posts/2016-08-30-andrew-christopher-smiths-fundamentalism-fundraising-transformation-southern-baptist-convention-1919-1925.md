@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /1621902277/
 redirect_from:
-  - /?p=352
   - /2016/08/30/andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
   - /andrew-christopher-smiths-fundamentalism-fundraising-transformation-southern-baptist-convention-1919-1925/
 image:

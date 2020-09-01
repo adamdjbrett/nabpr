@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /joao-chaves/
 redirect_from:
-  - /?p=597
   - /2017/06/09/joao-chaves/
   - /announcing-dr-chaves-2018-nabpr-dissertation-fellowship/
 image:

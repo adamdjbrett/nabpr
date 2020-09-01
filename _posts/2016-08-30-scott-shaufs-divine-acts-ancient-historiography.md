@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /scott-shaufs-divine-acts-ancient-historiography/
 redirect_from:
-  - /?p=346
   - /2016/08/30/scott-shaufs-divine-acts-ancient-historiography/
 image:
   title: /wp-content/uploads/2016/08/Scott-Shauf-the-Divine-in-acts-and-in-ancient-historgraphy-9781451484779h.jpg

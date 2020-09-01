@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
 redirect_from:
-  - /?p=1126
   - /2018/06/06/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/
 categories:
   - Announcements

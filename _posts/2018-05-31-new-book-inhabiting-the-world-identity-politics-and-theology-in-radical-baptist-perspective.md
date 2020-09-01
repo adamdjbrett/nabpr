@@ -8,7 +8,6 @@ teaser: "Ryan Andrew Newson, Inhabiting the World: Identity, Politics, and Theo
 layout: page
 permalink: /inhabiting-the-world/
 redirect_from:
-  - /?p=1106
   - /2018/05/31/new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
   - /new-book-inhabiting-the-world-identity-politics-and-theology-in-radical-baptist-perspective/
 image:

@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /cfp-world-without-end/
 redirect_from:
-  - /?p=262
   - /2016/08/26/cfp-world-without-end/
 image:
   title: /wp-content/uploads/2016/08/World-Without-End-Webpage.jpg

@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /baylor-department-religion-open-faculty-positions/
 redirect_from:
-  - /?p=333
   - /2016/08/29/baylor-department-religion-open-faculty-positions/
 image:
   title: /wp-content/uploads/2016/08/Baylor-tidwell-bible-building-texascollectionbaylor-flickr.jpg

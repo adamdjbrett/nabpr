@@ -7,7 +7,6 @@ teaser: |
 layout: page
 permalink: /announcing-nabpr-forum/
 redirect_from:
-  - /?p=883
   - /2018/02/20/announcing-nabpr-forum/
 image:
   image_fullwidth:: /wp-content/uploads/2018/02/nabpr-forum-coffee-1568x322.jpg

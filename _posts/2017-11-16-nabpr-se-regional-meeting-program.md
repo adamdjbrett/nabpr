@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /nabpr-se-regional-meeting-program/
 redirect_from:
-  - /?p=772
   - /2017/11/16/nabpr-se-regional-meeting-program/
 image:
   title: /wp-content/uploads/2017/11/NABPRSE-Updated-2018-Flyer-min.png

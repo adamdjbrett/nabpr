@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /nabpr-meeting-38-agenda/
 redirect_from:
-  - /?p=1080
   - /2018/05/22/nabpr-meeting-38-agenda/
 categories:
   - Announcements

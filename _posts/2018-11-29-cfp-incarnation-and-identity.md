@@ -11,7 +11,6 @@ theologians, pastor-theologians, and theological educators throughout the denomi
 layout: page
 permalink: /cfp-incarnation-and-identity/
 redirect_from:
-  - /?p=1350
   - /2018/11/29/cfp-incarnation-and-identity/
 categories:
   - CFP

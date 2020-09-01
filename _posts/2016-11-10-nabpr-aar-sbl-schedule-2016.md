@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /nabpr-aar-sbl-schedule-2016/
 redirect_from:
-  - /?p=403
   - /2016/11/10/nabpr-aar-sbl-schedule-2016/
 image:
   title: /wp-content/uploads/2016/11/NABPR-AARSBL2016-twitter-instagram.png

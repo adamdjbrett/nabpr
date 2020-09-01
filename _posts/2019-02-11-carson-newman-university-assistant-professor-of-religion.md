@@ -8,7 +8,6 @@ teaser: "Carson-Newman University is seeking to hire an Assistant Professor of R
 layout: page
 permalink: /carson-newman-university-assistant-professor-of-religion/
 redirect_from:
-  - /?p=1668
   - /2019/02/11/carson-newman-university-assistant-professor-of-religion/
 image:
   title: /wp-content/uploads/2019/02/carson-newman-admin-cropped539.jpg

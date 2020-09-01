@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /cfp-say-want-revolution/
 redirect_from:
-  - /?p=776
   - /2017/11/17/cfp-say-want-revolution/
 image:
   title: /wp-content/uploads/2017/11/Derham_Hall_and_Our_Lady_of_Victory_Chapel.jpg

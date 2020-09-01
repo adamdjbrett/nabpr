@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /conference-scholarship-deadlines-reminders/
 redirect_from:
-  - /?p=416
   - /2017/01/04/conference-scholarship-deadlines-reminders/
 categories:
   - Scholarship

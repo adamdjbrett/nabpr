@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
 redirect_from:
-  - /?p=1110
   - /2018/05/31/thank-you-to-dr-scott-nash-for-your-years-of-service-as-senior-editor/
 categories:
   - Announcements

@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /2018-nabpr-call-for-papers/
 redirect_from:
-  - /?p=726
   - /2017/09/05/2018-nabpr-call-for-papers/
 image:
   title: /wp-content/uploads/2017/09/gardner-webb-university.jpg

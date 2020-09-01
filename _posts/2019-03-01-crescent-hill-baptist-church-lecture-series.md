@@ -8,7 +8,6 @@ teaser: "Crescent Hill Baptist Church would like to invite NABPR to a lecture se
 layout: page
 permalink: /crescent-hill-baptist-church-lecture-series/
 redirect_from:
-  - /?p=1740
   - /2019/03/01/crescent-hill-baptist-church-lecture-series/
 categories:
   - Announcements

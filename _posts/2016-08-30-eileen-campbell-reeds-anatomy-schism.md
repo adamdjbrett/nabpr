@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /eileen-campbell-reeds-anatomy-schism/
 redirect_from:
-  - /?p=349
   - /2016/08/30/eileen-campbell-reeds-anatomy-schism/
 image:
   title: /wp-content/uploads/2016/08/CampbellReed-Schism-isbn-1621901785-rev-678x1024.jpg

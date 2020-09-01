@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /save-the-date-for-nabpr-in-denver-at-the-sblaar18/
 redirect_from:
-  - /?p=1226
   - /2018/10/10/save-the-date-for-nabpr-in-denver-at-the-sblaar18/
 image:
   title: /wp-content/uploads/2018/10/NABPR-2018-rev3-min.png

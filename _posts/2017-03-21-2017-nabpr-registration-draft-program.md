@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /2017-nabpr-registration-draft-program/
 redirect_from:
-  - /?p=458
   - /2017/03/21/2017-nabpr-registration-draft-program/
 image:
   title: /wp-content/uploads/2017/03/Att_building_nashville.jpg

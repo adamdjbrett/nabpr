@@ -8,7 +8,6 @@ teaser: "Recent past NABPR president, Rev. Dr. Eileen Campbell-Reed has been wor
 layout: page
 permalink: /state-of-clergywomen-report/
 redirect_from:
-  - /?p=1273
   - /2018/10/25/state-of-clergywomen-report/
 image:
   title: /wp-content/uploads/2018/10/STATE-OF-CLERGYWOMEN-FLYER-COVER-featured-image-768x570.png

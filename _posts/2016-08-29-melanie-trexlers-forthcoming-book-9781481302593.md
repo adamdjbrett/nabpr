@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /melanie-trexlers-forthcoming-book-9781481302593/
 redirect_from:
-  - /?p=339
   - /2016/08/29/melanie-trexlers-forthcoming-book-9781481302593/
 image:
   title: /wp-content/uploads/2016/08/trexler-evangelizing-lebanon-baylor-press.jpeg

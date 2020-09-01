@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /program-2017-annual-meeting-nabpr-aarsbl-boston/
 redirect_from:
-  - /?p=763
   - /2017/11/02/program-2017-annual-meeting-nabpr-aarsbl-boston/
 image:
   title: /wp-content/uploads/2017/11/NABPR-Boston-Meeting.png

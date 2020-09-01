@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /meeting-at-gardner-webb-program/
 redirect_from:
-  - /?p=831
   - /2018/02/19/meeting-at-gardner-webb-program/
 image:
   title: /wp-content/uploads/2017/09/gardner-webb-university.jpg

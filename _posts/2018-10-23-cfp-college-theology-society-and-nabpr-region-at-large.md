@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /cfp-college-theology-society-and-nabpr-region-at-large/
 redirect_from:
-  - /?p=1254
   - /2018/10/23/cfp-college-theology-society-and-nabpr-region-at-large/
 image:
   title: /wp-content/uploads/2018/10/holy-cross-college-south-bend-indiana.jpg

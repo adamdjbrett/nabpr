@@ -8,7 +8,6 @@ teaser: "Welcome to Raleigh and the annual meeting of the National Association o
 layout: page
 permalink: /2019-nabpr-meeting-program/
 redirect_from:
-  - /?p=1751
   - /2019/03/12/2019-nabpr-meeting-program/
 image:
     title: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg

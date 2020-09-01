@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /2019-dissertation-scholarship-announcement/
 redirect_from:
-  - /?p=1223
   - /2018/10/09/2019-dissertation-scholarship-announcement/
 image:
   title: /images/logos/NABPR-header.png

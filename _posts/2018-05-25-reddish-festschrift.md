@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /reddish-festschrift/
 redirect_from:
-  - /?p=1093
   - /2018/05/25/reddish-festschrift/
   - /2018-05-25-reddish-festschrift/
 image:

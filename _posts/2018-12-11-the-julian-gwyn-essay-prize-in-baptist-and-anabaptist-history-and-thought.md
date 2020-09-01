@@ -8,7 +8,6 @@ teaser: "The Acadia Centre for Baptist and Anabaptist Studies (ACBAS) is pleased
 layout: page
 permalink: /the-julian-gwyn-essay-prize-in-baptist-and-anabaptist-history-and-thought/
 redirect_from:
-  - /?p=1381
   - /2018/12/11/the-julian-gwyn-essay-prize-in-baptist-and-anabaptist-history-and-thought/
 image:
   title: /wp-content/uploads/2018/12/ACBAS-Essay-Prize-IMG.jpg

@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /penultimate-nabpr-2017-program-draft/
 redirect_from:
-  - /?p=574
   - /2017/05/20/penultimate-nabpr-2017-program-draft/
 categories:
   - Announcements

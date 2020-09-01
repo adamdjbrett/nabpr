@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
 redirect_from:
-  - /?p=1143
   - /2018/06/18/announcing-the-publication-of-the-sub-loco-notes-in-the-torah/
 image:
   title: /wp-content/uploads/2018/06/mynatt_the-sub-loco-notes-in-the-torah-of-the-biblia-hebraica-stuttgartensia-203x300.png

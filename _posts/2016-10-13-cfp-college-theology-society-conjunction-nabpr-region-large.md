@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /cfp-college-theology-society-conjunction-nabpr-region-large/
 redirect_from:
-  - /?p=395
   - /2016/10/13/cfp-college-theology-society-conjunction-nabpr-region-large/
 image:
   title: /wp-content/uploads/2016/10/OchreCourt234.jpg

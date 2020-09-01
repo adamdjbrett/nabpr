@@ -10,7 +10,6 @@ the areas of theology or the history of Christianity are especially welcome."
 layout: page
 permalink: /dunn-chair-baptist-studies/
 redirect_from:
-  - /?p=1261
   - /2018/10/23/job-james-and-marilyn-dunn-chair-of-baptist-studies-wake-forest-university-school-of-divinity/
   - /job-james-and-marilyn-dunn-chair-of-baptist-studies-wake-forest-university-school-of-divinity/
 image:

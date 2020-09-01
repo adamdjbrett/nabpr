@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /2018-nabpr-membership-dues-renewal/
 redirect_from:
-  - /?p=795
   - /2018/01/05/2018-nabpr-membership-dues-renewal/
 image:
   title: /images/logos/NABPR-header.png

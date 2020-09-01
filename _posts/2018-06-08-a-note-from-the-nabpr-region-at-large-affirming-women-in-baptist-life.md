@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /a-note-from-the-nabpr-region-at-large-affirming-women-in-baptist-life/
 redirect_from:
-  - /?p=1136
   - /2018/06/08/a-note-from-the-nabpr-region-at-large-affirming-women-in-baptist-life/
 image:
   title: /wp-content/uploads/2017/06/nabpr-site-icon.png

@@ -7,7 +7,6 @@ teaser: |
 layout: page
 permalink: /proposal-baylor-university-press-nabpr-perspectives-in-religious-studies/
 redirect_from:
-  - /?p=1042
   - /2018/05/11/proposal-baylor-university-press-nabpr-perspectives-in-religious-studies/
 image: /wp-content/uploads/2018/05/NABPR-Baylor-Press-Perspectives-Religious-Studies.png
 categories:

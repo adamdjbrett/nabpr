@@ -8,7 +8,6 @@ teaser: |
 layout: page
 permalink: /blessed-among-women-mothers-motherhood-new-testament/
 redirect_from:
-  - /?p=782
   - /2017/12/04/blessed-among-women-mothers-motherhood-new-testament/
 image:
   title: /wp-content/uploads/2017/12/9780190677084.jpeg

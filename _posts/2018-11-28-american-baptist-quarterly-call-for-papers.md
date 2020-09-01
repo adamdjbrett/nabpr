@@ -8,7 +8,6 @@ teaser: "ABQ is the peer-reviewed journal of the American Baptist Historical Soc
 layout: page
 permalink: /american-baptist-quarterly-call-for-papers/
 redirect_from:
-  - /?p=1348
   - /2018/11/28/american-baptist-quarterly-call-for-papers/
 categories:
   - CFP

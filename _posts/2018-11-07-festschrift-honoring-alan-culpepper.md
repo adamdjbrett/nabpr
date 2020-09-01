@@ -8,7 +8,6 @@ teaser: "There will be a presentation for a festschrift honoring Alan Culpepper 
 layout: page
 permalink: /festschrift-honoring-alan-culpepper/
 redirect_from:
-  - /?p=1301
   - /2018/11/07/festschrift-honoring-alan-culpepper/
 image:
   title: /wp-content/uploads/2018/11/festschrift-Alan-Culpepper.jpg

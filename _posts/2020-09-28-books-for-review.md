@@ -17,9 +17,9 @@ tags:
 # Styling
 #
 image:
-  header: "/images/logo/NABPR-header.png"
-  thumb: "/images/logo/nabpr-logo-only-150x150.png"
-  homepage: "/images/logo/NABPR-header.png"
+  header: "/images/logos/NABPR-header.png"
+  thumb: "/images/logos/nabpr-logo-only-150x150.png"
+  homepage: "/images/logos/NABPR-header.png"
   caption: "NABPR Logo"
   caption_url: "https://nabpr.org"
 ---

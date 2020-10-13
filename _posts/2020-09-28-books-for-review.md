@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "cfp"
+subheadline: "CFP"
 title: "Books for Review in Perspectives in Religious Studies"
 teaser: "From the PRSt Editorial Staff"
 meta_description: "From the PRSt Editorial Staff"

@@ -13,6 +13,7 @@ tags:
   - teaching
   - religion
   - CTS
+  - collegetheology
 image:
   title: "/images/schools/Spring_Hill_College_Quad_04-717px.jpeg"
   thumb: "/images/thumbs/Spring_Hill_College_Quad_04_tn.jpg"

@@ -34,7 +34,7 @@ There is abundant evidence that we live in a dehumanizing world: Colonialism. In
 
 The NABPR Region-at-Large section of CTS will convene several sessions during the CTS Annual Convention. In order to contribute to the exploration of the CTS convention theme, we encourage proposals of papers from the NABPR membership that address the following themes:
 
-1. Baptist engagements with Pope Francis’s encyclical on human fraternity [_Fratelli Tutti_](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)(October 3, 2020; [vatican.va](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html))
+1. Baptist engagements with Pope Francis’s encyclical on human fraternity [_Fratelli Tutti_](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (October 3, 2020; [vatican.va](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html))
 
 2. Critical explorations of Baptist systematic/constructive expressions of theological anthropology in relation to the flourishing of life in a dehumanizing world
 

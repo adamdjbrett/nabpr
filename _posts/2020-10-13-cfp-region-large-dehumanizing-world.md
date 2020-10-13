@@ -13,14 +13,14 @@ tags:
   - teaching
   - religion
   - CTS
-  image:
-    title: "/images/schools/Spring_Hill_College_Quad_04-717px.jpeg"
-    thumb: "/images/thumbs/Spring_Hill_College_Quad_04_tn.jpg"
-    homepage: "/images/schools/Spring_Hill_College_Quad_04-717x622px.jpeg"
-    caption: "St. Joseph Chapel at Spring Hill College built in 1910. Photo by Altairisfar, Public Domain."
-    caption_url: "https://commons.wikimedia.org/wiki/File:Spring_Hill_College_Quad_04.JPG#/media/File:Spring_Hill_College_Quad_04.JPG"
-  author: adamdjbrett
-  show_meta: true
+image:
+  title: "/images/schools/Spring_Hill_College_Quad_04-717px.jpeg"
+  thumb: "/images/thumbs/Spring_Hill_College_Quad_04_tn.jpg"
+  homepage: "/images/schools/Spring_Hill_College_Quad_04-717x622px.jpeg"
+  caption: "St. Joseph Chapel at Spring Hill College built in 1910. Photo by Altairisfar, Public Domain."
+  caption_url: "https://commons.wikimedia.org/wiki/File:Spring_Hill_College_Quad_04.JPG#/media/File:Spring_Hill_College_Quad_04.JPG"
+author: adamdjbrett
+show_meta: true
 ---
 
 **NABPR Region-at-Large Call for Papers** 

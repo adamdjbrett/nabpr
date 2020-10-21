@@ -8,9 +8,7 @@ layout: page
 permalink: /membership/membership-dues/
 breadcrumb: true
 ---
-## Membership Dues to NABPR
-
-Please use the following table to calculate your annual dues. Send check payable to The National Association of Baptist Professors of Religion (or nabpr) to:
+Members can pay dues online or by check.  Online dues can be paid by credit card at the portal below.  If you need to request a check from your institution, use the table below to calculate your annual dues. Send check payable to The National Association of Baptist Professors of Religion (or nabpr) to:
 
 NABPR c/o Religion Department Baylor University One Bear Place #97294 Waco, TX 76798-7294
 
@@ -18,9 +16,6 @@ Please include your member number (check the mailing label of your most recent n
 
 The official dues schedule for NABPR is below. In 1992 an income based dues structure was adopted and this model had been used for over twenty-five years.  It had never been updated for inflation, and it was always difficult to know exactly how much your dues should be.  Thus, a change was requested, and an ad hoc Committee reviewed the dues structure.  After much, deliberation and voting upon the dues structure at the May 2019 meeting the new revised flat rate dues structure passed and has been implemented as of October 3, 2019. Hopefully this clarified dues structure will be easier for everyone to use. _Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. I sincerely appreciate your willingness to join and renew membership to our organization._
 
-Daniel Mynatt
-
-Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)  
 
 
 | Position      | Dues         |
@@ -31,7 +26,7 @@ Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
 
 ***
 
-#### Pay NABPR Membership Dues Online via PayPal  
+## Pay NABPR Membership Dues Online via PayPal  
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -48,4 +43,4 @@ Executive Secretary-Treasurer [dmynatt@umhb.edu](mailto:dmynatt@umhb.edu)
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-##### All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify.   
+_All dues paying members receive a subscription to [Perspectives in Religious Studies](https://nabpr.org/publications/). A copy of the journal will be mailed to you whichever mailing address you specify._

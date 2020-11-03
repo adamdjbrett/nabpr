@@ -44,15 +44,15 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 *   **2007**, Chad Eggleston, Dean of Arts, Sciences, and Business, McClennan Community College in Waco,
 *   **2008**, Trey Gilliam, Associate Professor of Religion at Chowan University
 *   **2009**, David Moffitt, Senior Lecturer in the School of Divinity at the University of St. Andrews in Scotland
-*   **2010**, Derek Hatch, Associate Professor Christian Studies at Howard Payne University
+*   **2010**, Derek Hatch, Endowed Chair of Baptist Studies and Associate Professor of Religion at Georgetown College
 *   **2011**, David King, Karen Lake Buttrey Director, Lake Institute on Faith & Giving and Assistant Professor, Philanthropic Studies at Indiana University
-*   **2012**, Melanie Trexler, is Assistant Professor of Theology at Valparaiso University
+*   **2012**, Melanie Trexler, Roanoke College
 *   **2013**, Courtney Pace, Assistant Professor of Church History, Memphis Theological Seminary
-*   **2014**, Amy Chilton-Thompson, Adjunct Professor of Theology at Fuller Theological Seminary and Azusa Pacific University
+*   **2014**, Amy Chilton, Wingate University
 *   **2015**, Jordan Rowan Fannin, Assistant Professor in the Department of Religion and Philosophy at Berry College
 *   **2016**, No Award
-*   **2017**, [João Chaves](/joao-chaves/), Lecturer at the Baptist University of the Américas
+*   **2017**, [João Chaves](/joao-chaves/), Hispanic Theological Initiative
 *   **2018**, [Kathryn H. House](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Boston University School of Theology
-*   **2018**, [Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Florida State University, Department of Religion
-* **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), Garrett-Evangelical Theological Seminary
+*   **2018**, [Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Hartford Institute of Religion Research
+* **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), First St. Charles United Methodist Church
 * **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University

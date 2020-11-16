@@ -20,7 +20,7 @@ NABPR c/o Joyce Swoveland,
 Department of Religion,  
 Baylor University  
 One Bear Place \#97284   
-Waco, TX 76798    
+Waco, TX 76798-7284    
 
 - **phone**: +1-254-710-3758  
 - **fax:** +1-254-710-3740  

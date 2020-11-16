@@ -40,7 +40,7 @@ The National Association of Baptist Professors of Religion (NABPR) invites paper
 Proposals must be received by January 15, 2018.  Send a 300-word abstract to:
 
 <p style="padding-left: 30px;">
-  <strong>Doug Weaver</strong><br /> <strong> Department of Religion</strong><br /> <strong> Baylor University</strong><br /> <strong> One Bear Place # 97284</strong><br /> <strong> Waco, TX 76798-7284</strong><br /> <a href="mailto:Doug_Weaver@baylor.edu"><strong> Doug_Weaver@baylor.edu</strong></a>
+  <strong>Doug Weaver</strong><br /> <strong> Department of Religion</strong><br /> <strong> Baylor University</strong><br /> <strong> One Bear Place #97284</strong><br /> <strong> Waco, TX 76798-7284</strong><br /> <a href="mailto:Doug_Weaver@baylor.edu"><strong> Doug_Weaver@baylor.edu</strong></a>
 </p>
 
   * Papers will be scheduled into a 30 minute time period, including discussion.

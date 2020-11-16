@@ -189,7 +189,7 @@ http://nabpr.org
 
 One Bear Place \#97284
 
-Waco, Texas 76798
+Waco, Texas 76798-7284
 
 USA
 

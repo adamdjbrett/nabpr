@@ -35,11 +35,6 @@
   class: "network-zotero"
   title: "Find PRSt on Zotero"
 
-- name: "Mendeley"
-  url: "https://www.mendeley.com/groups/10136871/perspectives-in-religious-studies/"
-  class: "network-mendeley"
-  title: "Find PRSt on Mendeley"
-
 - name: "Info Matrix"
   url: "http://miar.ub.edu/issn/0093-531X"
   class: "network-infomatrix"

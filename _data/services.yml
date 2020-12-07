@@ -20,10 +20,6 @@
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-- name: "Feed Burner"
-  url: "http://feeds.feedburner.com/NABPR"
-  title: "Google FeedBurner"
-
 - name: "Verify SSL"
   url: "https://www.sslshopper.com/ssl-checker.html#hostname=nabpr.org"
   title: "External Verifcation of NABPR's SSL certificate"

@@ -26,20 +26,25 @@ Waco, TX 76798-7284
 - **fax:** +1-254-710-3740  
 - **email:** <Joyce_Swoveland@baylor.edu>  
 
-visit [contact](/contact/) for more detailed contact information
-### Social media
-| [Facebook](https://www.facebook.com/nabpr) | [Twitter](https://twitter.com/nabpr1) | [LinkedIn](http://linkedin.com/company/national-association-of-baptist-professors-of-religion)
+visit [contact](/contact/) for more detailed contact information.  
+
+### Follow us Social Media
+- [Facebook](https://www.facebook.com/nabpr) |
+- [Twitter](https://twitter.com/nabpr1)
+- [LinkedIn](http://linkedin.com/company/national-association-of-baptist-professors-of-religion)
 
 ### Executive Secretary-Treasurer
 #### Danny Mynatt
   - <dmynatt@umhb.edu>
+
+
 ### Assistant Executive Secretary, Social Media Coordinator and Web Administrator
 #### Adam DJ Brett
  - [adamdjbrett.com](https://adamdjbrett.com)
- - [contact](https://adamdj.tel)
+ - [contact Adam](https://adamdj.tel)
  - [github](https://github.com/adamdjbrett)
  - [twitter](https://twitter.com/__adjb)
- - [quotidian.pub](https://quotidian.pub)
+ - [Quotidian](https://quotidian.pub)  
 
 ### Copyright
   - Creative Commons
@@ -51,4 +56,4 @@ visit [contact](/contact/) for more detailed contact information
   - view our [Privacy Policy](/privacy-policy/)
 
 ### [Humans.txt](../humans.txt)
-For more site credits please see the [README](../README.md) and [Humans.txt](../humans.txt)
+For more site credits please see the [README](/README.md) and [Humans.txt](/humans.txt)

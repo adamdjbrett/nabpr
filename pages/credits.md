@@ -41,9 +41,9 @@ visit [contact](/contact/) for more detailed contact information.
 ### Assistant Executive Secretary, Social Media Coordinator and Web Administrator
 #### Adam DJ Brett
  - [adamdjbrett.com](https://adamdjbrett.com)
- - [contact Adam](https://adamdj.tel)
- - [github](https://github.com/adamdjbrett)
- - [twitter](https://twitter.com/__adjb)
+ - [Contact](https://adamdj.tel)
+ - [Github](https://github.com/adamdjbrett)
+ - [Twitter](https://twitter.com/__adjb)
  - [Quotidian](https://quotidian.pub)  
 
 ### Copyright

@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Publications"
   url: '/publications/'
-  text: 'NABPR publishes a journal, a Bible dictionary, a Bible commentary series, and a series on Baptist Identities.'
+  text: 'We publish a journal and several book series.'
   image: /images/stock/books-1655783_302x182.jpg
 widget3:
   title: "Renew Your Membership"

@@ -56,4 +56,4 @@ visit [contact](/contact/) for more detailed contact information.
   - view our [Privacy Policy](/privacy-policy/)
 
 ### [Humans.txt](../humans.txt)
-For more site credits please see the [README](/README.md) and [Humans.txt](/humans.txt)
+For more site credits please see [Humans.txt](/humans.txt)

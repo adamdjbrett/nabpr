@@ -29,7 +29,7 @@ Waco, TX 76798-7284
 visit [contact](/contact/) for more detailed contact information.  
 
 ### Follow us Social Media
-- [Facebook](https://www.facebook.com/nabpr) |
+- [Facebook](https://www.facebook.com/nabpr)
 - [Twitter](https://twitter.com/nabpr1)
 - [LinkedIn](http://linkedin.com/company/national-association-of-baptist-professors-of-religion)
 

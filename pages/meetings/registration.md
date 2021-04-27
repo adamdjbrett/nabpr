@@ -8,7 +8,8 @@ layout: page
 permalink: /meetings/registration/
 breadcrumb: true
 ---
-Registration for the 2021 The National Association of Baptist Professors of Religion Annual Meeting at Baylor University is now open.
+Registration for the 2021 The National Association of Baptist Professors of Religion Annual Meeting at Baylor University is now open. It is $10 for students, contingent faculty, and retired NABPR members and $25 for full time faculty.
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_xclick" /><input name="business" type="hidden" value="joyce_swoveland@baylor.edu" /><input name="lc" type="hidden" value="US" /><input name="item_name" type="hidden" value="Conference Registration" /><input name="button_subtype" type="hidden" value="services" /><input name="no_note" type="hidden" value="0" /><input name="currency_code" type="hidden" value="USD" /><input name="bn" type="hidden" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
 <table>
 <tbody>

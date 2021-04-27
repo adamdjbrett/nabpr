@@ -1,7 +1,7 @@
 ---
 id: 75
 title: Meetings
-date: 2016-05-20T19:19:17+00:00
+date: 2021-04-27T00:00:01+00:00
 author: adamdjbrett
 teaser: |
 layout: page
@@ -10,7 +10,7 @@ image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## Upcoming Meetings
-  * 2021  
+  * [2021 registration is now open](/meetings/registration/)
 
 ## Past NABPR Meetings:
 * [2020 Annual Meeting, Baylor University, Waco, Texas **Cancelled**](/covid-19-nabpr-meeting-notice/)

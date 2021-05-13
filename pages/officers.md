@@ -12,7 +12,7 @@ breadcrumb: true
 
   * PRESIDENT: [Christine Jones](https://www.cn.edu/directory?person=280), Carson Newman University, (<cjones@cn.edu>)
   * VICE-PRESIDENT: [Barry Jones](https://directory.campbell.edu/people/barry-a-jones/), Campbell University, (<jonesb@campbell.edu>)
-  * EXECUTIVE SECRETARY-TREASURER: [Danny Mynatt](http://hr.umhb.edu/profile/Mynatt/Daniel), University of Mary Hardin-Baylor (<dmynatt@umhb.edu>)
+  * EXECUTIVE SECRETARY-TREASURER: Danny Mynatt, Pfeiffer University (<Daniel.Mynatt@pfeiffer.edu>)
   * ASSISTANT EXECUTIVE SECRETARY, SOCIAL MEDIA COORDINATOR AND WEB ADMINISTRATOR: [Adam DJ Brett](http://adamdjbrett.com), Syracuse University (<adam@adamdjbrett.com>)
   * SENIOR EDITOR, [Perspectives in Religious Studies](http://baylor.edu/prs): [Mikeal Parsons](http://www.baylor.edu/religion/index.php?id=931782), Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 (<mike_parsons@baylor.edu>)
   * JOURNAL EDITOR, [PRS](http://baylor.edu/prs): Mandy McMichael, Department of Religion, Baylor University, One Bear Place #97284, Waco, TX, 76798 (<Mandy_McMichael@baylor.edu>)

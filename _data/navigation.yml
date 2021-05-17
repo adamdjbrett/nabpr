@@ -23,6 +23,9 @@
   - title: "Privacy Policy"
     url: "/privacy-policy/"
 
+- title: "Donate"
+  url: "/donate/"
+
 - title: "Membership"
   url: "/membership/"
   side: left

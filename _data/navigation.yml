@@ -25,6 +25,7 @@
 
 - title: "Donate"
   url: "/donate/"
+  side: left
 
 - title: "Membership"
   url: "/membership/"

@@ -54,6 +54,7 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 *   **2017**, [João Chaves](/joao-chaves/), Hispanic Theological Initiative
 *   **2018**, [Kathryn H. House](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Boston University School of Theology
 *   **2018**, [Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Hartford Institute of Religion Research
-* **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), First St. Charles United Methodist Church
-* **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University
-* **2020**, Emily Buck
+*   **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), First St. Charles United Methodist Church
+*   **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University
+*   **2020**, Emily Buck-Mendenhall, Fuller Theological Seminary
+*   **2021**, Matthew Beal, Boston University School of Theology

@@ -1,8 +1,20 @@
 - menu_name: "Services"
 
+- name: "About"
+  url: "/info/"
+  title: "About NABPR"
+
+- name: Blog
+  url: "/blog/"
+  title: "blog"
+
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
+
+- name: "Dissertation"
+  url: "/dissertation/"
+  title: "Dissertation Scholarship"
 
 - name: "Give"
   url: "/donate/"
@@ -11,6 +23,18 @@
 - name: "Officers"
   url: "/officers/"
   title: "Officers"
+
+- name: "Publications"
+  url: "/publications/"
+  title: "publications"
+
+- name: "Meetings"
+  url: "/meetings/"
+  title: "Meetings"
+
+- name: "Membership Dues"
+  url: "/membership/membership-dues/"
+  title: "Membership Dues"
 
 - name: "RSS"
   url: "/feed.xml"

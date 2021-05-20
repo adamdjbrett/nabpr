@@ -3,7 +3,6 @@ layout: page
 subheadline: "Dissertation"
 title: "Congratulations to 2021 Dissertation Scholarship Awardee Matthew Beal"
 teaser: "At the Annual Meeting on May 17, 2021 NABPR awarded the dissertation scholarship to Matthew Beal"
-author: adamdjbrett
 header: no
 categories:
   - Announcements

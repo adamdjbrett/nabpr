@@ -57,4 +57,4 @@ All materials must be submitted electronically to Dr. Daniel Mynatt, National Ex
 *   **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), First St. Charles United Methodist Church
 *   **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University
 *   **2020**, Emily Buck-Mendenhall, Fuller Theological Seminary
-*   **2021**, Matthew Beal, Boston University School of Theology
+*   **2021**, [Matthew Beal](/2021-dissertation-scholarship-awardee-matthew-beal/), Boston University School of Theology

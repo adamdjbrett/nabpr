@@ -13,7 +13,7 @@ tags:
   - dissertation
   - scholarship
 image:
-  title: "/images/matthew-beal_sm.jpg"
+  title: "/images/matthew-beal.jpg"
   thumb: "/images/thumbs/matthew-beal_tn.jpg"
   homepage: "/images/stock/retrosupply-jLwVAUtLOAQ-unsplash-typerwriter-970x370.jpg"
   caption: "Matthew Beal profile photo"

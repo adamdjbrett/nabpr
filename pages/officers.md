@@ -10,7 +10,7 @@ breadcrumb: true
 ---
 ## Officers 2019-2020
 
-  * PRESIDENT: [Christine Jones](https://www.cn.edu/directory?person=280), Carson Newman University, (<cjones@cn.edu>)
+  * PRESIDENT: Christine Jones, Associate Pastor at King's Cross Church in Tullahoma, TN.
   * VICE-PRESIDENT: [Barry Jones](https://directory.campbell.edu/people/barry-a-jones/), Campbell University, (<jonesb@campbell.edu>)
   * EXECUTIVE SECRETARY-TREASURER: Danny Mynatt, Pfeiffer University (<Daniel.Mynatt@pfeiffer.edu>)
   * ASSISTANT EXECUTIVE SECRETARY, SOCIAL MEDIA COORDINATOR AND WEB ADMINISTRATOR: [Adam DJ Brett](http://adamdjbrett.com), Syracuse University (<adam@adamdjbrett.com>)

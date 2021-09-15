@@ -13,7 +13,7 @@ tags:
   - essays-in-honor
 image:
   title: "/images/Doug-Weaver-Baylor-University-169550.jpg"
-  thumb: "/images/thumbs/DDoug-Weaver-Baylor-University-169550-tn.jpg"
+  thumb: "/images/thumbs/Doug-Weaver-Baylor-University-169550-tn.jpg"
   homepage: "/images/Doug-Weaver-Baylor-University-header.jpg"
   caption: "Douglas Weaver Profile Photo via Baylor University"
   #caption_url: "https://example.com"
@@ -24,3 +24,7 @@ author: cpace
 NABPR rightly honored Rev. Dr. C. Douglas Weaver with a festschrift in 2020. Weaver’s teaching and research has expanded our understanding of Baptist identities, diversifying narratives, and complicating research methodologies to tell truer stories. Contributors represent Weaver’s commitment to diversity in his academic mentorship and service, demonstrating how Weaver has helped budding and even established scholars widen their intellectual imaginations, informed by intersectional justice consciousness. The collection also demonstrates how Weaver’s pastoral investment in his graduate students has shaped the landscape of Baptist higher education nationally, and globally.
 
 The Festschrift is published in in **Perspectives in Religious Studies**, Volume 47, Summer 2020, Number 2 and entitled **"Glory!": Essays in Honor of C. Douglas Weaver**.
+
+
+![Doug Weaver with Courtney Pace](/images/Doug-Weaver-Courtney-Pace.jpeg)
+Drs. Doug Weaver and Courtney Pace celebrating, Dr. Pace graduation from Baylor University.

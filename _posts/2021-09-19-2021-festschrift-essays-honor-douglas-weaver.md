@@ -25,6 +25,7 @@ NABPR rightly honored Rev. Dr. C. Douglas Weaver with a festschrift in 2020. Wea
 
 
 ![Doug Weaver with Courtney Pace](/images/Doug-Weaver-Courtney-Pace.jpeg)
+
 Drs. Doug Weaver and Courtney Pace celebrating, Dr. Pace graduation from Baylor University.
 
 ***

@@ -12,9 +12,9 @@ tags:
   - festschrift
   - essays-in-honor
 image:
-  title: "/images/Doug-Weaver-Baylor-University.jpg"
-  thumb: "/images/thumbs/Doug-Weaver-Baylor-University-tn.jpg"
-  homepage: "/images/Doug-Weaver-Baylor-University.jpg"
+  title: "/images/Doug-Weaver-Baylor-University-169550.jpg"
+  thumb: "/images/thumbs/DDoug-Weaver-Baylor-University-169550-tn.jpg"
+  homepage: "/images/Doug-Weaver-Baylor-University-169550.jpg"
   caption: "Douglas Weaver and Courtney Pace"
   #caption_url: "https://example.com"
 show_meta: true

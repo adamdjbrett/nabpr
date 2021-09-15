@@ -14,7 +14,7 @@ tags:
 image:
   title: "/images/Doug-Weaver-Baylor-University-169550.jpg"
   thumb: "/images/thumbs/DDoug-Weaver-Baylor-University-169550-tn.jpg"
-  homepage: "/images/Doug-Weaver-Baylor-University-169550.jpg"
+  homepage: "/images/Doug-Weaver-Baylor-University-header.jpg"
   caption: "Douglas Weaver Profile Photo via Baylor University"
   #caption_url: "https://example.com"
 show_meta: true

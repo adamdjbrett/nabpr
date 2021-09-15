@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Festschrift"
-title: "Congratulations to  Festschrift Honoree Doug Weaver"
+title: "Congratulations to Festschrift Honoree Doug Weaver"
 teaser: "At the Annual Meeting on May 17, 2021 NABPR honored Douglas Weaver of Baylor University with a Festschrift."
 header: no
 categories:

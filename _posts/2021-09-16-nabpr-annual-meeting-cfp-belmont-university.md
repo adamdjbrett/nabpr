@@ -22,7 +22,7 @@ image:
   caption_url: "https://belmont.edu"
 author: adamdjbrett
 show_meta: true
-published: false
+published: true
 ---
 ## Call for Papers
 

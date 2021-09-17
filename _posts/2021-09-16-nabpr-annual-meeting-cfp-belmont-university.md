@@ -14,7 +14,7 @@ tags:
   - religion
   - CTS
   - collegetheology
-image:
+header:
   image_fullwidth:: "/images/schools/Belmont-University-previewday_header2.jpg"
   thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"
   homepage: "/images/schools/Belmont-University-previewday_header2.jpg"

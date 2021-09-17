@@ -17,7 +17,7 @@ tags:
 image:
   title: "/images/schools/Belmont-University-previewday_header2.jpg"
   thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"
-  homepage: "Belmont-University-previewday_header2.jpg"
+  homepage: "/images/schools/Belmont-University-previewday_header2.jpg"
   caption: "Belmont Quandrangle, via Belmont University."
   caption_url: "https://belmont.edu"
 author: adamdjbrett

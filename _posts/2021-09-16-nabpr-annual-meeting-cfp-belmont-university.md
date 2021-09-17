@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Call for Papers"
 title: "NABPR Region-at-Large Call for Papers"
-teaser: "The Human in a Dehumanizing World: Re-Examining Theological Anthropology and Its Implications."
+teaser: "National Association of Baptist Professors of Religion Annual Meeting at Belmont University, Nashville, TN, May 23 – 25, 2022"
 meta_description: "2021 Meeting of the National Association of Baptist Professors of Religion Region-at-Large in conjunction with the 2021 College Theology Society Annual Convention, Spring Hill College, Mobile, Alabama, June 3-5, 2021"
 categories:
   - CFP
@@ -15,7 +15,7 @@ tags:
   - CTS
   - collegetheology
 image:
-  title: "/images/schools/Belmont-University-previewday_header2.jpg"
+  image_fullwidth:: "/images/schools/Belmont-University-previewday_header2.jpg"
   thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"
   homepage: "/images/schools/Belmont-University-previewday_header2.jpg"
   caption: "Belmont Quandrangle, via Belmont University."

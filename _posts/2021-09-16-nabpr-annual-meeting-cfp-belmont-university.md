@@ -14,8 +14,8 @@ tags:
   - religion
   - CTS
   - collegetheology
-header:
-  image_fullwidth:: "/images/schools/Belmont-University-previewday_header2.jpg"
+image:
+  image_fullwidth: "/images/schools/Belmont-University-previewday_header2.jpg"
   thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"
   homepage: "/images/schools/Belmont-University-previewday_header2.jpg"
   caption: "Belmont Quandrangle, via Belmont University."

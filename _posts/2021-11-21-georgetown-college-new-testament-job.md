@@ -2,7 +2,6 @@
 subheadline: "Job"
 title: "Georgetown College: Assistant Professor of New Testament (Religion Department)"
 date: 2021-11-20T21:14:20+00:00
-author: adamdjbrett
 teaser: |
 layout: page
 header:
@@ -21,6 +20,9 @@ tags:
   - new-Testament
   - faculty
   - job opening
+author: adamdjbrett
+show_meta: true
+published: true  
 ---
 # Job Description
 Assistant Professor of New Testament (Religion Department)
@@ -37,3 +39,7 @@ Ph.D. in New Testament Studies
 Medical Insurance, Life Insurance, Dental Insurance, Vision Insurance, Long Term Disability, 401K/403b Plan
 
 ## [Apply now](https://internal.joblinkapply.com/Joblink/6682/Job/Index/514410/assistant-professor-of-new-testament?ShowBackButton=True&BackUrl=%252fJoblink%252f6682%252fSearch%252fResults%253fIsInternal%253dTrue%2526savedSearchId%253d85e341d6-95f0-4160-aa22-7c49a0b7b4b0&fbclid=IwAR1RZEavA0IHKm29gGdhYPV4hS9H0n_IctN9rRy1N_JRGYbguVYfJHsFeBU)
+
+
+
+  

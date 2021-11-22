@@ -6,13 +6,13 @@ teaser: |
 layout: page
 header:
   image_fullwidth: "/images/schools/georgetown-college.jpg"
-  caption: 'Georgetown College'
-  caption_url: 'http://www.georgetowncollege.edu/'
+  caption: "Georgetown College"
+  caption_url: "http://www.georgetowncollege.edu/"
 image:
-  thumb: /images/georgetown-college-tn.jpg
-  homepage: images/schools/georgetown-college-970.jpg
-  caption: 'Georgetown College'
-  caption_url: 'http://www.georgetowncollege.edu/'
+  thumb: "/images/georgetown-college-tn.jpg"
+  homepage: "images/schools/georgetown-college-970.jpg"
+  caption: "Georgetown College"
+  caption_url: "http://www.georgetowncollege.edu/"
 categories:
   - Job Listings
 tags:

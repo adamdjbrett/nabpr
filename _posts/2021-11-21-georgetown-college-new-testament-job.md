@@ -1,6 +1,6 @@
 ---
 subheadline: "Job"
-title: "Georgetown College: Assistant Professor of New Testament (Religion Department)"
+title: "Georgetown College: Assistant Professor of New Testament"
 date: 2021-11-20T21:14:20+00:00
 teaser: |
 layout: page

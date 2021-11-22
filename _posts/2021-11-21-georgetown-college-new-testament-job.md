@@ -5,9 +5,13 @@ date: 2021-11-20T21:14:20+00:00
 author: adamdjbrett
 teaser: |
 layout: page
+header:
+  image_fullwidth: "/images/schools/georgetown-college.jpg"
+  caption: 'Georgetown College'
+  caption_url: 'http://www.georgetowncollege.edu/'
 image:
-  title: /images/schools/georgetown-college.jpg
   thumb: /images/georgetown-college-tn.jpg
+  homepage: images/schools/georgetown-college.jpg
   caption: 'Georgetown College'
   caption_url: 'http://www.georgetowncollege.edu/'
 categories:

@@ -10,7 +10,7 @@ header:
   caption_url: 'http://www.georgetowncollege.edu/'
 image:
   thumb: /images/georgetown-college-tn.jpg
-  homepage: images/schools/georgetown-college.jpg
+  homepage: images/schools/georgetown-college-970.jpg
   caption: 'Georgetown College'
   caption_url: 'http://www.georgetowncollege.edu/'
 categories:
@@ -39,7 +39,3 @@ Ph.D. in New Testament Studies
 Medical Insurance, Life Insurance, Dental Insurance, Vision Insurance, Long Term Disability, 401K/403b Plan
 
 ## [Apply now](https://internal.joblinkapply.com/Joblink/6682/Job/Index/514410/assistant-professor-of-new-testament?ShowBackButton=True&BackUrl=%252fJoblink%252f6682%252fSearch%252fResults%253fIsInternal%253dTrue%2526savedSearchId%253d85e341d6-95f0-4160-aa22-7c49a0b7b4b0&fbclid=IwAR1RZEavA0IHKm29gGdhYPV4hS9H0n_IctN9rRy1N_JRGYbguVYfJHsFeBU)
-
-
-
-  

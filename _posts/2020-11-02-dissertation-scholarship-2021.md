@@ -24,6 +24,7 @@ image:
   thumb: "/images/thumbs/cup-of-coffee-1280537-min3_tn.jpg"
   homepage: "/images/coffee/cup-of-coffee-1280537-1920x1277.jpg"
   caption: "coffee cup and laptop on a desk."
+author: adamdjbrett
 show_meta: true
 published: true
 ---

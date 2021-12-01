@@ -16,6 +16,7 @@ image:
   homepage: "/images/stock/ben-white-131958-unsplash.jpg"
   caption: "An Open Bible"
   caption_url: "https://pixabay.com/images/id-1659717/"
+author: adamdjbrett
 show_meta: true
 ---
 The recipient of the T. B. Maston Scholarship is to be someone who reflects the integrity, commitment, and passion of T. B. Maston in his or her scholarship and life. The candidate should be a graduate student or post-graduate student in the field of Christian ethics.

@@ -18,6 +18,7 @@ image:
   homepage: "/images/stock/books-1655783_1920.jpg"
   caption: "Read Old Books"
   caption_url: "https://pixabay.com/images/id-1659717/"
+author: adamdjbrett  
 show_meta: true
 ---
 The Angus Library and Archive at Regent’s Park College, University of Oxford, is the leading world-class

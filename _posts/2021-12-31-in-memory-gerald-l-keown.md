@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "memoriam"
-title: "In Memoriam"
+title: "We Remember Rev. Dr. Gerald L. Keown"
 teaser: "Rev. Dr. Gerald L. Keown, retired Associate Dean and Profesor Emeritus of Old Testament Interpretation at Gardner-Webb University School of Divinity, died on December 14, 2021."
 header: no
 categories:

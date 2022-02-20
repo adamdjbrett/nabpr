@@ -9,7 +9,7 @@ header:
   caption: "Georgetown College"
   caption_url: "http://www.georgetowncollege.edu/"
 image:
-  thumb: "/images/georgetown-college-tn.jpg"
+  thumb: "/images/thumbs/georgetown-college-tn.jpg"
   homepage: "images/schools/georgetown-college-970.jpg"
   caption: "Georgetown College"
   caption_url: "http://www.georgetowncollege.edu/"

@@ -8,4 +8,6 @@ layout: page
 permalink: /meetings/housing/
 breadcrumb: true
 ---
-2021 NABPR will take place virtually 
+Housing options
+Please see area hotels.
+On-campus housing is not available.  We apologize for any inconvenience.

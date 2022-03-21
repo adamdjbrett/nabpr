@@ -7,9 +7,11 @@ author: adamdjbrett
 teaser: "Welcome to Belmont University and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Association of Ministry Guidance Professionals."
 layout: page
 image:
-    title: /images/church/Belmont-University-previewday_header2.jpg
-    thumb: /images/thumbs/Belmont-University-previewday_header2-tn.jpg
-    caption: Belmont University
+  title: "/images/schools/Belmont-University-previewday_header2.jpg"
+  thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"
+  homepage: "/images/schools/Belmont-University-previewday_header2.jpg"
+  caption: "Belmont Quandrangle, via Belmont University."
+  caption_url: "https://belmont.edu"
 categories:
   - Schedule
 tags:

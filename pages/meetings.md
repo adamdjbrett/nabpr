@@ -11,6 +11,7 @@ breadcrumb: true
 ---
 ## Upcoming Meetings
   * [2022 registration is now open](/meetings/registration/)
+  * [2022 program](/2022-nabpr-meeting-program/)
 
 ## Past NABPR Meetings:
 * [2021 Annual Meeting, online (⤓ Download Program PDF)](/pdfs/NABPRProgramMay2021Virtual-web-archive.pdf)

@@ -6,6 +6,7 @@ modified: 2022-03-21T01:50:41+00:00
 author: adamdjbrett
 teaser: "Welcome to Belmont University and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Association of Ministry Guidance Professionals."
 layout: page
+header: no
 image:
   title: "/images/schools/Belmont-University-previewday_header2.jpg"
   thumb: "/images/thumbs/Belmont-University-previewday_header2-tn.jpg"

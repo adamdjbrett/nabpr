@@ -8,7 +8,12 @@ layout: page
 permalink: /meetings/registration/
 breadcrumb: true
 ---
-Registration for the 2021 The National Association of Baptist Professors of Religion Annual Meeting at Baylor University is now open. It is $10 for students, contingent faculty, and retired NABPR members and $25 for full time faculty.
+2022 Registration Conference Fee:  
+Before May 1: $120.  After May 1: $150
+
+All graduate student registration is compliments of NABPR.  
+
+<!-- outdated button 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_xclick" /><input name="business" type="hidden" value="joyce_swoveland@baylor.edu" /><input name="lc" type="hidden" value="US" /><input name="item_name" type="hidden" value="Conference Registration" /><input name="button_subtype" type="hidden" value="services" /><input name="no_note" type="hidden" value="0" /><input name="currency_code" type="hidden" value="USD" /><input name="bn" type="hidden" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
 <table>
@@ -25,3 +30,5 @@ Registration for the 2021 The National Association of Baptist Professors of Rel
 </tbody>
 </table>
 <input name="option_select0" type="hidden" value="Option 1 Student/Retired/Contingent Faculty" /><input name="option_amount0" type="hidden" value="10.00" /><input name="option_select1" type="hidden" value="Option 2 Full time Faculty" /><input name="option_amount1" type="hidden" value="25.00" /><input name="option_index" type="hidden" value="0" /><input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" /><img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
+
+-->

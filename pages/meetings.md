@@ -10,9 +10,10 @@ image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## Upcoming Meetings
-  * [2021 registration is now open](/meetings/registration/)
+  * [2022 registration is now open](/meetings/registration/)
 
 ## Past NABPR Meetings:
+* [2021 Annual Meeting, online (Program PDF)](/pdfs/)
 * [2020 Annual Meeting, Baylor University, Waco, Texas **Cancelled**](/covid-19-nabpr-meeting-notice/)
   * [2020 Annual Meeting Cancellation Notice](/covid-19-nabpr-meeting-notice/)
   * [2020 Call for Papers](/annual-call-papers-baylor-meeting/)

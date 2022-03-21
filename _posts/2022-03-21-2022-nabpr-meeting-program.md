@@ -282,7 +282,7 @@ Helen Lee Turner, Furman University
 
 #### AMGP Guest Lecture -- Room TBD
  
-Presiding: Jim Motes, Anderson University**
+Presiding: Jim Motes, Anderson University
 
 ### **Tuesday, May 21 – Plenary II** **3:30 – 5:00**
 

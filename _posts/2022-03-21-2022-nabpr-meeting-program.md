@@ -153,7 +153,8 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 
 ## Program
-### **Monday, May 20**
+
+### Monday, May 20
 
 - **3:00-6:00**        Registration Check-in -- Location TBD
 - **6:00**                **Dinner: TBD**
@@ -163,19 +164,20 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 
 
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-### **Tuesday morning, May 21 – Continental Breakfast**
 
-### **8:00 am – 8:30am**
+### Tuesday morning, May 21 – Continental Breakfast -- 8:00 am – 8:30am
+
  **Location TBD**
  **Tuesday, May 22 –Concurrent Session I**
  **8:30 – 10:15**
 
-### **Church History I**
+#### **Church History I**
 
 - _How the Catholic Church Defined the Nature, Role, and Purpose of Women in the Twentieth and Twenty-first Centuries_
 
@@ -185,7 +187,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
             Adam DJ Brett, Syracuse University
 
-### **Theology I**
+#### **Theology I**
 
 - _Where It All (Re)Starts: The Image of God, Created Sociality, and the Basis of “Our” Freedom_
 
@@ -199,7 +201,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
             Kathryn H. House, Louisville Presbyterian Theological Seminary
 
-### **Baptist Studies I**
+#### **Baptist Studies I**
 
 -  _R. Scarborough’s Writings on Evangelism and the Holiness Roots of Southern Baptist Denominationalism_
 
@@ -213,7 +215,7 @@ Christopher Schelin, Starr King School of Ministry
 
             Brian J. Whitfield, Mercer University
 
-### **Ministry Studies I**
+#### **Ministry Studies I**
 
 -  _Decentralized Theological Education for a Post-Pandemic World_
 
@@ -234,17 +236,18 @@ Dennis Horton, Baylor University
 
 ***  
 
-## **Tuesday, May 21—Joint Plenary Session I**
+### **Tuesday, May 21—Joint Plenary Session I**
 
-## **AMGP and NABPR Annual Business Sessions**
+#### **AMGP and NABPR Annual Business Sessions**
 
 **Lunch**
 
 **10:30-1:15**
 
-### **10:30-11:45**   **Plenary Session I**  
+#### Plenary Session I  - 10:30-11:45
 
-**Room TBD                Presiding: Alicia Myers, Campbell University**
+**Room TBD**
+**Presiding: Alicia Myers, Campbell University**
 
 - _The Contributions of Charles H. Talbert to New Testament Scholarship and the Baptist Academy_
 
@@ -257,7 +260,7 @@ Dennis Horton, Baylor University
 
   Discussion and Remembrances
 
-### **11:45-12:15    AMGP and NABPR** **Business Sessions**
+#### **11:45-12:15    AMGP and NABPR** **Business Sessions**
 
 **12:15-1:15**      **Lunch** -- **Room TBD**
 
@@ -267,11 +270,11 @@ Dennis Horton, Baylor University
 
 ***  
 
-## **Tuesday, May 21 – Concurrent Session II**
+### Tuesday, May 21 – Concurrent Session II
 
 **1:30 – 3:15**
 
-### **Old Testament I**
+#### Old Testament I
 
 -              _The Masorah: A Neglected Resource for Biblical Studies_
 
@@ -281,7 +284,7 @@ Dennis Horton, Baylor University
 
                         Mike O’Neal, Campbellsville University
 
-### **Baptist Studies II**
+#### Baptist Studies II
 
 -  _Baptist Identity and the Place of Political and Social Advocacy_
 
@@ -295,7 +298,7 @@ Dennis Horton, Baylor University
 
             Laura R. Levens, Baptist Seminary of Kentucky
 
-### **Pedagogy I**
+#### Pedagogy I
 
 - _Baptist Women in Ministry: The Ongoing Struggle of the Stained-Glass Ceiling_
 
@@ -305,12 +308,13 @@ Dennis Horton, Baylor University
 
                         Helen Lee Turner, Furman University
 
-## **AMGP Guest Lecture** -- Room TBD                          
+#### AMGP Guest Lecture -- Room TBD
+                         
 Presiding: Jim Motes, Anderson University**
 
-## **Tuesday, May 21 – Plenary II** **3:30 – 5:00**
+### **Tuesday, May 21 – Plenary II** **3:30 – 5:00**
 
-### **NABPR Plenary Session II** -- Room TBD                                        
+#### **NABPR Plenary Session II** -- Room TBD                                        
 Presiding: Mikeal Parsons, Baylor University
 
 Panel review of João Chaves, _The Global Mission of the Jim Crow South_, Perspectives on Baptist Identities Monograph Series, Mercer University Press, 2022
@@ -322,9 +326,9 @@ Panelists:
 - Mandy McMichael, Baylor University
 - João Chaves, HTI at Princeton Theological Seminary, response
 
-### **AMGP Guest Lecture II**
+#### **AMGP Guest Lecture II**
 
-#### “Field Education”
+##### “Field Education” with Andy Watts
 
 Speaker: Andy Watts, Professor of Religion in the College of Theology and Christian Ministry at Belmont University. In addition to teaching responsibilities in religion and social ethics, he serves as the Field Education advisor for the college.
 
@@ -334,16 +338,16 @@ Speaker: Andy Watts, Professor of Religion in the College of Theology and Christ
 
 ***  
 
-## **Tuesday Evening, May 21** **–AMGP Annual Dinner; NABPR Free Time and** **Dinner on your own**
+### **Tuesday Evening, May 21** **–AMGP Annual Dinner; NABPR Free Time and** **Dinner on your own**
 
-## **Wednesday morning, May 22 – Continental Breakfast - 8:00 am – 8:30am**
+### **Wednesday morning, May 22 – Continental Breakfast - 8:00 am – 8:30am**
 
 **Location TBD**
 
-## **Wednesday, May 22 – Session III**
+### **Wednesday, May 22 – Session III**
 **8:30 – 10:15**
 
-### **Old Testament II**
+#### **Old Testament II**
 
 -  _Bathsheba, Archetype of a Voice Reclaimed: Tracing Bathsheba’s Metamorphosis through the Lens of Trauma and Recovery_
 
@@ -357,7 +361,7 @@ Speaker: Andy Watts, Professor of Religion in the College of Theology and Christ
 
             Kyle Rouse, Baylor University
 
-### **New Testament I**
+#### **New Testament I**
 
 - _Jesus, the Great Emancipator: Helen Barrett Montgomery’s Translation of the Gospels in the Centenary New Testament_
 
@@ -367,9 +371,9 @@ Alicia Myers, Campbell University
 
             Scott Shauf, Gardner-Webb University
 
-### **Baptist Studies III**
+#### **Baptist Studies III**
 
-#### “The Life and Contributions of John Claypool”
+##### “The Life and Contributions of John Claypool”
 
 - _John Claypool and His Journey Toward the Ministry of the Sacraments_
 
@@ -383,7 +387,7 @@ Glenn Jonas, Campbell University
 
 Jennifer Garcia Bashaw, Campbell University
 
-### **Ministry Studies II**
+#### Ministry Studies II
 
 - _Theological Reflection in Ministry and the Disciplined Imagination of the World of Scripture_
 
@@ -404,11 +408,8 @@ Mike Baird, Grand Canyon University
 Moderators: Patricia Killen, Professor of Religion Emerita, Pacific Lutheran University (Roman Catholic) and Mikeal Parsons, Baylor University (Baptist)
 
 Panelists:
-
 - Peter Reynolds, Southwest Assemblies of God (Pentecostal)
-
 - Cliff Barbarick, Abilene Christian University (Stone-Campbell Restoration Movement)
-
 - Marit Trelstad, Pacific Lutheran University (Lutheran)
 
 
@@ -443,7 +444,7 @@ The neighborhood around Belmont has several Airbnb/Vrbo properties.    Many o
 
 For Air BNB this map will show places all around Belmont:  [Nashville · Stays · Airbnb - Airbnb](https://www.airbnb.com/s/Nashville--Tennessee--United-States/homes?adults=4&place_id=ChIJPZDrEzLsZIgRoNrpodC5P30&checkin=2022-05-23&checkout=2022-05-25&tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&query=Nashville%2C%20Tennessee%2C%20United%20States&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&ne_lat=36.15224340392647&ne_lng=-86.76654924316409&sw_lat=36.1273939173107&sw_lng=-86.81045164031985&zoom=15&search_by_map=true&search_type=user_map_move)
 
-### Downloads
+## Downloads
  - [⤓ Download the 2022 Program as a PDF. The PDF is the official version](/pdfs/2022-DRAFT-NABPRProgramMay2022(Belmont)Draft.pdf).
 
 <small markdown="1">[Up to table of contents](#toc)</small>

@@ -30,14 +30,14 @@ show_meta: true
 </div>
 
 <h2 style="text-align: center;">
-  National Association of Baptist Professors of Religion, <br />
-  & Association of Ministry Guidance Professionals
+  National Association of Baptist Professors of Religion & <br />
+  Association of Ministry Guidance Professionals
 </h2>
 
 <h2 style="text-align: center;">
   Belmont University • May 23-25, 2022 • Nashville TN
 </h2>
-
+<hr />
 
 <!--more-->
 ### Greetings from the NABPR Executive Secretary-Treasurer

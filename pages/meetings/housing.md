@@ -8,6 +8,9 @@ layout: page
 permalink: /meetings/housing/
 breadcrumb: true
 ---
-Housing options
-Please see area hotels.
-On-campus housing is not available.  We apologize for any inconvenience.
+
+Please see area hotels.  
+On-campus housing is not available.  
+We apologize for any inconvenience.  
+
+   

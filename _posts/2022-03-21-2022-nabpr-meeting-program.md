@@ -1,8 +1,8 @@
 ---
 subheadline: "Annual Meeting"
 title: 2022 NABPR and AMGP Meeting Program
-date: 2019-03-12T15:40:40+00:00
-modified: 2019-05-15T13:50:41+00:00
+date: 20222-03-21T15:40:40+00:00
+modified: 2019-03-22T13:50:41+00:00
 author: adamdjbrett
 teaser: "Welcome to Belmont University and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Association of Ministry Guidance Professionals."
 layout: page
@@ -41,13 +41,13 @@ show_meta: true
 
 ## Greetings from the NABPR Executive Secretary-Treasurer
 
-Welcome to the Annual May Meeting of NABPR.  It has been two long years since we last met in person.  That was in Raleigh in 2019.  Seems like forever….
+Welcome to the Annual May Meeting of NABPR.  It has been two long years since we last met in person.  That was in Raleigh in 2019.  Seems like forever...
 
-            Save the date for 2023:   Gardner-Webb University will host our Annual Meeting on May 22-24.  In past years, Gardner-Webb has been an excellent place for our meeting.  Also, mark your calendar for November 19, 2023.  This year’s plenary speaker for our November meeting will be Dr. Randall Balmer. 
+Save the date for 2023:   Gardner-Webb University will host our Annual Meeting on May 22-24.  In past years, Gardner-Webb has been an excellent place for our meeting.  Also, mark your calendar for November 19, 2023.  This year’s plenary speaker for our November meeting will be Dr. Randall Balmer. 
 
 At this year’s meeting, we have a full agenda of papers, plenary sessions, and joint sessions with AMGP.  On Tuesday morning, we will honor and remember former NABPR President Dr. Charles Talbert.  The Executive Secretary-Treasurer Search Committee will also give a report during this meeting.  It is bittersweet that this will be the last May meeting that I will plan. 
 
-            Many thanks go to Barry Jones, our President, Mandy McMichael, Vice-President, and Mark McEntire, our on-site coordinator.  We are grateful to Belmont University for their support of NABPR and this meeting. 
+Many thanks go to Barry Jones, our President, Mandy McMichael, Vice-President, and Mark McEntire, our on-site coordinator.  We are grateful to Belmont University for their support of NABPR and this meeting. 
 
 Daniel Mynatt
 
@@ -58,7 +58,6 @@ Executive Secretary-Treasurer
 
 
 ***  
-
 ## Greetings from the AMGP Director-Treasurer
 
 Welcome to the 2022 annual meeting of the AMGP. We are thankful for our host institution, Belmont University for working hard to accommodate our two organizations for this meeting. AMGP consists of theological educators who have responsibility for guiding students through ministerial call clarification and supervised field experiences in Christian ministry. We provide a forum for sharing information and establishing professional standards for ministry guidance.

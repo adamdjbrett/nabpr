@@ -286,7 +286,8 @@ Presiding: Jim Motes, Anderson University
 
 ### **Tuesday, May 21 – Plenary II** **3:30 – 5:00**
 
-#### NABPR Plenary Session II -- Room TBD                
+#### NABPR Plenary Session II -- Room TBD
+
 Presiding: Mikeal Parsons, Baylor University
 
 Panel review of João Chaves, _The Global Mission of the Jim Crow South_, Perspectives on Baptist Identities Monograph Series, Mercer University Press, 2022

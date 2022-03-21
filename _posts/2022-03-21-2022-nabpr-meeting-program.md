@@ -177,7 +177,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
  **Tuesday, May 22 –Concurrent Session I**
  **8:30 – 10:15**
 
-#### **Church History I**
+#### Church History I
 
 - _How the Catholic Church Defined the Nature, Role, and Purpose of Women in the Twentieth and Twenty-first Centuries_
 
@@ -187,7 +187,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
             Adam DJ Brett, Syracuse University
 
-#### **Theology I**
+#### Theology I
 
 - _Where It All (Re)Starts: The Image of God, Created Sociality, and the Basis of “Our” Freedom_
 
@@ -201,7 +201,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
             Kathryn H. House, Louisville Presbyterian Theological Seminary
 
-#### **Baptist Studies I**
+#### Baptist Studies I
 
 -  _R. Scarborough’s Writings on Evangelism and the Holiness Roots of Southern Baptist Denominationalism_
 
@@ -215,7 +215,7 @@ Christopher Schelin, Starr King School of Ministry
 
             Brian J. Whitfield, Mercer University
 
-#### **Ministry Studies I**
+#### Ministry Studies I
 
 -  _Decentralized Theological Education for a Post-Pandemic World_
 
@@ -260,7 +260,7 @@ Dennis Horton, Baylor University
 
   Discussion and Remembrances
 
-#### **11:45-12:15    AMGP and NABPR** **Business Sessions**
+#### 11:45-12:15 -- AMGP and NABPRBusiness Sessions
 
 **12:15-1:15**      **Lunch** -- **Room TBD**
 
@@ -314,7 +314,7 @@ Presiding: Jim Motes, Anderson University**
 
 ### **Tuesday, May 21 – Plenary II** **3:30 – 5:00**
 
-#### **NABPR Plenary Session II** -- Room TBD                                        
+#### NABPR Plenary Session II -- Room TBD                                        
 Presiding: Mikeal Parsons, Baylor University
 
 Panel review of João Chaves, _The Global Mission of the Jim Crow South_, Perspectives on Baptist Identities Monograph Series, Mercer University Press, 2022
@@ -326,7 +326,7 @@ Panelists:
 - Mandy McMichael, Baylor University
 - João Chaves, HTI at Princeton Theological Seminary, response
 
-#### **AMGP Guest Lecture II**
+#### AMGP Guest Lecture II
 
 ##### “Field Education” with Andy Watts
 
@@ -338,16 +338,18 @@ Speaker: Andy Watts, Professor of Religion in the College of Theology and Christ
 
 ***  
 
-### **Tuesday Evening, May 21** **–AMGP Annual Dinner; NABPR Free Time and** **Dinner on your own**
+### Tuesday Evening, May 21
 
-### **Wednesday morning, May 22 – Continental Breakfast - 8:00 am – 8:30am**
+**AMGP Annual Dinner; NABPR Free Time and Dinner on your own**
+
+### Wednesday morning, May 22 – Continental Breakfast - 8:00 am – 8:30am
 
 **Location TBD**
 
-### **Wednesday, May 22 – Session III**
+### Wednesday, May 22 – Session III
 **8:30 – 10:15**
 
-#### **Old Testament II**
+#### Old Testament II
 
 -  _Bathsheba, Archetype of a Voice Reclaimed: Tracing Bathsheba’s Metamorphosis through the Lens of Trauma and Recovery_
 
@@ -361,7 +363,7 @@ Speaker: Andy Watts, Professor of Religion in the College of Theology and Christ
 
             Kyle Rouse, Baylor University
 
-#### **New Testament I**
+#### New Testament I
 
 - _Jesus, the Great Emancipator: Helen Barrett Montgomery’s Translation of the Gospels in the Centenary New Testament_
 
@@ -371,9 +373,9 @@ Alicia Myers, Campbell University
 
             Scott Shauf, Gardner-Webb University
 
-#### **Baptist Studies III**
+#### Baptist Studies III
 
-##### “The Life and Contributions of John Claypool”
+**“The Life and Contributions of John Claypool”**
 
 - _John Claypool and His Journey Toward the Ministry of the Sacraments_
 
@@ -397,7 +399,7 @@ Mike Baird, Grand Canyon University
 
             Thomas Estes, Hardin Simmons University
 
-### **Wednesday morning, May 22 – Plenary Session III**
+### Wednesday morning, May 22 – Plenary Session III
 
 **10:30-12:00**
 
@@ -418,7 +420,8 @@ Panelists:
 
 
 ***  
-## **Save the Date!**
+
+## Save the Date!
 
 **2023 Annual Meeting**
 
@@ -434,17 +437,24 @@ Panelists:
 
 
 ***  
-## **Hotels Near Belmont University**
+## Hotels Near Belmont University
 
 This page contains a list of nearby hotels that might offer a discounted rate:
 
-[Visit Belmont | Belmont University | Nashville, TN](https://www.belmont.edu/admissions/visiting/accommodations/index.html)
+[Visit Belmont * Belmont University * Nashville, TN](https://www.belmont.edu/admissions/visiting/accommodations/index.html)
 
 The neighborhood around Belmont has several Airbnb/Vrbo properties.    Many of them sleep 6-10 and cost $150—200 per night total.  Groups of 4 or more will likely beat the hotel prices. 
 
 For Air BNB this map will show places all around Belmont:  [Nashville · Stays · Airbnb - Airbnb](https://www.airbnb.com/s/Nashville--Tennessee--United-States/homes?adults=4&place_id=ChIJPZDrEzLsZIgRoNrpodC5P30&checkin=2022-05-23&checkout=2022-05-25&tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&query=Nashville%2C%20Tennessee%2C%20United%20States&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&ne_lat=36.15224340392647&ne_lng=-86.76654924316409&sw_lat=36.1273939173107&sw_lng=-86.81045164031985&zoom=15&search_by_map=true&search_type=user_map_move)
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+
+***  
+
 ## Downloads
+
  - [⤓ Download the 2022 Program as a PDF. The PDF is the official version](/pdfs/2022-DRAFT-NABPRProgramMay2022(Belmont)Draft.pdf).
 
 <small markdown="1">[Up to table of contents](#toc)</small>

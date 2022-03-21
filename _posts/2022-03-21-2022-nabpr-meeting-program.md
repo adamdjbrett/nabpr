@@ -24,7 +24,6 @@ show_meta: true
 ---
 <div class="panel radius" markdown="1">
 **Table of Contents**
-
 {: #toc }
 *  TOC
 {:toc}
@@ -41,8 +40,7 @@ show_meta: true
 
 
 <!--more-->
-
-## Greetings from the NABPR Executive Secretary-Treasurer
+### Greetings from the NABPR Executive Secretary-Treasurer
 
 Welcome to the Annual May Meeting of NABPR.  It has been two long years since we last met in person.  That was in Raleigh in 2019.  Seems like forever...
 
@@ -56,12 +54,16 @@ Daniel Mynatt
 
 Executive Secretary-Treasurer
 
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-## Greetings from the AMGP Director-Treasurer
+
+
+### Greetings from the AMGP Director-Treasurer
 
 Welcome to the 2022 annual meeting of the AMGP. We are thankful for our host institution, Belmont University for working hard to accommodate our two organizations for this meeting. AMGP consists of theological educators who have responsibility for guiding students through ministerial call clarification and supervised field experiences in Christian ministry. We provide a forum for sharing information and establishing professional standards for ministry guidance.
 
@@ -70,14 +72,18 @@ This is our second time to join NABPR for a combined meeting. Our members will h
 Royce Rose
 
 Executive Director-Treasurer
+
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-## Information
 
-### Registration
+### Information
+
+#### Registration
 
 Registration is online at NABPR.org:  [http://nabpr.org/meetings/registration/](http://nabpr.org/meetings/registration/)
 
@@ -87,51 +93,67 @@ All graduate student registration is compliments of NABPR. 
 
 All events will occur at Belmont University.  The precise venue is TBA. 
 
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-### Housing
+
+#### Housing
 
 A list of local hotels appears on the last page of the program.  On-campus housing is not available for the 2022 meeting.  We apologize for any inconvenience.
 
+
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-### Meals
+
+
+#### Meals
 
 The registration fee covers the conference meetings, the banquet on Monday, lunch on Tuesday, light breakfast on Tuesday and Wednesday, and coffee breaks.
 
 If you wish to bring a guest to Monday’s banquet, the cost is $22.50 per unregistered guest. This option is available through the online registration.
 
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-### Parking
+
+#### Parking
 
 The building in which the event occurs has a parking garage beneath it with an abundance of spaces marked for visitors on the first two levels.
 
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-### Questions
+
+#### Questions
 
 If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer.edu.](mailto:Daniel.Mynatt@pfeiffer.edu.%20%20)    Danny will forward your question to the appropriate person.
 
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
+***
 
-***  
-# Program
-## **Monday, May 20**
+
+## Program
+### **Monday, May 20**
 
 - **3:00-6:00**        Registration Check-in -- Location TBD
 - **6:00**                **Dinner: TBD**
@@ -139,12 +161,14 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 `The location of the Break Area for the conference is TBD.` 
 
+
+
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 
 ***  
-## **Tuesday morning, May 21 – Continental Breakfast**
+### **Tuesday morning, May 21 – Continental Breakfast**
 
 ### **8:00 am – 8:30am**
  **Location TBD**

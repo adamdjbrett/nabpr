@@ -146,10 +146,18 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 ## Program
 
 ### Monday, May 20
+#### AMGP Schedule
+- **9:00 – 12:00**	Board Meeting &mdash; Room JAAC 2142
+- **9:00 – 12:00**	New Director’s workshop &emdash; Room JAAC 2143
+- **12:00 – 2:30**	Lunch
+- **2:30 – 4:30**	  Board Meeting.  
+- **2:30 – 4:30**  	New Director’s workshop.  
 
-- **3:00-6:00**        Registration Check-in -- Location TBD
-- **6:00**    **Dinner: TBD**
-- **Program:**  **TBD**
+#### NABPR SCHEDULE
+- **3:00-6:00**  Registration Check-in &mdash; Location JAAC Conference Center C&D (4th floor)
+- **6:00** Dinner &mdash; JAAC Conference Center C&D (4th floor)
+  - Program:  TBD
+
 
 `The location of the Break Area for the conference is TBD.` 
 

@@ -14,4 +14,4 @@ Before May 1: $120.  After May 1: $150
 All graduate student registration is compliments of NABPR. If you are a graduate student please make sure your dues are current and email Joyce Swoveland  <Joyce_Swoveland@baylor.edu>
 
 
-{% include paypal-button.html %}
+{% include paypal-vintage.html %}

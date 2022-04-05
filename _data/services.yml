@@ -36,6 +36,10 @@
   url: "/membership/membership-dues/"
   title: "Membership Dues"
 
+- name: "Paypal"
+  url: "https://paypal.me/nabpr1972"
+  title: "The Official NABPR Paypal page"
+
 - name: "RSS"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"

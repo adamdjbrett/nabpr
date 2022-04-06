@@ -145,7 +145,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 ## Program
 
-### Monday, May 20
+### Monday, May 23
 #### AMGP Schedule
 - **9:00 – 12:00**	Board Meeting &mdash; Room JAAC 2142
 - **9:00 – 12:00**	New Director’s workshop &mdash; Room JAAC 2143

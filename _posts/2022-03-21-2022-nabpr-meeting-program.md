@@ -306,7 +306,7 @@ Helen Lee Turner, Furman University
 
 Panelists:
 - James P. Byrd, Vanderbilt University
-- Robyn Henderson-Espinosa, Duke Divinity School
+- Robyn Henderson-Espinoza, Duke Divinity School
 - Doug Weaver, Baylor University
 - Mandy McMichael, Baylor University
 - João Chaves, HTI at Princeton Theological Seminary, response

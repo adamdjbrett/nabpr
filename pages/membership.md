@@ -13,10 +13,10 @@ breadcrumb: true
 Anyone interested in joining the National Association of Baptist Professors of Religion should send a letter or email of application to:
 
 Daniel S. Mynatt  
-UMHB Box 8374  
-900 College Street  
-Belton, TX, 76513  
-[DMynatt@umhb.edu.](mailto:DMynatt@umhb.edu)
+Pfeiffer University
+P.O. Box 960
+Misenheimer, NC 28109-0960
+[Daniel.Mynatt@pfeiffer.edu](mailto:Daniel.Mynatt@pfeiffer.edu)
 
 All inquiries should include an email address, and should specify the status of membership requested. Membership is finalized by a vote of the Association in Annual Session (currently held in May).
 

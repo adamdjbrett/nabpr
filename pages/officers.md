@@ -8,7 +8,7 @@ layout: page
 permalink: /officers/
 breadcrumb: true
 ---
-## Officers 2019-2020
+## Officers 2021-2022
 
   * PRESIDENT: Christine Jones, Associate Pastor at King's Cross Church in Tullahoma, TN.
   * VICE-PRESIDENT: [Barry Jones](https://directory.campbell.edu/people/barry-a-jones/), Campbell University, (<jonesb@campbell.edu>)

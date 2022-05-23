@@ -3,7 +3,7 @@ layout: page
 subheadline: "Annual Meeting"
 title: 2022 NABPR and AMGP Meeting Program
 date: 2022-03-20T00:40:40+00:00
-modified: 2022-03-21T01:50:41+00:00
+modified: 2022-05-22T01:50:41+00:00
 
 teaser: "Welcome to Belmont University and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Association of Ministry Guidance Professionals."
 image:
@@ -61,6 +61,17 @@ Executive Secretary-Treasurer
 
 ***
 
+### Greetings from the AMGP Executive Director- Treasurer
+Welcome to the 2022 annual meeting of the AMGP. We appreciate NABPR and Belmont for working hard to make this joint meeting possible.
+AMGP consists of theological educators who have responsibility for guiding students through ministerial call clarification and supervised field experiences in ministry. We provide a forum for sharing information and establishing professional standards for ministry guidance.
+This is our second time to join NABPR for a combined meeting. Our members will have the opportunity to attend not only AMGP sessions but also NABPR sessions. Highlighting the AMGP meeting is a guest lecture by Dr. Andy Watts, Professor of Religion in the College of Theology and Christian Ministry and field education supervisor at Belmont.
+Royce Rose
+Executive Director-Treasurer
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+***
 
 
 ### Greetings from the AMGP Director-Treasurer
@@ -144,18 +155,20 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 
 ## Program
+### Key
+**ALL ROOM NUMBERS ARE ON 3RD FLOOR OF THE INMAN CENTER (IC) FRIST LECTURE HALL IS ON THE 4TH FLOOR OF THE INMAN CENTER (IC)**
 
 ### Monday, May 23
 #### AMGP Schedule
-- **9:00 – 12:00**	Board Meeting &mdash; Room JAAC 2142
-- **9:00 – 12:00**	New Director’s workshop &mdash; Room JAAC 2143
-- **12:00 – 2:30**	Lunch
-- **2:30 – 4:30**	  Board Meeting.  
-- **2:30 – 4:30**  	New Director’s workshop.  
+- **9:00 – 12:00**	Board Meeting &mdash; Inman Center 342
+- **9:00 – 12:00**	New Director’s workshop &mdash;  IC 343
+- **12:00 – 2:30**	Lunch &mdash; Frist Lecture Hall, IC 4th floor
+- **2:30 – 4:30**	  Board Meeting &mdash; IC 342
+- **2:30 – 4:30**  	New Director’s workshop  &mdash; IC 343
 
 #### NABPR SCHEDULE
-- **3:00-6:00**  Registration Check-in &mdash; Location JAAC Conference Center C&D (4th floor)
-- **6:00** Dinner &mdash; JAAC Conference Center C&D (4th floor)
+- **5:30-6:00**  Registration Check-in &mdash; Frist Lecture Hall, IC (4th floor)
+- **6:00** Dinner &mdash; Frist Lecture Hall, IC (4th floor)
   - Program:  TBD
 
 
@@ -171,19 +184,20 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 
 
 ### Tuesday morning, May 24
-– **8:00-8:30am** Continental Breakfast &mdash; Location JAAC Conference Center C&D (4th floor)
+– **8:00-8:30am** Continental Breakfast &mdash; Frist Lecture Hall, IC (4th floor)
 
 
 ### **Tuesday, May 25 –Concurrent Session I** &mdash; **8:30 – 10:15**
 
-#### Church History I &mdash; Room	JAAC 2141
+#### Church History I &mdash; IC 312
 * Presiding: Stephen Stookey, Wayland Baptist University
 * _How the Catholic Church Defined the Nature, Role, and Purpose of Women in the Twentieth and Twenty-first Centuries_
  Joe Early, Campbellsville University
 
-* _Selling the Iron Cage: Bruce Barton and Mass Marketing of the Spirit of Capitalism_ Adam DJ Brett, Syracuse University
+* _Selling the Iron Cage: Bruce Barton and Mass Marketing of the Spirit of Capitalism_
+Adam DJ Brett, Syracuse University
 
-#### Theology I &mdash; Room	JAAC 2142		
+#### Theology I &mdash; IC 340
 - Presiding: Andy Watts, Belmont University
 
 - _Where It All (Re)Starts: The Image of God, Created Sociality, and the Basis of “Our” Freedom_
@@ -195,10 +209,10 @@ Ryan Andrew Newson, Campbell University
 -  _’My Body, My Choice’: Dissonant Deployments of Freedom in White Evangelical Christianity_
 Kathryn H. House, Louisville Presbyterian Theological Seminary
 
-#### Baptist Studies I &mdash; Room	JAAC 2143		
+#### Baptist Studies I &mdash; IC 341		
 - Presiding: Carol Ann Vaughn Cross, Samford University
 
--  _R. Scarborough’s Writings on Evangelism and the Holiness Roots of Southern Baptist Denominationalism_
+-  _L.R. Scarborough’s Writings on Evangelism and the Holiness Roots of Southern Baptist Denominationalism_
 Andrew C. Smith, Carson-Newman University
 
 - _The ‘Pentecostal’ Beginnings and Ecumenical Horizons of Early English Baptists_
@@ -207,7 +221,7 @@ Christopher Schelin, Starr King School of Ministry
 - _The Columbus Roberts Department of Religion at Mercer 1964-2021_
 Brian J. Whitfield, Mercer University
 
-#### Ministry Studies I &mdash; Room	JAAC 2149		
+#### Ministry Studies I &mdash; IC 342		
 - Presiding: Ben Craver, Wayland Baptist University
 
 -  _Decentralized Theological Education for a Post-Pandemic World_
@@ -226,14 +240,10 @@ Dennis Horton, Baylor University
 
 ***  
 
-### **Tuesday, May 24—Joint Plenary Session I** &mdash; 10:30-1:15 &mdash; Room JAAC CC C&D
+### **Tuesday, May 24—Joint
 
 
-#### **AMGP and NABPR Annual Business Sessions**
-
-#### **Lunch** &mdash; **10:30-1:15**
-
-#### Plenary Session I  - 10:30-11:45 &mdash; **Room JAAC CC C&D**
+#### Plenary Session I  - 10:30-11:45 &mdash; Frist Lecture Hall, IC (4th floor)
 
 - **Presiding: Alicia Myers, Campbell University**
 
@@ -250,10 +260,10 @@ Dennis Horton, Baylor University
 
 #### 11:45-12:15 &mdash; AMGP and NABPR Business Sessions
 - NABPR Business Session
-- AMGP Business Session (JAAC 2142)
+- AMGP Business Session (IC 342)
 
 
-**12:15-1:15** **Lunch** &mdash; **Room JAAC CC C&D**
+**12:15-1:15** **Lunch** &mdash; Frist Lecture Hall, IC (4th floor)
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -263,7 +273,7 @@ Dennis Horton, Baylor University
 
 ### Tuesday, May 24 &mdash; Concurrent Session II &mdash; **1:30 – 3:15**
 
-#### Old Testament I &mdash; Room	JAAC 2141		
+#### Old Testament I &mdash; IC 312
 - Presiding: Cal Robertson, Gardner-Webb University
 
 -  _The Masorah: A Neglected Resource for Biblical Studies_
@@ -272,11 +282,11 @@ Tim Crawford, University of Mary Hardin-Baylor
 -  _Analysis of an Unpublished Paper by Clyde T. Francisco_
 Mike O’Neal, Campbellsville University
 
-#### Baptist Studies II &mdash; Room	JAAC 2143
-- Eileen Campbell-Reed, Union Theology Seminary
+#### Baptist Studies II &mdash; IC 340
+TBA
 
 -  _Baptist Identity and the Place of Political and Social Advocacy_
-Andrew Gardner Hartford Institute for Religion Research
+Andrew Gardner, Hartford Institute for Religion Research
 
 -  _Self-Interest and White Supremacy: Southern Baptists’ Original and Unwavering Pedagogical Commitments_
 Jeremiah Chester, Fordham University
@@ -284,7 +294,7 @@ Jeremiah Chester, Fordham University
 - _Troubled by Covenant and Christian Imperialism: A Cultural-Historical Account of Ann and Adoniram Judsons’ Change to the Baptists in 1812_
 Laura R. Levens, Baptist Seminary of Kentucky
 
-#### Pedagogy I &mdash; Room	JAAC 2149			
+#### Pedagogy I &mdash; IC 341			
 - Presiding: Eric Holleyman, Baylor University
 
 - _Baptist Women in Ministry: The Ongoing Struggle of the Stained-Glass Ceiling_
@@ -293,12 +303,11 @@ Mandy McMichael, Baylor University
 -  _Native American Studies and the Discovery of a New World_
 Helen Lee Turner, Furman University
 
-#### AMGP Guest Lecture I &mdash; Room JAAC 2142
-- Presiding: Jim Motes, Anderson University
+
 
 ### **Tuesday, May 24 &mdash; Plenary II** &mdash; **3:30 – 5:00**
 
-#### NABPR Plenary Session II &mdash; Room JAAC CC C&D
+#### NABPR Plenary Session II &mdash; Frist Lecture Hall, IC
 
 - Presiding: Mikeal Parsons, Baylor University
 
@@ -311,7 +320,8 @@ Panelists:
 - Mandy McMichael, Baylor University
 - João Chaves, HTI at Princeton Theological Seminary, response
 
-#### AMGP Guest Lecture II
+#### AMGP Guest Lecture
+Presiding: Jim Motes, Anderson University
 
 ##### “Field Education” with Andy Watts
 
@@ -325,17 +335,21 @@ Panelists:
 
 ### Tuesday Evening, May 24
 
-**AMGP Annual Dinner; NABPR Free Time and Dinner on your own**
+#### AMGP Annual Dinner
+Amerigo Italian Restaurant
+1920 West End Ave., Nashville TN 37203
+[google maps](https://goo.gl/maps/7KtxjnXouoxt5Yzu9)
+
+#### NABPR Free Time and Dinner on your own
 
 ### Wednesday morning, May 25 – Continental Breakfast - 8:00 am – 8:30am
 
-**Location TBD**
+**Frist Lecture Hall, IC**
 
 ### Wednesday, May 25 – Session III
-- **8:00-8:30** Continental Breakfast &mdash Location JAAC Second floor lobby
 - **8:30 – 10:15** Session III
 
-#### Old Testament II &mdash; Room	JAAC 2141			
+#### Old Testament II &mdash; IC 312		
 - Presiding: Barry Jones, Campbell University
 
 -  _Bathsheba, Archetype of a Voice Reclaimed: Tracing Bathsheba’s Metamorphosis through the Lens of Trauma and Recovery_
@@ -347,7 +361,7 @@ Michelle Hunt, Baylor University
 - _The Hebrew_ **_שׁלמים_** _and the Ugaritic šlmm: A Case for Shared Conceptual Function_
 Kyle Rouse, Baylor University
 
-#### New Testament I &mdash; Room	JAAC 2142			
+#### New Testament I &mdash; IC 340		
 - Presiding: Judy Skeen, Belmont University
 
 - _Jesus, the Great Emancipator: Helen Barrett Montgomery’s Translation of the Gospels in the Centenary New Testament_
@@ -356,7 +370,7 @@ Alicia Myers, Campbell University
 - _Was Jesus’ Death Theologically Necessary?”_
 Scott Shauf, Gardner-Webb University
 
-#### Baptist Studies III &mdash; Room	JAAC 2143		
+#### Baptist Studies III &mdash; IC 341
 - Presiding: Mandy McMichael, Baylor University
 
 ##### **“The Life and Contributions of John Claypool”**
@@ -370,7 +384,7 @@ Glenn Jonas, Campbell University
 - Response
 Jennifer Garcia Bashaw, Campbell University
 
-#### Ministry Studies II &mdash; Room	JAAC 2149			
+#### Ministry Studies II &mdash; IC 342
 - Presiding: Jeter Basden, Baylor University
 
 - _Theological Reflection in Ministry and the Disciplined Imagination of the World of Scripture_
@@ -379,7 +393,7 @@ Mike Baird, Grand Canyon University
 - _The Romance of Theological Education in the Baptist Tradition_
 Thomas Estes, Hardin Simmons University
 
-### Wednesday morning, May 25 – Plenary Session III &mdash; **10:30-12:00** &mdash Room JAAC 1034
+### Wednesday morning, May 25 – Plenary Session III &mdash; **10:30-12:00** &mdash; Frist Lecture Hall, IC
 - **10:30-12:00**
 
 #### “Theological Traditions and Pedagogical Practices”
@@ -432,7 +446,7 @@ For Air BNB this map will show places all around Belmont:  [Nashville · Stays 
 
 ## Downloads
 
- - [⤓ Download the 2022 Program as a PDF. The PDF is the official version](/pdfs/2022-DRAFT-NABPRProgramMay2022-Belmont-Draft-rev1.pdf).
+ - [⤓ Download the 2022 Program as a PDF. The PDF is the official version](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf).
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

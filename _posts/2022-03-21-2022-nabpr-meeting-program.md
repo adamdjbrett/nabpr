@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Annual Meeting"
 title: 2022 NABPR and AMGP Meeting Program
-date: 2022-03-20T00:40:40+00:00
+date: 2022-05-20T00:40:40+00:00
 modified: 2022-05-22T01:50:41+00:00
 
 teaser: "Welcome to Belmont University and the annual meeting of the National Association of Baptist Professors of Religion, meeting this year with the Association of Ministry Guidance Professionals."
@@ -41,7 +41,7 @@ show_meta: true
 
 <!--more-->
 ### [Program Guide as a PDF](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf)
-The PDF is canonical. 
+The PDF is canonical.
 
 ### Greetings from the NABPR Executive Secretary-Treasurer
 

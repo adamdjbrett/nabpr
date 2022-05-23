@@ -40,6 +40,9 @@ show_meta: true
 <hr />
 
 <!--more-->
+### [Program Guide as a PDF](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf)
+The PDF is canonical. 
+
 ### Greetings from the NABPR Executive Secretary-Treasurer
 
 Welcome to the Annual May Meeting of NABPR.  It has been two long years since we last met in person.  That was in Raleigh in 2019.  Seems like forever...

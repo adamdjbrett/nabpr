@@ -311,7 +311,7 @@ Helen Lee Turner, Furman University
 
 
 
-### **Tuesday, May 24 &mdash; Plenary II** &mdash; **3:30 – 5:00**
+### Tuesday, May 24 &mdash; Plenary II &mdash; 3:30 – 5:00
 
 #### NABPR Plenary Session II &mdash; Frist Lecture Hall, IC
 

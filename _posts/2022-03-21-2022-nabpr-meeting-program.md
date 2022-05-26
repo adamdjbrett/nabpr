@@ -193,7 +193,7 @@ If you have questions or concerns, email Danny Mynatt at [Daniel.Mynatt@pfeiffer
 – **8:00-8:30am** Continental Breakfast &mdash; Frist Lecture Hall, IC (4th floor)
 
 
-### **Tuesday, May 25 –Concurrent Session I** &mdash; **8:30 – 10:15**
+### Tuesday, May 25 –Concurrent Session I &mdash; 8:30 – 10:15
 
 #### Church History I &mdash; IC 312
 * Presiding: Stephen Stookey, Wayland Baptist University
@@ -246,7 +246,7 @@ Dennis Horton, Baylor University
 
 ***  
 
-### **Tuesday, May 24—Joint
+### Tuesday, May 24—Joint
 
 
 #### Plenary Session I  - 10:30-11:45 &mdash; Frist Lecture Hall, IC (4th floor)

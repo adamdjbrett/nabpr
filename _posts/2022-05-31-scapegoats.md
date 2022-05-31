@@ -16,8 +16,8 @@ image:
   title: "/images/books/9781506469379-scapgoats-cover.jpg"
   thumb: "/images/thumbs/9781506469379-scapgoats-cover-tn.jpg"
   homepage: "/images/books/9781506469379-scapegoats.jpg"
-  caption: "Cut in Stone: Confederate Monuments and Theological Disruption, book cover"
-  caption_url: ""
+  caption: "Scapegoats, book cover"
+  caption_url: "https://www.fortresspress.com/store/product/9781506469379/Scapegoats"
 author: adamdjbrett
 show_meta: true
 published: true

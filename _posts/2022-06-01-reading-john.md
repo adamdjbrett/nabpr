@@ -42,4 +42,4 @@ Stan Harstine, _Reading John through Johannine Lenses_, Lexington Books, 2022, I
 
 
 `Blockquotes and images via Lexington Books'
-header image by Cover Photo by [Kenny Eliason](https://unsplash.com/es/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)`
+header image by Cover Photo by Photo by Kelly Sikkema on Unsplash.

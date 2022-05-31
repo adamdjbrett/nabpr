@@ -41,4 +41,5 @@ Ryan Andrew Newson, _Scapegoats: The Gospel through the Eyes of Victims_, Fortre
 <https://www.fortresspress.com/store/product/9781506469379/Scapegoats>.
 
 
-`Blockquotes and images via Fortress Press and header image by Cover Photo by [Kenny Eliason](https://unsplash.com/es/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)`
+`Blockquotes and images via Fortress Press'
+header image by Cover Photo by [Kenny Eliason](https://unsplash.com/es/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)`

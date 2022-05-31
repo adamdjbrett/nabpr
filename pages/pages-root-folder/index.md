@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /2022-nabpr-meeting-program/
-  text: 2022 Annual Meeting ›
+  url: /membership/membership-dues/
+  text: Pay membership dues ›
   style: alert
 permalink: /index.html
 redirect_from: /home/

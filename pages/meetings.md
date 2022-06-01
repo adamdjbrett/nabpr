@@ -10,10 +10,10 @@ image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## Upcoming Meetings
-  * [2022 registration is now open](/meetings/registration/)
-  * [2022 program](/2022-nabpr-meeting-program/)
+  * 2023 Annual Meeting, May 22-24, 2023, Gardner-Webb University, Boiling Springs, NC
 
 ## Past NABPR Meetings:
+* [2022 Annual meeting, Belmont University](/2022-nabpr-meeting-program/). [(⤓ Download Program PDF)](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf)
 * [2021 Annual Meeting, online (⤓ Download Program PDF)](/pdfs/NABPRProgramMay2021Virtual-web-archive.pdf)
 * [2020 Annual Meeting, Baylor University, Waco, Texas **Cancelled**](/covid-19-nabpr-meeting-notice/)
   * [2020 Annual Meeting Cancellation Notice](/covid-19-nabpr-meeting-notice/)

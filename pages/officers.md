@@ -13,12 +13,12 @@ breadcrumb: true
   * PRESIDENT: [Mandy McMichael](https://www.baylor.edu/religion/index.php?id=942982), Baylor University (<Mandy_McMichael@baylor.edu>)
   * VICE-PRESIDENT: [Alicia Myers](https://directory.campbell.edu/people/alicia-myers/), Campbell University, (<amyers@campbell.edu>)
   * EXECUTIVE SECRETARY-TREASURER: Danny Mynatt, Pfeiffer University (<Daniel.Mynatt@pfeiffer.edu>)
-    * EXECUTIVE SECRETARY-TREASURER Elect:   [Adam C. English](http://www.campbell.edu/artsandsciences/religion-and-philosophy/faculty-and-staff/), Campbell University (<englisha@campbell.edu>) 
+    * EXECUTIVE SECRETARY-TREASURER Elect:   [Adam C. English](http://www.campbell.edu/artsandsciences/religion-and-philosophy/faculty-and-staff/), Campbell University (<englisha@campbell.edu>)
   * ASSISTANT EXECUTIVE SECRETARY, SOCIAL MEDIA COORDINATOR AND WEB ADMINISTRATOR: [Adam DJ Brett](http://adamdjbrett.com), Syracuse University (<adam@adamdjbrett.com>)
   * SENIOR EDITOR, [Perspectives in Religious Studies](http://baylor.edu/prs): [Mikeal Parsons](http://www.baylor.edu/religion/index.php?id=931782), Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 (<mike_parsons@baylor.edu>)
   * JOURNAL EDITOR, [PRS](http://baylor.edu/prs): Mandy McMichael, Department of Religion, Baylor University, One Bear Place #97284, Waco, TX, 76798 (<Mandy_McMichael@baylor.edu>)
   * BOOK REVIEW EDITOR,[PRS](http://baylor.edu/prs/): [Steven R. Harmon](http://www.gardner-webb.edu/academic-programs-and-resources/colleges-and-schools/divinity/about/faculty-and-staff/steven-harmon/index), Gardner-Webb University School of Divinity, PO Box 7314, Boiling Springs, NC 28017 (<sharmon@gardner-webb.edu>)
-  * PERSPECTIVES ON BAPTIST IDENTITIES BOOK SERIES EDITORS: [João Chaves](https://hti.ptsem.edu/joao-chaves/) or Kate Hanch, First St. Charles United Methodist Church, [kate.e.hanch@gmail.com](mailto:kate.e.hanch@gmail.com)
+  * PERSPECTIVES ON BAPTIST IDENTITIES BOOK SERIES EDITORS: [João Chaves](https://hti.ptsem.edu/joao-chaves/), Hispanic Theological Initiative (<joao.chaves@ptsem.edu>) or Kate Hanch, First St. Charles United Methodist Church, [kate.e.hanch@gmail.com](mailto:kate.e.hanch@gmail.com)
 
 ### Regional Representatives
 

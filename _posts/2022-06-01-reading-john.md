@@ -1,6 +1,6 @@
 ---
 layout: page
-Date: 2022-05-31T12:00:00+00:00
+Date: 2022-06-01T12:00:00+00:00
 subheadline: "New Book"
 title: "Reading John through Johannine Lenses"
 teaser: "Scapegoats are innocent victims who have experienced blame and violence at the hands of society."
@@ -20,7 +20,7 @@ image:
   caption_url: "https://rowman.com/ISBN/9781978712935/Reading-John-through-Johannine-Lenses"
 author: adamdjbrett
 show_meta: true
-published: true
+published: false
 ---
 Congratulations to NABPR member, Stan Harstine on the publication of his new book _Reading John through Johannine Lenses_ (Lexington, 2022). Stan Harstine is professor of religion at Friends University in Wichita, Kansas.
 

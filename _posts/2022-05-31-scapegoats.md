@@ -37,7 +37,7 @@ Scapegoats is definitely a must-read for both academics and ministerial practiti
 
 
 ### Purchasing Details
-Ryan Andrew Newson, _Scapegoats: The Gospel through the Eyes of Victims_, Fortress Press, 2022, ISBN: 9781506469379.
+Jennifer Garcia Bashaw, _Scapegoats: The Gospel through the Eyes of Victims_, Fortress Press, 2022, ISBN: 9781506469379.
 <https://www.fortresspress.com/store/product/9781506469379/Scapegoats>.
 
 

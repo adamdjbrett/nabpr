@@ -20,7 +20,7 @@ image:
   caption_url: "https://rowman.com/ISBN/9781978712935/Reading-John-through-Johannine-Lenses"
 author: adamdjbrett
 show_meta: true
-published: false
+published: true
 ---
 Congratulations to NABPR member, Stan Harstine on the publication of his new book _Reading John through Johannine Lenses_ (Lexington, 2022). Stan Harstine is professor of religion at Friends University in Wichita, Kansas.
 

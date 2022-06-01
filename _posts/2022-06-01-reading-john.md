@@ -3,8 +3,8 @@ layout: page
 Date: 2022-06-01T12:00:00+00:00
 subheadline: "New Book"
 title: "Reading John through Johannine Lenses"
-teaser: "Scapegoats are innocent victims who have experienced blame and violence at the hands of society."
-meta_description: "Scapegoats are innocent victims who have experienced blame and violence at the hands of society."
+teaser: "Reading John through Johannine Lenses demonstrates that the model an interpreter chooses for examining the Gospel of John significantly impacts the resulting interpretation. "
+meta_description: "Reading John through Johannine Lenses demonstrates that the model an interpreter chooses for examining the Gospel of John significantly impacts the resulting interpretation. "
 categories:
   - Books of Interest
 tags:

@@ -13,8 +13,8 @@ tags:
   - Theology
   - Biblical-Studies
 image:
-  title: "/images/books/9781506469379-scapgoats-cover.jpg"
-  thumb: "/images/thumbs/9781506469379-scapgoats-cover_tn.jpg"
+  title: "/images/books/9781506469379-scapegoats-cover.jpg"
+  thumb: "/images/thumbs/9781506469379-scapegoats-cover_tn.jpg"
   homepage: "/images/books/9781506469379-scapegoats.jpg"
   caption: "Scapegoats, book cover"
   caption_url: "https://www.fortresspress.com/store/product/9781506469379/Scapegoats"

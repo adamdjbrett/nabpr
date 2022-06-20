@@ -2,7 +2,7 @@
 layout: page
 Date: 2022-06-20T12:00:00+00:00
 subheadline: "Jobs"
-title: "New Testament"
+title: "Assistant/Association Professor of New Testament @ PBA"
 teaser: "Assistant/Associate Professor of New Testament Studies, Palm Beach Atlantic University"
 meta_description: "Assistant/Associate Professor of New Testament Studies, Palm Beach Atlantic University"
 categories:

@@ -14,9 +14,9 @@ tags:
   - ethics
   - Biblical-Studies
 image:
-  title: "/images/schools/60th-White-Background-150x150.png"
+  title: "/images/schools/usw.jpg"
   thumb: "/images/thumbs/60th-White-Background-150x150.png"
-  homepage: "/images/schools/60th-White-Background-150x150.png"
+  homepage: "/images/schools/usw.jpg"
   caption: "USW 60th Anniversary"
   caption_url: "https://www.usw.edu/"
 author: adamdjbrett

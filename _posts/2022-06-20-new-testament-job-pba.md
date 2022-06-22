@@ -14,7 +14,7 @@ tags:
   - Biblical-Studies
 image:
   title: "/images/schools/pba.jpg"
-  thumb: "/images/thumbs/pba_tn.jpg.jpg"
+  thumb: "/images/thumbs/pba_tn.jpg"
   homepage: "/images/schools/pba.jpg"
   caption: "Palm Beach Atlantic University"
   caption_url: "https://www.pba.edu/"

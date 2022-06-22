@@ -1,10 +1,11 @@
 ---
 layout: page
 Date: 2022-06-21T12:00:00+00:00
-subheadline: "Essay Contest"
+subheadline: "Essay"
 title: "The Practical Application of a Judeo-Christian Ethic in Society"
 teaser: "The Practical Application of a Judeo-Christian Ethic in Society"
-meta_description: "USW is sponsoring a national essay contest for Master's and Doctoral students on the theme "The Practical Application of a Judeo-Christian Ethic in Society." This multi-disciplinary essay contest encourages submissions from graduate students in the fields of philosophy, theology, history, and other social sciences related to this theme."
+meta_description: >-
+  USW is sponsoring a national essay contest for Master's and Doctoral students on the theme 'The Practical Application of a Judeo-Christian Ethic in Society.' This multi-disciplinary essay contest encourages submissions from graduate students in the fields of philosophy, theology, history, and other social sciences related to this theme.
 categories:
   - essay
 tags:
@@ -22,6 +23,7 @@ author: adamdjbrett
 show_meta: true
 published: true
 ---
+
 From NABPR member Danny Kirkpatrick:
 
 [USW](https://www.usw.edu/) is sponsoring a national essay contest for Master's and Doctoral students on the theme "The Practical Application of a Judeo-Christian Ethic in Society." This multi-disciplinary essay contest encourages submissions from graduate students in the fields of philosophy, theology, history, and other social sciences related to this theme.  

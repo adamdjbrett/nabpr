@@ -26,9 +26,9 @@ published: true
 ---
 
 ## Baylor University
-  * [Associate to Full Professor Theological Bioethics](/pdfs/Baylor-Theological-BioEthics.pdf)
-  * [Lecturer in Ministry Studies](/pdfs/Baylor-Ministry-Studies.pdf)
-  * [Assistant to Associate Professor Black or Latinx Baptist Historical Studies](/pdfs/Baylor-Black-Latinx-Baptist-Historical-Studies-Ad.pdf)
+  * [Associate to Full Professor Theological Bioethics](/pdfs/2022-openfacultypositions/Baylor-Theological-BioEthics.pdf)
+  * [Lecturer in Ministry Studies](/pdfs/2022-openfacultypositions/Baylor-Ministry-Studies.pdf)
+  * [Assistant to Associate Professor Black or Latinx Baptist Historical Studies](/pdfs/2022-openfacultypositions/Baylor-Black-Latinx-Baptist-Historical-Studies-Ad.pdf)
 
 ## Palm Beach Atlantic
-  * [Assistant/Associate Professor of New Testament Studies, Palm Beach Atlantic University](/pdfs/PBA-NT-studies.pdf)
+  * [Assistant/Associate Professor of New Testament Studies, Palm Beach Atlantic University](/pdfs/2022-openfacultypositions/PBA-NT-studies.pdf)

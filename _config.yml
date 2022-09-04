@@ -6,7 +6,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/" target="_blank"
 # Main author of the website
 # See > authors.yml
 author: NABPR
-
+email: dmynatt@umhb.edu
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://nabpr.org'
@@ -37,6 +37,7 @@ plugins:
     - jekyll-redirect-from
     - jekyll-seo-tag
     - jekyll-typogrify
+    - jekyll-email-protect
 
 # Pagination
 paginate: 5                      # Paginates all X entries

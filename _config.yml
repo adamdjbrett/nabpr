@@ -6,7 +6,20 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/" target="_blank"
 # Main author of the website
 # See > authors.yml
 author: NABPR
-
+email: dmynatt@umhb.edu
+joyce: Joyce_Swoveland@baylor.edu
+dany: dmynatt@umhb.edu
+adam: adam@adamdjbrett.com
+karen: kguth@holycross.edu
+mandy: Mandy_McMichael@baylor.edu
+myers: amyers@campbell.edu
+daniel: Daniel.Mynatt@pfeiffer.edu
+campbell: englisha@campbell.edu
+mike: mike_parsons@baylor.edu
+sharmon: sharmon@gardner-webb.edu
+joao: joao.chaves@ptsem.edu
+kate: kate.e.hanch@gmail.com
+englisha: englisha@campbell.edu
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://nabpr.org'
@@ -37,6 +50,7 @@ plugins:
     - jekyll-redirect-from
     - jekyll-seo-tag
     - jekyll-typogrify
+    - jekyll-email-protect
 
 # Pagination
 paginate: 5                      # Paginates all X entries

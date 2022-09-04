@@ -20,8 +20,6 @@ Waco, TX 76798-7284
 
  - **phone**: +1-254-710-3758  
  - **fax:** +1-254-710-3740  
- - **email:** <Joyce_Swoveland@baylor.edu>  
+ - **email:** <a href="mailto:{{ site.joyce | encode_email }}" title="Email protection test">Joyce_Swoveland@baylor.edu</a>  
 
-<a href="mailto:{{ site.email | encode_email }}" title="Email protection test">Contact me</a>
-
-Or contact our Executive Secretary-Treasuer Danny Mynatt <dmynatt@umhb.edu>.  
+Or contact our Executive Secretary-Treasuer Danny Mynatt <a href="mailto:{{ site.dany | encode_email }}" title="Email protection test">dmynatt@umhb.edu </a>.  

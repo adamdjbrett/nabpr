@@ -1,6 +1,6 @@
 ---
 layout: page
-Date: 2022-08-24T12:00:00+00:00
+Date: 2022-09-13T12:00:00+00:00
 subheadline: "CFP"
 title: "Call for Papers - National Association of Baptist Professors of Religion"
 teaser: "Annual Meeting CFP"

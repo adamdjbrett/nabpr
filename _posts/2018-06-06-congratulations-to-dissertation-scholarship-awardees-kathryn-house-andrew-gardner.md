@@ -40,7 +40,7 @@ Kathryn is ordained in the Alliance of Baptists and American Baptist Churches US
 
 ### Andrew Gardner
 
-![Andrew Gardner, Portrait](/wp-content/uploads/2018/06/Andrew-Gardner-225x300.jpg)](/wp-content/uploads/2018/06/Andrew-Gardner.jpg)
+![Andrew Gardner, Portrait](/wp-content/uploads/2018/06/Andrew-Gardner-225x300.jpg)]
 
 Andrew Gardner is from Yorktown, Virginia and is pursuing a PhD in American Religious History from Florida State University. His dissertation, tentatively titled, &#8220;To Awaken the Song of Transport: The Development of Theological Seminaries and Divinity Schools in Antebellum America&#8221; analyzes the role of institutions of theological higher learning in cultivating spatial perspectives among Protestant clergy. Gardner hopes to graduate in May 2019.
 

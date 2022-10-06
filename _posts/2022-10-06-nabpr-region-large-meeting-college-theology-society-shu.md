@@ -18,7 +18,7 @@ image:
   title: "/images/schools/sacred-heart-university-Fall-Quad-1220x686.jpg"
   thumb: "/images/thumbs/sacred-heart-university-Fall-Quad-1220x686_tn.jpg"
   homepage: "/images/schools/sacred-heart-university-Fall-Quad-1220x686.jpg"
-  caption: "Sacred Heart University"
+  caption: "Sacred Heart University in Fairfield, CT"
   caption_url: https://www.sacredheart.edu/"
 author: adamdjbrett
 show_meta: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-Date: 2022-10-06T12:00:00+00:00
+Date: 2022-10-05T12:00:00+00:00
 subheadline: "Dissertaton"
 title: "Congratulations to Dissertation Award Winner Reverend Ineda Pearl Adesanya"
 teaser: "2022 Dissertation Scholarship Award"

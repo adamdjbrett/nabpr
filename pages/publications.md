@@ -46,30 +46,7 @@ Since 1996 R. Scott Nash has been the Senior Editor for the Association, oversee
 
 ## [**Perspectives on Baptist Identities**](#baptistid)
 
-**The National Association of Baptist Professors of Religion & Mercer University Press **proudly announce a new partnership for the NABPR series on **Perspectives on Baptist Identities.**
-
-The National Association of Baptist Professors of Religion is proud to join with Mercer University Press in the creation of a new academic series. **_Perspectives on Baptist Identities_** will explore the rapidly evolving questions of identity that press upon those who call themselves Baptist in the twenty-first century:  What does it mean to be Baptist? What does the future hold for Baptists? How does the Baptist tradition relate to the global Church and other ecclesial traditions? How does Baptist identity impact Scripture reading and Christian practice? The series hopes to generate significant scholarly research and engender fruitful and lively conversation among various types of Baptists and non-Baptists.
-
-Mercer University Press has long proven its commitment to Baptist studies, especially through the successful James N. Griffith Endowed Series in Baptist Studies. And now, **Perspectives on Baptist Identities** will expand and enhance the conversation, bringing together diverse fields such as biblical studies, theology, history, and sociology. Questions of identity, denominationalism, scriptural hermeneutics, catholicity, history and future loom large in the minds of NABPR members. Consider a few recent titles: Steven Harmon, _Baptist Identity and the Ecumenical Future_ (2016); Paul Fiddes, _Baptists and the Communion of Saints_ (2014); Curtis Freeman, _Contested Catholicity_ (2014); Keith Harper ed., _Through a Glass Darkly: Contested Notions of Baptist Identity_ (2012); David Cohen and Michael Parsons, eds., _Beyond 400: Exploring Baptist Futures_(2011); Helen Dare and Simon Woodman eds., _The “Plainly Revealed” Word of God? Baptist Hermeneutics in Theory and Practice_ (2011); David Bebbington, _Baptists Through the Centuries_ (2010); Beth Allison Barr, Bill Leonard, Mikeal Parsons, Douglas Weaver, eds., _The Acts of the Apostles: Four Centuries of Baptist Interpretation_ (2009); Douglas Weaver, _In Search of the New Testament Church_ (2008).
-
-### Recent Volumes in The *Perspectives on Baptist Identities* Series
-  - [_Sources of Light: Resources for Baptist Churches Practicing Theology_](/sources-light/) edited by Amy L. Chilton and Steven R. Harmon (2020)
-  - [*Crawford Howell Toy: the man, the scholar, the teacher*](/crawford-howell-toy) by Mikeal C Parsons (2019)
-  - [*Inhabiting the World: Identity, Politics, and Theology in Radical Baptist Perspective*](/inhabiting-the-world/) by Ryan Andrew Newson (2018)
-
-
-### Submission Guidelines for *Perspectives on Baptist Identities*
-The NABPR in conjunction with Mercer University Press is calling for proposals for the series, **Perspectives on Baptist Identities**. Proposals accepted for publication will be granted a **$1,000 stipend** upon completion of the manuscript.
-
-Please submit proposals for book length contributions to the series editors: Dr. Adam English <englisha@campbell.edu> and/or Dr. Alicia Myers <amyers@campbell.edu>. Either monograph proposals or promising collections of essays will be considered. The proposal should include:
-
-  1. The **title** of the proposed volume.
-  2. A 250 word **book summary**.  The summary should identify the project’s subject, thesis, method, scope, limitations, and potential significance.
-  3. An annotated **Table of Contents**, that is, the chapter titles plus a two or three sentence description of each chapter.
-  4. An **estimate of the work already completed** and a proposed **completion date**.
-  5. A **sample chapter** from the book.
-  6. Four or five **comparable titles** and an identification of the **target audience** of the book.
-  7. **A current CV,** listing education, all academic and professional positions, and major academic publications.
+<div class="small-12 text-center columns"> <a class="button large radius alert" href="https://pbi.nabpr.org/">Visit the series site ›</a></div>
 
   <small markdown="1">[Up to table of contents](#toc)</small>
   {: .text-right }  

@@ -12,20 +12,10 @@
     url: "/about/affiliated-organizations/"
   - title: "Constitution"
     url: "/about/constitution/"
-  - title: "Constitutional Amendment Article XI"
-    url: "/about/constitution/proposed-amendment-xi/"
   - title: "Officers"
     url: "/officers/"
-  - title: "Publications"
-    url: "/publications/"
   - title: "Newsletter Archive"
     url: "/newsletter/"
-  - title: "Privacy Policy"
-    url: "/privacy-policy/"
-
-- title: "Donate"
-  url: "/donate/"
-  side: left
 
 - title: "Membership"
   url: "/membership/"
@@ -49,6 +39,10 @@
 
 - title: "Publications"
   url: "/publications/"
+  side: left
+
+- title: "Book Series"
+  url: "https://pbi.nabpr.org/"
   side: left
 
 - title: Blog

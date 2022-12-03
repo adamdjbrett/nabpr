@@ -15,6 +15,7 @@ tags:
 image:
   title: /images/schools/central-baptist-theological-seminary-kansas.jpg
   thumb: /images/thumbs/central-baptist-theological-seminary-kansas_tn.jpg
+  homepage: /images/thumbs/central-baptist-theological-seminary-kansas_tn.jpg
   caption: "Central Baptist Theological Seminary"
   caption_url: "https://www.cbts.edu/"
 author: adamdjbrett

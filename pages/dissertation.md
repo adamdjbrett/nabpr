@@ -31,7 +31,7 @@ To apply the candidate must submit the following:
   * the dissertation prospectus and/or sample chapter,
   * two letters of recommendation (one of which may be the nomination mentioned above).
 
-All materials must be submitted electronically to Dr. Daniel Mynatt, National Executive Secretary of NABPR, at <dmynatt@umhb.edu>.
+All materials must be submitted electronically to Dr. Adam English, National Executive Secretary of NABPR, at <englisha@campbell.edu>.
 
 **Deadline for submitting materials is January 15 each year.**
 

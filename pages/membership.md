@@ -10,18 +10,7 @@ breadcrumb: true
 ---
 ##  Joining NABPR
 
-Anyone interested in joining the National Association of Baptist Professors of Religion should send a letter or email of application to:
-
-Daniel S. Mynatt  
-Pfeiffer University
-P.O. Box 960
-Misenheimer, NC 28109-0960
-[Daniel.Mynatt@pfeiffer.edu](mailto:Daniel.Mynatt@pfeiffer.edu)
-
-All inquiries should include an email address, and should specify the status of membership requested. Membership is finalized by a vote of the Association in Annual Session (currently held in May).
-
-Inquiries about dues status should be directed to the NABPR Office Manager Joyce Swoveland:  <joyce_swoveland@baylor.edu>.  
-Members of the NABPR are entitled to several benefits, including the journal of the Association, [Perspectives in Religious Studies](http://www.baylor.edu/prs/), the NABPR [newsletter](/about/history/newsletter/), and subscriptions to Religious Studies Review, and The Bulletin of the Council of Societies for the Study of Religion.
+Anyone interested in joining the National Association of Baptist Professors of Religion [may register via our portal](http://member.nabpr.org/).
 
 ### Categories for Membership:
 
@@ -37,4 +26,12 @@ Non-voting membership shall be open to any person who does not qualify for Membe
   * **Associate Member Status**: Persons interested in the work of the Association who do not qualify for Member or Retired Member status are eligible for Associate Member status. Associate Members may include persons with administrative appointments at colleges, universities, seminaries, or divinity schools, persons involved in parish ministry, or other interested persons. Applications for associate membership shall be referred to the Executive Committee for review. The Executive Committee will report on and recommend candidates for associate membership to the Association in any annual meeting. The Association will vote upon each candidate for associate membership.
   * **Student Member Status**: Persons interested in the work of the Association who are actively enrolled in any accredited college, university, seminary, or divinity school are eligible for Student Member status. Applications for student membership shall be referred to the Executive Committee for review. The Executive Committee will report on and recommend candidates for student membership to the Association in any annual meeting. The Association will vote upon each candidate for student membership.
 
-[Dues Information](/membership/membership-dues/)
+## Dues Schedule
+The official dues schedule for NABPR is below. In 1992 an income based dues structure was adopted and this model had been used for over twenty-five years.  It had never been updated for inflation, and it was always difficult to know exactly how much your dues should be.  Thus, a change was requested, and an ad hoc Committee reviewed the dues structure.  After much, deliberation and voting upon the dues structure at the May 2019 meeting the new revised flat rate dues structure passed and has been implemented as of October 3, 2019. Hopefully this clarified dues structure will be easier for everyone to use. _Thank you so much for your support of NABPR. Due to your generosity, we are able to fund NABPR initiatives, such as our journal, Perspectives in Religious Studies, the NABPR Dissertation Scholarship, the November meeting with AAR/SBL, and the Annual May meeting. we sincerely appreciate your willingness to join and renew membership to our organization._
+
+
+| Position      | Dues         |
+| ------------- |-------------:|
+| Full time (teaching, administration or any combination)      | $75          |
+| Retired      | $50          |
+| Student or Contingent Faculty | $25          |

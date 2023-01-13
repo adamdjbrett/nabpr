@@ -22,7 +22,7 @@
   side: left
   dropdown:
   - title: "Membership Dues"
-    url: "/membership/membership-dues/"
+    url: "http://member.nabpr.org/"
 
 - title: "Meetings"
   url: "/meetings/"

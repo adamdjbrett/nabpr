@@ -18,8 +18,8 @@ widget2:
   text: 'NABPR publishes a journal and several book series.'
   image: /images/stock/books-1655783_302x182.jpg
 widget3:
-  title: "Renew Your Membership"
-  url: '/membership/membership-dues/'
+  title: "Membership Portal"
+  url: 'http://member.nabpr.org/'
   image: /images/membership-302x182.jpg
   text: "Don't forget to renew your Membership dues before the Annual Meeting."
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /membership/membership-dues/
+  url: http://member.nabpr.org/
   text: Pay membership dues ›
   style: alert
 permalink: /index.html

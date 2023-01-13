@@ -21,7 +21,7 @@
   url: "/membership/"
   side: left
   dropdown:
-  - title: "Membership Dues"
+  - title: "Member Portal"
     url: "http://member.nabpr.org/"
 
 - title: "Meetings"

@@ -3,8 +3,8 @@ layout: page
 Date: 2022-05-31T12:00:00+00:00
 subheadline: "New Book"
 title: "Storied Witness: The Theology of Black Women Preachers in 19th-Century America"
-teaser: "The voices of Black women have historically been silenced, especially in theological and religious contexts.."
-meta_description: "The voices of Black women have historically been silenced, especially in theological and religious contexts.y."
+teaser: "The voices of Black women have historically been silenced, especially in theological and religious contexts."
+meta_description: "The voices of Black women have historically been silenced, especially in theological and religious contexts."
 categories:
   - Books of Interest
 tags:

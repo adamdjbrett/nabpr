@@ -8,10 +8,8 @@ layout: page
 permalink: /meetings/registration/
 breadcrumb: true
 ---
-2022 Registration Conference Fee:  
+2023 Registration Conference Fee:  
 Before May 1: $120.  After May 1: $150
 
-All graduate student registration is compliments of NABPR. If you are a graduate student please make sure your dues are current and email Joyce Swoveland  <Joyce_Swoveland@baylor.edu>
-
-
-{% include paypal-vintage.html %}
+## [Register Now](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)
+    * Graduate student registration is $5 (to cover processing fees).

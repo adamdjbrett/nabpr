@@ -10,7 +10,8 @@ image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## Upcoming Meetings
-  * 2023 Annual Meeting, May 22-24, 2023, Gardner-Webb University, Boiling Springs, NC
+  * [Regsiter now - 2023 Annual Meeting, May 22-24, 2023, Gardner-Webb University, Boiling Springs, NC](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)
+    * Graduate student registration is $5 (to cover processing fees).
 
 ## Past NABPR Meetings:
 * [2022 Annual meeting, Belmont University](/2022-nabpr-meeting-program/). [(⤓ Download Program PDF)](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf)

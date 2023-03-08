@@ -9,7 +9,7 @@ permalink: /meetings/registration/
 breadcrumb: true
 ---
 2023 Registration Conference Fee:  
-Before May 1: $120.  After May 1: $150
+- Before May 1: $120.  After May 1: $150
+- Graduate student registration is $5 (to cover processing fees).
 
-## [Register Now](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)
-    * Graduate student registration is $5 (to cover processing fees).
+## [→ Register Now](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)

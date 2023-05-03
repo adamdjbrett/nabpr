@@ -8,7 +8,7 @@ layout: page
 permalink: /officers/
 breadcrumb: true
 ---
-## Officers 2021-2022
+## Officers 2022-2023
 
   * PRESIDENT: [Mandy McMichael](https://www.baylor.edu/religion/index.php?id=942982), Baylor University <a href="mailto:{{ site.mandy | encode_email }}">Mandy_McMichael@baylor.edu</a>
   * VICE-PRESIDENT: [Alicia Myers](https://directory.campbell.edu/people/alicia-myers/), Campbell University, <a href="mailto:{{ site.campbell | encode_email }}">amyers@campbell.edu</a>

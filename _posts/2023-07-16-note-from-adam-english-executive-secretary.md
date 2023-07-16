@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Note"
-title: "Midsumer Update"
+title: "Midsummer Update"
 teaser: "A Midsummer update from Executive Secretary, Adam English"
 meta_description: "The NABPR expresses appreciation to Gardner-Webb University for hosting the 2023 May Meeting in Boiling Springs, NC. All sessions, plenaries, and meals were held in a single building, the Tucker Student Union, which was tremendously convenient. One highlight from this year's meeting was the presentation of the Perspectives in Religious Studies Festschrift to Dr. Sharyn Dowd. We were grateful for her presence, her long record of support for the NABPR and Baptist higher education, and her inspiring remarks at the meeting."
 categories:

@@ -11,7 +11,7 @@ tags:
   - Update
   - Conference
 image:
-  header: "/images/logos/NABPR-header.png"
+  title: "/images/logos/NABPR-header.png"
   thumb: "/images/logos/nabpr-logo-only-128x128.png"
   homepage: "/images/logos/NABPR-header.png"
   caption: "NABPR Logo"

@@ -17,7 +17,7 @@ tags:
   - scholarship
   - ecology
 show_meta: true
-published: false 
+published: true 
 ---
 <div>
   Congratulations to NABPR <a href="/disssertation/">Dissertation Scholarship</a> Awardee: Samuel Davidson Best wishes to him on the journey of dissertation.

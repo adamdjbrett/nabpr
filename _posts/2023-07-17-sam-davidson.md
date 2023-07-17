@@ -1,7 +1,7 @@
 ---
 subheadline: "Dissertation"
 title: 'Announcing Dissertation Scholarship Awardee: Samuel Davidson'
-date: 2023-07-17T16:41:31+00:00
+date: 2023-07-17T15:41:31+00:00
 author: NABPR
 teaser: |
 layout: page

@@ -2,8 +2,8 @@
 layout: page
 Date: 2023-07-17T12:00:00+00:00
 subheadline: "jobs"
-title: "Baylor University now hiring for multiple positions"
-teaser: "Baylor University now hiring for multiple positions"
+title: "Baylor University is now hiring for multiple positions"
+teaser: "Baylor University is now hiring for multiple positions"
 meta_description: >-
   "The Department of Religion at Baylor University is now hiring for multiple positions"
 categories:

@@ -16,7 +16,8 @@ image:
   title: "/images/coffee/cup-of-coffee-1280537-1920x1277.jpg"
   thumb: "/images/thumbs/cup-of-coffee-1280537-min3_tn.jpg"
   homepage: "/images/coffee/cup-of-coffee-1280537-1920x1277.jpg"
-  caption: "coffee cup and laptop on a desk."
+  caption: ""
+  caption_URL: "https://coffeegeek.tv/best-starbucks-drinks/"
 show_meta: true
 published: true
 permalink: /2020-dissertation-scholarship-annoucement/

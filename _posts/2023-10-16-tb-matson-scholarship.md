@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Scholarship"
-title: "The T. B. Maston Scholarship is established to honor the life and service of Dr. T. B. Maston. Because of his life and work, Christian Ethics became a field of academic inquiry at every Baptist seminary."
+title: "The T. B. Maston Scholarship"
 teaser: "The T. B. Maston Scholarship is established to honor the life and service of Dr. T. B. Maston. Because of his life and work, Christian Ethics became a field of academic inquiry at every Baptist seminary. Dr. Maston helped to birth Baptist Christian Life Commissions, both on the national level and in several of the Baptist state conventions. He influenced thousands of Baptist students to consider the ethical as a concern of the church. He contributed to 27 books on ethics. His influence was key in making it unacceptable for congregations to ignore the needs of the poor, the disenfranchised, the hungry, and the hurting."
 meta_description: "The T. B. Maston Scholarship is established to honor the life and service of Dr. T. B. Maston. Because of his life and work, Christian Ethics became a field of academic inquiry at every Baptist seminary. Dr. Maston helped to birth Baptist Christian Life Commissions, both on the national level and in several of the Baptist state conventions. He influenced thousands of Baptist students to consider the ethical as a concern of the church. He contributed to 27 books on ethics. His influence was key in making it unacceptable for congregations to ignore the needs of the poor, the disenfranchised, the hungry, and the hurting."
 categories:

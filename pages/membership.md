@@ -10,7 +10,7 @@ breadcrumb: true
 ---
 ##  Joining NABPR
 
-Anyone interested in joining the National Association of Baptist Professors of Religion [may register via our portal](http://member.nabpr.org/).
+Anyone interested in joining the National Association of Baptist Professors of Religion [may register via our portal](https://www.memberplanet.com/nabpr).
 
 ### Categories for Membership:
 

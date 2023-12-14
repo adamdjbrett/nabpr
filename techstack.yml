@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/nabpr
-report_id: 8680366adb2f6e28beea3bf64d94750b
+report_id: 9b79607199f376cd51088b277a9ff55c
 repo_type: Public
-timestamp: '2023-11-15T03:24:16+00:00'
+timestamp: '2023-12-14T10:40:51+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 14
+detected_tools_count: 19
 tools:
 - name: Asciidoctor
   description: An open source, pure Ruby processor for converting AsciiDoc documents
@@ -48,6 +48,15 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: assets/mediaelement_js/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -104,6 +113,15 @@ tools:
   detection_source: assets/mediaelement_js3/.travis.yml
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-22 03:34:17.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: _includes/_breadcrumb.html
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2019-04-17 23:17:28.000000000 Z
 - name: Jekyll
   description: Blog-aware, static site generator in Ruby
   website_url: http://jekyllrb.com/
@@ -116,6 +134,15 @@ tools:
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: assets/mediaelement_js/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
     Overseen by @jeffelder.
@@ -135,10 +162,22 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19033/default_023263d2ea3f6a5881067981f6dd20887707fa07.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-17 23:17:28.000000000 Z
+- name: jekyll-gist
+  description: Liquid tag for displaying GitHub Gists in Jekyll sites
+  package_url: https://rubygems.org/jekyll-gist
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: Gemfile
+  last_updated_by: Mesin Kasir
+  last_updated_on: 2022-09-04 05:21:36.000000000 Z
 - name: jekyll-paginate
   description: Built-in Pagination Generator for Jekyll
   package_url: https://rubygems.org/jekyll-paginate
@@ -148,6 +187,18 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source: Gemfile
+  last_updated_by: Mesin Kasir
+  last_updated_on: 2022-09-04 05:21:36.000000000 Z
+- name: jekyll-redirect-from
+  description: Seamlessly specify multiple redirection URLs for your pages and posts
+  package_url: https://rubygems.org/jekyll-redirect-from
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z

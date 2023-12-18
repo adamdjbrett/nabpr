@@ -12,27 +12,15 @@ tags:
   - baptist
   - region-at-large
 ---
+## **NABPR Region-at-Large Call for Papers**
 
+### **CTS/NABPR-RAL 2024 Meeting**
 
-**NABPR Region-at-Large Call for Papers**
+### Contact
 
-**CTS/NABPR-RAL 2024 Meeting**
+- **Spencer Boersma, Acadia Divinity College (Nova Scotia)** <spencer.boersma@acadiau.ca>
+- **Amy Chilton, Fuller Theological Seminary (CA)** <amylynnechilton@gmail.com>
 
-**\
-**
-
-**Spencer Boersma, Acadia Divinity College (Nova Scotia)**
-
-**<spencer.boersma@acadiau.ca>\
-**
-
-**Amy Chilton, Fuller Theological Seminary (CA)**
-
-**<amylynnechilton@gmail.com>\
-**
-
-**\
-**
 
 The National Association of Baptist Professors of Religion's Region at Large is accepting papers on the theology of vulnerability and flourishing from a baptistic perspective. Questions include the following:
 

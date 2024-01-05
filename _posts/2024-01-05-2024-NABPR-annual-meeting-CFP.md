@@ -3,7 +3,11 @@ layout: page
 subheadline: "CFP"
 title: "2024 NABPR Annual meeting"
 teaser: "The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the annual May Meeting, May 20-22, 2024, First Baptist Church, Raleigh, North Carolina."
-header: no
+image:
+    title: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg
+    homepage: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg
+    thumb: /images/thumbs/fbcraleigh-edenton-street-entrance1-full-th.jpg
+    caption: First Baptist Church, Raleigh, NC
 categories:
   - cfp
 tags:
@@ -11,6 +15,8 @@ tags:
   - NABPR
   - theology
   - baptist
+author: adamdjbrett
+show_meta: true
 ---
 The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the annual May Meeting, **May 20-22, 2024, First Baptist Church, Raleigh, North Carolina**.  In an effort to develop innovative conversations among scholars, papers and panels that create integration between traditional disciplines or broaden the margins of disciplinary conversations are given priority in scheduling.   Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are welcomed from any field, including Ministry Studies.
 

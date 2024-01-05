@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/nabpr
-report_id: 9b79607199f376cd51088b277a9ff55c
+report_id: 8680366adb2f6e28beea3bf64d94750b
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:40:51+00:00'
+timestamp: '2024-01-05T08:42:38+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-06-19 01:41:38.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/nabpr
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -56,6 +61,8 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/assets/mediaelement_js/DO
+    NOT CHANGE THESE FILES. USE -src- FOLDER.txt
   detection_source: assets/mediaelement_js/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt
 - name: Babel
   description: Use next generation JavaScript, today.
@@ -66,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/assets/mediaelement_js3/.babelrc
   detection_source: assets/mediaelement_js3/.babelrc
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-22 03:34:17.000000000 Z
@@ -78,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/assets/mediaelement_js3/.eslintrc
   detection_source: assets/mediaelement_js3/.eslintrc
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-22 03:34:17.000000000 Z
@@ -89,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -98,6 +108,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-17 23:17:28.000000000 Z
@@ -110,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/assets/mediaelement_js3/.travis.yml
   detection_source: assets/mediaelement_js3/.travis.yml
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-22 03:34:17.000000000 Z
@@ -119,6 +131,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/_includes/_breadcrumb.html
   detection_source: _includes/_breadcrumb.html
   last_updated_by: Adam DJ Brett
   last_updated_on: 2019-04-17 23:17:28.000000000 Z
@@ -131,6 +144,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z
@@ -142,6 +156,8 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/assets/mediaelement_js/DO
+    NOT CHANGE THESE FILES. USE -src- FOLDER.txt
   detection_source: assets/mediaelement_js/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
@@ -150,6 +166,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/adamdjbrett/nabpr
   detection_source: Repo Metadata
 - name: coderay
   description: Fast and easy syntax highlighting for selected languages, written in
@@ -175,6 +192,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z
@@ -187,6 +205,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z
@@ -199,6 +218,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z
@@ -212,6 +232,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
+  detection_source_url: https://github.com/adamdjbrett/nabpr/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Mesin Kasir
   last_updated_on: 2022-09-04 05:21:36.000000000 Z

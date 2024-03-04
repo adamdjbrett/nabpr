@@ -10,11 +10,12 @@ image: /wp-content/uploads/2016/05/NABPR_facebook.png
 breadcrumb: true
 ---
 ## Upcoming Meetings
-  * [Register now - 2023 Annual Meeting, May 22-24, 2023, Gardner-Webb University, Boiling Springs, NC](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)
+  * [REGISTER NOW: The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the annual May Meeting, May 20-22, 2024, First Baptist Church, Raleigh, North Carolina.](https://www.memberplanet.com/events/nabpr/maymeeting2024withnabprbhhsamgp/569542E722)
     * Graduate student registration is $5 (to cover processing fees).
-    * [Draft Program](/2023-conf/)
+    * DRAFT PROGRAM TBD
 
 ## Past NABPR Meetings:
+* [2023 Annual Meeting, May 22-24, 2023, Gardner-Webb University, Boiling Springs, NC Program](https://nabpr.org/2023-conf/). [(⤓ Download Program PDF)](/pdfs/NABPR-Program-Draft-May-2023.pdf)
 * [2022 Annual meeting, Belmont University](/2022-nabpr-meeting-program/). [(⤓ Download Program PDF)](/pdfs/NABPRProgramMay2022-Belmont-ShortVersion.pdf)
 * [2021 Annual Meeting, online (⤓ Download Program PDF)](/pdfs/NABPRProgramMay2021Virtual-web-archive.pdf)
 * [2020 Annual Meeting, Baylor University, Waco, Texas **Cancelled**](/covid-19-nabpr-meeting-notice/)

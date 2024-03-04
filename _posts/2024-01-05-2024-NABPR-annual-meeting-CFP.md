@@ -18,6 +18,12 @@ tags:
 author: adamdjbrett
 show_meta: true
 ---
+## Register Now
+ [REGISTER NOW](https://www.memberplanet.com/events/nabpr/maymeeting2024withnabprbhhsamgp/569542E722)
+
+## Hotels
+You can reserve a room at Hampton Inn & Suites, Raleigh for a discounted rate [using this link](https://www.hilton.com/en/attend-my-event/rdudwhx-91f-f535f4ba-03da-494e-ab0e-f174facf2339/).
+
 ## Update
 The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the annual May Meeting, **May 20-22, 2024, First Baptist Church, Raleigh, North Carolina**.  In an effort to develop innovative conversations among scholars, papers and panels that create integration between traditional disciplines or broaden the margins of disciplinary conversations are given priority in scheduling.   Although many NABPR members work primarily in the traditional disciplines of Biblical Studies, Church History, Theology, etc., proposals are welcomed from any field, including Ministry Studies.
 

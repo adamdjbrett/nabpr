@@ -8,9 +8,6 @@ layout: page
 permalink: /meetings/registration/
 breadcrumb: true
 ---
-2023 Registration Conference Fee:  
-- Before May 1: $120.  After May 1: $150
-- Graduate student registration is $5 (to cover processing fees).
-
-[![Register now Button](/images/register-now-g3ba5dd75c_640.png)](https://www.memberplanet.com/events/nabpr/nabprmaymeeting2023)
-
+  * [REGISTER NOW: The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the annual May Meeting, May 20-22, 2024, First Baptist Church, Raleigh, North Carolina.](https://www.memberplanet.com/events/nabpr/maymeeting2024withnabprbhhsamgp/569542E722)
+    * Graduate student registration is $5 (to cover processing fees).
+    * DRAFT PROGRAM TBD

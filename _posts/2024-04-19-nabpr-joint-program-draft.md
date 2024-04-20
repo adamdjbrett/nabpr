@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "DRAFT"
-title: "2014 Joint Meeting Draft Program"
+title: "2024 Joint Meeting Draft Program"
 teaser: "View the 2024 Joint meeting Draft Program"
 meta_description: "View the 2024 Joint meeting Draft Program"
 categories:

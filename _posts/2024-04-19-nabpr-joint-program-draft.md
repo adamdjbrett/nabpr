@@ -11,5 +11,6 @@ tags:
     - bhhs
     - AMGP
 ---
+[Register Now](https://nabpr.org/meetings/registration/)
 
 [View Program as a PDF](/pdf/2024 Joint Meeting sans rooms_corrected.pdf)   

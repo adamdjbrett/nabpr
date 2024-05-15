@@ -4,12 +4,22 @@ subheadline: "FINAL"
 title: "2024 Joint Meeting FINAL Program"
 teaser: "View the 2024 Joint meeting FINAL Program"
 meta_description: "View the 2024 Joint meeting FINAL Program"
+image:
+    title: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg
+    homepage: /images/church/fbcraleigh-edenton-street-entrance1-full.jpg
+    thumb: /images/thumbs/fbcraleigh-edenton-street-entrance1-full-th.jpg
+    caption: First Baptist Church, Raleigh, NC
 categories:
-    - meeting
+  - cfp
 tags:
-    - nabpr
-    - bhhs
-    - AMGP
+  - cfp
+  - NABPR
+  - theology
+  - baptist
+  - AMGP
+  - BHHS
+author: adamdjbrett
+show_meta: true
 ---
 <div class="panel radius" markdown="1">
 **Table of Contents**

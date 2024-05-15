@@ -33,7 +33,7 @@ show_meta: true
 
 [Register Now](https://nabpr.org/meetings/registration/)
 
-[View Program as a PDF](/pdf/2024-Joint-Meeting-Program-NABPR-BHHS-AMGP.pdf)   
+[View Program as a PDF](/pdfs/2024-Joint-Meeting-Program-NABPR-BHHS-AMGP.pdf)   
 
 ```The PDF of the program is canonical```
 

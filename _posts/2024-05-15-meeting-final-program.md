@@ -159,7 +159,7 @@ Presiding: Glenn Jonas, Campbell University
 
 #### BHHS Business Session and Awards Luncheon 302
 
-### 1:30-3:15 pm CONCURRENT SESSION II
+#### 1:30-3:15 pm CONCURRENT SESSION II
 
 ##### Old Testament II (NABPR) 224
 - Presiding: Barry Jones, Campbell University
@@ -167,37 +167,37 @@ Presiding: Glenn Jonas, Campbell University
 - *Is Lamentations Also Among the Prophets?* Felisi Sorgwe, Houston Christian University
 - *The Micah Traditions and the Deuteronomists: Can the Elders of the Land Mend the Rift* Anna Sieges-Beal, Gardner-Webb University
 
-#### Theology & Ethics I (NABPR) 110
+##### Theology & Ethics I (NABPR) 110
 - Presiding: Scott C. Ryan, Claflin University
 - *Living the Sermon on the Mount in the Shadows of the Empire: Comparing Dietrich Bonhoeffer's and Eberhard Arnold's Community Formation Models*
 Jacob Alan Cook, Eastern Mennonite Seminary
 - *Baker and Bonhoeffer: Political Theology, Race, and Community Organization* Kristopher Norris, Wesley Theological Seminary
 - *Baptist Freedom &mdash; Responsibility?* Casey Spinks, Baylor University
 
-#### Pedagogy (NABPR) 302
+##### Pedagogy (NABPR) 302
 - Presiding: Laura Levens, Baptist Seminary of Kentucky
 - *The Role of Story-Linking in Amplifying the Voices of Women in Scripture* Adrienne Aiken Morgan, Campbell University
 - *Learning and Teaching about the Holocaust* Tim Crawford, University of Mary Hardin-Baylor
 - *Theological Pathways for Wholeness: An Exploration of Embodiment, Sexuality, and Gender* Taylor Long, Campbell University
 
-#### Ministry Studies II (AMGP) 220
+##### Ministry Studies II (AMGP) 220
 - Presiding: Bill Carrell, University of Mary Hardin-Baylor
 - *Recovering the Lost Practice of Catechesis* Curtis Freeman, Duke University
 
-#### Baptist Studies III (BHHS) Conference Room, Church Office
+##### Baptist Studies III (BHHS) Conference Room, Church Office
 - Presiding: Paul A. Richardson, Samford University
 - *"The Castle Is in Shambles": A Conservative, Complementarian Critique of Fundamentalist Gender Roles from a Baptist Pastor's Wife* Christopher Price, New River Community and Technical College
 - *Single, Married, or Mothering: Southern Baptist women negotiate family status with their missionary work in China* T. Laine Scales, Baylor University
 - *"I Thoroughly, Entirely and Heartily Disapprove": Annie Armstrong and the Woman's Missionary Training School* Melody Maxwell, Acadia Divinity College
 
-#### Baptist Studies IV (BHHS) 227
+##### Baptist Studies IV (BHHS) 227
 - Presiding: Twyla Hernandez, Campbellsville University
 - *Our Rosetta Stone: Towards an Understanding of Twentieth Century Black Baptist Life*
 - Daylan Woodall, First Missionary Baptist Church, Decatur, Ala.
 - *The Baptist Side of Black Baptist Mystic Howard Thurman* Loyd Allen, McAfee School of Theology
 - *Martin Luther King, Jr. and the Peace Movement* Rubí Barocio Castells, Universidad Iberoamericana, Universidad Nacional Autónoma de México
 
-#### Baptist Studies V (BHHS) 108
+##### Baptist Studies V (BHHS) 108
 - Presiding: Joseph E. Early, Jr., Campbellsville University
 - *Founding Legacy: The Continuing Story of the Original Southern Baptist Churches in New Orleans* Lloyd A. Harsch, New Orleans Baptist Theological Seminary
 - *Large Oaks from Small Acorns Grow: Southern Paternalism, Conservative Backlash, and the Emergence of the Cooperative Program* Andrew Smith, Carson-Newman University
@@ -210,7 +210,7 @@ Jacob Alan Cook, Eastern Mennonite Seminary
 - Panelists: Jennifer Garcia Bashaw (Campbell University), Merrill Hawkins (Carson-Newman University), Laura Levens (Baptist Seminary of Kentucky), and Melody Maxwell (Acadia Divinity College)
 - Respondents: João Chaves (Baylor University), Mikeal C. Parsons (Baylor University)
 
-### **Tuesday Evening, May 21**
+## **Tuesday Evening, May 21**
 - 5:00 pm BHHS and NABPR Free Time and Dinner on your own.
 - 5:30 pm AMGP Annual Dinner, Taverna Agora, 326 Hillsborough St., Raleigh, NC 27603
 
@@ -248,7 +248,7 @@ Jacob Alan Cook, Eastern Mennonite Seminary
 - *Solomon Peck's Involvement in the Port Royal Experiment of the South Carolina Islands: A Baptist's Role in the Civil War Era of Reconstruction*
 Nathan Muldoon, Southern Baptist Theological Seminary
 
-## 10:30 am-Noon PLENARY SESSION IV Sanctuary
+### 10:30 am-Noon PLENARY SESSION IV Sanctuary
 - Presiding: Royce Rose, AMGP
 - *Pedagogy for Preparing Ministers*
 - Panelists: Dennis Horton, Mandy McMichael, Susan Benton (Baylor, Department of Religion, Office of Ministry Guidance) and Jack Bodenhamer (Baylor, GW Truett Seminary)

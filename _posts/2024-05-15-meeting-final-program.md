@@ -258,6 +258,6 @@ Nathan Muldoon, Southern Baptist Theological Seminary
 ```
 Save the Date!
 2025 Joint Annual Conference
-May** 19-21, 2025
+May 19-21, 2025
 Baylor University 
 ```

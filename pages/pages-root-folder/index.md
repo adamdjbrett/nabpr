@@ -37,7 +37,9 @@ callforaction:
   text: Pay membership dues ›
   style: alert
 permalink: /index.html
-redirect_from: /home/
+redirect_from: 
+  - /home/
+  - /umhb-job-posting/
 
 #
 # This is a nasty hack to make the navigation highlight

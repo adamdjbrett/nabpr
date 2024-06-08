@@ -5,9 +5,9 @@ title: "Call for Papers - ABHS Torbet Prize"
 teaser: "This prize was established by ABHS in honor of Robert G. Torbet to encourage development of young scholars in the field of Baptist history studies, thus the work of emerging scholars will be especially considered."
 meta_description: "This prize was established by ABHS in honor of Robert G. Torbet to encourage development of young scholars in the field of Baptist history studies, thus the work of emerging scholars will be especially considered."
 image:
-    title: /images/abhs_logo3.png
-    homepage: /images/abhs_logo3.png
-    thumb: /images/abhs_logo3.png
+    title: /images/ABHS__2-color.jpg
+    homepage: /images/ABHS__2-color.jpg
+    thumb: /images/ABHS__2-color.jpg
     caption: ABHS Logo
 categories:
   - cfp

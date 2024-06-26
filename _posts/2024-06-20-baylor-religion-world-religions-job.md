@@ -69,7 +69,7 @@ All applicants will also complete the self-disclosed Religious Affiliation Form 
 
 This institution is using Interfolio's Faculty Search to conduct this search. Applicants to this position receive a free Dossier account and can send all application materials, including confidential letters of recommendation, free of charge.
 
-[Apply Now](https://dossier.interfolio.com/apply/146921)
+[Apply Now](https://apply.interfolio.com/146921)
 
 ### **Equal Employment Opportunity Statement**
 
@@ -78,4 +78,4 @@ Baylor University is a private not-for-profit university affiliated with the Bap
 EEO/M/F/Vets/Disabled
 
 ## Application link
-[Apply Now (interfolio)](https://dossier.interfolio.com/apply/146921)
+[Apply Now (interfolio)](https://apply.interfolio.com/146921)

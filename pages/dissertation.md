@@ -59,3 +59,5 @@ All materials must be submitted electronically to Dr. Adam English, National Exe
 *   **2020**, Emily Buck-Mendenhall, Fuller Theological Seminary
 *   **2021**, [Matthew Beal](/2021-dissertation-scholarship-awardee-matthew-beal/), Boston University School of Theology
 *   **2022**, [Indea Adesanya](/2022-dissertation-award-winner/), Graduate Theological Union
+*   **2023**, [Sam Davidson](/sam-davidson/), Princeton Theological Seminary
+*   **2024**, [Sam Still](/sam-still/), University of Exeter

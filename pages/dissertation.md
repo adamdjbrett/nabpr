@@ -2,7 +2,7 @@
 id: 71
 title: Dissertation Scholarship
 date: 2016-05-20T19:16:58+00:00
-modified: 2019-09-03T21:00+00:00
+modified: 2024-11-23T21:00+00:00
 author: adamdjbrett
 teaser: |
 layout: page
@@ -12,28 +12,32 @@ breadcrumb: true
 ## **National Association of Baptist Professors of Religion**
 
 ### **Dissertation Scholarship**
+**National Association of Baptist Professors of Religion**
 
-The NABPR is committed to supporting academically qualified scholars and teachers of religion for the Baptist academy who carry out their teaching and research with a sense of Baptist identity. The particular purpose of the NABPR dissertation scholarship is to foster conversations about what it means to be a Baptist teacher and scholar in relationship to church and academy, thus contributing to the formation of students in a Baptist tradition and the support of important research by Baptist doctoral students.
+**Dissertation Scholarship**
 
-One scholarship of $3,000 will be awarded each year. Recipients will be invited to attend the National NABPR meeting in the year the award is granted where they will be recognized by the association. Recipients may also be invited to attend subsequent workshops on Baptists and higher education.
+The NABPR is committed to encouraging academically qualified scholars and teachers of religion who carry out their teaching and research with a sense of Baptist identity.  To that end, the NABPR dissertation scholarship supports emerging scholars in their academic journeys and supports new research, especially research that impacts the Baptist tradition.
 
-In order to be eligible the candidate must be
+One scholarship of $3,000 will be awarded each year.  In addition, recipients can receive two separate travel stipends in the amount of $1,000 to attend the May meeting and/or $1,000 to attend the November AAR/SBL meeting of the NABPR, where their work will be recognized by the association. 
 
-  * at the dissertation stage of his/her program (ABD) in an accredited doctoral program,
-  * affiliated or connected in an ongoing way with some Baptist congregation,
-  * a student member of NABPR (which applicants may join at the time of application with no penalty),
-  * nominated by a faculty member of NABPR who agrees by virtue of the nomination to serve as the student’s mentor.
+In order to be eligible the candidate must be:
+
+- at the dissertation stage (ABD) in an accredited doctoral program
+
+- affiliated with a Baptist congregation
+
+- an NABPR member - applicants may join (at a discounted student membership rate) at the time of application with no penalty
 
 To apply the candidate must submit the following:
 
-  * a letter of interest stating how funds will be spent, candidate’s church involvement, and long term academic goals,
-  * a _curriculum vitae_,
-  * the dissertation prospectus and/or sample chapter,
-  * two letters of recommendation (one of which may be the nomination mentioned above).
+-   a letter of interest, including potential use of the funds (for example: childcare, living expenses, research costs, or travel for research purposes),
+-   a *curriculum vitae*,
+-   the dissertation prospectus and/or sample chapter,
+-   two letters of recommendation, one of which must be from a member of the NABPR
 
-All materials must be submitted electronically to Dr. Adam English, National Executive Secretary of NABPR, at <englisha@campbell.edu>.
+**All materials must be submitted electronically to Dr. Adam C. English, Executive Secretary/Treasurer of NABPR, at <englisha@campbell.edu> **
 
-**Deadline for submitting materials is January 15 each year.**
+Deadline for submitting materials is January 15. Notifications of awards by March 30.
 
 ***
 

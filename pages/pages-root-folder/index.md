@@ -19,7 +19,7 @@ widget2:
   image: /images/stock/books-1655783_302x182.jpg
 widget3:
   title: "Membership Portal"
-  url: 'https://www.memberplanet.com/nabpr'
+  url: 'https://mp.gg/0-1eb'
   image: /images/membership-302x182.jpg
   text: "Don't forget to renew your Membership dues before the Annual Meeting."
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://www.memberplanet.com/nabpr
+  url: https://mp.gg/0-1eb
   text: Pay membership dues ›
   style: alert
 permalink: /index.html

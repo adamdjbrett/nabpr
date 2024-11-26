@@ -11,7 +11,7 @@ breadcrumb: true
 ---
 Members can pay dues online or by check.  Online dues can be paid by credit card at the portal below.  
 
-[Memberplanet portal](https://www.memberplanet.com/nabpr)
+[Memberplanet portal](https://mp.gg/0-1eb)
 
 ***
 

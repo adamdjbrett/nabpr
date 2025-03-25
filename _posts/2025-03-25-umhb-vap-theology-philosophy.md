@@ -52,6 +52,6 @@ UMHB is conveniently located in Belton, an historic town of 22,000 in the heart 
 
 **Salaries & Benefits:**  Competitive salary commensurate with experience, excellent benefits including medical and dental insurance, retirement plan with match, and UMHB tuition benefits for employees and their dependents.
 
-**TO APPLY: **Visit [www.umhb.edu/careers](http://www.umhb.edu/careers) for more details and to apply. Please submit a cover letter, CV, transcript copies, and evidence of quality teaching performance with your online application.  Your letter of interest should respond to UMHB's mission and values, found at <https://www.umhb.edu/about/mission>. In addition, include in one page or less, a description of your own Christian beliefs and commitments. Review of applications will begin immediately and continue until position is filled.
+**TO APPLY:** Visit [www.umhb.edu/careers](http://www.umhb.edu/careers) for more details and to apply. Please submit a cover letter, CV, transcript copies, and evidence of quality teaching performance with your online application.  Your letter of interest should respond to UMHB's mission and values, found at <https://www.umhb.edu/about/mission>. In addition, include in one page or less, a description of your own Christian beliefs and commitments. Review of applications will begin immediately and continue until position is filled.
 
 [view flyer as a pdf](/pdfs/umhb-vap-theo-philosophy.pdf)

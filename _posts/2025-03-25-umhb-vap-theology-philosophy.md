@@ -20,8 +20,6 @@ tags:
   - baptist
 author: adamdjbrett
 show_meta: true
-redirect_from:
-  - /2025-03-26-umhb-vap-theology-philosophy/
 ---
 
 ## **Visiting Assistant Professor**

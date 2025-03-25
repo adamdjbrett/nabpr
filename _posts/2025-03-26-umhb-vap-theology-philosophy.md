@@ -1,13 +1,13 @@
 ---
 layout: page
 subheadline: "JOB"
-title: "The University of Mary Hardin-Baylor is now hiring a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy"
-teaser: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy. This position is a 9-month, non-tenure track visiting faculty position. The successful candidate will teach undergraduate courses in Theology, Philosophy and introduction to Old or New Testament, beginning in late July of 2025.  "
-meta_description: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy. This position is a 9-month, non-tenure track visiting faculty position. The successful candidate will teach undergraduate courses in Theology, Philosophy and introduction to Old or New Testament, beginning in late July of 2025.  "
+title: "UMHB VAP with specialties in Theology and Philosophy"
+teaser: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy."
+meta_description: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy."
 image:
   title: "/images/schools/umhb-Walton-Chapel-2022.jpg"
   thumb: "/images/thumbs/UMHB-Walton-Chapel-2022_tn.jpg"
-  homepage: "/images/schools/umhb-Walton-Chapel-2022.jpg
+  homepage: "/images/schools/umhb-Walton-Chapel-2022.jpg"
   caption: "Walton Chapel at the University of Mary Hardin Baylor"
   caption_url: "https://www.umhb.edu/"
 categories:

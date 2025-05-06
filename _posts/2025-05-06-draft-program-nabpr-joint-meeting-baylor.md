@@ -7,7 +7,7 @@ image:
   title: "/images/schools/Baylor_University_June_2016_22_Tidwell_Bible_Building.jpg"
   thumb: "/images/thumbs/Baylor_University_June_2016_22_Tidwell_Bible_Building_tn.jpg"
   homepage: "/images/schools/Baylor_University_June_2016_22_Tidwell_Bible_Building.jpg"
-  caption: "Baylor University June 2016 22 (Tidwell Bible Building).jpg. From Wikimedia Commons, the free media repository"
+  caption: "Baylor University June 2016 22 (Tidwell Bible Building). From Wikimedia Commons."
   caption_url: "https://commons.wikimedia.org/wiki/File:Baylor_University_June_2016_22_(Tidwell_Bible_Building).jpg"
 categories:
   - conference

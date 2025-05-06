@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "CFP"
-title: ""
-teaser: ""
+title: "NABPR • AMGP • BHHS - Joint Conference Program DRAFT"
+teaser: "The stars at night are big and bright, deep in the heart of Texas! The boldness of this meeting befits its location. With help from the Baugh Foundation, we have convened a tremendous array of experts to inform our plenary sessions on the topic of clergy abuse, the courage to break the silence, address it, and reform. For that reason alone, this meeting represents an important milestone for our organization."
 image:
   title: "/images/schools/Baylor_University_June_2016_22_Tidwell_Bible_Building.jpg"
   thumb: "/images/thumbs/Baylor_University_June_2016_22_Tidwell_Bible_Building_tn.jpg"

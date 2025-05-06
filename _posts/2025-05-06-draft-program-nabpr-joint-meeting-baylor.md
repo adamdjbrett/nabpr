@@ -20,10 +20,20 @@ tags:
 author: adamdjbrett
 show_meta: true
 ---
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 ## [View The Draft Program (PDF)](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP.pdf)
 
 ## NABPR • AMGP • BHHS - Joint Conference Program
 ### May 19-21, 2025 • Baylor University
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 * * *
 
@@ -31,15 +41,18 @@ show_meta: true
 
 **Greetings  from  the  NABPR  Executive Secretary-Treasurer**
 
-      The stars at night are big and bright, deep in the heart of Texas! The boldness of this meeting befits its location. With help from the Baugh Foundation, we have convened a tremendous array of experts to inform our plenary sessions on the topic of clergy abuse, the courage to break the silence, address it, and reform. For that reason alone, this meeting represents an important milestone for our organization.
+The stars at night are big and bright, deep in the heart of Texas! The boldness of this meeting befits its location. With help from the Baugh Foundation, we have convened a tremendous array of experts to inform our plenary sessions on the topic of clergy abuse, the courage to break the silence, address it, and reform. For that reason alone, this meeting represents an important milestone for our organization.
 
-    All three organizations worked together closely and with Baylor University to create the program -- it was laborious but so rewarding! I am energized by the collaborative nature of this meeting. It offers a chance to encounter new ideas, meet upcoming scholars, and renew old friendships.
+All three organizations worked together closely and with Baylor University to create the program -- it was laborious but so rewarding! I am energized by the collaborative nature of this meeting. It offers a chance to encounter new ideas, meet upcoming scholars, and renew old friendships.
 
-    NABPR President João Chaves managed proposals and program assignments for NABPR. Our local contacts, at least from the NABPR side, were primarily João Chaves, Mandy McMichael, and Heather Starkey, without whom there would be no meeting. Many other hands contributed, and they should all be thanked!
+NABPR President João Chaves managed proposals and program assignments for NABPR. Our local contacts, at least from the NABPR side, were primarily João Chaves, Mandy McMichael, and Heather Starkey, without whom there would be no meeting. Many other hands contributed, and they should all be thanked!
 
-Adam  C.  English
+Adam C. English
 
-Executive  Secretary-Treasurer
+Executive Secretary-Treasurer
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 * * *
 
@@ -53,6 +66,10 @@ The issue of clergy abuse is particularly pertinent for our organization. The ha
 
 Bill Carrell
 Executive Director-Treasurer
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 
 * * *
 
@@ -71,6 +88,9 @@ This year’s focus on addressing abuse in Baptist communities provides a forum 
    
 Aaron Weaver
 Executive Director
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 * * * 
 

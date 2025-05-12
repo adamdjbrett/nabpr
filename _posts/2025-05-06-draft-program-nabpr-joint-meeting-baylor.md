@@ -27,7 +27,7 @@ show_meta: true
 {:toc}
 </div>
 
-## [View The Draft Program (PDF)](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP.pdf)
+## [View The Draft Program (PDF)](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP-rev1.pdf)
 
 ## NABPR • AMGP • BHHS - Joint Conference Program
 ### May 19-21, 2025 • Baylor University
@@ -94,4 +94,4 @@ Executive Director
 
 * * * 
 
-[Download the program](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP.pdf)
+[Download the program](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP-rev1.pdf)

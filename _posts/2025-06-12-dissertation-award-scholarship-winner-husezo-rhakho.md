@@ -14,7 +14,7 @@ tags:
 image:
   title: "/images/husezo-rhakho.jpg"
   thumb: "/images/thumbs/husezo-rhakho_tn.jpg"
-  homepage: "/images/husezo-rhakho.jpg"
+  homepage: "/images/logos/NABPR-header.png"
   caption: "Husezo Rhakho"
   caption_url: "https://www.linkedin.com/in/husezo-rhakho-aba505159/"
 ---

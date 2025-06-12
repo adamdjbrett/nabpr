@@ -60,8 +60,9 @@ Deadline for submitting materials is January 15. Notifications of awards by Marc
 *   **2018**, [Andrew Gardner](/congratulations-to-dissertation-scholarship-awardees-kathryn-house-andrew-gardner/), Hartford Institute of Religion Research
 *   **2019**, [Kate Hanch](/dissertation-scholarship-awardees-arnold-hanch/), First St. Charles United Methodist Church
 *   **2019**, [Elizabeth Arnold](/dissertation-scholarship-awardees-arnold-hanch/), Emory University
-*   **2020**, Emily Buck-Mendenhall, Fuller Theological Seminary
+*   **2020**, [Emily Buck-Mendenhall](/dissertation-winner-emily-buck-mendenhall/), Fuller Theological Seminary
 *   **2021**, [Matthew Beal](/2021-dissertation-scholarship-awardee-matthew-beal/), Boston University School of Theology
 *   **2022**, [Indea Adesanya](/2022-dissertation-award-winner/), Graduate Theological Union
 *   **2023**, [Sam Davidson](/sam-davidson/), Princeton Theological Seminary
 *   **2024**, [Sam Still](/sam-still/), University of Exeter
+*   **2025**, [Husezo Rhakho](/2025-06-12-dissertation-award-scholarship-winner-husezo-rhakho/), Baylor University

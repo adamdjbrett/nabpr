@@ -65,4 +65,4 @@ Deadline for submitting materials is January 15. Notifications of awards by Marc
 *   **2022**, [Indea Adesanya](/2022-dissertation-award-winner/), Graduate Theological Union
 *   **2023**, [Sam Davidson](/sam-davidson/), Princeton Theological Seminary
 *   **2024**, [Sam Still](/sam-still/), University of Exeter
-*   **2025**, [Husezo Rhakho](/2025-06-12-dissertation-award-scholarship-winner-husezo-rhakho/), Baylor University
+*   **2025**, [Husezo Rhakho](/dissertation-award-scholarship-winner-husezo-rhakho/), Baylor University

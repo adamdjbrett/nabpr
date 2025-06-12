@@ -12,7 +12,7 @@ tags:
   - Dissertation
   - award
 image:
-  header: "/images/husezo-rhakho.jpg"
+  title: "/images/husezo-rhakho.jpg"
   thumb: "/images/thumbs/husezo-rhakho_tn.jpg"
   homepage: "/images/husezo-rhakho.jpg"
   caption: "Husezo Rhakho"

@@ -29,4 +29,7 @@ breadcrumb: true
 
 ### Staff
 
-  * ASSISTANT TO THE EXECUTIVE SECRETARY-TREASURER: Joyce Swoveland, Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 <a href="mailto:{{ site.joyce | encode_email }}">Joyce_Swoveland@baylor.edu</a> phone: 254-710-3758 fax: 254-710-3740
+  * ASSISTANT TO THE EXECUTIVE SECRETARY-TREASURER: Joyce Swoveland, Department of Religion, Baylor University, One Bear Place #97284, Waco, TX 76798 
+    * <a href="mailto:heather_starkey@baylor.edu">heather_starkey@baylor.edu</a> 
+    * phone: 254-710-3758 
+    * fax: 254-710-3740

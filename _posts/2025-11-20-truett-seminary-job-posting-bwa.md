@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "JOB"
-title: "Baylor University's George W. Truett Theological Seminary Associate/Full Professor for the Lampsato Chair in Baptist World Missional Engagement and Director of the Baptist World Alliance Program*"
+title: "Baylor University's George W. Truett Theological Seminary Associate/Full Professor for the Lampsato Chair in Baptist World Missional Engagement and Director of the Baptist World Alliance Program"
 teaser: "Baylor University's George W. Truett Theological Seminary seeks an Associate or Full Professor (Tenure--track or Tenured) for The Lampsato Chair in Baptist World Missional Engagement and Director of the Baptist World Alliance Program who can start August 1, 2026."
 meta_description: "Baylor University's George W. Truett Theological Seminary seeks an Associate or Full Professor (Tenure--track or Tenured) for The Lampsato Chair in Baptist World Missional Engagement and Director of the Baptist World Alliance Program who can start August 1, 2026."
 image:

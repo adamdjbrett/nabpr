@@ -8,9 +8,7 @@ layout: page
 permalink: /meetings/registration/
 breadcrumb: true
 ---
-Register Now for our 2026 Meeting
-
-<iframe src='https://www.memberplanet.com/Involvement/EventWebButton.ashx?ID=il91hXhB' style='border: 0 none; width: 100%;'></iframe>
+[Register Now for our 2026 Meeting](https://www.memberplanet.com/events/nabpr/annualmaymeetingnabprbhhsamgp2026)
 
 * Graduate student registration is $5 (to cover processing fees).
 * DRAFT PROGRAM TBD

@@ -3,7 +3,7 @@ layout: page
 subheadline: "NABPR 2026 Annual Meeting Program"
 date: 2026-05-05T09:50:14+00:00
 title: "2026 NABPR Annual Meeting Program"
-teaser: "The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals in any area pertaining to Religion, Biblical Studies, Christian History, Theology, Ethics, Ministry Studies, Pedagogy, Religion and Faith in Higher Education, and other related areas. The May meeting represents a collaboration between NABPR, Association of Ministry Guidance Professionals (AMGP), and Baptist History & Heritage Society (BHHS)."
+teaser: "The May meeting represents a collaboration between NABPR, AMGP, BHHS."
 image:
   title: "/images/smoke-rise-baptist-med.jpg"
   thumb: "/images/thumbs/smoke-rise-baptist_tn.jpg"

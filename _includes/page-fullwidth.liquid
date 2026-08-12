@@ -1,0 +1,9 @@
+---
+layout: base.liquid
+---
+{% assign is_post = false %}{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
+<article class="article article--wide shell{% if is_post %} h-entry{% endif %}">
+  <header class="article-header">{% if subheadline %}<p class="label">{{ subheadline }}</p>{% endif %}<h1{% if is_post %} class="p-name"{% endif %}>{{ title }}</h1>{% if teaser %}<p class="lede{% if is_post %} p-summary{% endif %}">{{ teaser }}</p>{% endif %}</header>
+  {% if toc %}{{ content | toc }}{% endif %}
+  <div class="prose{% if is_post %} e-content{% endif %}">{{ content }}</div>
+</article>

@@ -11,7 +11,7 @@ redirect_from:
   - /2018/05/25/reddish-festschrift/
   - /2018-05-25-reddish-festschrift/
 image:
-  title: /wp-content/uploads/2018/05/nash-reddish-queen-min-1-1568x1176.jpg
+  title: /wp-content/uploads/2018/05/nash-reddish-queen-min-1.jpg
   thumb: /wp-content/uploads/2018/05/nash-reddish-queen-min-1-1568x1176-150x150.jpg
   caption: "Left to right: R. Scott Nash, Mitchell G. Reddish, Kandy Queen-Sutherland."
 categories:

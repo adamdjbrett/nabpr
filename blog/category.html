@@ -1,0 +1,11 @@
+---
+layout: category.liquid
+pagination:
+  data: collections.bucketPages
+  size: 1
+  alias: category_group
+permalink: "/blog/{{ category_group.slug }}/"
+eleventyComputed:
+  title: "{{ category_group.label }}"
+  teaser: "NABPR entries filed under {{ category_group.label }}."
+---

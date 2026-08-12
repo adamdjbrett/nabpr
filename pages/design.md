@@ -7,7 +7,8 @@ permalink: "/design/"
 breadcrumb: true
 ---
 <ul>
-    {% for post in site.categories.design %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% assign design_posts = collections.posts | category: "design" %}
+    {% for post in design_posts %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
     {% endfor %}
 </ul>

@@ -1,0 +1,87 @@
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{% if page.url == "/" %}{{ site.title }} · {{ site.name }}{% else %}{% if title %}{{ title | escape }} · {% endif %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <script>(function(){try{var s=localStorage.getItem("nabpr-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",s);document.documentElement.setAttribute("data-pf-theme",s)}catch(e){}})()</script>
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <link rel="preload" href="/assets/fonts/fraunces-normal-500-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/newsreader-normal-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+
+  <meta name="generator" content="{{ generator }}">
+  <link rel="author" type="text/plain" href="/humans.txt">
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} · RSS" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} · RSS (/feed/)" href="/feed/feed.rss">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }} · Atom" href="/atom.xml">
+  <link rel="alternate" type="application/feed+json" title="{{ site.title }} · JSON Feed" href="/feed/feed.json">
+  <link rel="alternate" type="text/plain" title="{{ site.title }} · twtxt" href="/feed/twtxt.txt">
+
+  <link rel="icon" href="/assets/img/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
+  <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#005e2b">
+  <link rel="manifest" href="/assets/img/site.webmanifest">
+  <meta name="msapplication-config" content="/assets/img/browserconfig.xml">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f4f0e4">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#060d07">
+  <meta property="og:title" content="{{ title | default: site.slogan | escape }}">
+  <meta property="og:description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="{% if page.inputPath contains '_posts' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.language | default: 'en-US' | replace: '-', '_' }}">
+  {% assign share_image = image.title | default: site.logo %}
+  <meta property="og:image" content="{{ share_image | absolute_url }}">
+  <meta property="og:image:alt" content="{{ image.alt | default: image.caption | default: site.name | strip_html | escape }}">
+  {% if page.inputPath contains '_posts' %}
+  <meta property="article:published_time" content="{{ page.date | date_iso }}">
+  <meta property="article:publisher" content="{{ site.social.facebook }}">
+  {% if updated %}<meta property="article:modified_time" content="{{ updated | date_iso }}">{% endif %}
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@nabpr1">
+  <meta name="twitter:title" content="{{ title | default: site.slogan | escape }}">
+  <meta name="twitter:description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 | escape }}">
+  <meta name="twitter:image" content="{{ share_image | absolute_url }}">
+  {% assign resolved_author_name = site.author %}
+  {% if author %}{% assign resolved_author_name = authors[author].name | default: author %}{% endif %}
+  {% assign iso_language = site.language | default: "en-US" | slice: 0, 2 %}
+  {% comment %}Dublin Core base — every page, matching the pattern used across jcrt.org and NABPR's other Whitestone/adamdjbrett.com sites{% endcomment %}
+  <meta property="dc:publisher" content="{{ site.name | escape }}">
+  <meta property="dc:language" content="{{ iso_language }}">
+  <meta property="dc:format" content="text/html">
+  {% if page.inputPath contains '_posts' %}
+  <link rel="cite-as" href="{{ page.url | absolute_url }}">
+  <link rel="describedby" type="application/ld+json" href="{{ page.url }}metadata.json">
+  <meta property="zotero:itemType" content="blogPost">
+  <meta property="dc:title" content="{{ title | escape }}">
+  <meta property="dc:creator" content="{{ resolved_author_name | escape }}">
+  <meta property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">
+  <meta name="citation_title" content="{{ title | escape }}">
+  <meta name="citation_author" content="{{ resolved_author_name | escape }}">
+  <meta name="citation_publication_date" content="{{ page.date | date: '%Y-%m-%d' }}">
+  <meta name="citation_fulltext_html_url" content="{{ page.url | absolute_url }}">
+  <meta name="citation_language" content="{{ iso_language }}">
+  {% else %}
+  {% comment %}Non-post pages: still harvestable by Zotero/reference managers as a generic webpage item{% endcomment %}
+  <meta property="zotero:itemType" content="webpage">
+  <meta property="dc:title" content="{{ title | default: site.slogan | escape }}">
+  {% if page.date %}<meta property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">{% endif %}
+  {% if author %}
+  <meta property="dc:creator" content="{{ resolved_author_name | escape }}">
+  <meta name="citation_author" content="{{ resolved_author_name | escape }}">
+  {% endif %}
+  <meta name="citation_title" content="{{ title | default: site.slogan | escape }}">
+  {% if page.date %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y-%m-%d' }}">{% endif %}
+  <meta name="citation_fulltext_html_url" content="{{ page.url | absolute_url }}">
+  <meta name="citation_language" content="{{ iso_language }}">
+  {% endif %}
+  {% include "schema.liquid" %}
+  <script>
+    window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+    gtag("js",new Date);gtag("config","{{ site.analytics }}");
+    /* Loaded after paint: the tag is 164 KB of main-thread work and was delaying LCP. */
+    addEventListener("load",function(){var i=function(){var s=document.createElement("script");s.async=1;s.src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}";document.head.appendChild(s)};"requestIdleCallback"in window?requestIdleCallback(i,{timeout:3000}):setTimeout(i,1200)})
+  </script>

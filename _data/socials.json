@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Facebook",
+    "label": "NABPR on Facebook",
+    "url": "https://www.facebook.com/nabpr",
+    "icon": "facebook-logo",
+    "me": true
+  },
+  {
+    "name": "Facebook group \u2014 Doctoral Student Network",
+    "label": "NABPR Doctoral Student Network Facebook group",
+    "url": "https://www.facebook.com/groups/124777644209574/",
+    "icon": "users-three",
+    "me": false
+  },
+  {
+    "name": "Facebook group \u2014 members",
+    "label": "NABPR members Facebook group",
+    "url": "https://www.facebook.com/groups/NABPR/",
+    "icon": "users-three",
+    "me": false
+  },
+  {
+    "name": "LinkedIn",
+    "label": "NABPR on LinkedIn",
+    "url": "https://www.linkedin.com/company/national-association-of-baptist-professors-of-religion/",
+    "icon": "linkedin-logo",
+    "me": true
+  },
+  {
+    "name": "RSS",
+    "label": "NABPR RSS feed",
+    "url": "/feed.xml",
+    "icon": "rss-simple",
+    "me": false
+  },
+  {
+    "name": "X",
+    "label": "NABPR on X",
+    "url": "https://x.com/nabpr1",
+    "icon": "x-logo",
+    "me": true
+  }
+]

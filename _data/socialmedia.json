@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Twitter",
+    "url": "http://twitter.com/nabpr1",
+    "class": "icon-twitter",
+    "title": "Follow NABPR on Twitter"
+  },
+  {
+    "name": "Facebook",
+    "url": "http://www.facebook.com/nabpr",
+    "class": "icon-facebook",
+    "title": "Follow NABPR on Facebook"
+  },
+  {
+    "name": "Linkedin",
+    "url": "http://linkedin.com/company/national-association-of-baptist-professors-of-religion",
+    "class": "icon-linkedin",
+    "title": "Follow NABPR on Linkedin"
+  },
+  {
+    "name": "Contact",
+    "url": "/contact/",
+    "class": "icon-paper-plane",
+    "title": "email NABPR"
+  },
+  {
+    "name": "Give",
+    "url": "/donate/",
+    "class": "icon-heart",
+    "title": "Give to NABPR"
+  }
+]

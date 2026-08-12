@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "JOB"
-title: "UMHB VAP with specialties in Theology and Philosophy"
+title: "UMHB VAP in Theology and Philosophy"
 teaser: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy."
 meta_description: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time Visiting Assistant Professor position with specialties in Theology and Philosophy."
 image:

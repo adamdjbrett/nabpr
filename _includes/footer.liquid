@@ -1,0 +1,33 @@
+<footer class="colophon h-card">
+  <div class="shell">
+    <div class="colophon__grid">
+      <div>
+        <p><strong>{{ site.title }}</strong> — the <span class="p-name">{{ site.name }}</span>, a community of teaching scholars at Baptist-affiliated, church-related, and state-supported institutions in the United States, Canada, and abroad.</p>
+        <p>Publisher of
+          <a href="/publications/">Perspectives in Religious Studies{% assign icon = "notebook" %}{% assign icon_class = "inline-icon" %}{% include "icon.liquid" %}</a> and
+          <a href="{{ site.social.pbi | default: 'https://pbi.nabpr.org/' }}" rel="external noopener">Perspectives on Baptist Identities{% assign icon = "book-open-text" %}{% include "icon.liquid" %}</a>.{% assign icon_class = "" %}
+        </p>
+      </div>
+      <nav aria-label="Society">
+        <h2>Society</h2>
+        <ul>{% for item in services %}{% if item.name %}<li><a href="{{ item.url }}"{% if item.title %} title="{{ item.title | escape }}"{% endif %}{% if item.url contains 'http' %} rel="external noopener"{% endif %}>{{ item.name }}</a></li>{% endif %}{% endfor %}</ul>
+      </nav>
+      <nav aria-label="Perspectives in Religious Studies">
+        <h2>PRSt</h2>
+        <ul>{% for item in network %}{% if item.name %}<li><a href="{{ item.url }}"{% if item.title %} title="{{ item.title | escape }}"{% endif %} rel="external noopener">{{ item.name }}<span class="ext-arrow" aria-hidden="true">↗</span></a></li>{% endif %}{% endfor %}</ul>
+      </nav>
+    </div>
+    <div class="colophon__legal">
+      <span>© {{ "now" | date: "%Y" }} {{ site.name }}</span>
+      <span>Set in Fraunces &amp; Newsreader</span>
+      <span><a href="/privacy-policy/">Privacy</a> · <a href="/feed.xml">RSS</a> · <a href="/contact/">Contact</a></span>
+      <span><a class="u-url" href="{{ site.url }}">nabpr.org</a></span>
+      <ul class="socials" aria-label="NABPR elsewhere">
+        {% for social in socials %}
+          <li><a href="{{ social.url }}"{% unless social.url contains "/feed" %} rel="external noopener{% if social.me %} me{% endif %}"{% endunless %} title="{{ social.label }}" aria-label="{{ social.label }}">{% assign icon = social.icon %}{% assign icon_size = 20 %}{% include "icon.liquid" %}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <img class="u-logo" src="{{ site.logo }}" alt="" hidden>
+  </div>
+</footer>

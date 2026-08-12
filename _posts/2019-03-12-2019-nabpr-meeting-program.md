@@ -21,14 +21,8 @@ tags:
   - Campbell University
   - NABPR
 show_meta: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
 <h2 style="text-align: center;">
   National Association of Baptist Professors of Religion, <br /> Baptist History and Heritage Society, & <br />
   Association of Ministry Guidance Professionals

@@ -19,14 +19,8 @@ tags:
   - baptist
 author: adamdjbrett
 show_meta: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
 ## [View The Draft Program (PDF)](/pdfs/2025-DRAFT-Joint-Meeting-Program-NABPR-BHHS-AMGP-rev1.pdf)
 
 ## NABPR • AMGP • BHHS - Joint Conference Program

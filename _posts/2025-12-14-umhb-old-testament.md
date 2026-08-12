@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "JOB"
-title: "UMHB: tenure-track Assistant Professor position with specialties in Old Testament and Hebrew"
+title: "UMHB: tenure-track Old Testament & Hebrew Job"
 teaser: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time, tenure-track Assistant Professor position with a specialty in Old Testament and Hebrew."
 meta_description: "The University of Mary Hardin-Baylor College of Christian Studies welcomes applications for a full-time, tenure-track Assistant Professor position with a specialty in Old Testament and Hebrew."
 image:
@@ -21,6 +21,7 @@ tags:
 author: adamdjbrett
 show_meta: true
 ---
+## UMHB: tenure-track Assistant Professor position with specialties in Old Testament and Hebrew 
 ## **Assistant Professor**
 
 ### **Old Testament & Hebrew**

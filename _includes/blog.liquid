@@ -1,0 +1,26 @@
+---
+layout: base.liquid
+---
+<section class="archive shell h-feed">
+  <header class="archive-header"><p class="label">Blog &amp; News</p><h1 class="p-name">{{ title }}</h1>{% if teaser %}<p class="lede">{{ teaser }}</p>{% endif %}</header>
+  {% assign chip_current = "all" %}
+  {% include "chips.liquid" %}
+  <p class="blog-showall"><a class="button" href="/blog/archive/">Show all {{ collections.posts | size }} posts</a></p>
+  <div class="archive-list">
+    {% for post in posts %}
+      <article class="archive-row h-entry">
+        <time class="dt-published" datetime="{{ post.date | date_iso }}">{{ post.date | short_date }}</time>
+        <div>
+          <h2><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title | truncate: 60 }}</a></h2>
+          <p class="p-summary">{{ post.data.teaser | strip_html | truncate: 180 }}</p>
+        </div>
+        <span class="entry__tag">{{ post | bucket | bucket_label }}</span>
+      </article>
+    {% endfor %}
+  </div>
+  <nav class="pager" aria-label="Blog pages">
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">← Newer posts</a>{% else %}<span></span>{% endif %}
+    <span>Page {{ pagination.pageNumber | plus: 1 }} of {{ pagination.pages.size }}</span>
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older posts →</a>{% else %}<span></span>{% endif %}
+  </nav>
+</section>

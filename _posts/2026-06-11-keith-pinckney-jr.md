@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Postdoctoral Fellow Annoucement"
 date: 2026-06-11T09:50:14+00:00
-title: "NABPR Announces Postdoctoral Fellow Keith Pinckney Jr."
+title: "Postdoctoral Fellow Keith Pinckney Jr."
 teaser: "NABPR recognizes Keith Pinckney Jr. a Ph.D. Candidate Hebrew Bible/Old Testament atUniversity of St. Andrews, St Mary's College"
 image:
   title: "/images/keith-pinckney-jr.jpg"

@@ -1,0 +1,11 @@
+{% comment %}
+  Category chips. Set chip_current to a bucket slug ("all", "positions", …) before including.
+  On the blog they are links to the archive page for that category; on the homepage the ledger
+  filters in place, so that surface renders its own buttons instead.
+{% endcomment %}
+<div class="chips" role="group" aria-label="Filter entries by category">
+  <a class="chip" href="/blog/"{% if chip_current == "all" %} aria-current="page"{% endif %}>All</a>
+  {% for chip in bucketChips %}
+    <a class="chip" href="/blog/{{ chip.slug }}/"{% if chip_current == chip.slug %} aria-current="page"{% endif %}>{{ chip.label }}</a>
+  {% endfor %}
+</div>

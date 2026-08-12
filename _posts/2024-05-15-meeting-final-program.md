@@ -20,13 +20,8 @@ tags:
   - BHHS
 author: adamdjbrett
 show_meta: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
 # AMGP & BHHS & NABPR Joint Conference Program
 ## May 20-22, 2024 • Raleigh, NC
 

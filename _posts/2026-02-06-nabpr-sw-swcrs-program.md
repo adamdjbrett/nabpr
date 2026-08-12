@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FLOURISHING IN FROUGHT TIMES"
-subheadline: "NABPR SW Regional Meeting"
+subheadline: "Southwest Regional Meeting"
 date: 2026-02-06T09:50:14+00:00
 teaser: "Flourishing in Fraught Times: NABPR Southwest meeting brings scholars together for presentations, plenary sessions, and dialogue on faith, education, and public life."
 image:

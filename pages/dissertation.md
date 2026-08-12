@@ -7,6 +7,8 @@ author: adamdjbrett
 teaser: |
 layout: page
 permalink: /dissertation/
+redirect_from:
+  - /disssertation/
 breadcrumb: true
 ---
 ## **National Association of Baptist Professors of Religion**

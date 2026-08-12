@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "CFP"
-title: "2025 NABPR 2025 NABPR Region-at-Large Meeting (meeting in conjunction with the College Theology Society Annual Meeting)"
+title: "2025 NABPR 2025 NABPR Region-at-Large Meeting"
 teaser: "The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for 2025 NABPR Region-at-Large Meeting (meeting in conjunction with the College Theology Society Annual Meeting)."
 image:
   title: "/images/schools/university_of_dayton.jpg"

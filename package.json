@@ -1,0 +1,16 @@
+{
+  "name": "nabpr.org",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "buildawesome && pagefind --site _site",
+    "dev": "buildawesome --serve",
+    "check": "node scripts/check-build.mjs"
+  },
+  "devDependencies": {
+    "@awesome.me/buildawesome": "4.0.0-alpha.10",
+    "markdown-it-anchor": "9.2.1",
+    "markdown-it-attrs": "5.0.1",
+    "pagefind": "1.5.2"
+  }
+}

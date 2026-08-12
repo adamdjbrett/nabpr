@@ -10,14 +10,8 @@ redirect_from:
   - /about-nabpr/constitution/
 image: /wp-content/uploads/2017/06/nabpr-facebook-link-share-image.png
 breadcrumb: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
 # CONSTITUTION & BYLAWS
 # for THE NATIONAL ASSOCIATION OF BAPTIST PROFESSORS OF RELIGION
 

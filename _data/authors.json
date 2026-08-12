@@ -1,0 +1,38 @@
+{
+  "nabpr": {
+    "name": "NABPR",
+    "siterole": "Admin",
+    "uri": "https://nabpr.org/",
+    "email": "hello@nabpr.org",
+    "twitter": "@nabpr1"
+  },
+  "adamdjbrett": {
+    "name": "Adam DJ Brett",
+    "siterole": "Admin",
+    "uri": "https://adamdjbrett.com/",
+    "email": "adam@adamdjbrett.com",
+    "twitter": "@__adjb"
+  },
+  "mynatt": {
+    "name": "Daniel S. Mynatt, Ph.D.",
+    "siterole": "Admin",
+    "uri": "https://nabpr.org",
+    "email": "dmynatt@umhb.edu"
+  },
+  "kguth": {
+    "name": "Karen Guth",
+    "siterole": "author",
+    "uri": "https://nabpr.org",
+    "email": "kguth@holycross.edu"
+  },
+  "cpace": {
+    "name": "Courtney Pace",
+    "siterole": "author",
+    "uri": "https://nabpr.org"
+  },
+  "sharmon": {
+    "name": "Steven Harmon",
+    "siterole": "author",
+    "uri": "https://gardner-webb.edu/people/dr-steven-harmon/"
+  }
+}

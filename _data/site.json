@@ -1,0 +1,51 @@
+{
+  "title": "NABPR",
+  "name": "National Association of Baptist Professors of Religion",
+  "slogan": "National Association of Baptist Professors of Religion",
+  "description": "The National Association of Baptist Professors of Religion is a community of teaching scholars from Baptist-affiliated, church-related, and state-supported institutions.",
+  "url": "https://nabpr.org",
+  "language": "en-US",
+  "author": "nabpr",
+  "logo": "/assets/img/logo.png",
+  "mandy": "Mandy_McMichael@baylor.edu",
+  "campbell": "amyers@campbell.edu",
+  "englisha": "englisha@campbell.edu",
+  "adam": "adam@adamdjbrett.com",
+  "mike": "mike_parsons@baylor.edu",
+  "joao": "joao.chaves@ptsem.edu",
+  "kate": "kate.e.hanch@gmail.com",
+  "social": {
+    "facebook": "https://www.facebook.com/nabpr",
+    "twitter": "https://twitter.com/nabpr1",
+    "linkedin": "https://www.linkedin.com/company/national-association-of-baptist-professors-of-religion/",
+    "x": "https://x.com/nabpr1"
+  },
+  "alternateName": "NABPR",
+  "foundingDate": "1972",
+  "paths": {
+    "blog": "/blog/",
+    "search": "/search/"
+  },
+  "emails": {
+    "mandy": "Mandy_McMichael@baylor.edu",
+    "campbell": "amyers@campbell.edu",
+    "englisha": "englisha@campbell.edu",
+    "adam": "adam@adamdjbrett.com",
+    "mike": "mike_parsons@baylor.edu",
+    "joao": "joao.chaves@ptsem.edu",
+    "kate": "kate.e.hanch@gmail.com"
+  },
+  "founded": "1972",
+  "established_line": "Established 1972",
+  "portal_url": "https://mp.gg/0-1eb",
+  "portal_label": "Become a Member",
+  "join_label": "Join",
+  "handles": {
+    "twitter": "@nabpr1"
+  },
+  "manifest": "/assets/img/site.webmanifest",
+  "seal": "/images/logos/nabpr-logo-only-150x150.png",
+  "seal_large": "/images/logos/nabpr-logo-only-512x512.png",
+  "analytics": "G-WBR2XL0ZTM",
+  "seal_2x": "/images/logos/nabpr-logo-only-256x256.png"
+}

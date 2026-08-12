@@ -1,0 +1,48 @@
+---
+layout: base.liquid
+---
+{% assign is_post = false %}{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
+<article class="article shell{% if is_post %} h-entry{% endif %}">
+  {% if image.title %}
+    <figure class="article-figure">
+      <img src="{{ image.title }}" alt="{{ image.alt | default: title | escape }}" width="970" loading="eager" fetchpriority="high">
+      {% if image.caption %}<figcaption>{% if image.caption_url %}<a href="{{ image.caption_url }}" rel="external noopener">{% endif %}{{ image.caption }}{% if image.caption_url %}</a>{% endif %}</figcaption>{% endif %}
+    </figure>
+  {% elsif header.image_fullwidth %}
+    <figure class="article-figure article-figure--wide"><img src="{{ header.image_fullwidth }}" alt="" width="1600" loading="eager" fetchpriority="high"></figure>
+  {% endif %}
+  <header class="article-header">
+    {% if subheadline %}<p class="label">{{ subheadline }}</p>{% endif %}
+    <h1{% if is_post %} class="p-name"{% endif %}>{{ title }}</h1>
+    {% if teaser %}<p class="lede{% if is_post %} p-summary{% endif %}">{{ teaser }}</p>{% endif %}
+    {% if is_post %}
+      {% assign post_author_name = authors[author].name | default: author | default: site.name %}
+      {% assign post_author_uri = authors[author].uri | default: site.url %}
+      <p class="byline"><a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date_iso }}">{{ page.date | readable_date }}</time></a> · <span class="p-author h-card"><a class="p-name u-url" href="{{ post_author_uri }}">{{ post_author_name }}</a></span></p>
+    {% endif %}
+  </header>
+  {% if toc %}{{ content | toc }}{% endif %}
+  <div class="prose{% if is_post %} e-content{% endif %}">{{ content }}</div>
+  {% if is_post %}{% comment %}Bridgy Fed opt-in for this entry — inert until the domain is signed up at fed.brid.gy{% endcomment %}<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>{% endif %}
+</article>
+{% if is_post %}
+  {% comment %}collections.posts runs newest first, so the next item is the older post.{% endcomment %}
+  {% assign older = collections.posts | getNextCollectionItem %}
+  {% assign newer = collections.posts | getPreviousCollectionItem %}
+  {% if older or newer %}
+    <nav class="post-nav shell" aria-label="More posts">
+      {% if older %}
+        <a class="post-nav__link post-nav__link--prev" href="{{ older.url }}" rel="prev">
+          <span class="label">← Older</span>
+          <span class="post-nav__title">{{ older.data.title }}</span>
+        </a>
+      {% else %}<span></span>{% endif %}
+      {% if newer %}
+        <a class="post-nav__link post-nav__link--next" href="{{ newer.url }}" rel="next">
+          <span class="label">Newer →</span>
+          <span class="post-nav__title">{{ newer.data.title }}</span>
+        </a>
+      {% endif %}
+    </nav>
+  {% endif %}
+{% endif %}

@@ -1,0 +1,136 @@
+---
+layout: base.liquid
+---
+{% assign featured = collections.posts | first %}
+{% assign people = collections.posts | people %}
+
+{% comment %}The site's representative h-card: on the home page, with u-url matching it.{% endcomment %}
+<section class="stand shell rise h-card">
+  <div class="stand__grid">
+    <p class="p-note">The <a class="p-name u-url u-uid" rel="me" href="/">{{ site.name }}</a> {{ homepage.stand }}</p>
+    <figure class="lightbox">
+      <img class="u-logo u-photo" src="{{ site.seal }}" srcset="{{ site.seal }} 1x, {{ site.seal_2x }} 2x" alt="The {{ site.title }} seal" width="150" height="150" loading="eager" decoding="async">
+    </figure>
+  </div>
+</section>
+
+<section class="rail featured shell rise h-feed" aria-labelledby="featured-h">
+  <div class="rail__head">
+    <h2 class="rail__title p-name" id="featured-h">{{ homepage.featured_heading }}</h2>
+    <a class="seemore" href="{{ featured.url }}">{{ homepage.featured_more }}</a>
+  </div>
+  <article class="lead h-entry">
+    {% assign lead_image = featured.data.image.homepage | default: featured.data.image.title %}
+    {% if lead_image %}
+      <figure class="lead__figure">
+        <a href="{{ featured.url }}"><img src="{{ lead_image }}" alt="{{ featured.data.image.caption | default: featured.data.title | strip_html | escape }}" width="1080" height="810" loading="eager" fetchpriority="high"></a>
+        {% if featured.data.image.caption %}<figcaption>{{ featured.data.image.caption | strip_html }}</figcaption>{% endif %}
+      </figure>
+    {% endif %}
+    <div class="lead__body">
+      <span class="kicker">{{ featured.data.subheadline | default: "Featured" }}</span>
+      <h2 class="lead__title"><a class="u-url p-name" href="{{ featured.url }}">{{ featured.data.title }}</a></h2>
+      <p class="teaser p-summary">{{ featured.data.teaser | strip_html | truncate: 260 }}</p>
+      <p class="byline"><time class="dt-published" datetime="{{ featured.date | date_iso }}">Posted {{ featured.date | readable_date }}</time></p>
+    </div>
+  </article>
+  <div class="seconds">
+    <div class="seconds__col">
+      {% for post in collections.posts offset: 1 limit: 3 %}
+        <article class="second h-entry">
+          <span class="kicker">{{ post.data.subheadline | default: "News" | truncate: 46 }}</span>
+          <h3 class="second__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 190 }}</p>
+          <p class="byline"><time class="dt-published" datetime="{{ post.date | date_iso }}">Posted {{ post.date | readable_date }}</time></p>
+        </article>
+      {% endfor %}
+    </div>
+    <div class="seconds__col">
+      {% for post in collections.posts offset: 4 limit: 3 %}
+        <article class="second h-entry">
+          <span class="kicker">{{ post.data.subheadline | default: "News" | truncate: 46 }}</span>
+          <h3 class="second__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 190 }}</p>
+          <p class="byline"><time class="dt-published" datetime="{{ post.date | date_iso }}">Posted {{ post.date | readable_date }}</time></p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="rail shell rise h-feed" aria-labelledby="latest-h">
+  <div class="rail__head">
+    <h2 class="rail__title p-name" id="latest-h">{{ homepage.latest_heading }}</h2>
+    <a class="seemore" href="/blog/">{{ homepage.latest_more }}</a>
+  </div>
+
+  <div class="chips" role="group" aria-label="Filter entries by category">
+    <button type="button" class="chip" data-filter="all" aria-pressed="true">All</button>
+    <button type="button" class="chip" data-filter="news" aria-pressed="false">Announcements</button>
+    <button type="button" class="chip" data-filter="cfp" aria-pressed="false">Calls for papers</button>
+    <button type="button" class="chip" data-filter="job" aria-pressed="false">Positions</button>
+    <button type="button" class="chip" data-filter="book" aria-pressed="false">Books</button>
+    <button type="button" class="chip" data-filter="meeting" aria-pressed="false">Meetings</button>
+    <button type="button" class="chip" data-filter="dissertation" aria-pressed="false">Scholarships</button>
+  </div>
+
+  <ul class="entries" id="entries">
+    {% for post in collections.posts limit: 14 %}
+      {% assign cat = post | bucket %}
+      <li class="entry h-entry" data-cat="{{ cat }}">
+        <span class="entry__date"><time class="dt-published" datetime="{{ post.date | date_iso }}">{{ post.date | short_date }}</time></span>
+        <div>
+          <h3 class="entry__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 165 }}</p>
+        </div>
+        <span class="entry__tag">{{ cat | bucket_label }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="entries__empty" id="entriesEmpty" hidden>Nothing filed under this category on this page — the <a href="/blog/archive/">full archive</a> has more.</p>
+</section>
+
+<section class="board" aria-labelledby="people-h">
+  <div class="shell">
+    <div class="rail__head">
+      <h2 class="rail__title" id="people-h">{{ homepage.people_heading }}</h2>
+      <a class="seemore" href="/officers/">{{ homepage.people_more }}</a>
+    </div>
+    <div class="people">
+      {% for post in people limit: 3 %}
+        <article class="person{% if forloop.first %} person--wide{% endif %}">
+          {% assign portrait = post.data.image.homepage | default: post.data.image.title %}
+          {% if portrait contains "/logos/" %}{% assign portrait = "" %}{% endif %}
+          {% if portrait != "" and portrait %}
+            <figure><img src="{{ portrait }}" alt="{{ post.data.title | strip_html | escape }}" width="800" height="640" loading="lazy"></figure>
+          {% endif %}
+          <span class="kicker">{{ post.data.subheadline | default: "Announcement" | truncate: 40 }}</span>
+          <h3 class="person__title"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p>{{ post.data.teaser | strip_html | truncate: 150 }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="publications shell" aria-labelledby="publications-h">
+  <div class="rail__head">
+    <h2 class="rail__title" id="publications-h">{{ homepage.publications_heading }}</h2>
+    <a class="seemore" href="/publications/">{{ homepage.publications_more }}</a>
+  </div>
+  <ul class="publications__grid">
+    {% for item in publications %}
+      <li class="publication">
+        <h3 class="publication__title">{{ item.name }}</h3>
+        <p>{{ item.description }}</p>
+        <a class="button" href="{{ item.url }}" rel="external noopener" aria-label="{{ item.name }} at {{ item.host }}, external site">{{ item.host }} ↗</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="join shell" aria-labelledby="join-h">
+  <h2 class="label" id="join-h">{{ homepage.join_heading }}</h2>
+  <p>{{ homepage.join_copy }}</p>
+  <a class="join__cta" href="{{ site.portal_url }}" rel="external noopener">{{ homepage.join_cta }}</a>
+</section>

@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Scholarship Annoucement"
 date: 2026-05-28T09:50:14+00:00
-title: "NABPR Announces Scholarship Recipient Ashlyn Wimberly"
+title: "Scholarship Recipient Ashlyn Wimberly"
 teaser: "NABPR recognizes Ashlyn Wimberly, a Baylor doctoral candidate whose research explores pain, embodiment, eschatology, and disability theology in Luke."
 image:
   title: "/images/A_Wimberly.jpg"

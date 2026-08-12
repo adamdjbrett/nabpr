@@ -1,0 +1,12 @@
+---
+layout: base.liquid
+---
+<section class="archive shell">
+  <header class="archive-header">
+    <p class="label">Search</p>
+    <h1>{{ title | default: "Search NABPR" }}</h1>
+    {% if teaser %}<p class="lede">{{ teaser }}</p>{% endif %}
+  </header>
+  <div class="pagefind-page">{{ content }}</div>
+  <noscript><p>Search needs JavaScript. The <a href="/blog/archive/">blog archive</a> lists every entry by date.</p></noscript>
+</section>

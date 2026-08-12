@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "NABPR 2026 Annual Meeting Program"
+subheadline: "2026 Annual Meeting Program"
 date: 2026-05-05T09:50:14+00:00
 title: "2026 NABPR Annual Meeting Program"
 teaser: "The May meeting represents a collaboration between NABPR, AMGP, BHHS."

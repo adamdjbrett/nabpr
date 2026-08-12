@@ -19,14 +19,8 @@ tags:
   - baptist
 author: adamdjbrett
 show_meta: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
 [Apply Now (interfolio)](https://apply.interfolio.com/146924)
 
 

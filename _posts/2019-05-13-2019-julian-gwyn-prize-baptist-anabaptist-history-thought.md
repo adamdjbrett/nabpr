@@ -41,4 +41,4 @@ All submissions must include:
 * Photo: First Baptist Church, Amherst, NS (Acadia University Archives and Special Collections).
 
 &nbsp;
-[⤓ Download the CFP as a PDF](/docs/2019-ACBAS-essay-prize.pdf)
+[View the CFP image](/images/2019-ACBAS-essay-prize.jpg)

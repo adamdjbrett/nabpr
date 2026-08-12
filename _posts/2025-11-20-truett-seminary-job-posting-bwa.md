@@ -6,7 +6,7 @@ teaser: "Baylor University's George W. Truett Theological Seminary seeks an Asso
 meta_description: "Baylor University's George W. Truett Theological Seminary seeks an Associate or Full Professor (Tenure--track or Tenured) for The Lampsato Chair in Baptist World Missional Engagement and Director of the Baptist World Alliance Program who can start August 1, 2026."
 image:
   title: "/images/schools/truett_seminary.jpg"
-  thumb: "/images/thumbs/truett_seminary_tn.jpg"
+  thumb: "/images/schools/truett_seminary.jpg"
   homepage: "/images/schools/truett_seminary.jpg"
   caption: "Baylor University's Truett Seminary"
   caption_url: "https://truettseminary.baylor.edu/news/story/2023/what-does-it-mean-be-baylors-truett-seminary"

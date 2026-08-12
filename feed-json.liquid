@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /feed/feed.json
+eleventyExcludeFromCollections: true
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title | json }},
+  "description": {{ site.description | json }},
+  "home_page_url": {{ site.url | json }},
+  "feed_url": {{ "/feed/feed.json" | absolute_url | json }},
+  "language": {{ site.language | json }},
+  "icon": {{ "/assets/img/android-chrome-512x512.png" | absolute_url | json }},
+  "favicon": {{ "/assets/img/favicon-32x32.png" | absolute_url | json }},
+  "authors": [{ "name": {{ site.name | json }}, "url": {{ site.url | json }} }],
+  "items": [
+{% for post in collections.posts limit: 20 %}    {
+      "id": {{ post.url | absolute_url | json }},
+      "url": {{ post.url | absolute_url | json }},
+      "title": {{ post.data.title | json }},
+      "summary": {{ post.data.teaser | strip_html | strip_newlines | json }},
+      "content_html": {{ post.templateContent | json }},
+      "date_published": {{ post.date | date_iso | json }}{% if post.data.image.title %},
+      "image": {{ post.data.image.title | absolute_url | json }}{% endif %}{% if post.data.tags %},
+      "tags": {{ post.data.tags | json }}{% endif %}
+    }{% unless forloop.last %},{% endunless %}
+{% endfor %}  ]
+}

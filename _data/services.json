@@ -1,0 +1,35 @@
+[
+  {
+    "menu_name": "Services"
+  },
+  {
+    "name": "About",
+    "url": "/info/",
+    "title": "About NABPR"
+  },
+  {
+    "name": "Blog",
+    "url": "/blog/",
+    "title": "blog"
+  },
+  {
+    "name": "Contact",
+    "url": "/contact/",
+    "title": "Contact"
+  },
+  {
+    "name": "Give",
+    "url": "/donate/",
+    "title": "Give to NABPR"
+  },
+  {
+    "name": "Officers",
+    "url": "/officers/",
+    "title": "Officers"
+  },
+  {
+    "name": "Meetings",
+    "url": "/meetings/",
+    "title": "Meetings"
+  }
+]

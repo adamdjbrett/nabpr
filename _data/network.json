@@ -1,0 +1,41 @@
+[
+  {
+    "menu_name": "PRSt"
+  },
+  {
+    "name": "Perspectives in Religious Studies (PRSt).",
+    "url": "https://www.baylor.edu/prs/",
+    "class": "network-prs",
+    "title": "Perspectives in Religious Studies (PRSt). ISSN: 0093-531X, ISSN-L: 0093-531X"
+  },
+  {
+    "name": "ISSN: 0093-531X",
+    "url": "https://www.baylor.edu/prs/",
+    "class": "network-prs",
+    "title": "ISSN: 0093-531X"
+  },
+  {
+    "name": "PRSt Index",
+    "url": "http://www.baylor.edu/prs/index.php?id=6076",
+    "class": "network-baylor",
+    "title": "Baylor PRSt Index"
+  },
+  {
+    "name": "ATLA PRSt, ATLA0000003459",
+    "url": "http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live",
+    "class": "network-ATLA",
+    "title": "ATLA PRSt Index"
+  },
+  {
+    "name": "WorldCat",
+    "url": "http://www.worldcat.org/oclc/1378270",
+    "class": "network-worldcat",
+    "title": "Find PRSt on WorldCat"
+  },
+  {
+    "name": "Zotero",
+    "url": "https://www.zotero.org/groups/perspectives-in-religious-studies",
+    "class": "network-zotero",
+    "title": "Find PRSt on Zotero"
+  }
+]

@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "JOB"
-title: "Baylor University is Now Hiring for Associate to Full Professor, Tenure Track, Christian Theology, Department of Religion"
+title: "Baylor is Now Hiring Tenure Track, Christian Theology"
 teaser: "The Department of Religion seeks to fill a position at the rank of Associate to Full Professor in Christian Theology, to start August 1, 2026. We welcome applicants with expertise in any area of systematic/constructive theology, particularly those with specializations such as theologies of liberation, feminist and womanist theologies, theology and the arts, or theological anthropology, who approach their theological work in an ecumenical spirit. The successful candidate will hold a Ph.D., Th.D., or D.Phil. in theology or a cognate discipline, will be competent to teach their areas of specialization at the graduate (Ph.D.) level and all major loci of Christian theology at the undergraduate level, and must be active in the Christian tradition."
 meta_description: "The Department of Religion seeks to fill a position at the rank of Associate to Full Professor in Christian Theology, to start August 1, 2026. We welcome applicants with expertise in any area of systematic/constructive theology, particularly those with specializations such as theologies of liberation, feminist and womanist theologies, theology and the arts, or theological anthropology, who approach their theological work in an ecumenical spirit."
 image:
@@ -20,7 +20,7 @@ tags:
 author: adamdjbrett
 show_meta: true
 ---
-
+## Baylor University is Now Hiring Tenure Track, Christian Theology, Department of Religion
 ### Description
 
 The Department of Religion seeks to fill a position at the rank of Associate to Full Professor in Christian Theology, to start August 1, 2026. We welcome applicants with expertise in any area of systematic/constructive theology, particularly those with specializations such as theologies of liberation, feminist and womanist theologies, theology and the arts, or theological anthropology, who approach their theological work in an ecumenical spirit. The successful candidate will hold a Ph.D., Th.D., or D.Phil. in theology or a cognate discipline, will be competent to teach their areas of specialization at the graduate (Ph.D.) level and all major loci of Christian theology at the undergraduate level, and must be active in the Christian tradition.

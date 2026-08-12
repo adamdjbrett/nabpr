@@ -1,0 +1,10 @@
+---
+layout: null
+pagination:
+  data: collections.posts
+  size: 1
+  alias: post
+permalink: "{{ post.url }}metadata.json"
+eleventyExcludeFromCollections: true
+---
+{"@context":"https://schema.org","@type":"BlogPosting","@id":{{ post.url | append: "#metadata" | absolute_url | json }},"name":{{ post.data.title | json }},"headline":{{ post.data.title | json }},"description":{{ post.data.meta_description | default: post.data.teaser | strip_html | json }},"url":{{ post.url | absolute_url | json }},"inLanguage":"en","author":{"@type":"Person","name":{{ authors[post.data.author].name | default: post.data.author | default: "NABPR" | json }}},"publisher":{"@type":"Organization","name":{{ site.name | json }},"url":{{ site.url | json }}},"datePublished":{{ post.date | date: "%Y-%m-%d" | json }}{% if post.data.image.title %},"image":{{ post.data.image.title | absolute_url | json }}{% endif %}}

@@ -19,14 +19,8 @@ tags:
   - baptist
 author: adamdjbrett
 show_meta: true
+toc: true
 ---
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
 ## **Lecturer, Non-Tenure Track, World Religions**
 
 ### **Baylor University: Office of the Provost: Arts and Sciences: Arts and Sciences - Humanities and Social Sciences: Religion**

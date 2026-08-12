@@ -1,0 +1,98 @@
+{%- comment -%}
+  Site-wide JSON-LD @graph, front-matter driven.
+
+  Every page emits Organization + WebSite. The third node's @type comes from the
+  front-matter key `schema` (e.g. `schema: AboutPage`, `schema: CollectionPage`) when
+  set, otherwise it falls back to: BlogPosting for _posts, Blog for the /blog/ listing
+  pages, WebPage everywhere else.
+
+  Every string that lands inside the script tag goes through the `json` filter
+  (JSON.stringify) so quotes, apostrophes, and curly quotes in titles/teasers can't
+  break the JSON. URLs go through `absolute_url`.
+{%- endcomment -%}
+{% assign is_post = false %}
+{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
+{% assign is_blog_listing = false %}
+{% if page.url and page.url contains site.paths.blog %}{% assign is_blog_listing = true %}{% endif %}
+
+{% assign schema_type = schema %}
+{% if schema_type == blank %}
+  {% if is_post %}
+    {% assign schema_type = "BlogPosting" %}
+  {% elsif is_blog_listing %}
+    {% assign schema_type = "Blog" %}
+  {% else %}
+    {% assign schema_type = "WebPage" %}
+  {% endif %}
+{% endif %}
+
+{% assign page_title = title | default: site.slogan %}
+{% assign page_description = meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+{% assign page_image = image.title | default: image.homepage %}
+{% assign sameas = socialmedia | same_as_urls %}
+
+{% assign schema_author_name = "" %}
+{% assign schema_author_url = "" %}
+{% if author %}
+  {% assign schema_author_name = authors[author].name | default: author %}
+  {% assign schema_author_url = authors[author].uri %}
+{% endif %}
+
+{% assign org_id = site.url | append: "#organization" | absolute_url %}
+{% assign website_id = site.url | append: "#website" | absolute_url %}
+{% assign blog_id = site.paths.blog | append: "#webpage" | absolute_url %}
+{% assign page_id = page.url | append: "#webpage" | absolute_url %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ org_id | json }},
+      "name": {{ site.name | json }},
+      "alternateName": {{ site.alternateName | default: site.title | json }},
+      "url": {{ site.url | json }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ site.logo | absolute_url | json }}
+      },
+      {% if sameas.size > 0 %}"sameAs": {{ sameas | json }},{% endif %}
+      "foundingDate": {{ site.foundingDate | json }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | json }},
+      "url": {{ site.url | json }},
+      "name": {{ site.title | json }},
+      "inLanguage": {{ site.language | default: "en-US" | json }},
+      "publisher": { "@id": {{ org_id | json }} },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {{ site.paths.search | append: "?q={search_term_string}" | absolute_url | json }},
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": {{ schema_type | json }},
+      "@id": {{ page_id | json }},
+      "url": {{ page.url | absolute_url | json }},
+      "name": {{ page_title | json }},
+      {% if schema_type == "BlogPosting" %}"headline": {{ page_title | json }},{% endif %}
+      "description": {{ page_description | json }},
+      {% if page_image %}"image": {{ page_image | absolute_url | json }},{% endif %}
+      "inLanguage": {{ site.language | default: "en-US" | json }},
+      "isPartOf": { "@id": {% if is_post %}{{ blog_id | json }}{% else %}{{ website_id | json }}{% endif %} },
+      "publisher": { "@id": {{ org_id | json }} },
+      {% if is_post %}
+      "datePublished": {{ page.date | date_iso | json }},
+      {% if updated %}"dateModified": {{ updated | date_iso | json }},{% endif %}
+      {% if tags.size > 0 %}"keywords": {{ tags | join: ", " | json }},{% endif %}
+      {% if categories.size > 0 %}"articleSection": {{ categories | join: ", " | json }},{% endif %}
+      "author": {% if schema_author_name != "" %}{ "@type": "Person", "name": {{ schema_author_name | json }}{% if schema_author_url %}, "url": {{ schema_author_url | json }}{% endif %} }{% else %}{ "@id": {{ org_id | json }} }{% endif %},
+      {% endif %}
+      "mainEntityOfPage": { "@id": {{ page_id | json }} }
+    }
+  ]
+}
+</script>

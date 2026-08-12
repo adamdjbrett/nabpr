@@ -1,0 +1,19 @@
+---
+layout: null
+permalink: /humans.txt
+eleventyExcludeFromCollections: true
+---
+/* TEAM */
+{% for entry in authors %}Name: {{ entry[1].name }}
+Role: {{ entry[1].siterole | default: "Contributor" }}
+{% if entry[1].uri %}Site: {{ entry[1].uri }}{% endif %}
+
+{% endfor %}/* SITE */
+Site: {{ site.url }}
+Name: {{ site.name }}
+Standards: HTML5, CSS, microformats2, JSON-LD, RSS, Atom, JSON Feed, twtxt
+Components: Eleventy, Build Awesome, Pagefind, markdown-it
+Typography: Fraunces, Newsreader
+Icons: Phosphor Icons
+Language: {{ site.language }}
+Credits: {{ site.url }}/credits.txt

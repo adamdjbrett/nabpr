@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /feed/twtxt.txt
+eleventyExcludeFromCollections: true
+---
+# nick = nabpr
+# url = {{ "/feed/twtxt.txt" | absolute_url }}
+# avatar = {{ "/assets/img/android-chrome-192x192.png" | absolute_url }}
+# description = {{ site.description | strip_newlines }}
+# follow = nabpr {{ "/feed/twtxt.txt" | absolute_url }}
+{% assign chronological = collections.posts | reverse %}{% for post in chronological %}{{ post.date | date_iso }}	{{ post.data.title | strip_newlines }} — {{ post.url | absolute_url }}
+{% endfor %}

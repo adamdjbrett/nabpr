@@ -1,0 +1,49 @@
+<header class="masthead shell">
+  <div class="masthead__toprow">
+    <a class="masthead__mark masthead__member" href="{{ site.portal_url }}" rel="external noopener">
+      {% assign icon = "user-list" %}{% assign icon_size = 20 %}{% include "icon.liquid" %}
+      <span class="label">{{ site.portal_label }}</span>
+    </a>
+    <span class="masthead__mark masthead__surfaces">
+      {% assign icon = "book-mark" %}{% assign icon_size = 20 %}{% include "icon.liquid" %}
+      <span class="label">{{ site.established_line }}</span>
+    </span>
+    <button type="button" class="toggle" id="themeToggle" aria-pressed="false">
+      <span class="toggle__dot" aria-hidden="true"></span>
+      <span id="themeLabel">Dark</span>
+    </button>
+  </div>
+
+  {% if page.url == "/" %}<h1 class="masthead__title"><a href="/">{{ site.title }}</a></h1>{% else %}<p class="masthead__title"><a href="/">{{ site.title }}</a></p>{% endif %}
+  <p class="masthead__slogan">{{ site.name }}</p>
+
+  <details class="site-nav">
+    <summary>Menu</summary>
+    <nav aria-label="Primary">
+      <ul class="nav-list">
+        {% for item in navigation %}
+          {% if item.url == "/" %}{% continue %}{% endif %}
+          <li>
+            {% if item.dropdown %}
+              <details class="nav-group">
+                <summary>{{ item.title }}{% assign icon = "caret-down" %}{% assign icon_size = 12 %}{% assign icon_class = "nav-caret" %}{% include "icon.liquid" %}{% assign icon_class = "" %}</summary>
+                <ul>
+                  <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+                  {% for child in item.dropdown %}<li><a href="{{ child.url }}"{% if child.url contains 'http' %} rel="external noopener"{% endif %}{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>{% endfor %}
+                </ul>
+              </details>
+            {% else %}
+              <a href="{{ item.url }}"{% if item.url contains 'http' %} rel="external noopener"{% endif %}{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+        <li class="nav-join">
+          <a href="{{ site.portal_url }}" rel="external noopener">
+            {% assign icon = "user-list" %}{% assign icon_size = 16 %}{% include "icon.liquid" %}
+            {{ site.join_label }}
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </details>
+</header>

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Home",
+    "url": "/"
+  },
+  {
+    "title": "About",
+    "url": "/info/",
+    "dropdown": [
+      {
+        "title": "Membership",
+        "url": "/membership/"
+      },
+      {
+        "title": "Contact",
+        "url": "/contact/"
+      },
+      {
+        "title": "Officers",
+        "url": "/officers/"
+      },
+      {
+        "title": "Constitution",
+        "url": "/about/constitution/"
+      },
+      {
+        "title": "Affiliated Organizations",
+        "url": "/about/affiliated-organizations/"
+      },
+      {
+        "title": "Doctoral Student Network",
+        "url": "/doctoral-student-network/"
+      },
+      {
+        "title": "Facebook Group",
+        "url": "/facebook-group/"
+      },
+      {
+        "title": "Donate",
+        "url": "/donate/"
+      }
+    ]
+  },
+  {
+    "title": "Meetings",
+    "url": "/meetings/",
+    "dropdown": [
+      {
+        "title": "Registration",
+        "url": "/meetings/registration/"
+      },
+      {
+        "title": "Housing",
+        "url": "/meetings/housing/"
+      }
+    ]
+  },
+  {
+    "title": "Dissertation",
+    "url": "/dissertation/"
+  },
+  {
+    "title": "Publications",
+    "url": "/publications/"
+  },
+  {
+    "title": "Book Series",
+    "url": "https://pbi.nabpr.org/"
+  },
+  {
+    "title": "Blog",
+    "url": "/blog/"
+  },
+  {
+    "title": "🔎 Search",
+    "url": "/search/"
+  }
+]

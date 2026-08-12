@@ -12,15 +12,9 @@ breadcrumb: true
 show_meta: true
 categories:
   - policy
+toc: true
 ---
 # [nabpr.org](http://nabpr.org ) Privacy Policy
-
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
 
 
 

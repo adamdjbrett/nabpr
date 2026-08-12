@@ -2,14 +2,14 @@
 layout: page
 subheadline: "Publication Annoucement"
 date: 2026-05-21T09:50:14+00:00
-title: "NABPR Announces Festschrift in Honor of Daniel S. Mynatt"
+title: "Festschrift in Honor of Daniel S. Mynatt"
 teaser: "NABPR celebrates a Festschrift honoring Daniel S. Mynatt’s scholarship, leadership, service, and contributions to Baptist higher education."
 image:
-  title: "/images/logos/NABPR-header.png"
+  title: "/images/Mynatt-Dr-Danny-2015-08-21.jpeg"
   thumb: "/images/logos/nabpr-logo-only-128x128.png"
-  homepage: "/images/logos/NABPR-header.png"
-  caption: "NABPR Logo"
-  caption_url: "https://nabpr.org"
+  homepage: "/images/Mynatt-Dr-Danny-2015-08-21.jpeg"
+  caption: "Daniel S. Mynatt 📸 Pfeiffer University"
+  caption_url: "https://www.pfeiffer.edu/dr-daniel-mynatt-to-serve-as-next-provost/"
 categories:
   - annoucement
 tags:

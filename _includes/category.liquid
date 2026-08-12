@@ -1,0 +1,25 @@
+---
+layout: base.liquid
+---
+{% assign group = category_group %}
+<section class="archive shell">
+  <header class="archive-header">
+    <p class="label">Blog &amp; News</p>
+    <h1>{{ group.label }}</h1>
+    <p class="lede">{{ group.posts | size }} entries filed under {{ group.label | downcase }}.</p>
+  </header>
+  {% assign chip_current = group.slug %}
+  {% include "chips.liquid" %}
+  <div class="archive-list">
+    {% for post in group.posts %}
+      <article class="archive-row">
+        <time datetime="{{ post.date | date_iso }}">{{ post.date | short_date }}</time>
+        <div>
+          <h2><a href="{{ post.url }}">{{ post.data.title | truncate: 60 }}</a></h2>
+          <p>{{ post.data.teaser | strip_html | truncate: 180 }}</p>
+        </div>
+        <span class="entry__tag">{{ group.bucket | bucket_label }}</span>
+      </article>
+    {% endfor %}
+  </div>
+</section>

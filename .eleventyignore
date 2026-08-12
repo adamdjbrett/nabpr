@@ -1,0 +1,11 @@
+README.md
+changelog.md
+techstack.md
+design.md
+docs/**
+_drafts/**
+_layouts/**
+_plugins/**
+_sass/**
+_site/**
+node_modules/**

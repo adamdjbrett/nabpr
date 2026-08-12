@@ -19,9 +19,9 @@ toc: true
 ## Perspectives in Religious Studies
 The backbone of the NABPR is its publications. Since 1973 the Association has published the journal, _[Perspectives in Religious Studies](http://www.baylor.edu/prs/)_ (PRSt) (which has been quarterly since 1974). [How to Submit a Manuscript to PRSt](http://www.baylor.edu/prs/index.php?id=6073).
 
-- [_Perspectives in Religious Studies_ (PRSt)](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live)
+- [_Perspectives in Religious Studies_ (PRSt)](https://research.ebsco.com/plink/b6f5fd91-c22d-3992-b9f8-ee4d5582d0da)
 - bibliographic data information is as follows:  
-  - [ATLA: ATLA0000003459](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&jid=ATLA0000003459&site=ehost-live) \| ISSN: 0093-531X \| ISSN-L: 0093-531X  
+  - [ATLA: ATLA0000003459](https://research.ebsco.com/plink/b6f5fd91-c22d-3992-b9f8-ee4d5582d0da) \| ISSN: 0093-531X \| ISSN-L: 0093-531X  
   - [WorldCat entry](http://www.worldcat.org/oclc/1378270)
   - [Information Matrix for the Analysis of Journals](http://miar.ub.edu/issn/0093-531X)  
   - [Follow Perspectives in Religious Studies on Zotero](https://www.zotero.org/groups/perspectives-in-religious-studies)

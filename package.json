@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "buildawesome && pagefind --site _site",
-    "dev": "buildawesome --serve",
+    "build": "eleventy && pagefind --site _site",
+    "dev": "eleventy --serve",
     "check": "node scripts/check-build.mjs"
   },
   "devDependencies": {

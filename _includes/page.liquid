@@ -4,7 +4,7 @@ layout: base.liquid
 {% assign is_post = false %}{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
 <article class="article shell{% if is_post %} h-entry{% endif %}">
   {% if image.title %}
-    <figure class="article-figure">
+    <figure class="article-figure{% if image.fullwidth %} article-figure--bleed{% endif %}">
       <img src="{{ image.title }}" alt="{{ image.alt | default: title | escape }}" width="970" loading="eager" fetchpriority="high">
       {% if image.caption %}<figcaption>{% if image.caption_url %}<a href="{{ image.caption_url }}" rel="external noopener">{% endif %}{{ image.caption }}{% if image.caption_url %}</a>{% endif %}</figcaption>{% endif %}
     </figure>

@@ -8,6 +8,7 @@ image:
   title: "/images/tj-wallace-raleigh.webp"
   thumb: "/images/thumbs/tj-wallace-raleigh_tn.webp"
   homepage: "/images/tj-wallace-raleigh.webp"
+  fullwidth: true
   caption: 'Photo by <a href="https://unsplash.com/@tjwallacecrtv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TJ Wallace</a> on <a href="https://unsplash.com/photos/a-view-of-a-city-from-a-train-track-qa5ouCk-Xoo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 categories:
   - cfp
@@ -25,10 +26,12 @@ author: adamdjbrett
 show_meta: true
 ---
 
-**CALL FOR PROPOSALS\
-MAY 17-19, 2027 Raleigh Meeting of the NABPR, BHHS, & AMGP
+## CALL FOR PROPOSALS
+- **MAY 17-19, 2027** 
+- **Raleigh, NC**
+- **Joint Meeting of the NABPR, BHHS, & AMGP**
 
-"Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy."**
+### "Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy."**
 
 The meeting will bring scholars, ministry educators, healthcare professionals, chaplains, and community leaders into conversation about spirituality and healthcare, mental health and trauma, health disparities, pastoral care, and faith-based partnerships with public-health organizations. Sessions will examine religiously influenced attitudes toward vaccines, medical expertise, and mental-health treatment, while distinguishing misinformation-driven distrust from mistrust rooted in medical racism, exclusion, or unequal access to care. Additional topics will include biblical understandings of sickness and healing, the historic role of churches in establishing hospitals, the prosperity gospel, healthcare access and education, and ministry with people experiencing illness, disability, grief, and trauma.
 

@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import * as pagefind from "pagefind";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
 
@@ -56,26 +57,28 @@ export default function (eleventyConfig) {
   ["assets", "images", "wp-content", "pdfs"].forEach((path) =>
     eleventyConfig.addPassthroughCopy(path),
   );
-  ["CNAME", ".htaccess", "_redirects", "_headers"].forEach((path) =>
-    eleventyConfig.addPassthroughCopy(path),
-  );
 
-  eleventyConfig.addCollection("posts", (api) =>
+  // Search index, rebuilt after every build — `build` and `serve` alike, so dev search works.
+  eleventyConfig.on("eleventy.after", async ({ dir }) => {
+    const { index } = await pagefind.createIndex();
+    await index.addDirectory({ path: dir.output });
+    await index.writeFiles({ outputPath: `${dir.output}/pagefind` });
+    await pagefind.close();
+  });
+
+  const posts = (api) =>
     api
       .getFilteredByGlob("./_posts/*.md")
       .filter((item) => item.data.published !== false)
-      .sort((a, b) => b.date - a.date),
-  );
+      .sort((a, b) => b.date - a.date);
+  eleventyConfig.addCollection("posts", posts);
   // One archive page per chip, so the blog filter works across all 138 entries and not just
   // whichever ten happen to be on the current page.
   eleventyConfig.addCollection("bucketPages", (api) => {
-    const posts = api
-      .getFilteredByGlob("./_posts/*.md")
-      .filter((item) => item.data.published !== false)
-      .sort((a, b) => b.date - a.date);
+    const all = posts(api);
     return BUCKET_PAGES.map((page) => ({
       ...page,
-      posts: posts.filter((post) => bucketOf(post) === page.bucket),
+      posts: all.filter((post) => bucketOf(post) === page.bucket),
     })).filter((page) => page.posts.length);
   });
   eleventyConfig.addCollection("redirects", (api) => {
@@ -108,9 +111,6 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("absolute_url", (value = "") =>
     /^https?:\/\//.test(value) ? value : `${SITE_URL}${value.startsWith("/") ? "" : "/"}${value}`,
-  );
-  eleventyConfig.addFilter("relative_url", (value = "") =>
-    value.startsWith("/") ? value : `/${value}`,
   );
   eleventyConfig.addFilter("encode_email", (value = "") =>
     [...value].map((char) => `&#${char.charCodeAt(0)};`).join(""),

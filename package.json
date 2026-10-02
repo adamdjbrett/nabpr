@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "eleventy && pagefind --site _site",
-    "dev": "eleventy --serve",
+    "build": "eleventy --quiet",
+    "dev": "eleventy --serve --quiet",
     "check": "node scripts/check-build.mjs"
   },
   "devDependencies": {

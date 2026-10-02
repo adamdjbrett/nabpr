@@ -1,10 +1,15 @@
 ---
 layout: null
-permalink: /feed/feed.rss
+pagination:
+  data: rss
+  size: 1
+  alias: self
+rss: [/feed.xml, /feed/feed.rss]
+permalink: "{{ self }}"
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
-<title>{{ site.title | xml_escape }}</title><description>{{ site.description | xml_escape }}</description><link>{{ site.url }}/</link><language>{{ site.language }}</language><atom:link href="{{ site.url }}/feed/feed.rss" rel="self" type="application/rss+xml" />
+<title>{{ site.title | xml_escape }}</title><description>{{ site.description | xml_escape }}</description><link>{{ site.url }}/</link><language>{{ site.language }}</language><atom:link href="{{ site.url }}{{ self }}" rel="self" type="application/rss+xml" />
 {% for post in collections.posts limit: 20 %}<item><title>{{ post.data.title | xml_escape }}</title><link>{{ post.url | absolute_url }}</link><pubDate>{{ post.date | date_rfc }}</pubDate><description>{{ post.data.teaser | default: post.templateContent | strip_html | xml_escape }}</description><guid isPermaLink="true">{{ post.url | absolute_url }}</guid></item>{% endfor %}
 </channel></rss>

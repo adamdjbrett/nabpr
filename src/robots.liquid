@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 User-agent: *
 Allow: /
 
-# The crawlers listed in _data/bots.json are also blocked at the server level in .htaccess.
+# Crawlers listed in _data/bots.json:
 {% assign crawlers = bots | sort_natural | uniq %}{% for bot in crawlers %}User-agent: {{ bot }}
 Disallow: /
 

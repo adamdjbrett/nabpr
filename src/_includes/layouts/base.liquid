@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="{{ site.language }}">
-  <head>{% include "head.liquid" %}</head>
+  <head>{% include "partials/head.liquid" %}</head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    {% include "header.liquid" %}
+    {% include "partials/header.liquid" %}
     {% comment %}Pagefind indexes the pages people actually read: posts and content pages, not the listing surfaces or the search page itself.{% endcomment %}
     <main id="main"{% if page.url == "/search/" or page.url contains "/blog/" %} data-pagefind-ignore{% else %} data-pagefind-body{% endif %}>{{ content }}</main>
-    {% include "footer.liquid" %}
+    {% include "partials/footer.liquid" %}
     <pagefind-modal reset-on-close></pagefind-modal>
     <script src="/assets/js/site.js"></script>
   </body>

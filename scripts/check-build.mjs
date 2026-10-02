@@ -14,8 +14,8 @@ const metadata = files.filter((file) => file.endsWith("metadata.json"));
 for (const required of ["index.html", "blog/index.html", "feed.xml", "atom.xml", "sitemap.xml", "404.html", "robots.txt", "humans.txt", "credits.txt", "feed/feed.rss", "feed/feed.json", "feed/twtxt.txt", "pagefind/pagefind-component-ui.js", "pagefind/pagefind.js"]) {
   assert(fs.existsSync(path.join(output, required)), `missing ${required}`);
 }
-const posts = fs.readdirSync("_posts").filter((file) =>
-  file.endsWith(".md") && !/^published:\s*false\s*$/m.test(fs.readFileSync(path.join("_posts", file), "utf8")));
+const posts = fs.readdirSync("src/posts").filter((file) =>
+  file.endsWith(".md") && !/^published:\s*false\s*$/m.test(fs.readFileSync(path.join("src/posts", file), "utf8")));
 assert.equal(metadata.length, posts.length, "every post must have metadata.json");
 metadata.forEach((file) => JSON.parse(fs.readFileSync(file)));
 JSON.parse(fs.readFileSync(path.join(output, "feed/feed.json")));

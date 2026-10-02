@@ -1,11 +1,11 @@
 <header class="masthead shell">
   <div class="masthead__toprow">
     <a class="masthead__mark masthead__member" href="{{ site.portal_url }}" rel="external noopener">
-      {% assign icon = "user-list" %}{% assign icon_size = 20 %}{% include "icon.liquid" %}
+      {% assign icon = "user-list" %}{% assign icon_size = 20 %}{% include "partials/icon.liquid" %}
       <span class="label">{{ site.portal_label }}</span>
     </a>
     <span class="masthead__mark masthead__surfaces">
-      {% assign icon = "book-mark" %}{% assign icon_size = 20 %}{% include "icon.liquid" %}
+      {% assign icon = "book-mark" %}{% assign icon_size = 20 %}{% include "partials/icon.liquid" %}
       <span class="label">{{ site.established_line }}</span>
     </span>
     <button type="button" class="toggle" id="themeToggle" aria-pressed="false">
@@ -26,7 +26,7 @@
           <li>
             {% if item.dropdown %}
               <details class="nav-group">
-                <summary>{{ item.title }}{% assign icon = "caret-down" %}{% assign icon_size = 12 %}{% assign icon_class = "nav-caret" %}{% include "icon.liquid" %}{% assign icon_class = "" %}</summary>
+                <summary>{{ item.title }}{% assign icon = "caret-down" %}{% assign icon_size = 12 %}{% assign icon_class = "nav-caret" %}{% include "partials/icon.liquid" %}{% assign icon_class = "" %}</summary>
                 <ul>
                   <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
                   {% for child in item.dropdown %}<li><a href="{{ child.url }}"{% if child.url contains 'http' %} rel="external noopener"{% endif %}{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>{% endfor %}
@@ -39,7 +39,7 @@
         {% endfor %}
         <li class="nav-join">
           <a href="{{ site.portal_url }}" rel="external noopener">
-            {% assign icon = "user-list" %}{% assign icon_size = 16 %}{% include "icon.liquid" %}
+            {% assign icon = "user-list" %}{% assign icon_size = 16 %}{% include "partials/icon.liquid" %}
             {{ site.join_label }}
           </a>
         </li>

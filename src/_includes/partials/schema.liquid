@@ -3,7 +3,7 @@
 
   Every page emits Organization + WebSite. The third node's @type comes from the
   front-matter key `schema` (e.g. `schema: AboutPage`, `schema: CollectionPage`) when
-  set, otherwise it falls back to: BlogPosting for _posts, Blog for the /blog/ listing
+  set, otherwise it falls back to: BlogPosting for posts, Blog for the /blog/ listing
   pages, WebPage everywhere else.
 
   Every string that lands inside the script tag goes through the `json` filter
@@ -11,7 +11,7 @@
   break the JSON. URLs go through `absolute_url`.
 {%- endcomment -%}
 {% assign is_post = false %}
-{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
+{% if page.inputPath contains '/posts/' %}{% assign is_post = true %}{% endif %}
 {% assign is_blog_listing = false %}
 {% if page.url and page.url contains site.paths.blog %}{% assign is_blog_listing = true %}{% endif %}
 

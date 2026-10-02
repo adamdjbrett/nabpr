@@ -82,7 +82,7 @@ content pages carry `data-pagefind-body`; listing surfaces and the search page a
 Site copy lives in `_data`, not in templates: `site.json` (identity, portal, seal, analytics id),
 `homepage.json` (rail headings and the standfirst), `publications.json`, `socials.json`,
 `navigation.json`, `services.json`, `network.json`, `authors.json`. Templates iterate; they do
-not hold sentences. Phosphor icons live in one place, `_includes/icon.liquid`, keyed by name.
+not hold sentences. Phosphor icons live in one place, `src/_includes/partials/icon.liquid`, keyed by name.
 
 ## Performance
 

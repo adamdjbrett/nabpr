@@ -1,7 +1,7 @@
 ---
 layout: base.liquid
 ---
-{% assign is_post = false %}{% if page.inputPath contains '_posts' %}{% assign is_post = true %}{% endif %}
+{% assign is_post = false %}{% if page.inputPath contains '/posts/' %}{% assign is_post = true %}{% endif %}
 <article class="article shell{% if is_post %} h-entry{% endif %}">
   {% if image.title %}
     <figure class="article-figure{% if image.fullwidth %} article-figure--bleed{% endif %}">

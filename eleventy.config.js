@@ -36,7 +36,10 @@ const BUCKET_PAGES = [
 ];
 const PEOPLE = /\b(fellow|postdoc|recipient|festschrift|memoriam|honou?r of|award)\b/i;
 // One-off redirects that have no `redirect_from` page to hang off.
-const EXTRA_REDIRECTS = [{ from: "/news/", to: "/blog/" }];
+const EXTRA_REDIRECTS = [
+  { from: "/news/", to: "/blog/" },
+  { from: "/feed/", to: "/feed.xml" },
+];
 
 const fields = (item) => {
   const data = item?.data ?? item ?? {};
@@ -55,7 +58,7 @@ export default function (eleventyConfig) {
   });
 
   ["assets", "images", "wp-content", "pdfs"].forEach((path) =>
-    eleventyConfig.addPassthroughCopy(path),
+    eleventyConfig.addPassthroughCopy(`src/${path}`),
   );
 
   // Search index, rebuilt after every build — `build` and `serve` alike, so dev search works.
@@ -68,7 +71,7 @@ export default function (eleventyConfig) {
 
   const posts = (api) =>
     api
-      .getFilteredByGlob("./_posts/*.md")
+      .getFilteredByGlob("./src/posts/*.md")
       .filter((item) => item.data.published !== false)
       .sort((a, b) => b.date - a.date);
   eleventyConfig.addCollection("posts", posts);
@@ -103,7 +106,7 @@ export default function (eleventyConfig) {
     return `Build Awesome ${pkg.devDependencies["@awesome.me/buildawesome"]}`;
   });
   eleventyConfig.addGlobalData("pdfFiles", () =>
-    fs.readdirSync("pdfs", { recursive: true })
+    fs.readdirSync("src/pdfs", { recursive: true })
       .filter((file) => file.toLowerCase().endsWith(".pdf"))
       .map((file) => ({ name: file.split("/").at(-1), url: `/pdfs/${file}` }))
       .sort((a, b) => a.name.localeCompare(b.name)),
@@ -166,7 +169,7 @@ export default function (eleventyConfig) {
   );
 
   return {
-    dir: { input: ".", includes: "_includes", data: "_data", output: "_site" },
+    dir: { input: "src", includes: "_includes", layouts: "_includes/layouts", data: "../_data", output: "_site" },
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "liquid",
     templateFormats: ["md", "html", "liquid"],

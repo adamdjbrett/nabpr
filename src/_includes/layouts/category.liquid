@@ -9,7 +9,7 @@ layout: base.liquid
     <p class="lede">{{ group.posts | size }} entries filed under {{ group.label | downcase }}.</p>
   </header>
   {% assign chip_current = group.slug %}
-  {% include "chips.liquid" %}
+  {% include "partials/chips.liquid" %}
   <div class="archive-list">
     {% for post in group.posts %}
       <article class="archive-row">

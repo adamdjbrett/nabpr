@@ -5,7 +5,7 @@ The primary nav (`ul.nav-list` in the header) is driven by one file:
 
 ## Where nav items live
 
-`_data/navigation.json` is a flat JSON array. `_includes/header.liquid` loops
+`_data/navigation.json` is a flat JSON array. `src/_includes/partials/header.liquid` loops
 over it once, in file order, and renders each item.
 
 An item the template actually uses looks like this:
@@ -104,7 +104,7 @@ Two gotchas:
 The `Home` entry stays in `navigation.json` (first item, `"url": "/"`) but
 is never rendered — this is intentional, since the masthead title/logo
 already links to `/`. To bring "Home" back into the nav row, delete that
-`{% if %}...{% continue %}{% endif %}` line in `_includes/header.liquid`
+`{% if %}...{% continue %}{% endif %}` line in `src/_includes/partials/header.liquid`
 (a template change, not a data change).
 
 The membership portal is not in the nav either. The masthead's top-left
@@ -141,7 +141,7 @@ column — the item-count limit above doesn't apply there.
 
 - **Footer links are separate files**, not part of the nav: the "Society"
   column comes from `_data/services.json` and the "PRSt" column comes from
-  `_data/network.json`, both rendered by `_includes/footer.liquid`. Editing
+  `_data/network.json`, both rendered by `src/_includes/partials/footer.liquid`. Editing
   `navigation.json` has no effect on the footer, and vice versa.
 - **Blog category chips** (Announcements, Calls for papers, Positions,
   Books, Meetings, Scholarships) are not nav items at all — they come from

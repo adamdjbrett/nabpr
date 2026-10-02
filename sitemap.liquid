@@ -1,7 +1,0 @@
----
-layout: null
-permalink: /sitemap.xml
-eleventyExcludeFromCollections: true
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{% for item in collections.all %}{% if item.url and item.data.sitemap != false %}<url><loc>{{ item.url | absolute_url | xml_escape }}</loc>{% if item.date and item.inputPath contains '_posts' %}<lastmod>{{ item.date | date_iso }}</lastmod>{% endif %}</url>{% endif %}{% endfor %}</urlset>

@@ -1,4 +1,5 @@
 # National Association of Baptist Professors of Religion
+[![Deploy Eleventy site](https://github.com/adamdjbrett/nabpr/actions/workflows/pages.yml/badge.svg)](https://github.com/adamdjbrett/nabpr/actions/workflows/pages.yml)
 
 The source for [nabpr.org](https://nabpr.org), built with [Build Awesome](https://build.awesome.me/).
 

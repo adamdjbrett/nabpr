@@ -31,7 +31,7 @@ show_meta: true
 - **Raleigh, NC**
 - **Joint Meeting of the NABPR, BHHS, & AMGP**
 
-### "Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy."**
+### "Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy."
 
 The meeting will bring scholars, ministry educators, healthcare professionals, chaplains, and community leaders into conversation about spirituality and healthcare, mental health and trauma, health disparities, pastoral care, and faith-based partnerships with public-health organizations. Sessions will examine religiously influenced attitudes toward vaccines, medical expertise, and mental-health treatment, while distinguishing misinformation-driven distrust from mistrust rooted in medical racism, exclusion, or unequal access to care. Additional topics will include biblical understandings of sickness and healing, the historic role of churches in establishing hospitals, the prosperity gospel, healthcare access and education, and ministry with people experiencing illness, disability, grief, and trauma.
 

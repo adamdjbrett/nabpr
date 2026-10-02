@@ -60,6 +60,8 @@ export default function (eleventyConfig) {
   ["assets", "images", "wp-content", "pdfs"].forEach((path) =>
     eleventyConfig.addPassthroughCopy(`src/${path}`),
   );
+  // Pre-2026 Jekyll URL; a .pdf can't take an HTML redirect stub, so the file is served at both.
+  eleventyConfig.addPassthroughCopy({ "src/pdfs/2019-Joint-Meeting-Schedule-AMGP-NABPR-BHHS.pdf": "docs/2019-Joint-Meeting-Schedule-AMGP-NABPR-BHHS.pdf" });
 
   // Search index, rebuilt after every build — `build` and `serve` alike, so dev search works.
   eleventyConfig.on("eleventy.after", async ({ dir }) => {

@@ -450,6 +450,7 @@ _[Select one. All sessions are open to members of NABPR, BHHS, and AMGP.]_
 
 ### Downloads
  - [⤓ Download the 2019 Program as a PDF. The PDF is the official version](/wp-content/uploads/2019/03/NABPR-Program-May-2019-Campbell-draft-2.pdf).
+ - [⤓ Download the 2019 NABPR, AMGP, BHHS, Joint Program Guide as a PDF](/pdfs/2019-Joint-Meeting-Schedule-AMGP-NABPR-BHHS.pdf)
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

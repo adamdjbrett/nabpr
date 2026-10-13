@@ -18,7 +18,7 @@ layout: base.liquid
     {% if is_post %}
       {% assign post_author_name = authors[author].name | default: author | default: site.name %}
       {% assign post_author_uri = authors[author].uri | default: site.url %}
-      <p class="byline"><a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date_iso }}">{{ page.date | readable_date }}</time></a> · <span class="p-author h-card"><a class="p-name u-url" href="{{ post_author_uri }}">{{ post_author_name }}</a></span></p>
+      <p class="byline"><a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date_iso }}">{{ page.date | readable_date }}</time></a>{% if modified %} · Updated <time class="dt-updated" datetime="{{ modified | date_iso }}">{{ modified | readable_date }}</time>{% endif %} · <span class="p-author h-card"><a class="p-name u-url" href="{{ post_author_uri }}">{{ post_author_name }}</a></span></p>
     {% endif %}
   </header>
   {% if toc %}{{ content | toc }}{% endif %}

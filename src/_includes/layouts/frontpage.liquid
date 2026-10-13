@@ -31,7 +31,7 @@ layout: base.liquid
       <span class="kicker">{{ featured.data.subheadline | default: "Featured" }}</span>
       <h2 class="lead__title"><a class="u-url p-name" href="{{ featured.url }}">{{ featured.data.title }}</a></h2>
       <p class="teaser p-summary">{{ featured.data.teaser | strip_html | truncate: 260 }}</p>
-      <p class="byline"><time class="dt-published" datetime="{{ featured.date | date_iso }}">Posted {{ featured.date | readable_date }}</time></p>
+      <p class="byline">{{ featured | post_time: "long", "Posted" }}</p>
     </div>
   </article>
   <div class="seconds">
@@ -41,7 +41,7 @@ layout: base.liquid
           <span class="kicker">{{ post.data.subheadline | default: "News" | truncate: 46 }}</span>
           <h3 class="second__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
           <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 190 }}</p>
-          <p class="byline"><time class="dt-published" datetime="{{ post.date | date_iso }}">Posted {{ post.date | readable_date }}</time></p>
+          <p class="byline">{{ post | post_time: "long", "Posted" }}</p>
         </article>
       {% endfor %}
     </div>
@@ -51,7 +51,7 @@ layout: base.liquid
           <span class="kicker">{{ post.data.subheadline | default: "News" | truncate: 46 }}</span>
           <h3 class="second__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
           <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 190 }}</p>
-          <p class="byline"><time class="dt-published" datetime="{{ post.date | date_iso }}">Posted {{ post.date | readable_date }}</time></p>
+          <p class="byline">{{ post | post_time: "long", "Posted" }}</p>
         </article>
       {% endfor %}
     </div>
@@ -78,7 +78,7 @@ layout: base.liquid
     {% for post in collections.posts limit: 14 %}
       {% assign cat = post | bucket %}
       <li class="entry h-entry" data-cat="{{ cat }}">
-        <span class="entry__date"><time class="dt-published" datetime="{{ post.date | date_iso }}">{{ post.date | short_date }}</time></span>
+        <span class="entry__date">{{ post | post_time }}</span>
         <div>
           <h3 class="entry__title"><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title }}</a></h3>
           <p class="teaser p-summary">{{ post.data.teaser | strip_html | truncate: 165 }}</p>

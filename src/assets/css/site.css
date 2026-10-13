@@ -581,6 +581,7 @@ ul, ol { padding-inline-start: 1.4em; }
 @media (min-width: 48rem) {
   .entry { grid-template-columns: 9.5rem minmax(0, 1fr) auto; align-items: start; }
 }
+.entry__date .updated, .archive-row__date .updated { display: block; font-weight: 600; }
 .entry__date {
   font-size: var(--text-sm);
   font-weight: 500;
@@ -727,7 +728,7 @@ ul, ol { padding-inline-start: 1.4em; }
 @media (min-width: 48rem) {
   .archive-row { grid-template-columns: 9.5rem minmax(0, 1fr) auto; align-items: start; }
 }
-.archive-row time { font-size: var(--text-sm); color: var(--color-neutral); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.archive-row__date { font-size: var(--text-sm); color: var(--color-neutral); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .archive-row h2 { margin-block: 0 var(--space-3xs); font-size: var(--text-md); font-weight: 600; line-height: 1.25; }
 .archive-row p { margin: 0; font-size: var(--text-sm); color: var(--color-ink-2); max-width: var(--measure); }
 .archive-list--compact .archive-row { padding-block: var(--space-2xs); }

@@ -1,7 +1,8 @@
 ---
 layout: page
-subheadline: "CFP: NABPR 2027 Annual Meeting in Raleigh, North Carolina"
+subheadline: "CFP: 2027 Annual Meeting in Raleigh, NC"
 date: 2026-10-02T09:00:00+00:00
+modified: 2026-10-13T09:00:00+00:00
 title: "2027 NABPR Annual Meeting Call for Papers"
 teaser: "The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the May 17–19, 2027 meeting in Raleigh, North Carolina, on the theme “Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy.” Proposals unrelated to the theme are also welcome. Deadline: January 30, 2027."
 image:
@@ -29,7 +30,7 @@ show_meta: true
 ## CALL FOR PROPOSALS
 - **MAY 17-19, 2027** 
 - **Raleigh, NC**
-- **Joint Meeting of the NABPR, BHHS, & AMGP**
+- **Joint Meeting of the [NABPR](https:nabpr.org), [BHHS](https://www.thebhhs.org/), & [AMGP](https://ministryguidance.net/)**
 
 ### "Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy."
 
@@ -39,16 +40,18 @@ The May meeting will place questions of health within the larger struggle over r
 
 **The NABPR invites paper and panel proposals related to the conference theme**; but as always, **we welcome all proposals, even if unrelated to the conference theme**. The conference will feature a range of presentations and sessions, including church history, church ministry, pedagogy, Old and New Testament, ethics and theology.
 
-The May meeting represents a collaboration between NABPR, the Association of Ministry Guidance Professionals (AMGP), and the Baptist History & Heritage Society (BHHS). Each organization is issuing a separate call for papers. Individuals may submit different paper proposals to multiple organizations, but may not submit the same proposal to multiple organizations. For individuals submitting proposals to multiple organizations, please indicate so when submitting.
+The May meeting represents a collaboration between [NABPR](https:nabpr.org), the Association of Ministry Guidance Professionals ([AMGP](https://ministryguidance.net/)), and the Baptist History & Heritage Society ([BHHS](https://www.thebhhs.org/)). Each organization is issuing a separate call for papers. Individuals may submit different paper proposals to multiple organizations, but may not submit the same proposal to multiple organizations. For individuals submitting proposals to multiple organizations, please indicate so when submitting.
 
-**Graduate students are encouraged to submit proposals.** Graduate students must register for the meeting, but the cost is reduced to a $5 administrative fee, regardless of whether a paper is proposed. Graduate students who present papers and request travel funding to <englisha@campbell.edu> will be awarded a $250 travel stipend.
+## Details
+- **Graduate students are encouraged to submit proposals.** Graduate students must register for the meeting, but the cost is reduced to a $5 administrative fee, regardless of whether a paper is proposed. Graduate students who present papers and request travel funding to <englisha@campbell.edu> will be awarded a $250 travel stipend.
 
-Proposals must be received by **January 30, 2027**. Proposals should include the name(s) and contact information of the presenter(s), title of the presentation, preferred discipline, and 300-word abstract.
+- Proposals must be received by **January 30, 2027**. 
+- Proposals should include the name(s) and contact information of the presenter(s), title of the presentation, preferred discipline, and 300-word abstract.
 
-[Submit Proposals Here](https://docs.google.com/forms/d/1BeNUr7mq4coLwvOM4KjCOZlhwQlMSqkonOmFsjmrmEs/edith1eSMqeDtA53DzMaLlXSKRIErQ2-2BZopSM8coJNzuShnC7iVSrYXH-2FTq-2BZ3CAcTBiOsdTXvSGNi9iL9MjKm5U3oWDwAJCzOpbPQgqCrovZHjCAUQiK_dXTjBTOirzOhxEA4nFVkHEaN4dyvQiyeBLOOqeAVcunoEb5aL8CWKNk6jVQHAuuR1CuGTi-2FjsaU3OcDshAX1TYNYyGXsk6qtQp2m6X5NfNNSQai-2BShAd4IHlfizaHu5kCNiYc7IqttrNM0GdrGnJJ6WeoP781EDCoDlPtVXg8BxJI3JD9v9vjFan8GH6yBMSNGXtmlVYFHjEdrAFk-2BsfaqJxqZyXUVYkCIIvAecMYfRLideQq-2BEut0SnorHTMjAadtVnzUAPINZLvjBIImLGqcNdqgqPNtftEbxNnu2zL3c-3D)
+- [Submit Proposals via Google Form](https://docs.google.com/forms/d/1BeNUr7mq4coLwvOM4KjCOZlhwQlMSqkonOmFsjmrmEs/edith1eSMqeDtA53DzMaLlXSKRIErQ2-2BZopSM8coJNzuShnC7iVSrYXH-2FTq-2BZ3CAcTBiOsdTXvSGNi9iL9MjKm5U3oWDwAJCzOpbPQgqCrovZHjCAUQiK_dXTjBTOirzOhxEA4nFVkHEaN4dyvQiyeBLOOqeAVcunoEb5aL8CWKNk6jVQHAuuR1CuGTi-2FjsaU3OcDshAX1TYNYyGXsk6qtQp2m6X5NfNNSQai-2BShAd4IHlfizaHu5kCNiYc7IqttrNM0GdrGnJJ6WeoP781EDCoDlPtVXg8BxJI3JD9v9vjFan8GH6yBMSNGXtmlVYFHjEdrAFk-2BsfaqJxqZyXUVYkCIIvAecMYfRLideQq-2BEut0SnorHTMjAadtVnzUAPINZLvjBIImLGqcNdqgqPNtftEbxNnu2zL3c-3D)
 
-Papers will be scheduled into a 30-minute time period, including discussion.
+- Papers will be scheduled into a 30-minute time period, including discussion.
 
-Proposals will be accepted or denied by March 1, 2027.
+- Proposals will be accepted or denied by March 1, 2027.
 
 ​

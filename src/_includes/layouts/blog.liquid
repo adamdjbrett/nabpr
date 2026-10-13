@@ -9,7 +9,7 @@ layout: base.liquid
   <div class="archive-list">
     {% for post in posts %}
       <article class="archive-row h-entry">
-        <time class="dt-published" datetime="{{ post.date | date_iso }}">{{ post.date | short_date }}</time>
+        <span class="archive-row__date">{{ post | post_time }}</span>
         <div>
           <h2><a class="u-url p-name" href="{{ post.url }}">{{ post.data.title | truncate: 60 }}</a></h2>
           <p class="p-summary">{{ post.data.teaser | strip_html | truncate: 180 }}</p>

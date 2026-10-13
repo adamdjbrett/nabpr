@@ -86,7 +86,7 @@
       "publisher": { "@id": {{ org_id | json }} },
       {% if is_post %}
       "datePublished": {{ page.date | date_iso | json }},
-      {% if updated %}"dateModified": {{ updated | date_iso | json }},{% endif %}
+      {% assign updated = modified | default: updated %}{% if updated %}"dateModified": {{ updated | date_iso | json }},{% endif %}
       {% if tags.size > 0 %}"keywords": {{ tags | join: ", " | json }},{% endif %}
       {% if categories.size > 0 %}"articleSection": {{ categories | join: ", " | json }},{% endif %}
       "author": {% if schema_author_name != "" %}{ "@type": "Person", "name": {{ schema_author_name | json }}{% if schema_author_url %}, "url": {{ schema_author_url | json }}{% endif %} }{% else %}{ "@id": {{ org_id | json }} }{% endif %},

@@ -46,6 +46,8 @@ const fields = (item) => {
   const categories = Array.isArray(data.categories) ? data.categories : [data.categories];
   return [...categories, data.subheadline, data.title].filter(Boolean).join(" ").toLowerCase();
 };
+// `modified:` front matter, when present, outranks `date:` for ordering.
+const sortDate = (item) => new Date(item.data.modified ?? item.date);
 const bucketOf = (item) => {
   const text = fields(item);
   return BUCKETS.find(([, pattern]) => pattern.test(text))?.[0] ?? "news";
@@ -75,7 +77,7 @@ export default function (eleventyConfig) {
     api
       .getFilteredByGlob("./src/posts/*.md")
       .filter((item) => item.data.published !== false)
-      .sort((a, b) => b.date - a.date);
+      .sort((a, b) => sortDate(b) - sortDate(a));
   eleventyConfig.addCollection("posts", posts);
   // One archive page per chip, so the blog filter works across all 138 entries and not just
   // whichever ten happen to be on the current page.
@@ -156,6 +158,16 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("short_date", (value) =>
     new Intl.DateTimeFormat("en-US", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" }).format(new Date(value)),
   );
+  // Listing date: an entry with `modified:` shows "Updated <date>" (keeping dt-published for
+  // h-entry parsers); otherwise its posted date. `prefix` is the word before a posted date.
+  eleventyConfig.addFilter("post_time", (item, format = "short", prefix = "") => {
+    const fmt = (value) => eleventyConfig.getFilter(format === "long" ? "readable_date" : "short_date")(value);
+    const iso = (value) => new Date(value).toISOString();
+    const { modified } = item.data;
+    if (!modified) return `<time class="dt-published" datetime="${iso(item.date)}">${prefix ? `${prefix} ` : ""}${fmt(item.date)}</time>`;
+    const lead = format === "long" ? "Updated " : `<span class="updated">Updated</span> `;
+    return `<data class="dt-published" value="${iso(item.date)}"></data>${lead}<time class="dt-updated" datetime="${iso(modified)}">${fmt(modified)}</time>`;
+  });
   eleventyConfig.addFilter("bucket_label", (name) => BUCKET_LABELS[name] ?? "News");
   eleventyConfig.addFilter("bucket", (item) => bucketOf(item));
   eleventyConfig.addGlobalData("bucketChips", () => BUCKET_PAGES);

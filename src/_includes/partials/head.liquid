@@ -38,7 +38,7 @@
   {% if page.inputPath contains '/posts/' %}
   <meta property="article:published_time" content="{{ page.date | date_iso }}">
   <meta property="article:publisher" content="{{ site.social.facebook }}">
-  {% if updated %}<meta property="article:modified_time" content="{{ updated | date_iso }}">{% endif %}
+  {% assign updated = modified | default: updated %}{% if updated %}<meta property="article:modified_time" content="{{ updated | date_iso }}">{% endif %}
   {% endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@nabpr1">

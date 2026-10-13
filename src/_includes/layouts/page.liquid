@@ -5,7 +5,7 @@ layout: base.liquid
 <article class="article shell{% if is_post %} h-entry{% endif %}">
   {% if image.title %}
     <figure class="article-figure{% if image.fullwidth %} article-figure--bleed{% endif %}">
-      <img src="{{ image.title }}" alt="{{ image.alt | default: title | escape }}" width="970" loading="eager" fetchpriority="high">
+      <img{% if is_post %} class="u-photo"{% endif %} src="{{ image.title }}" alt="{{ image.alt | default: title | escape }}" width="970" loading="eager" fetchpriority="high">
       {% if image.caption %}<figcaption>{% if image.caption_url %}<a href="{{ image.caption_url }}" rel="external noopener">{% endif %}{{ image.caption }}{% if image.caption_url %}</a>{% endif %}</figcaption>{% endif %}
     </figure>
   {% elsif header.image_fullwidth %}
@@ -23,7 +23,9 @@ layout: base.liquid
   </header>
   {% if toc %}{{ content | toc }}{% endif %}
   <div class="prose{% if is_post %} e-content{% endif %}">{{ content }}</div>
-  {% if is_post %}{% comment %}Bridgy Fed opt-in for this entry — inert until the domain is signed up at fed.brid.gy{% endcomment %}<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>{% endif %}
+  {% if is_post %}{% comment %}Bridgy Fed opt-in for this entry — inert until the domain is signed up at fed.brid.gy{% endcomment %}<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+    {% assign entry_categories = categories | concat: tags | uniq %}{% for category in entry_categories %}{% if category %}<data class="p-category" value="{{ category | escape }}"></data>{% endif %}{% endfor %}
+  {% endif %}
 </article>
 {% if is_post %}
   {% comment %}collections.posts runs newest first, so the next item is the older post.{% endcomment %}

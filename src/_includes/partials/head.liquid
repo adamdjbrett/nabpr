@@ -45,38 +45,62 @@
   <meta name="twitter:title" content="{{ title | default: site.slogan | escape }}">
   <meta name="twitter:description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 | escape }}">
   <meta name="twitter:image" content="{{ share_image | absolute_url }}">
-  {% assign resolved_author_name = site.author %}
+  {% assign resolved_author_name = authors[site.author].name | default: site.name %}
   {% if author %}{% assign resolved_author_name = authors[author].name | default: author %}{% endif %}
   {% assign iso_language = site.language | default: "en-US" | slice: 0, 2 %}
-  {% comment %}Dublin Core base — every page, matching the pattern used across jcrt.org and NABPR's other Whitestone/adamdjbrett.com sites{% endcomment %}
-  <meta property="dc:publisher" content="{{ site.name | escape }}">
-  <meta property="dc:language" content="{{ iso_language }}">
-  <meta property="dc:format" content="text/html">
+  {% assign cite_url = page.url | absolute_url %}
+  {% assign cite_title = title | default: site.slogan | strip_html | escape %}
+  {% assign cite_date = page.date | date: '%Y-%m-%d' %}
+  {% assign cite_subjects = categories | concat: tags | uniq %}
+  {% for social in socials %}{% if social.me %}<link rel="me" href="{{ social.url }}">
+  {% endif %}{% endfor %}
+  {% comment %}Dublin Core (DC-HTML) on every page.{% endcomment %}
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+  <meta name="DC.title" content="{{ cite_title }}">
+  <meta name="DC.publisher" content="{{ site.name | escape }}">
+  <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
+  <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html">
+  <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ cite_url }}">
+  <meta name="DC.language" scheme="DCTERMS.RFC4646" content="{{ iso_language }}">
+  <meta name="DCTERMS.isPartOf" scheme="DCTERMS.URI" content="{{ site.url }}/">
+  {% if meta_description or teaser %}<meta name="DC.description" content="{{ meta_description | default: teaser | strip_html | strip_newlines | escape }}">{% endif %}
+  {% if page.date %}<meta name="DC.date" scheme="DCTERMS.W3CDTF" content="{{ cite_date }}">
+  <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="{{ cite_date }}">{% endif %}
+  {% if modified %}<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="{{ modified | date: '%Y-%m-%d' }}">{% endif %}
+  {% for subject in cite_subjects %}{% if subject %}<meta name="DC.subject" content="{{ subject | escape }}">
+  {% endif %}{% endfor %}
+  {% comment %}Zotero: zotero:itemType forces the item type (needs the zotero: prefix on <html>).
+  citation_title / citation_journal_title are deliberately absent: the first makes Zotero guess
+  journalArticle, the second forces it. The title rides on og:title / DC.title.{% endcomment %}
+  <meta name="prism.publicationName" content="{{ site.name | escape }}">
+  <meta name="prism.url" content="{{ cite_url }}">
+  <meta name="citation_public_url" content="{{ cite_url }}">
+  <meta name="citation_fulltext_html_url" content="{{ cite_url }}">
+  <meta name="citation_publisher" content="{{ site.name | escape }}">
+  <meta name="citation_language" content="{{ iso_language }}">
   {% if page.inputPath contains '/posts/' %}
-  <link rel="cite-as" href="{{ page.url | absolute_url }}">
+  <link rel="cite-as" href="{{ cite_url }}">
   <link rel="describedby" type="application/ld+json" href="{{ page.url }}metadata.json">
+  <link rel="type" href="https://schema.org/BlogPosting">
+  <link rel="alternate" type="application/activity+json" href="https://fed.brid.gy/r/{{ cite_url }}">
   <meta property="zotero:itemType" content="blogPost">
-  <meta property="dc:title" content="{{ title | escape }}">
-  <meta property="dc:creator" content="{{ resolved_author_name | escape }}">
-  <meta property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">
-  <meta name="citation_title" content="{{ title | escape }}">
+  <meta name="prism.genre" content="blogentry">
+  <meta name="DC.creator" content="{{ resolved_author_name | escape }}">
   <meta name="citation_author" content="{{ resolved_author_name | escape }}">
-  <meta name="citation_publication_date" content="{{ page.date | date: '%Y-%m-%d' }}">
-  <meta name="citation_fulltext_html_url" content="{{ page.url | absolute_url }}">
-  <meta name="citation_language" content="{{ iso_language }}">
+  <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+  <meta name="citation_online_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+  {% for subject in cite_subjects %}{% if subject %}<meta name="citation_keywords" content="{{ subject | escape }}">
+  {% endif %}{% endfor %}
   {% else %}
-  {% comment %}Non-post pages: still harvestable by Zotero/reference managers as a generic webpage item{% endcomment %}
   <meta property="zotero:itemType" content="webpage">
-  <meta property="dc:title" content="{{ title | default: site.slogan | escape }}">
-  {% if page.date %}<meta property="dc:date" content="{{ page.date | date: '%Y-%m-%d' }}">{% endif %}
   {% if author %}
-  <meta property="dc:creator" content="{{ resolved_author_name | escape }}">
+  <meta name="DC.creator" content="{{ resolved_author_name | escape }}">
   <meta name="citation_author" content="{{ resolved_author_name | escape }}">
+  {% else %}
+  <meta name="DC.creator" content="{{ site.name | escape }}">
   {% endif %}
-  <meta name="citation_title" content="{{ title | default: site.slogan | escape }}">
-  {% if page.date %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y-%m-%d' }}">{% endif %}
-  <meta name="citation_fulltext_html_url" content="{{ page.url | absolute_url }}">
-  <meta name="citation_language" content="{{ iso_language }}">
+  {% if page.date %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">{% endif %}
   {% endif %}
   {% include "partials/schema.liquid" %}
   <script>

@@ -2,7 +2,7 @@
 layout: page
 subheadline: "CFP: 2027 Annual Meeting in Raleigh, NC"
 date: 2026-10-02T09:00:00+00:00
-modified: 2026-10-13T09:00:00+00:00
+modified: 2026-10-14T11:00:00+00:00
 title: "2027 NABPR Annual Meeting Call for Papers"
 teaser: "The National Association of Baptist Professors of Religion (NABPR) invites paper and panel proposals for the May 17–19, 2027 meeting in Raleigh, North Carolina, on the theme “Faith, Health, and Human Flourishing: Truth, Trust, and the Common Good in a Pluralistic Democracy.” Proposals unrelated to the theme are also welcome. Deadline: January 30, 2027."
 image:
@@ -48,7 +48,7 @@ The May meeting represents a collaboration between [NABPR](https:nabpr.org), the
 - Proposals must be received by **January 30, 2027**. 
 - Proposals should include the name(s) and contact information of the presenter(s), title of the presentation, preferred discipline, and 300-word abstract.
 
-- [Submit Proposals via Google Form](https://docs.google.com/forms/d/1BeNUr7mq4coLwvOM4KjCOZlhwQlMSqkonOmFsjmrmEs/edith1eSMqeDtA53DzMaLlXSKRIErQ2-2BZopSM8coJNzuShnC7iVSrYXH-2FTq-2BZ3CAcTBiOsdTXvSGNi9iL9MjKm5U3oWDwAJCzOpbPQgqCrovZHjCAUQiK_dXTjBTOirzOhxEA4nFVkHEaN4dyvQiyeBLOOqeAVcunoEb5aL8CWKNk6jVQHAuuR1CuGTi-2FjsaU3OcDshAX1TYNYyGXsk6qtQp2m6X5NfNNSQai-2BShAd4IHlfizaHu5kCNiYc7IqttrNM0GdrGnJJ6WeoP781EDCoDlPtVXg8BxJI3JD9v9vjFan8GH6yBMSNGXtmlVYFHjEdrAFk-2BsfaqJxqZyXUVYkCIIvAecMYfRLideQq-2BEut0SnorHTMjAadtVnzUAPINZLvjBIImLGqcNdqgqPNtftEbxNnu2zL3c-3D)
+- [Submit Proposals via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdvmp660UXL8hswHgmt-MoULhzzCombs8gaQiAZxrgXE7eHDw/viewform)
 
 - Papers will be scheduled into a 30-minute time period, including discussion.
 

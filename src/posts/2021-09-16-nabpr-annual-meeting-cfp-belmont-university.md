@@ -13,7 +13,7 @@ tags:
   - teaching
   - religion
   - cts
-  - collegetheology
+  - college-theology
 header:
   image_fullwidth: "/images/schools/Belmont-University-previewday_header2.jpg"
   caption: "Belmont Quandrangle, via Belmont University."

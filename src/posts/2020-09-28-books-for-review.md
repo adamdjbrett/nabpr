@@ -11,7 +11,7 @@ categories:
   - cfp
 tags:
   - cfp
-  - callforpapers
+  - call-for-papers
   - bookreviews
 #
 # Styling

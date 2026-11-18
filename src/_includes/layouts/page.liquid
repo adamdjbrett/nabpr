@@ -23,8 +23,15 @@ layout: base.liquid
   </header>
   {% if toc %}{{ content | toc }}{% endif %}
   <div class="prose{% if is_post %} e-content{% endif %}">{{ content }}</div>
+  {% if is_post and tags.size > 0 %}
+    <ul class="article-tags" aria-label="Tags">
+      {% for tag in tags %}
+        <li><data class="p-category" value="{{ tag | escape }}">{% assign words = tag | split: "-" %}{% for word in words %}{{ word | capitalize | escape }}{% unless forloop.last %} {% endunless %}{% endfor %}</data></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
   {% if is_post %}{% comment %}Bridgy Fed opt-in for this entry — inert until the domain is signed up at fed.brid.gy{% endcomment %}<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
-    {% assign entry_categories = categories | concat: tags | uniq %}{% for category in entry_categories %}{% if category %}<data class="p-category" value="{{ category | escape }}"></data>{% endif %}{% endfor %}
+    {% assign entry_categories = categories | uniq %}{% for category in entry_categories %}{% if category %}<data class="p-category" value="{{ category | escape }}"></data>{% endif %}{% endfor %}
   {% endif %}
 </article>
 {% if is_post %}

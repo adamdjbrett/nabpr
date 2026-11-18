@@ -681,6 +681,17 @@ ul, ol { padding-inline-start: 1.4em; }
 .article-header { display: grid; gap: var(--space-sm); border-block-end: 1px solid var(--color-rule); padding-block-end: var(--space-lg); }
 .article-header h1 { font-size: var(--text-3xl); }
 .article-header .lede { margin: 0; max-width: none; }
+.article-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs) var(--space-md);
+  list-style: none;
+  margin: var(--space-xl) 0 0;
+  padding: var(--space-sm) 0 0;
+  border-block-start: 1px solid var(--color-rule);
+  font-size: var(--text-sm);
+  color: var(--color-neutral);
+}
 /* front-matter `toc: true` */
 .toc {
   margin-block-start: var(--space-lg);

@@ -39,6 +39,7 @@ too. A full build takes about two seconds.
 New posts go in `src/posts/` as `YYYY-MM-DD-slug.md`; the URL is `/slug/`.
 Tags use lowercase letters and numbers with hyphens between words, for example
 `baptist-studies`. Keep each post's tag list free of duplicates.
+Post pages display tags in title case with spaces, for example `Baptist Studies`.
 
 ## Deploying
 

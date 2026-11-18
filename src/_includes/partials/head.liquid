@@ -45,7 +45,7 @@
   <meta name="twitter:title" content="{{ title | default: site.slogan | escape }}">
   <meta name="twitter:description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | truncate: 160 | escape }}">
   <meta name="twitter:image" content="{{ share_image | absolute_url }}">
-  {% assign resolved_author_name = authors[site.author].name | default: site.name %}
+  {% assign resolved_author_name = site.name %}
   {% if author %}{% assign resolved_author_name = authors[author].name | default: author %}{% endif %}
   {% assign iso_language = site.language | default: "en-US" | slice: 0, 2 %}
   {% assign cite_url = page.url | absolute_url %}
@@ -64,7 +64,7 @@
   <meta name="DC.identifier" scheme="DCTERMS.URI" content="{{ cite_url }}">
   <meta name="DC.language" scheme="DCTERMS.RFC4646" content="{{ iso_language }}">
   <meta name="DCTERMS.isPartOf" scheme="DCTERMS.URI" content="{{ site.url }}/">
-  {% if meta_description or teaser %}<meta name="DC.description" content="{{ meta_description | default: teaser | strip_html | strip_newlines | escape }}">{% endif %}
+  <meta name="DC.description" content="{{ meta_description | default: teaser | default: site.description | strip_html | strip_newlines | escape }}">
   {% if page.date %}<meta name="DC.date" scheme="DCTERMS.W3CDTF" content="{{ cite_date }}">
   <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="{{ cite_date }}">{% endif %}
   {% if modified %}<meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="{{ modified | date: '%Y-%m-%d' }}">{% endif %}

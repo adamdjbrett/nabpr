@@ -8,7 +8,7 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baptists
+  - baptists
   - scholarship
 image:
   title: "/images/stock/ben-white-131958-unsplash.jpg"

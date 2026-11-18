@@ -8,10 +8,10 @@ meta_description: "Barry Harvey provides a doctrine of the church that combines 
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - Catholicism
+  - baptists
+  - christianity
+  - theology
+  - catholicism
 image:
   title: "/images/books/Baptists-and-the-Catholic-Tradition-2.jpg"
   thumb: "/images/thumbs/Baptists-and-the-Catholic-Tradition-2_tn.jpg"

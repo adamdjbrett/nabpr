@@ -8,7 +8,7 @@ categories:
   - memoriam
 tags:
   - baptist
-  - Baptists
+  - baptists
   - memorial
 image:
   title: "/images/gerald-keown.jpg"

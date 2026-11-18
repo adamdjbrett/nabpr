@@ -15,13 +15,13 @@ image:
 categories:
   - CFP
 tags:
-  - AAR
+  - aar
   - baptist
-  - call for papers
+  - call-for-papers
   - cfp
-  - Conference
-  - Gardner-Webb
-  - NABPR
+  - conference
+  - gardner-webb
+  - nabpr
   - religion
   - theology
 ---

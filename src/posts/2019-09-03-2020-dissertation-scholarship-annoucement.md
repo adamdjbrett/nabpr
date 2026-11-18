@@ -8,9 +8,9 @@ meta_description: "NABPR is proud to announce the 2020 Dissertation Scholarship.
 categories:
   - Scholarship
 tags:
-  - Baptists
-  - Christianity
-  - Dissertation
+  - baptists
+  - christianity
+  - dissertation
 header: no
 image:
   title: "/images/coffee/cup-of-coffee-1280537-1920x1277.jpg"

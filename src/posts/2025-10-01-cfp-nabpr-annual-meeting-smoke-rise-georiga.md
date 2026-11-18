@@ -14,7 +14,7 @@ categories:
   - cfp
 tags:
   - cfp
-  - NABPR
+  - nabpr
   - theology
   - religion
   - history

@@ -20,8 +20,8 @@ categories:
   - Job Listings
 tags:
   - baptist
-  - baptist studies
-  - Wake Forest University
+  - baptist-studies
+  - wake-forest-university
   - wfu
 show_meta: true
 ---

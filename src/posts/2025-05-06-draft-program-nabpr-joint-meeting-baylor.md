@@ -12,9 +12,9 @@ image:
 categories:
   - conference
 tags:
-  - AMGP
-  - BHHS
-  - NABPR
+  - amgp
+  - bhhs
+  - nabpr
   - theology
   - baptist
 author: adamdjbrett

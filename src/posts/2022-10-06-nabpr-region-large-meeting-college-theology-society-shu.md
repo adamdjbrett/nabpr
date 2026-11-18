@@ -9,10 +9,10 @@ meta_description: >-
 categories:
   - cfp
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - ethics
-  - Biblical-Studies
+  - biblical-studies
   - call-for-papers
 image:
   title: "/images/schools/sacred-heart-university-Fall-Quad-1220x686.jpg"

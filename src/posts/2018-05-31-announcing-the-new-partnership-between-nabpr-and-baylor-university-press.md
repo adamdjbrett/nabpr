@@ -16,8 +16,8 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baylor
-  - NABPR
+  - baylor
+  - nabpr
   - press
   - publishing
 show_meta: true  

@@ -13,7 +13,7 @@ image:
 categories:
   - job
 tags:
-  - Baylor
+  - baylor
   - seminary
   - truett
   - theology

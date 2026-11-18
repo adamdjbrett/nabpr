@@ -8,10 +8,10 @@ meta_description: "new book by C. Douglas Weaver"
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Holy Spirit
-  - Pentecostal
+  - baptists
+  - christianity
+  - holy-spirit
+  - pentecostal
 image:
   title: "/images/books/doug-weaver-baptists-holy-spirit-9781481310062.jpg"
   thumb: "/images/thumbs/doug-weaver-baptists-holy-spirit-9781481310062_tn.jpg"

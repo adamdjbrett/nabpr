@@ -17,11 +17,11 @@ image:
 categories:
   - CFP
 tags:
-  - call for papers
+  - call-for-papers
   - cfp
-  - Conference
-  - CTS
-  - NABPR
+  - conference
+  - cts
+  - nabpr
   - theology
 ---
 ### NABPR Region-at-Large Call for Papers  

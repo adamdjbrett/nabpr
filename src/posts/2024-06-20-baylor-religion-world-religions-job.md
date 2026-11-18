@@ -13,7 +13,7 @@ image:
 categories:
   - job
 tags:
-  - Baylor
+  - baylor
   - bible
   - theology
   - baptist

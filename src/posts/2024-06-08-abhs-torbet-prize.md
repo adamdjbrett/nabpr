@@ -13,11 +13,11 @@ categories:
   - cfp
 tags:
   - cfp
-  - NABPR
+  - nabpr
   - theology
   - baptist
-  - AMGP
-  - BHHS
+  - amgp
+  - bhhs
 author: adamdjbrett
 show_meta: true
 ---

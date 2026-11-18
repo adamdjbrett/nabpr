@@ -10,8 +10,8 @@ meta_description: "NABPR is proud to announce the 2021 Dissertation Scholarship.
 categories:
   - scholarship
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - religion
   - dissertation
   - scholarship

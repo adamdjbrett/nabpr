@@ -12,14 +12,14 @@ redirect_from:
 categories:
   - CFP
 tags:
-  - AAR
-  - Baptists
-  - Belmont
-  - call for papers
+  - aar
+  - baptists
+  - belmont
+  - call-for-papers
   - cfp
   - religion
-  - religious studies
-  - SBL
+  - religious-studies
+  - sbl
 ---
 ## Call for Papers  
 ## National Association of Baptist Professors of Religion  

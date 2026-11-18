@@ -37,6 +37,8 @@ too. A full build takes about two seconds.
 - `docs/` — design system and how-tos.
 
 New posts go in `src/posts/` as `YYYY-MM-DD-slug.md`; the URL is `/slug/`.
+Tags use lowercase letters and numbers with hyphens between words, for example
+`baptist-studies`. Keep each post's tag list free of duplicates.
 
 ## Deploying
 

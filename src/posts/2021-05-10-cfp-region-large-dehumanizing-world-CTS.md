@@ -7,12 +7,12 @@ meta_description: "2021 Meeting of the National Association of Baptist Professor
 categories:
   - CFP
 tags:
-  - CFP
-  - Christianity
+  - cfp
+  - christianity
   - pedagogy
   - teaching
   - religion
-  - CTS
+  - cts
   - collegetheology
 image:
   title: "/images/schools/Spring_Hill_College_Quad_04-717px.jpeg"

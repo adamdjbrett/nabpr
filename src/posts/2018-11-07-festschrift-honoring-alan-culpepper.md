@@ -16,13 +16,13 @@ image:
 categories:
   - Books of Interest
 tags:
-  - AAR
-  - AARSBL
+  - aar
+  - aarsbl
   - book
-  - Denver
-  - NABPR
-  - SBL
-  - SBLAAR
+  - denver
+  - nabpr
+  - sbl
+  - sblaar
 show_meta: true  
 ---
 

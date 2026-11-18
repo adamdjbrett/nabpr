@@ -15,14 +15,14 @@ categories:
   - cfp
 tags:
   - cfp
-  - NABPR
+  - nabpr
   - theology
   - religion
   - history
   - ministry
   - health
-  - AMGP
-  - BHHS
+  - amgp
+  - bhhs
 author: adamdjbrett
 show_meta: true
 ---

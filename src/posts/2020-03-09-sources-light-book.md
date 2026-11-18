@@ -8,10 +8,10 @@ meta_description: "This book (<em>Sources of Light</em>) commends listening deep
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - Perspectives on Baptists Identities
+  - baptists
+  - christianity
+  - theology
+  - perspectives-on-baptists-identities
 image:
   title: "/images/books/Sources-of-Light-front-cover-min.jpg"
   thumb: "/images/thumbs/Sources-of-Light-front-cover_tn.jpg"

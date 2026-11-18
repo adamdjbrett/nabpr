@@ -15,9 +15,9 @@ image:
 categories:
   - Announcements
 tags:
-  - NABPR
+  - nabpr
   - religion
-  - Southeast
+  - southeast
   - theology
 ---
 <pre>Update: There has been a venue change for SECSOR. The meeting will now be taking place at: Atlanta Marriott Buckhead Hotel and Conference Center.</pre>

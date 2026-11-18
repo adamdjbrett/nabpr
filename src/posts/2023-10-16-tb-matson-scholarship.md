@@ -12,11 +12,11 @@ categories:
 tags:
   - scholarship
   - baptist
-  - Christianity
+  - christianity
   - history
-  - Church-History
-  - Theology
-  - Ethics
+  - church-history
+  - theology
+  - ethics
 #
 # Styling
 #

@@ -15,13 +15,13 @@ image:
 categories:
   - Program
 tags:
-  - AAR
-  - AARSBL16
+  - aar
+  - aarsbl16
   - baptist
-  - Baptists
-  - NABPR16
-  - SBL
-  - SBLAAR16
+  - baptists
+  - nabpr16
+  - sbl
+  - sblaar16
 ---
 National Association of Baptist Professors of Religion at the AAR-SBL  
 19 November 2016  

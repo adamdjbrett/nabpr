@@ -17,9 +17,9 @@ categories:
   - Job Listings
 tags:
   - georgetowncollege
-  - new-Testament
+  - new-testament
   - faculty
-  - job opening
+  - job-opening
 author: adamdjbrett
 show_meta: true
 published: true  

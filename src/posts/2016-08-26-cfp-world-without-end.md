@@ -17,10 +17,10 @@ categories:
   - CFP
 tags:
   - baptist
-  - CBF
-  - Georgetown
+  - cbf
+  - georgetown
   - religion
-  - World Christianity
+  - world-christianity
 ---
 &nbsp;
 

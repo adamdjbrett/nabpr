@@ -9,8 +9,8 @@ meta_description: >-
 categories:
   - jobs
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - jobs
 image:
   title: "/images/schools/Baylor_University_June_2016_22_Tidwell_Bible_Building.jpg"

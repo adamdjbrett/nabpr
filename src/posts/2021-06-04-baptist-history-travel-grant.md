@@ -9,7 +9,7 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baptists
+  - baptists
   - grant
   - essays-in-honor
 image:

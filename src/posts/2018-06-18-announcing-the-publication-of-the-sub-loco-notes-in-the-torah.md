@@ -16,10 +16,10 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Biblia Hebraica Stuttgartensia
+  - biblia-hebraica-stuttgartensia
   - books
-  - Masorah Parva
-  - new books
+  - masorah-parva
+  - new-books
   - scholarship
   - torah
 show_meta: true

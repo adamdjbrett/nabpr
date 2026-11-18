@@ -13,10 +13,10 @@ image:
 categories:
   - announcement
 tags:
-  - NABPR
-  - AAR
-  - SBL
-  - Denver
+  - nabpr
+  - aar
+  - sbl
+  - denver
   - podcasts
   - public-scholarship
   - digital-humanities

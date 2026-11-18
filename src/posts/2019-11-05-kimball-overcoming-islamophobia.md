@@ -8,11 +8,11 @@ meta_description: "NABPR November Meeting Program and Keynote Speaker."
 categories:
   - Program
 tags:
-  - Baptists
-  - Christianity
-  - Islamophobia
-  - AAR
-  - SBL
+  - baptists
+  - christianity
+  - islamophobia
+  - aar
+  - sbl
 image:
   title: "/images/unsplash/lucas-davies-uxIU0kYGu-k-unsplash.jpg"
   thumb: "/images/thumbs/lucas-davies-uxIU0kYGu-k-unsplash_tn.jpg"

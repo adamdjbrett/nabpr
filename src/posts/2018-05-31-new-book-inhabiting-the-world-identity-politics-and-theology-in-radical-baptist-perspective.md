@@ -19,9 +19,9 @@ categories:
 tags:
   - baptist
   - book
-  - New Book
+  - new-book
   - theology
-  - Perspectives on Baptists Identities
+  - perspectives-on-baptists-identities
 show_meta: true
 ---
 

@@ -12,7 +12,7 @@ categories:
   - cfp
 tags:
   - cfp
-  - NABPR
+  - nabpr
   - theology
   - baptist
 author: adamdjbrett

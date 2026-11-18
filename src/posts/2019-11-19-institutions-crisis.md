@@ -8,9 +8,9 @@ meta_description: "The plenary panel for the NABPR-SE regional gathering will be
 categories:
   - NABPRSE
 tags:
-  - Baptists
-  - Christianity
-  - Institutions
+  - baptists
+  - christianity
+  - institutions
 image:
   title: "/images/NABPRSE-institutions-crisis.png"
   thumb: "/images/thumbs/NABPRSE-institutions-crisis_tn.jpg"

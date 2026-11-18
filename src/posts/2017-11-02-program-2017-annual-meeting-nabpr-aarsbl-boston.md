@@ -16,15 +16,15 @@ image:
 categories:
   - Announcements
 tags:
-  - AAR
-  - AARSBL
-  - AARSBL17
+  - aar
+  - aarsbl
+  - aarsbl17
   - baptist
-  - Baptists
-  - NABPR
+  - baptists
+  - nabpr
   - religion
-  - SBL
-  - SBLAAR17
+  - sbl
+  - sblaar17
   - theology
 ---
 

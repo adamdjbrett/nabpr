@@ -17,10 +17,10 @@ categories:
 tags:
   - baptist
   - catholics
-  - college theology
-  - college theology society
-  - CTS
-  - NABPR
+  - college-theology
+  - college-theology-society
+  - cts
+  - nabpr
   - religion
   - theology
 show_meta: true

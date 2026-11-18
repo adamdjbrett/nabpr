@@ -7,12 +7,12 @@ meta_description: "Full-Time Faculty Member, Lecturer in Biblical Studies, Stark
 categories:
   - jobs
 tags:
-  - STark
-  - NT
-  - New-Testament
+  - stark
+  - nt
+  - new-testament
   - job
   - jobs
-  - Biblical Studies
+  - biblical-studies
 image:
   header: "/images/Stark-College-Seminary-Building.jpeg"
   thumb: "/images/thumbs/Stark-College-Seminary-Building_tn.jpg"

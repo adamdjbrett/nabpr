@@ -8,9 +8,9 @@ meta_description: "new book by Mike Robinson"
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - History
+  - baptists
+  - christianity
+  - history
 image:
   title: "/images/books/robinson-christianity-brief-history.jpg"
   thumb: "/images/thumbs/robinson-christianity-brief-history_tn.jpg"

@@ -15,8 +15,8 @@ tags:
   - agenda
   - association
   - baptist
-  - NABPR
-  - NABPR18
+  - nabpr
+  - nabpr18
   - national
 show_meta: true  
 ---

@@ -17,9 +17,9 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Biblical Studies
+  - biblical-studies
   - mothers
-  - new testament
+  - new-testament
 ---
 ## Alicia D. Myers&#8217; Blessed Among Women? Mothers and Motherhood in the New Testament (OUP, 2017)
 

@@ -13,8 +13,8 @@ breadcrumb: true
 categories:
   - Program
 tags:
-  - Baptists
-  - NABPR  
+  - baptists
+  - nabpr
 ---
 [Click here for the program in PDF format. The PDF is always the most up-to-date. ](/wp-content/uploads/2017/05/PENULTIMATE-NABPR-Program-May2017-Belmont.pdf)
 

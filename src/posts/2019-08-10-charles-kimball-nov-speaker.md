@@ -8,9 +8,9 @@ meta_description: "new book by Charles Kimball"
 categories:
   - Books of Interest
 tags:
-  - Islam
-  - Christianity
-  - Interfaith-Relations
+  - islam
+  - christianity
+  - interfaith-relations
 image:
   title: "/images/books/truth-over-fear-charles-kimball.jpg"
   thumb: "/images/thumbs/truth-over-fear-charles-kimball_tn.jpg"

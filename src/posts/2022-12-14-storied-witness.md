@@ -8,10 +8,10 @@ meta_description: "The voices of Black women have historically been silenced, es
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - History
+  - baptists
+  - christianity
+  - theology
+  - history
 image:
   title: "/images/books/9781506481876h-storied-witness.jpg"
   thumb: "/images/thumbs/9781506481876h-storied-witness_tn.jpg"

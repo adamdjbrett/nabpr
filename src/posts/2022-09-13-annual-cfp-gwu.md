@@ -9,10 +9,10 @@ meta_description: >-
 categories:
   - cfp
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - ethics
-  - Biblical-Studies
+  - biblical-studies
   - call-for-papers
 image:
   title: "/images/schools/gardner-webb-university-colleges-and-universities-nc-1440.jpg"

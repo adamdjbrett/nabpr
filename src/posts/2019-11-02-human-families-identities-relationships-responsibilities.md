@@ -8,9 +8,9 @@ meta_description: "The College Theology Society holds its Sixty-Sixth Annual Con
 categories:
   - CFP
 tags:
-  - Baptists
-  - Christianity
-  - CFP
+  - baptists
+  - christianity
+  - cfp
 header: no
 image:
   title: "/images/schools/Spring-Hill-College-St_Joseph_Chapel_NICE-min.jpeg"

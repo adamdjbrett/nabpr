@@ -9,7 +9,7 @@ categories:
   - dissertation
 tags:
   - scholarship
-  - Dissertation
+  - dissertation
   - award
 image:
   title: "/images/husezo-rhakho.jpg"

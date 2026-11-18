@@ -12,10 +12,10 @@ redirect_from:
 categories:
   - CFP
 tags:
-  - ABQ
-  - american baptists
+  - abq
+  - american-baptists
   - baptist
-  - Missions
+  - missions
   - theology
 show_meta: true  
 ---

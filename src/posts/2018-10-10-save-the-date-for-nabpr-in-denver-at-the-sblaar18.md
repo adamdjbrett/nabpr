@@ -16,13 +16,13 @@ image:
 categories:
   - Announcements
 tags:
-  - '#SBLAAR18'
-  - AAR
-  - AARSBL
-  - Denver
-  - NABPR
-  - SBL
-  - SBLAAR
+  - sblaar18
+  - aar
+  - aarsbl
+  - denver
+  - nabpr
+  - sbl
+  - sblaar
 show_meta: true
 ---
 Dear NABPR and AAR/SBL Attendees,

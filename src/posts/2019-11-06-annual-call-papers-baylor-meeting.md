@@ -8,12 +8,12 @@ meta_description: "The Call for Papers for the National Association of Baptist P
 categories:
   - CFP
 tags:
-  - Baptists
-  - Christianity
-  - Call for Papers
-  - Theology
-  - Bible
-  - Baylor
+  - baptists
+  - christianity
+  - call-for-papers
+  - theology
+  - bible
+  - baylor
 image:
   title: "/images/schools/Baylor_University_June_2016_22_Tidwell_Bible_Building.jpg"
   thumb: "/images/thumbs/Baylor_University_June_2016_22_Tidwell_Bible_Building_tn.jpg"

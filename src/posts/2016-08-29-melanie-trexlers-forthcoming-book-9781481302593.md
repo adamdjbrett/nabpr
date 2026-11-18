@@ -16,13 +16,13 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Baylor University Press
-  - Cultures
-  - Evangelism
-  - Lebanon
-  - Missions
-  - New Book
+  - baptists
+  - baylor-university-press
+  - cultures
+  - evangelism
+  - lebanon
+  - missions
+  - new-book
 ---
 ## Evangelizing Lebanon &#8211; Melanie Trexler
 

@@ -8,7 +8,7 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baptists
+  - baptists
   - dissertation
   - scholarship
 image:

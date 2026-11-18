@@ -17,7 +17,7 @@ categories:
 tags:
   - baptist
   - dues
-  - NABPR
+  - nabpr
 show_meta: true
 ---
 Dear NABPR member,

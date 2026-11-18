@@ -18,9 +18,9 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Belmont
-  - Conference
-  - NABPR
+  - belmont
+  - conference
+  - nabpr
 ---
 
 [The Draft Program](/wp-content/uploads/2016/05/DRAFT-NABPR-Program-May2017-Belmont.pdf), [Registration](/meetings/registration/), and [housing](/meetings/housing/) are now open for the 2017 National Association of Baptist Professors of Religion (NABPR) meeting hosted by Belmont University in Nashville, TN.

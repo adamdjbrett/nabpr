@@ -9,8 +9,8 @@ meta_description: >-
 categories:
   - jobs
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - jobs
 image:
   title: "/images/logos/NABPR-header.png"

@@ -8,10 +8,10 @@ meta_description: "Crawford Howell Toy was professor of Old Testament at the Sou
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - History
-  - Perspectives on Baptists Identities
+  - baptists
+  - christianity
+  - history
+  - perspectives-on-baptists-identities
 image:
   title: "/images/books/Crawford-Howell-Toy.jpg"
   thumb: "/images/thumbs/Crawford-Howell-Toy_tn.jpg"

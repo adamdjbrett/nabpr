@@ -15,14 +15,14 @@ image:
 categories:
   - NABPR Notes
 tags:
-  - AAR
-  - AARSBL
+  - aar
+  - aarsbl
   - baptist
   - immigration
-  - NABPR
-  - religious freedom
-  - SBL
-  - SBLAAR
+  - nabpr
+  - religious-freedom
+  - sbl
+  - sblaar
   - travel
 ---
 [![National Association of Baptist Professors of Religion (NABPR) Logo](/wp-content/uploads/2016/08/customLogo.jpg)](/wp-content/uploads/2016/08/customLogo.jpg)

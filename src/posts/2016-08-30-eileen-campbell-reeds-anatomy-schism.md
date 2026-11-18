@@ -17,12 +17,12 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - ordained women
+  - baptists
+  - ordained-women
   - ordination
   - religion
-  - SBC
-  - Southern Baptist Convention
+  - sbc
+  - southern-baptist-convention
 ---
 ## Eileen Campbell-Reed&#8217;s Anatomy of a Schism
 

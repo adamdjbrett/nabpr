@@ -8,9 +8,9 @@ meta_description: "I’m sad to announce that we will cancel our November Meetin
 categories:
   - announcements
 tags:
-  - NABPR-notes
+  - nabpr-notes
   - annual
-  - Meeting
+  - meeting
   - covid-19
   - coronavirus
 image:

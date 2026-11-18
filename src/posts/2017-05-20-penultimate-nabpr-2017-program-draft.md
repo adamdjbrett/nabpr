@@ -13,9 +13,9 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Belmont
-  - Conference
-  - NABPR
+  - belmont
+  - conference
+  - nabpr
 ---
 Dear Conference Participants,
 

@@ -17,12 +17,12 @@ image:
 categories:
   - Job Listings
 tags:
-  - Baylor
-  - Christian Ethics
+  - baylor
+  - christian-ethics
   - faculty
-  - job opening
-  - Ministry Guidance.
-  - Practical Studies
+  - job-opening
+  - ministry-guidance
+  - practical-studies
 ---
 
 ## The Baylor Department of Religion Open Faculty Positions

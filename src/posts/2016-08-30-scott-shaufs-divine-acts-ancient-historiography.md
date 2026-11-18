@@ -17,10 +17,10 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Biblical Studies
-  - Greek Religion
-  - Judaism
-  - Roman Religion
+  - biblical-studies
+  - greek-religion
+  - judaism
+  - roman-religion
 ---
 ## Scott Shauf&#8217;s The Divine in Acts and in Ancient Historiography
 

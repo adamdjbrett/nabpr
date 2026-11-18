@@ -16,9 +16,9 @@ categories:
   - Schedule
 tags:
   - "2022"
-  - annual meeting
-  - Campbell University
-  - NABPR
+  - annual-meeting
+  - campbell-university
+  - nabpr
 author: adamdjbrett
 show_meta: true
 toc: true

@@ -13,10 +13,10 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Hermeneutics.
-  - Theology
-  - Bible
-  - Wisdom
+  - hermeneutics
+  - theology
+  - bible
+  - wisdom
 show_meta: true  
 ---
 

@@ -13,12 +13,12 @@ categories:
 tags:
   - cfp
   - baptist
-  - Christianity
+  - christianity
   - history
-  - Church-History
-  - Theology
-  - AMGP
-  - BHHS
+  - church-history
+  - theology
+  - amgp
+  - bhhs
 #
 # Styling
 #

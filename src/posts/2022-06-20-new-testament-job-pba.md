@@ -8,10 +8,10 @@ meta_description: "Assistant/Associate Professor of New Testament Studies, Palm 
 categories:
   - Jobs
 tags:
-  - Baptists
-  - Christianity
-  - NT
-  - Biblical-Studies
+  - baptists
+  - christianity
+  - nt
+  - biblical-studies
 image:
   title: "/images/schools/pba.jpg"
   thumb: "/images/thumbs/pba_tn.jpg"

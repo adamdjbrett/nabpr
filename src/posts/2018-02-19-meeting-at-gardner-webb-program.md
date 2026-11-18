@@ -16,12 +16,12 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Conference
+  - conference
   - featured
-  - Gardner-Webb
+  - gardner-webb
   - program
   - religion
-  - religious studies
+  - religious-studies
   - theology
 show_meta: true
 ---

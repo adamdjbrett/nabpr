@@ -14,7 +14,7 @@ categories:
   - program
 tags:
   - program
-  - NABPR
+  - nabpr
   - theology
   - religion
   - history

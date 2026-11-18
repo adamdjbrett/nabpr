@@ -16,10 +16,10 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baptists
-  - Conference
-  - CTS
-  - NABPR
+  - baptists
+  - conference
+  - cts
+  - nabpr
 show_meta: true
 ---
 The NABPR Region-at-Large adopted the following resolution during their annual business meeting at the College Theology Society Annual Convention at St. Catherine University in St. Paul, MN, 2 June 2018:

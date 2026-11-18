@@ -16,10 +16,10 @@ image:
 categories:
   - Announcements
 tags:
-  - Baylor
+  - baylor
   - dissertation
   - scholarship
-  - young scholars
+  - young-scholars
 ---
 <div>
   Congratulations to NABPR <a href="/disssertation/">Dissertation Scholarship</a> Awardee: João Chaves! Best wishes to him on the journey of dissertation.

@@ -8,10 +8,10 @@ meta_description: "Scapegoats are innocent victims who have experienced blame an
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - Biblical-Studies
+  - baptists
+  - christianity
+  - theology
+  - biblical-studies
 image:
   title: "/images/books/9781506469379-scapegoats-cover.jpg"
   thumb: "/images/thumbs/9781506469379-scapegoats-cover_tn.jpg"

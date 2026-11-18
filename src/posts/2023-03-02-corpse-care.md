@@ -8,10 +8,10 @@ meta_description: Corpse Care relates the history of death care in the U.S. to c
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - History
+  - baptists
+  - christianity
+  - theology
+  - history
 image:
   title: "/images/books/9781506471310h.jpg"
   thumb: "/images/thumbs/9781506471310h_tn.jpg"

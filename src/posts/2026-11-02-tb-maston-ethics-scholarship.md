@@ -16,8 +16,8 @@ categories:
 tags:
   - scholarship
   - baptist
-  - Ethics
-  - Theology
+  - ethics
+  - theology
 author: adamdjbrett
 show_meta: true
 ---

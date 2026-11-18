@@ -14,8 +14,8 @@ categories:
 tags:
   - baptist
   - president
-  - Central Baptist Theological Seminary
-  - CBTS
+  - central-baptist-theological-seminary
+  - cbts
 author: adamdjbrett
 show_meta: true
 published: true

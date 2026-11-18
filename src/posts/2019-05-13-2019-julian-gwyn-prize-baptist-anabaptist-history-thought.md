@@ -13,7 +13,7 @@ image:
 categories:
   - CFP
 tags:
-  - call for papers
+  - call-for-papers
   - cfp
   - essay
 show_meta: true  

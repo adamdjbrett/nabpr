@@ -14,10 +14,10 @@ image:
 categories:
   - announcement
 tags:
-  - Baylor
+  - baylor
   - bible
-  - New Testament
-  - Greek
+  - new-testament
+  - greek
 author: mparsons
 show_meta: true
 ---

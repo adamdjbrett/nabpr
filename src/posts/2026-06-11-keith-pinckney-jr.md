@@ -13,7 +13,7 @@ image:
 categories:
   - annoucement
 tags:
-  - NABPR
+  - nabpr
   - theology
   - religion
   - history

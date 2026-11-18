@@ -11,7 +11,7 @@ categories:
   - Announcements
 tags:
   - baptist
-  - Baptists
+  - baptists
   - dissertation
   - scholarship
 show_meta: true

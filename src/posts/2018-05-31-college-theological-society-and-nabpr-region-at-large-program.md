@@ -13,9 +13,9 @@ categories:
   - program
 tags:
   - baptist
-  - Baptists
-  - college theology society
-  - CTS
+  - baptists
+  - college-theology-society
+  - cts
   - theology
 show_meta: true  
 ---

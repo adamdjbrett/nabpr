@@ -17,10 +17,10 @@ categories:
   - CFP
 tags:
   - baptist
-  - call for papers
+  - call-for-papers
   - cfp
   - ministry
-  - pastoral care
+  - pastoral-care
 show_meta: true  
 ---
 ### Call for Papers  

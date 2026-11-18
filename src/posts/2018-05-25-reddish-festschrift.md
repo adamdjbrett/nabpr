@@ -17,12 +17,12 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Apocalypse
+  - apocalypse
   - baptist
-  - Festschrift
-  - NABPR
+  - festschrift
+  - nabpr
   - religion
-  - Revelation
+  - revelation
 show_meta: true  
 ---
 

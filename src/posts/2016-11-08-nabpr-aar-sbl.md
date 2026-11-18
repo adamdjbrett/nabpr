@@ -15,12 +15,12 @@ image:
 categories:
   - Announcements
 tags:
-  - AAR
-  - AARSBL16
-  - NABPR
-  - SBL
-  - SBLAAR
-  - SBLAAR16
+  - aar
+  - aarsbl16
+  - nabpr
+  - sbl
+  - sblaar
+  - sblaar16
 ---
 
 

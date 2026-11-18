@@ -7,9 +7,9 @@ meta_description: "The NABPR expresses appreciation to Gardner-Webb University f
 categories:
   - General
 tags:
-  - NABPR
-  - Update
-  - Conference
+  - nabpr
+  - update
+  - conference
 image:
   title: "/images/logos/NABPR-header.png"
   thumb: "/images/logos/nabpr-logo-only-128x128.png"

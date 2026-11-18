@@ -9,8 +9,8 @@ meta_description: >-
 categories:
   - jobs
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - jobs
 image:
   homepage: /images/schools/central-baptist-theological-seminary-kansas.jpg

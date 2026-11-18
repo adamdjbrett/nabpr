@@ -54,9 +54,6 @@ const bucketOf = (item) => {
 };
 
 export default function (eleventyConfig) {
-  // Preserve historical tag casing in feeds and metadata; archives use explicit collections.
-  eleventyConfig.configureErrorReporting({ tagCaseCollisions: "allow" });
-
   eleventyConfig.amendLibrary("md", (md) => {
     md.use(markdownItAttrs, { allowedAttributes: ALLOWED_ATTRIBUTES });
     md.use(markdownItAnchor, { level: [2, 3], tabIndex: false, permalink: false });

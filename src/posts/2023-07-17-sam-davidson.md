@@ -12,7 +12,7 @@ image:
 categories:
   - Announcements
 tags:
-  - Baylor
+  - baylor
   - dissertation
   - scholarship
   - ecology

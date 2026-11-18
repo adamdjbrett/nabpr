@@ -14,7 +14,7 @@ image:
 categories:
   - scholarships
 tags:
-  - "Baptist"
+  - baptist
 author: adamdjbrett
 show_meta: true
 ---

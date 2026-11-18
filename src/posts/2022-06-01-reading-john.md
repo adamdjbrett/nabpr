@@ -8,10 +8,10 @@ meta_description: "Reading John through Johannine Lenses demonstrates that the m
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - Christianity
-  - Theology
-  - Biblical-Studies
+  - baptists
+  - christianity
+  - theology
+  - biblical-studies
 image:
   title: "/images/books/9781978712935-reading-john-cover.jpg"
   thumb: "/images/thumbs/9781978712935-reading-john-cover_tn.jpg"

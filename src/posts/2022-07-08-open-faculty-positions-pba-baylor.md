@@ -9,10 +9,10 @@ meta_description: >-
 categories:
   - essay
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - ethics
-  - Biblical-Studies
+  - biblical-studies
   - jobs
 image:
   title: "/images/logos/NABPR-header.png"

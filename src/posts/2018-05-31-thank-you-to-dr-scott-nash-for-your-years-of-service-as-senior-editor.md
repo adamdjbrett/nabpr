@@ -14,8 +14,8 @@ categories:
 tags:
   - baptist
   - journal
-  - NABPR
-  - perspectives in religious studies
+  - nabpr
+  - perspectives-in-religious-studies
   - prst
 show_meta: true  
 ---

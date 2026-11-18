@@ -18,7 +18,7 @@ tags:
   - baptist
   - constitution
   - featured
-  - NABPR
+  - nabpr
 show_meta: true
 ---
 Good Afternoon NABPR:

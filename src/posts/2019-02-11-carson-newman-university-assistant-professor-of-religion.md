@@ -15,9 +15,9 @@ image:
 categories:
   - Job Listings
 tags:
-  - Greek
-  - new testament
-  - NT
+  - greek
+  - new-testament
+  - nt
   - professor
 show_meta: true
 ---

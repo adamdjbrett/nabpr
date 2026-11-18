@@ -9,8 +9,8 @@ meta_description: >-
 categories:
   - Dissertation
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
 image:
   title: "/images/logos/NABPR-header.png"
   thumb: "/images/logos/nabpr-logo-only-150x150.png"

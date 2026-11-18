@@ -15,12 +15,12 @@ image:
 categories:
   - CFP
 tags:
-  - Baptists
-  - call for papers
+  - baptists
+  - call-for-papers
   - catholics
   - cfp
-  - college theology society
-  - CTS
+  - college-theology-society
+  - cts
   - theology
 ---
 ## NABPR Region-at-Large (CTS 2017)

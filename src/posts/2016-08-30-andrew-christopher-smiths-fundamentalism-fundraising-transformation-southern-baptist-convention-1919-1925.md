@@ -18,9 +18,9 @@ image:
 categories:
   - Books of Interest
 tags:
-  - Baptists
-  - SBC
-  - History
+  - baptists
+  - sbc
+  - history
 ---
 ## Andrew Christopher Smith&#8217;s Fundamentalism, Fundraising, and the Transformation of the Southern Baptist Convention, 1919-1925.
 

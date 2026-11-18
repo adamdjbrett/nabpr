@@ -9,7 +9,7 @@ categories:
 tags:
     - nabpr
     - bhhs
-    - AMGP
+    - amgp
 ---
 [Register Now](https://nabpr.org/meetings/registration/)
 

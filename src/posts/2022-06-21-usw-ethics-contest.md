@@ -9,10 +9,10 @@ meta_description: >-
 categories:
   - essay
 tags:
-  - Baptists
-  - Christianity
+  - baptists
+  - christianity
   - ethics
-  - Biblical-Studies
+  - biblical-studies
 image:
   title: "/images/schools/usw.jpg"
   thumb: "/images/thumbs/60th-White-Background-150x150.png"

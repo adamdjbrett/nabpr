@@ -14,7 +14,7 @@ categories:
   - annoucement
 tags:
   - publication
-  - NABPR
+  - nabpr
   - theology
   - religion
   - history

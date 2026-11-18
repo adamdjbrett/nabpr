@@ -17,9 +17,9 @@ categories:
   - Schedule
 tags:
   - "2019"
-  - annual meeting
-  - Campbell University
-  - NABPR
+  - annual-meeting
+  - campbell-university
+  - nabpr
 show_meta: true
 toc: true
 ---

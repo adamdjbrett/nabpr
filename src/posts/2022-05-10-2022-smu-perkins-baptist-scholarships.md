@@ -4,7 +4,7 @@ subheadline: "Scholarships"
 title: Baptist Students Sought for First Baugh Scholars Cohort
 date: 2022-05-10T00:40:40+00:00
 teaser: "BAPTIST STUDENTS VIE TO BE PART OF PERKINS’ FIRST
-BAUGH SCHOLARS COHORT."
+  BAUGH SCHOLARS COHORT."
 image:
   title: "/images/smu-perkins.png"
   thumb: "/images/smu-perkins.png"

@@ -3,7 +3,7 @@ layout: page
 subheadline: "grant"
 title: "The William H. and Kathryn E. Brackney Angus Travel Bursary"
 teaser: "The Angus Library and Archive at Regent’s Park College, University of Oxford, is the leading world-class
-collection for the study of Baptist and Nonconformist history and heritage."
+  collection for the study of Baptist and Nonconformist history and heritage."
 header: no
 categories:
   - Announcements

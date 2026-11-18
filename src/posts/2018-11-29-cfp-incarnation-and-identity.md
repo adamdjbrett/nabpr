@@ -5,9 +5,9 @@ title: 'CFP: Incarnation and Identity'
 date: 2018-11-29T10:26:43+00:00
 author: adamdjbrett
 teaser: "The Office of the General Secretary of ABC-USA and the Theologians' Commission will host the  
-fifth pre-biennial theology conference around the theme Incarnation and Identity in an  
-effort to foster ongoing, vigorous theological conversations among American Baptist  
-theologians, pastor-theologians, and theological educators throughout the denomination."
+  fifth pre-biennial theology conference around the theme Incarnation and Identity in an
+  effort to foster ongoing, vigorous theological conversations among American Baptist
+  theologians, pastor-theologians, and theological educators throughout the denomination."
 layout: page
 permalink: /cfp-incarnation-and-identity/
 redirect_from:

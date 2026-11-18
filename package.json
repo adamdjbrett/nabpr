@@ -8,9 +8,13 @@
     "check": "node scripts/check-build.mjs"
   },
   "devDependencies": {
-    "@awesome.me/buildawesome": "4.0.0-alpha.10",
+    "@awesome.me/buildawesome": "4.0.0-alpha.11",
+    "esbuild": "0.28.2",
     "markdown-it-anchor": "9.2.1",
     "markdown-it-attrs": "5.0.1",
     "pagefind": "1.5.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
   }
 }

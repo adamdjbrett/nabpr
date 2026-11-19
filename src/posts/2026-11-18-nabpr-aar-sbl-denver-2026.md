@@ -54,7 +54,7 @@ Biblical scholarship meets honest public conversation, from Baptist News Global.
 
 <img src="/images/podcast-voice-of-the-turtle.webp" alt="Voice of the Turtle podcast art: the official AWAB podcast, with a turtle between the words" width="220" loading="lazy">
 
-The official podcast of the Association of Welcoming and Affirming Baptists chronicles the welcoming and affirming movement in Baptist life. **Brian Henderson** and **Cliff Vaughn** join the panel.
+The official podcast of the Association of Welcoming and Affirming Baptists chronicles the welcoming and affirming movement in Baptist life. **Brian Henderson** and **Mitch Randall** join the panel.
 
 ### 4. "Spirit & Power"
 
